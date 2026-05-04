@@ -1,6 +1,7 @@
 name: Data Integrity Check
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'index.html'

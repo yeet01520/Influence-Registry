@@ -5,9 +5,13 @@ on:
   push:
     paths:
       - 'index.html'
+      - 'data/**'
+      - 'validate.py'
   pull_request:
     paths:
       - 'index.html'
+      - 'data/**'
+      - 'validate.py'
 
 jobs:
   validate:
@@ -20,17 +24,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          
-      - name: Debug — list files in repo
-        run: |
-          echo "=== Files in repo root ==="
-          ls -la
-          echo ""
-          echo "=== Looking for any HTML files anywhere ==="
-          find . -name "*.html" -not -path "./.git/*"
-          echo ""
-          echo "=== Looking for trackaipac ==="
-          find . -name "trackaipac*" -not -path "./.git/*"
+
+      - name: Install dependencies
+        run: pip install json5
 
       - name: Run data validator
         run: |

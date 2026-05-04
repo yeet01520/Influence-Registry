@@ -1,0 +1,342 @@
+[
+  {
+    "name": "BlackRock",
+    "ticker": "BLK",
+    "sector": "Finance",
+    "logo": "https://logo.clearbit.com/blackrock.com",
+    "total": "$32.4M",
+    "cycle": "2024",
+    "pct_R": 52,
+    "pct_D": 48,
+    "desc": "World's largest asset manager. Funds both parties through hundreds of employee PAC contributions. Top recipient: Senate Banking Committee members.",
+    "top_recipients": [
+      "Chuck Schumer (D-NY)",
+      "Mitch McConnell (R-KY)",
+      "Pat Toomey (R-PA)",
+      "Sherrod Brown (D-OH)"
+    ]
+  },
+  {
+    "name": "Koch Industries",
+    "ticker": "Private",
+    "sector": "Oil & Gas / Industrials",
+    "logo": "https://logo.clearbit.com/kochind.com",
+    "total": "$28.7M",
+    "cycle": "2024",
+    "pct_R": 95,
+    "pct_D": 5,
+    "desc": "Second-largest private company in the US. Overwhelmingly Republican donor. Funds the Club for Growth, Americans for Prosperity, and ALEC. Opposes climate regulation and minimum wage.",
+    "top_recipients": [
+      "Ted Cruz (R-TX)",
+      "Mitch McConnell (R-KY)",
+      "Mike Johnson (R-LA)",
+      "Tim Scott (R-SC)"
+    ]
+  },
+  {
+    "name": "ExxonMobil",
+    "ticker": "XOM",
+    "sector": "Oil & Gas",
+    "logo": "https://logo.clearbit.com/exxonmobil.com",
+    "total": "$14.2M",
+    "cycle": "2024",
+    "pct_R": 88,
+    "pct_D": 12,
+    "desc": "Largest US oil company. Spent decades funding climate denial. PAC donates overwhelmingly to Republicans on energy committees. Lobbied against Paris Agreement withdrawal.",
+    "top_recipients": [
+      "John Cornyn (R-TX)",
+      "Ted Cruz (R-TX)",
+      "Kevin Cramer (R-ND)",
+      "Steve Scalise (R-LA)"
+    ]
+  },
+  {
+    "name": "Comcast / NBCUniversal",
+    "ticker": "CMCSA",
+    "sector": "Telecom / Media",
+    "logo": "https://logo.clearbit.com/comcast.com",
+    "total": "$13.8M",
+    "cycle": "2024",
+    "pct_R": 46,
+    "pct_D": 54,
+    "desc": "Largest US cable company and major media conglomerate. Bipartisan donor focused on telecom regulation and net neutrality. Lobbied against FCC broadband oversight.",
+    "top_recipients": [
+      "Chuck Schumer (D-NY)",
+      "Mitch McConnell (R-KY)",
+      "Brian Steil (R-WI)",
+      "Frank Pallone (D-NJ)"
+    ]
+  },
+  {
+    "name": "Alphabet / Google",
+    "ticker": "GOOGL",
+    "sector": "Technology",
+    "logo": "https://logo.clearbit.com/google.com",
+    "total": "$13.1M",
+    "cycle": "2024",
+    "pct_R": 44,
+    "pct_D": 56,
+    "desc": "Dominates search, digital advertising, and AI. Bipartisan donor. Lobbied heavily against antitrust legislation. Employees donate predominantly Democratic but corporate PAC is balanced.",
+    "top_recipients": [
+      "Nancy Pelosi (D-CA)",
+      "Adam Schiff (D-CA)",
+      "Kevin McCarthy (R-CA)",
+      "Mike Johnson (R-LA)"
+    ]
+  },
+  {
+    "name": "AT&T",
+    "ticker": "T",
+    "sector": "Telecom",
+    "logo": "https://logo.clearbit.com/att.com",
+    "total": "$12.9M",
+    "cycle": "2024",
+    "pct_R": 54,
+    "pct_D": 46,
+    "desc": "Second-largest US telecom. Opposes net neutrality, supports telecom deregulation. Major donor across party lines on Commerce and Judiciary committees.",
+    "top_recipients": [
+      "John Thune (R-SD)",
+      "Mitch McConnell (R-KY)",
+      "Maria Cantwell (D-WA)",
+      "Frank Pallone (D-NJ)"
+    ]
+  },
+  {
+    "name": "Lockheed Martin",
+    "ticker": "LMT",
+    "sector": "Defense",
+    "logo": "https://logo.clearbit.com/lockheedmartin.com",
+    "total": "$12.4M",
+    "cycle": "2024",
+    "pct_R": 59,
+    "pct_D": 41,
+    "desc": "Largest US defense contractor. F-35, missile systems, satellite tech. Donates heavily to Armed Services and Defense Appropriations committee members of both parties.",
+    "top_recipients": [
+      "Jack Reed (D-RI)",
+      "Roger Wicker (R-MS)",
+      "Lindsey Graham (R-SC)",
+      "Adam Smith (D-WA)"
+    ]
+  },
+  {
+    "name": "Raytheon / RTX",
+    "ticker": "RTX",
+    "sector": "Defense",
+    "logo": "https://logo.clearbit.com/rtx.com",
+    "total": "$11.8M",
+    "cycle": "2024",
+    "pct_R": 60,
+    "pct_D": 40,
+    "desc": "Major defense contractor making missiles, radar, and jet engines. Patriot missile systems manufacturer. Heavily bipartisan — donates to all Armed Services members.",
+    "top_recipients": [
+      "Lindsey Graham (R-SC)",
+      "Jack Reed (D-RI)",
+      "Mike Johnson (R-LA)",
+      "Tim Kaine (D-VA)"
+    ]
+  },
+  {
+    "name": "Goldman Sachs",
+    "ticker": "GS",
+    "sector": "Finance / Investment Banking",
+    "logo": "https://logo.clearbit.com/goldmansachs.com",
+    "total": "$11.6M",
+    "cycle": "2024",
+    "pct_R": 51,
+    "pct_D": 49,
+    "desc": "Investment bank and financial services giant. Virtually the definition of Wall Street influence. Top donor to Senate Banking and Finance committee members of both parties.",
+    "top_recipients": [
+      "Chuck Schumer (D-NY)",
+      "Marco Rubio (R-FL)",
+      "Mitch McConnell (R-KY)",
+      "Kirsten Gillibrand (D-NY)"
+    ]
+  },
+  {
+    "name": "Microsoft",
+    "ticker": "MSFT",
+    "sector": "Technology",
+    "logo": "https://logo.clearbit.com/microsoft.com",
+    "total": "$11.2M",
+    "cycle": "2024",
+    "pct_R": 47,
+    "pct_D": 53,
+    "desc": "Largest software company. Bipartisan tech donor. Lobbied for immigration reform (H-1B visas), AI regulation, and cybersecurity policy. Acquired Activision Blizzard in $69B deal requiring regulatory approval.",
+    "top_recipients": [
+      "Adam Schiff (D-CA)",
+      "Elise Stefanik (R-NY)",
+      "Amy Klobuchar (D-MN)",
+      "Ted Cruz (R-TX)"
+    ]
+  },
+  {
+    "name": "AIPAC (American Israel Public Affairs Committee)",
+    "ticker": "N/A",
+    "sector": "Foreign Policy PAC",
+    "logo": "https://logo.clearbit.com/aipac.org",
+    "total": "$14.5M direct + $100M+ outside",
+    "cycle": "2024",
+    "pct_R": 45,
+    "pct_D": 55,
+    "desc": "Most powerful foreign policy lobby in the US. Ran primary challenges against progressive Democrats in 2024. United Democracy Project (AIPAC Super PAC) spent $100M+ targeting races.",
+    "top_recipients": [
+      "Chuck Schumer (D-NY)",
+      "Mitch McConnell (R-KY)",
+      "Ted Cruz (R-TX)",
+      "Marco Rubio (R-FL)"
+    ]
+  },
+  {
+    "name": "Pfizer",
+    "ticker": "PFE",
+    "sector": "Pharmaceuticals",
+    "logo": "https://logo.clearbit.com/pfizer.com",
+    "total": "$10.9M",
+    "cycle": "2024",
+    "pct_R": 52,
+    "pct_D": 48,
+    "desc": "World's largest pharmaceutical company. COVID vaccine maker. Bipartisan donor. Lobbied against Medicare drug price negotiation in Inflation Reduction Act. Funds both parties' health committee members.",
+    "top_recipients": [
+      "Mitch McConnell (R-KY)",
+      "Chuck Schumer (D-NY)",
+      "Richard Burr (R-NC)",
+      "Patty Murray (D-WA)"
+    ]
+  },
+  {
+    "name": "Meta / Facebook",
+    "ticker": "META",
+    "sector": "Technology",
+    "logo": "https://logo.clearbit.com/meta.com",
+    "total": "$10.7M",
+    "cycle": "2024",
+    "pct_R": 46,
+    "pct_D": 54,
+    "desc": "Social media giant facing antitrust, privacy, and content moderation scrutiny. Shifted toward Republicans under Zuckerberg post-2024. Lobbied against EU regulations and Section 230 changes.",
+    "top_recipients": [
+      "Nancy Pelosi (D-CA)",
+      "Kevin McCarthy (R-CA)",
+      "Mike Johnson (R-LA)",
+      "Adam Schiff (D-CA)"
+    ]
+  },
+  {
+    "name": "Boeing",
+    "ticker": "BA",
+    "sector": "Defense / Aviation",
+    "logo": "https://logo.clearbit.com/boeing.com",
+    "total": "$10.4M",
+    "cycle": "2024",
+    "pct_R": 57,
+    "pct_D": 43,
+    "desc": "Major defense contractor and commercial aircraft manufacturer. Lobbied heavily after 737 MAX crisis. Donations targeted at Armed Services and Transportation committee members.",
+    "top_recipients": [
+      "Roger Wicker (R-MS)",
+      "Lindsey Graham (R-SC)",
+      "Maria Cantwell (D-WA)",
+      "Jack Reed (D-RI)"
+    ]
+  },
+  {
+    "name": "JPMorgan Chase",
+    "ticker": "JPM",
+    "sector": "Finance / Banking",
+    "logo": "https://logo.clearbit.com/jpmorganchase.com",
+    "total": "$10.1M",
+    "cycle": "2024",
+    "pct_R": 52,
+    "pct_D": 48,
+    "desc": "Largest US bank. CEO Jamie Dimon has positioned JPMorgan as bipartisan. Major donor to Senate Banking Committee members. Opposed the Basel III capital rules.",
+    "top_recipients": [
+      "Chuck Schumer (D-NY)",
+      "Sherrod Brown (D-OH)",
+      "Pat Toomey (R-PA)",
+      "John Thune (R-SD)"
+    ]
+  },
+  {
+    "name": "Amazon",
+    "ticker": "AMZN",
+    "sector": "Technology / Retail",
+    "logo": "https://logo.clearbit.com/amazon.com",
+    "total": "$9.8M",
+    "cycle": "2024",
+    "pct_R": 48,
+    "pct_D": 52,
+    "desc": "E-commerce and cloud computing giant. Largest private employer. Lobbied against unionization, for antitrust exemptions, and on AI/cloud policy. Amazon Web Services has massive government contracts.",
+    "top_recipients": [
+      "Patty Murray (D-WA)",
+      "Maria Cantwell (D-WA)",
+      "Kevin McCarthy (R-CA)",
+      "Mark Warner (D-VA)"
+    ]
+  },
+  {
+    "name": "Chevron",
+    "ticker": "CVX",
+    "sector": "Oil & Gas",
+    "logo": "https://logo.clearbit.com/chevron.com",
+    "total": "$9.6M",
+    "cycle": "2024",
+    "pct_R": 85,
+    "pct_D": 15,
+    "desc": "Second-largest US oil company. Consistently Republican donor. Lobbied against climate legislation and for expanded drilling rights. Benefited from Chevron Deference Supreme Court ruling reversal.",
+    "top_recipients": [
+      "John Cornyn (R-TX)",
+      "Kevin Cramer (R-ND)",
+      "Steve Daines (R-MT)",
+      "Lisa Murkowski (R-AK)"
+    ]
+  },
+  {
+    "name": "Cigna / Evernorth",
+    "ticker": "CI",
+    "sector": "Health Insurance",
+    "logo": "https://logo.clearbit.com/cigna.com",
+    "total": "$9.2M",
+    "cycle": "2024",
+    "pct_R": 53,
+    "pct_D": 47,
+    "desc": "Major health insurer. Lobbied against Medicare for All, drug pricing reform, and ACA expansion. Profits from the current insurance system. Heavily funds Health committee members.",
+    "top_recipients": [
+      "Chuck Grassley (R-IA)",
+      "Ron Wyden (D-OR)",
+      "Marsha Blackburn (R-TN)",
+      "Debbie Stabenow (D-MI)"
+    ]
+  },
+  {
+    "name": "UnitedHealth Group",
+    "ticker": "UNH",
+    "sector": "Health Insurance",
+    "logo": "https://logo.clearbit.com/unitedhealthgroup.com",
+    "total": "$9.1M",
+    "cycle": "2024",
+    "pct_R": 55,
+    "pct_D": 45,
+    "desc": "Largest US health insurer. Among the most profitable companies in America. Opposed Medicare negotiation. CEO murder triggered national discussion about healthcare industry practices.",
+    "top_recipients": [
+      "Chuck Grassley (R-IA)",
+      "Mitch McConnell (R-KY)",
+      "Amy Klobuchar (D-MN)",
+      "Ron Wyden (D-OR)"
+    ]
+  },
+  {
+    "name": "Northrop Grumman",
+    "ticker": "NOC",
+    "sector": "Defense",
+    "logo": "https://logo.clearbit.com/northropgrumman.com",
+    "total": "$8.9M",
+    "cycle": "2024",
+    "pct_R": 61,
+    "pct_D": 39,
+    "desc": "Major defense contractor. B-21 Raider stealth bomber, nuclear weapons systems, space systems. Bipartisan Armed Services donor. Major contracts across all military branches.",
+    "top_recipients": [
+      "Jack Reed (D-RI)",
+      "Roger Wicker (R-MS)",
+      "Lindsey Graham (R-SC)",
+      "Adam Smith (D-WA)"
+    ]
+  }
+]

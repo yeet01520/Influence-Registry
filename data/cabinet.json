@@ -1,0 +1,160 @@
+[
+  {
+    "id": 2001,
+    "name": "Donald Trump",
+    "role": "President of the United States",
+    "department": "Executive",
+    "party": "R",
+    "state": "US"
+  },
+  {
+    "id": 2002,
+    "name": "JD Vance",
+    "role": "Vice President",
+    "department": "Executive",
+    "party": "R",
+    "state": "US"
+  },
+  {
+    "id": 2003,
+    "name": "Marco Rubio",
+    "role": "Secretary of State",
+    "department": "State",
+    "party": "R",
+    "state": "US"
+  },
+  {
+    "id": 2004,
+    "name": "Scott Bessent",
+    "role": "Secretary of the Treasury",
+    "department": "Treasury"
+  },
+  {
+    "id": 2005,
+    "name": "Pete Hegseth",
+    "role": "Secretary of Defense",
+    "department": "Defense"
+  },
+  {
+    "id": 2006,
+    "name": "Todd Blanche",
+    "role": "Attorney General",
+    "department": "Justice"
+  },
+  {
+    "id": 2007,
+    "name": "Doug Burgum",
+    "role": "Secretary of the Interior",
+    "department": "Interior"
+  },
+  {
+    "id": 2008,
+    "name": "Brooke Rollins",
+    "role": "Secretary of Agriculture",
+    "department": "Agriculture"
+  },
+  {
+    "id": 2009,
+    "name": "Howard Lutnick",
+    "role": "Secretary of Commerce",
+    "department": "Commerce"
+  },
+  {
+    "id": 2010,
+    "name": "Lori Chavez-DeRemer",
+    "role": "Secretary of Labor",
+    "department": "Labor"
+  },
+  {
+    "id": 2011,
+    "name": "Robert F. Kennedy Jr.",
+    "role": "Secretary of HHS",
+    "department": "HHS"
+  },
+  {
+    "id": 2012,
+    "name": "Sean Duffy",
+    "role": "Secretary of Transportation",
+    "department": "Transportation"
+  },
+  {
+    "id": 2013,
+    "name": "Chris Wright",
+    "role": "Secretary of Energy",
+    "department": "Energy"
+  },
+  {
+    "id": 2014,
+    "name": "Linda McMahon",
+    "role": "Secretary of Education",
+    "department": "Education"
+  },
+  {
+    "id": 2015,
+    "name": "Scott Turner",
+    "role": "Secretary of HUD",
+    "department": "HUD"
+  },
+  {
+    "id": 2016,
+    "name": "Doug Collins",
+    "role": "Secretary of Veterans Affairs",
+    "department": "VA"
+  },
+  {
+    "id": 2017,
+    "name": "Kristi Noem",
+    "role": "Secretary of Homeland Security",
+    "department": "DHS",
+    "fired": true
+  },
+  {
+    "id": 2018,
+    "name": "Elon Musk",
+    "role": "DOGE Senior Advisor",
+    "department": "Advisory"
+  },
+  {
+    "id": 2019,
+    "name": "Tulsi Gabbard",
+    "role": "Director of National Intelligence",
+    "department": "Intelligence"
+  },
+  {
+    "id": 2020,
+    "name": "John Ratcliffe",
+    "role": "Director of CIA",
+    "department": "CIA"
+  },
+  {
+    "id": 2021,
+    "name": "Kash Patel",
+    "role": "Director of FBI",
+    "department": "FBI"
+  },
+  {
+    "id": 2022,
+    "name": "Russell Vought",
+    "role": "Director of OMB",
+    "department": "OMB"
+  },
+  {
+    "id": 2023,
+    "name": "Jamieson Greer",
+    "role": "US Trade Representative",
+    "department": "Trade"
+  },
+  {
+    "id": 2024,
+    "name": "Mike Waltz",
+    "role": "National Security Advisor",
+    "department": "NSC"
+  },
+  {
+    "id": 2025,
+    "name": "Pam Bondi",
+    "role": "Attorney General",
+    "department": "Justice",
+    "fired": true
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "name": "Tommy Tuberville",
+    "party": "R",
+    "state": "AL",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 2,
+    "name": "Katie Britt",
+    "party": "R",
+    "state": "AL",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 3,
+    "name": "Lisa Murkowski",
+    "party": "R",
+    "state": "AK",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 4,
+    "name": "Dan Sullivan",
+    "party": "R",
+    "state": "AK",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 5,
+    "name": "Mark Kelly",
+    "party": "D",
+    "state": "AZ",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 6,
+    "name": "Ruben Gallego",
+    "party": "D",
+    "state": "AZ",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 7,
+    "name": "John Boozman",
+    "party": "R",
+    "state": "AR",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 8,
+    "name": "Tom Cotton",
+    "party": "R",
+    "state": "AR",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 9,
+    "name": "Alex Padilla",
+    "party": "D",
+    "state": "CA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 10,
+    "name": "Adam Schiff",
+    "party": "D",
+    "state": "CA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 11,
+    "name": "Michael Bennet",
+    "party": "D",
+    "state": "CO",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 12,
+    "name": "John Hickenlooper",
+    "party": "D",
+    "state": "CO",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 13,
+    "name": "Richard Blumenthal",
+    "party": "D",
+    "state": "CT",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 14,
+    "name": "Chris Murphy",
+    "party": "D",
+    "state": "CT",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 16,
+    "name": "Chris Coons",
+    "party": "D",
+    "state": "DE",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 18,
+    "name": "Rick Scott",
+    "party": "R",
+    "state": "FL",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 19,
+    "name": "Jon Ossoff",
+    "party": "D",
+    "state": "GA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 20,
+    "name": "Raphael Warnock",
+    "party": "D",
+    "state": "GA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 21,
+    "name": "Brian Schatz",
+    "party": "D",
+    "state": "HI",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 22,
+    "name": "Mazie Hirono",
+    "party": "D",
+    "state": "HI",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 23,
+    "name": "Mike Crapo",
+    "party": "R",
+    "state": "ID",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 24,
+    "name": "James Risch",
+    "party": "R",
+    "state": "ID",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 25,
+    "name": "Dick Durbin",
+    "party": "D",
+    "state": "IL",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 26,
+    "name": "Tammy Duckworth",
+    "party": "D",
+    "state": "IL",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 27,
+    "name": "Todd Young",
+    "party": "R",
+    "state": "IN",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 28,
+    "name": "Jim Banks",
+    "party": "R",
+    "state": "IN",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 29,
+    "name": "Chuck Grassley",
+    "party": "R",
+    "state": "IA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 30,
+    "name": "Joni Ernst",
+    "party": "R",
+    "state": "IA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 31,
+    "name": "Jerry Moran",
+    "party": "R",
+    "state": "KS",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 32,
+    "name": "Roger Marshall",
+    "party": "R",
+    "state": "KS",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 33,
+    "name": "Mitch McConnell",
+    "party": "R",
+    "state": "KY",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 34,
+    "name": "Rand Paul",
+    "party": "R",
+    "state": "KY",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 35,
+    "name": "Bill Cassidy",
+    "party": "R",
+    "state": "LA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 36,
+    "name": "John Kennedy",
+    "party": "R",
+    "state": "LA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 37,
+    "name": "Susan Collins",
+    "party": "R",
+    "state": "ME",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 38,
+    "name": "Angus King",
+    "party": "I",
+    "state": "ME",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 40,
+    "name": "Angela Alsobrooks",
+    "party": "D",
+    "state": "MD",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 41,
+    "name": "Elizabeth Warren",
+    "party": "D",
+    "state": "MA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 42,
+    "name": "Ed Markey",
+    "party": "D",
+    "state": "MA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 43,
+    "name": "Gary Peters",
+    "party": "D",
+    "state": "MI",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 44,
+    "name": "Elissa Slotkin",
+    "party": "D",
+    "state": "MI",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 45,
+    "name": "Amy Klobuchar",
+    "party": "D",
+    "state": "MN",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 46,
+    "name": "Tina Smith",
+    "party": "D",
+    "state": "MN",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 47,
+    "name": "Roger Wicker",
+    "party": "R",
+    "state": "MS",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 48,
+    "name": "Cindy Hyde-Smith",
+    "party": "R",
+    "state": "MS",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 49,
+    "name": "Josh Hawley",
+    "party": "R",
+    "state": "MO",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 50,
+    "name": "Eric Schmitt",
+    "party": "R",
+    "state": "MO",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 51,
+    "name": "Steve Daines",
+    "party": "R",
+    "state": "MT",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 52,
+    "name": "Tim Sheehy",
+    "party": "R",
+    "state": "MT",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 53,
+    "name": "Deb Fischer",
+    "party": "R",
+    "state": "NE",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 54,
+    "name": "Pete Ricketts",
+    "party": "R",
+    "state": "NE",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 55,
+    "name": "Jacky Rosen",
+    "party": "D",
+    "state": "NV",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 56,
+    "name": "Catherine Cortez Masto",
+    "party": "D",
+    "state": "NV",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 57,
+    "name": "Jeanne Shaheen",
+    "party": "D",
+    "state": "NH",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 58,
+    "name": "Maggie Hassan",
+    "party": "D",
+    "state": "NH",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 59,
+    "name": "Cory Booker",
+    "party": "D",
+    "state": "NJ",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 60,
+    "name": "Andy Kim",
+    "party": "D",
+    "state": "NJ",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 61,
+    "name": "Martin Heinrich",
+    "party": "D",
+    "state": "NM",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 62,
+    "name": "Ben Ray Luján",
+    "party": "D",
+    "state": "NM",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 63,
+    "name": "Chuck Schumer",
+    "party": "D",
+    "state": "NY",
+    "chamber": "Senate",
+    "role": "Senate Majority Leader"
+  },
+  {
+    "id": 64,
+    "name": "Kirsten Gillibrand",
+    "party": "D",
+    "state": "NY",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 65,
+    "name": "Thom Tillis",
+    "party": "R",
+    "state": "NC",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 66,
+    "name": "Ted Budd",
+    "party": "R",
+    "state": "NC",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 67,
+    "name": "John Hoeven",
+    "party": "R",
+    "state": "ND",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 68,
+    "name": "Kevin Cramer",
+    "party": "R",
+    "state": "ND",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 70,
+    "name": "Bernie Moreno",
+    "party": "R",
+    "state": "OH",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 71,
+    "name": "James Lankford",
+    "party": "R",
+    "state": "OK",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 73,
+    "name": "Ron Wyden",
+    "party": "D",
+    "state": "OR",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 74,
+    "name": "Jeff Merkley",
+    "party": "D",
+    "state": "OR",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 76,
+    "name": "Dave McCormick",
+    "party": "R",
+    "state": "PA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 77,
+    "name": "Jack Reed",
+    "party": "D",
+    "state": "RI",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 78,
+    "name": "Sheldon Whitehouse",
+    "party": "D",
+    "state": "RI",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 79,
+    "name": "Lindsey Graham",
+    "party": "R",
+    "state": "SC",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 80,
+    "name": "Tim Scott",
+    "party": "R",
+    "state": "SC",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 81,
+    "name": "John Thune",
+    "party": "R",
+    "state": "SD",
+    "chamber": "Senate",
+    "role": "Senate Majority Leader"
+  },
+  {
+    "id": 82,
+    "name": "Mike Rounds",
+    "party": "R",
+    "state": "SD",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 83,
+    "name": "Bill Hagerty",
+    "party": "R",
+    "state": "TN",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 84,
+    "name": "Marsha Blackburn",
+    "party": "R",
+    "state": "TN",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 85,
+    "name": "Ted Cruz",
+    "party": "R",
+    "state": "TX",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 86,
+    "name": "John Cornyn",
+    "party": "R",
+    "state": "TX",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 87,
+    "name": "Mike Lee",
+    "party": "R",
+    "state": "UT",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 88,
+    "name": "John Curtis",
+    "party": "R",
+    "state": "UT",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 89,
+    "name": "Bernie Sanders",
+    "party": "I",
+    "state": "VT",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 90,
+    "name": "Peter Welch",
+    "party": "D",
+    "state": "VT",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 91,
+    "name": "Mark Warner",
+    "party": "D",
+    "state": "VA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 92,
+    "name": "Tim Kaine",
+    "party": "D",
+    "state": "VA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 93,
+    "name": "Patty Murray",
+    "party": "D",
+    "state": "WA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 94,
+    "name": "Maria Cantwell",
+    "party": "D",
+    "state": "WA",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 95,
+    "name": "Shelley Moore Capito",
+    "party": "R",
+    "state": "WV",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 96,
+    "name": "Jim Justice",
+    "party": "R",
+    "state": "WV",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 97,
+    "name": "Tammy Baldwin",
+    "party": "D",
+    "state": "WI",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 98,
+    "name": "Ron Johnson",
+    "party": "R",
+    "state": "WI",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 99,
+    "name": "John Barrasso",
+    "party": "R",
+    "state": "WY",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 100,
+    "name": "Cynthia Lummis",
+    "party": "R",
+    "state": "WY",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 103,
+    "name": "Lisa Blunt Rochester",
+    "party": "D",
+    "state": "DE",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 104,
+    "name": "Ashley Moody",
+    "party": "R",
+    "state": "FL",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 105,
+    "name": "Alan Armstrong",
+    "party": "R",
+    "state": "OK",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 106,
+    "name": "Jon Husted",
+    "party": "R",
+    "state": "OH",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 102,
+    "name": "Chris Van Hollen",
+    "party": "D",
+    "state": "MD",
+    "chamber": "Senate",
+    "role": "Senator"
+  },
+  {
+    "id": 101,
+    "name": "John Fetterman",
+    "party": "D",
+    "state": "PA",
+    "chamber": "Senate",
+    "role": "Senator"
+  }
+]

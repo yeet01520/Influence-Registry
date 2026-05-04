@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1001,
+    "name": "John Roberts",
+    "role": "Chief Justice",
+    "appointedBy": "George W. Bush",
+    "year": 2005
+  },
+  {
+    "id": 1002,
+    "name": "Clarence Thomas",
+    "role": "Associate Justice",
+    "appointedBy": "George H.W. Bush",
+    "year": 1991
+  },
+  {
+    "id": 1003,
+    "name": "Samuel Alito",
+    "role": "Associate Justice",
+    "appointedBy": "George W. Bush",
+    "year": 2006
+  },
+  {
+    "id": 1004,
+    "name": "Sonia Sotomayor",
+    "role": "Associate Justice",
+    "appointedBy": "Barack Obama",
+    "year": 2009
+  },
+  {
+    "id": 1005,
+    "name": "Elena Kagan",
+    "role": "Associate Justice",
+    "appointedBy": "Barack Obama",
+    "year": 2010
+  },
+  {
+    "id": 1006,
+    "name": "Neil Gorsuch",
+    "role": "Associate Justice",
+    "appointedBy": "Donald Trump",
+    "year": 2017
+  },
+  {
+    "id": 1007,
+    "name": "Brett Kavanaugh",
+    "role": "Associate Justice",
+    "appointedBy": "Donald Trump",
+    "year": 2018
+  },
+  {
+    "id": 1008,
+    "name": "Amy Coney Barrett",
+    "role": "Associate Justice",
+    "appointedBy": "Donald Trump",
+    "year": 2020
+  },
+  {
+    "id": 1009,
+    "name": "Ketanji Brown Jackson",
+    "role": "Associate Justice",
+    "appointedBy": "Joe Biden",
+    "year": 2022
+  }
+]

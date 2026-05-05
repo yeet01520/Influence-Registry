@@ -142,6 +142,10 @@ SKIP_CSV_CHECK = {
     "Eugene Vindman","Sam Liccardo","Robert Bresnahan","Nellie Pou",
     "Bob Onder","Johnny Olszewski","April McClain Delaney","Jeff Crank",
     "Katie Britt",  # CSV has "Katie Boyd Britt"
+    # Wesley Bell: OpenSecrets CSV captured only a partial floor of his sectors
+    # because he was a new federal candidate when CSV was compiled.
+    # Sector values verified directly from FEC Schedule A (June 2023 - March 2026).
+    "Wesley Bell",
 }
 
 # Correct nickname map for CSV lookup (CSV name -> our name, NOT FEC internal)

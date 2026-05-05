@@ -35,20 +35,57 @@ def parse_amount(s):
     return int(s.replace("$","").replace(",","").strip()) if s else 0
 
 def load_html(path):
+    """Load registry data from index.html. In Phase 1, data lives inline as
+    `const X = {...}` literals. In Phase 2, those literals are gone and data
+    lives in /data/*.json files. This function transparently handles both."""
     content = Path(path).read_text(encoding="utf-8")
-    def extract(pattern):
-        m = re.search(pattern, content, re.DOTALL)
-        return json.loads(m.group(1)) if m else {}
-    def extract_list(pattern):
-        m = re.search(pattern, content, re.DOTALL)
-        return json.loads(m.group(1)) if m else []
+
+    # Phase 1 detection: do inline literals exist?
+    has_inline = "const FEC_V8_DATA" in content and "const PROFILES_DATA" in content
+
+    if has_inline:
+        # Phase 1: extract from HTML inline literals
+        def extract(pattern):
+            m = re.search(pattern, content, re.DOTALL)
+            return json.loads(m.group(1)) if m else {}
+        def extract_list(pattern):
+            m = re.search(pattern, content, re.DOTALL)
+            return json.loads(m.group(1)) if m else []
+        # Grassroots names: search inline Set literal
+        gn_idx = content.find("const GRASSROOTS_NAMES = new Set(")
+        gn_end = content.find("]);", gn_idx) + 3 if gn_idx != -1 else 0
+        grassroots = set(re.findall(r'"([^"]+)"', content[gn_idx:gn_end])) if gn_idx != -1 else set()
+        return {
+            "aipac":      extract(r"const AIPAC_DATA = (\{.*?\});"),
+            "fec_v8":     extract(r"const FEC_V8_DATA = (\{.*?\});"),
+            "profiles":   extract(r"const PROFILES_DATA = (\{.*?\});"),
+            "senate":     extract_list(r"const SENATE_DATA = (\[.*?\]);"),
+            "house":      extract_list(r"const HOUSE_DATA = (\[.*?\]);"),
+            "grassroots": grassroots,
+            "content":    content,
+            "_phase":     1,
+        }
+
+    # Phase 2: load from /data folder
+    data_dir = Path(path).parent / "data"
+    if not data_dir.exists():
+        raise FileNotFoundError(
+            f"index.html has no inline data and {data_dir}/ does not exist. "
+            f"Cannot validate without a data source."
+        )
+    def load_json(name):
+        return json.loads((data_dir / name).read_text(encoding="utf-8"))
+    tags = load_json("tags.json")
     return {
-        "aipac":    extract(r"const AIPAC_DATA = (\{.*?\});"),
-        "fec_v8":   extract(r"const FEC_V8_DATA = (\{.*?\});"),
-        "profiles": extract(r"const PROFILES_DATA = (\{.*?\});"),
-        "senate":   extract_list(r"const SENATE_DATA = (\[.*?\]);"),
-        "house":    extract_list(r"const HOUSE_DATA = (\[.*?\]);"),
-        "content":  content,
+        "aipac":      load_json("aipac.json"),
+        "fec_v8":     load_json("fec.json"),
+        "profiles":   load_json("profiles.json"),
+        "senate":     load_json("senate.json"),
+        "house":      load_json("house.json"),
+        "grassroots": set(tags.get("grassroots", [])),
+        "content":    content,  # may be empty of data; some checks need URL refs
+        "_phase":     2,
+        "_data_dir":  data_dir,
     }
 
 def load_csvs(base_dir="."):
@@ -178,10 +215,7 @@ def check_grassroots_integrity(d):
     Bernie Sanders $20M pharma = doctors/nurses donating $250 each over 30 years.
     We only flag extreme outliers that warrant manual review."""
     print("\n[4] Grassroots badge integrity...")
-    content = d["content"]
-    gn_idx = content.find("const GRASSROOTS_NAMES = new Set(")
-    gn_end = content.find("]);", gn_idx) + 3
-    grassroots = set(re.findall(r'"([^"]+)"', content[gn_idx:gn_end]))
+    grassroots = d["grassroots"]
     issues = 0
     # Only flag if fossil fuel > $1M (hard to explain as individual donations)
     # or if member is known to have broken their pledge (manual list)
@@ -323,9 +357,7 @@ def check_corporate_total(d):
     - SCOTUS/Cabinet (in profiles but not in senate/house): no rules — 'N/A' acceptable
     - Missing corporate_total for Congress: WARNING (not error — may be intentional for new members)"""
     print("\n[9] corporate_total format & math...")
-    gn_idx = d["content"].find("const GRASSROOTS_NAMES = new Set(")
-    gn_end = d["content"].find("]);", gn_idx) + 3
-    grassroots = set(re.findall(r'"([^"]+)"', d["content"][gn_idx:gn_end]))
+    grassroots = d["grassroots"]
     congress = {m["name"] for m in d["senate"] + d["house"]}
     issues = 0
     for name, prof in d["profiles"].items():
@@ -384,9 +416,7 @@ def check_score_sanity(d):
     employment donations not corporate PAC money, so high totals + low scores is correct."""
     print("\n[6] Score sanity check...")
     issues = 0
-    gn_idx = d["content"].find("const GRASSROOTS_NAMES = new Set(")
-    gn_end = d["content"].find("]);", gn_idx) + 3
-    GRASSROOTS_NAMES = set(re.findall(r'"([^"]+)"', d["content"][gn_idx:gn_end]))
+    GRASSROOTS_NAMES = d["grassroots"]
     for name, prof in d["profiles"].items():
         if name in GRASSROOTS_NAMES:
             continue  # Static scores for grassroots members are correct by design
@@ -461,8 +491,15 @@ def _find_block(content, name, kind):
 
 def check_json_matches_html(d, html_path):
     """Phase 1 invariant: if data/*.json files exist, they must exactly match
-    the inline HTML data. Skips if data/ doesn't exist (Phase 1 not deployed yet)."""
+    the inline HTML data. Skips if data/ doesn't exist (Phase 1 not deployed yet),
+    OR if the HTML has no inline data (Phase 2 — JSON is now the source of truth)."""
     print("\n[10] data/*.json ↔ HTML inline data sync...")
+
+    # Phase 2 detected — no inline data to compare against
+    if d.get("_phase") == 2:
+        print(f"  ⊘ skipped — Phase 2 detected (data is loaded from JSON at runtime)")
+        return
+
     data_dir = Path(html_path).parent / 'data'
     if not data_dir.exists():
         print(f"  ⊘ skipped — {data_dir}/ does not exist (Phase 1 not yet deployed)")

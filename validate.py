@@ -124,7 +124,7 @@ def load_trackaipac(path="trackaipac_page.txt"):
         line = line.strip()
         if "Israel Lobby Total" not in line and "Lobby Total" not in line:
             continue
-        m = re.match(r"([A-Z][A-Z\s\'\-\.]+?)\s+[A-Z]{2}-[A-Z\d]+\s*(?:At Large\s*)?\[[RDI]\].*?PACs:\s*\$([\d,]+)", line)
+        m = re.match(r"([A-Z][A-Z\s\'\-\.]+?)\s+[A-Z]{2}-(?:[A-Z\d]+|At Large)\s*[\[(][RDI][\])].*?PACs:\s*\$([\d,]+)", line)
         if m:
             name = m.group(1).strip().title()
             pacs = int(m.group(2).replace(",",""))
@@ -155,6 +155,24 @@ CSV_LOOKUP_FIXES = {
     "maria elvira salazar": "maria salazar",
 }
 
+# TrackAIPAC source uses nickname/spelling variants that don't match our roster names.
+# Maps our normalized name -> normalized name as parsed from trackaipac_page.txt.
+TRACKAIPAC_NAME_FIXES = {
+    # Senate
+    "james risch": "jim risch",
+    # House — TrackAIPAC uses common nicknames
+    "maria elvira salazar": "maria salazar",
+    "mariannette miller meeks": "marianette miller meeks",
+    "johnny olszewski": "john olszewski",
+    "jefferson van drew": "jeff van drew",
+    "joseph morelle": "joe morelle",
+    "michael turner": "mike turner",
+    "abraham hamadeh": "abe hamadeh",
+    "jerrold nadler": "jerry nadler",
+    "robert bresnahan": "rob bresnahan",
+    "carlos gimenez": "carlos a gimenez",
+}
+
 SECTOR_MAP = {"tech":"tech","defense":"defense","finance":"finance","pharma":"pharma","oil":"fossil_fuels"}
 
 def check_aipac_consistency(d):
@@ -174,16 +192,26 @@ def check_aipac_consistency(d):
 def check_aipac_vs_trackaipac(d, ta):
     print("\n[2] AIPAC_DATA vs TrackAIPAC source file...")
     mismatches = 0
+    not_in_source = []
     for name, our_val in d["aipac"].items():
-        ta_val = ta.get(normalize(name))
+        n = normalize(name)
+        # Apply name-variant fixes (e.g. "James Risch" -> "Jim Risch" in source)
+        lookup = TRACKAIPAC_NAME_FIXES.get(n, n)
+        ta_val = ta.get(lookup)
         if ta_val is None:
+            if our_val > 0:
+                not_in_source.append((name, our_val))
             continue
         diff = abs(our_val - ta_val)
         if diff > 5000:
             err(f"AIPAC vs TrackAIPAC — {name}: ours=${our_val:,} / TrackAIPAC=${ta_val:,} (diff=${diff:,})")
             mismatches += 1
+    if not_in_source:
+        # Treat as warning, not error — TrackAIPAC source may legitimately not list every member
+        for name, val in not_in_source:
+            warn(f"Member with AIPAC>$0 but not in TrackAIPAC source — {name}: ${val:,}")
     if mismatches == 0:
-        print(f"  ✅ AIPAC values match TrackAIPAC source")
+        print(f"  ✅ AIPAC values match TrackAIPAC source ({len(d['aipac']) - len(not_in_source)} cross-validated, {len(not_in_source)} not in source)")
     else:
         print(f"  ❌ {mismatches} TrackAIPAC mismatches")
 

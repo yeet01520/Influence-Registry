@@ -257,8 +257,10 @@ we use FEC Schedule A directly as the authoritative source.
   scaled by a 2× heuristic. As of the latest update, these have been replaced
   with figures derived directly from FEC Schedule A (June 2023 to March 2026).
   The verified `corporate_total` is **$2.7M career**, with full per-sector
-  breakdowns updated accordingly. Bell's `aipac` value of $4,048,977 is exact
-  (TrackAIPAC, confirmed by direct PAC filings in Schedule A).
+  breakdowns updated accordingly. Bell's `aipac` value of $3,882,993 reflects
+  the current TrackAIPAC tally (which periodically recalculates as new filings
+  are processed); this superseded an earlier value of $4,048,977 saved at an
+  earlier scrape.
 
   Methodology note: Schedule A classification is performed by mapping each
   contributor's `contributor_employer` and `contributor_occupation` fields to

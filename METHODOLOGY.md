@@ -99,7 +99,8 @@ contradiction.
 
 ## 3. Grassroots badge
 
-47 members currently carry the grassroots badge (see `data/tags.json` →
+44 members currently carry the grassroots badge (7 Senators and 37
+Representatives in the 119th Congress; see `data/tags.json` →
 `grassroots`). The badge signals that a member's funding base is meaningfully
 small-dollar and free of corporate PAC money.
 
@@ -133,7 +134,7 @@ defined as fossil-fuel donations exceeding $1M or appearance on a manually-curat
 ### Maintained list
 
 `EXPLICIT_CLEAN_MEMBERS` (in `data/tags.json` → `explicit_clean`) is a
-hand-maintained allowlist of 23 members with documented public commitments to
+hand-maintained allowlist of 18 members with documented public commitments to
 refuse corporate PAC money. Every name on this list is also in the grassroots
 list; the explicit-clean list exists to record provenance ("we know they pledged
 this publicly, not just that the data looks clean").

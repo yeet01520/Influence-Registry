@@ -950,6 +950,7 @@ function _showLoadingError(err){
     }
     _hideLoadingOverlay();
     rCon(); rCrt(); rCab(); rBills();
+    if(curTab==='overview') renderOverview();
     loadPhotos();
   } catch (err) {
     console.error('Influence Registry: failed to load data', err);

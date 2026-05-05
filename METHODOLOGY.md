@@ -248,19 +248,30 @@ Source-data dating is currently inconsistent across fields. Adding explicit
 
 ### Numerical estimates labeled as such
 
-A small number of `corporate_total` values are editorial estimates rather than
-sums of disclosed values. The most prominent currently is:
+The Registry favors source-verified data wherever possible. When OpenSecrets
+aggregate data is incomplete (typical for newly-elected federal candidates),
+we use FEC Schedule A directly as the authoritative source.
 
-- **Wesley Bell** (D-MO-01): `corporate_total: "$1.5M career"` is an estimate
-  derived from a visible floor of approximately $777K across published
-  OpenSecrets sectors, scaled by an approximate 2× factor to account for
-  unpublished cycle-specific sector breakdowns. Bell's `aipac` value of
-  $4,048,977 is exact (TrackAIPAC). Estimates of this kind should ideally be
-  flagged with a `confidence: "estimated"` field; that schema upgrade is
-  on the roadmap (see §7).
+- **Wesley Bell** (D-MO-01): sector and corporate values were originally
+  estimated at "$1.5M career" from a partial OpenSecrets floor (~$777K visible)
+  scaled by a 2× heuristic. As of the latest update, these have been replaced
+  with figures derived directly from FEC Schedule A (June 2023 to March 2026).
+  The verified `corporate_total` is **$2.7M career**, with full per-sector
+  breakdowns updated accordingly. Bell's `aipac` value of $4,048,977 is exact
+  (TrackAIPAC, confirmed by direct PAC filings in Schedule A).
+
+  Methodology note: Schedule A classification is performed by mapping each
+  contributor's `contributor_employer` and `contributor_occupation` fields to
+  OpenSecrets-equivalent sectors (Finance/Insurance/Real Estate, Health,
+  Tech/Communications, Defense, Energy, Misc Business). Excluded categories
+  (Lawyers/Lobbyists, Labor, Education, Government, Nonprofit) follow the
+  methodology in §1. Approximately 7% of individual donations remain
+  unclassified due to ambiguous employer names; the verified figure represents
+  the floor.
 
 If you find another number that looks like an estimate without being labeled
-as such, please flag it (see §8).
+as such, please flag it (see §8). The roadmap (§7) includes adding explicit
+`confidence` fields to distinguish verified, derived, and estimated values.
 
 ### Things the Registry does not currently track
 

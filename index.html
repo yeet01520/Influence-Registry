@@ -1766,8 +1766,9 @@ function hemicycleChart(cfg) {
 
 function renderOverview(){
   const el=$('overview-charts');
-  if(!el||el.dataset.rendered) return;
+  if(!el) return;
   if(!SECTOR_COUNTS){ el.innerHTML='<div style="padding:40px;text-align:center;color:#fff">Loading…</div>'; return; }
+  if(el.dataset.rendered) return;
   el.dataset.rendered='1';
 
   const SC=SECTOR_COUNTS;

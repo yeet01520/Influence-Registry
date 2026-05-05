@@ -939,6 +939,10 @@ function _showLoadingError(err){
 
     // Run the FEC normalization pass that originally ran at top level
     loadFecData(FEC_V8_DATA);
+    if(window.__pendingFECData){
+      applyFECData(window.__pendingFECData);
+      window.__pendingFECData = null;
+    }
 
 
     if (document.readyState === 'loading') {
@@ -1763,6 +1767,7 @@ function hemicycleChart(cfg) {
 function renderOverview(){
   const el=$('overview-charts');
   if(!el||el.dataset.rendered) return;
+  if(!SECTOR_COUNTS){ el.innerHTML='<div style="padding:40px;text-align:center;color:#fff">Loading…</div>'; return; }
   el.dataset.rendered='1';
 
   const SC=SECTOR_COUNTS;
@@ -1953,6 +1958,10 @@ function loadPhotos(){
 function applyFECData(fecData){
   if(!fecData||typeof fecData!=='object'){
     console.warn('applyFECData: invalid data');
+    return;
+  }
+  if(typeof AIPAC_DATA === 'undefined' || !AIPAC_DATA){
+    window.__pendingFECData = fecData;
     return;
   }
   var applied=0;

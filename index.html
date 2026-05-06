@@ -1256,9 +1256,7 @@ function cardHTML(p,ptype){
   const tenureYr=p.year?`Since ${p.year}`:null;const sub=[p.role,p.state,p.district,p.appointedBy?`Appt. by ${p.appointedBy}`:null,tenureYr,p.department].filter(Boolean).join(' · ');
   const prof=PROFILES_DATA[p.name]||{};
   const sc=calcScore(p.name,prof);
-  const vtoBanner='';
-  const riskBadge=sc.vto?`<span class="b" style="background:#7f0000;color:#fff">⚠ VOTE THEM OUT</span>`:
-    sc.anyCorporate?`<span class="b" style="background:#rgba(255,255,255,0.87);color:#fa1105">⚠️ Takes Corporate $$$</span>`:'';
+  const riskBadge=sc.anyCorporate?`<span class="b" style="background:#rgba(255,255,255,0.87);color:#fa1105">⚠️ Takes Corporate $$$</span>`:'';
   const pharmaBadge=PHARMA_NAMES.has(p.name)?`<span class="b" style="background:#rgba(255,255,255,0.87);color:#6b21a8;border:1px solid #rgba(255,255,255,0.87)">💊 Pharma</span>`:''
   const grassrootsBadge=GRASSROOTS_NAMES.has(p.name)?`<span class="b" style="background:#rgba(255,255,255,0.87);color:#065f46;border:1px solid #rgba(255,255,255,0.87)">🌱 Grassroots</span>`:''
   const noStockBadge=NO_STOCK_NAMES.has(p.name)?`<span class="b" style="background:#rgba(255,255,255,0.87);color:#9d174d;border:1px solid #rgba(255,255,255,0.87)">📊 No Stock Trading</span>`:'';
@@ -1288,7 +1286,7 @@ ${fossil?`<span class="b bf">⛽ Fossil Fuel</span>`:''}
       </div>
       <div class="ccta" style="margin-top:14px">Full profile →</div>
     </div>
-  ${vtoBanner}</div>`;
+  </div>`;
 }
 
 // ── RENDER FUNCTIONS ───────────────────────────────────────────────────────
@@ -1483,8 +1481,7 @@ function openM(person,ptype){
           ${fossil?`<span class="inftag" style="background:var(--fossil-bg);color:var(--fossil)">Fossil fuels ${fmt(fossil)} <span class="infsrc">OpenSecrets</span></span>`:''}
         </div>
         ${(ptype!=='cabinet'||['Donald Trump','JD Vance','Marco Rubio'].includes(person.name))?`<div class=\"mtr\">
-          ${m.vto?`<div style=\"background:#7f0000;color:#fff;border-radius:6px;padding:7px 14px;font-size:13px;font-weight:700;text-align:center;letter-spacing:1px;margin-bottom:6px\">⚠ VOTE THEM OUT — $${m.superPacTotal.toLocaleString()}+ FROM SUPER PACs</div>`:''}
-          <div class=\"mtr-lr\"><span>Corporate Money Score</span><span style=\"color:${m.col};font-weight:600\">${m.lbl}${m.vto?'':` — ${m.pct}%`}</span></div>
+          <div class=\"mtr-lr\"><span>Corporate Money Score</span><span style=\"color:${m.col};font-weight:600\">${m.lbl} — ${m.pct}%</span></div>
           <div class=\"mtr-trk\"><div class=\"mtr-fill\" style=\"width:${m.pct}%;background:${m.col}\"></div></div>
           ${m.reasons&&m.reasons.length?`<div class=\"mtr-rsn\">${m.reasons.join(' · ')}</div>`:''}
           ${!m.reasons.length&&prof.corruption_reasoning?`<div class=\"mtr-rsn\">${prof.corruption_reasoning}</div>`:''}\n        </div>`:''}  

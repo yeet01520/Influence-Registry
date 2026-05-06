@@ -23,7 +23,7 @@ The Influence Registry profiles every member of Congress, the Cabinet, and the S
 
 ---
 
-## What it tracks
+## What It Tracks
 
 - **AIPAC and pro-Israel PAC contributions** (TrackAIPAC.com, FEC)
 - **Fossil fuel industry donations** (OpenSecrets, FEC)
@@ -38,9 +38,9 @@ The Influence Registry profiles every member of Congress, the Cabinet, and the S
 
 ---
 
-## Data sources
+## Data Sources
 
-All data comes from public records. No proprietary or paywalled sources are used.
+All data comes from open-source, public records. No proprietary or paywalled sources are used.
 
 | Source | What we use it for |
 |---|---|

@@ -1,37 +1,31 @@
 name: Data Integrity Check
-
 on:
   workflow_dispatch:
   push:
     paths:
       - 'index.html'
       - 'data/**'
-      - 'validate.py'
+      - 'scripts/validate.py'
   pull_request:
     paths:
       - 'index.html'
       - 'data/**'
-      - 'validate.py'
-
+      - 'scripts/validate.py'
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Install dependencies
         run: pip install json5
-
       - name: Run data validator
         run: |
-          python3 validate.py index.html . trackaipac_page.txt
-
+          python3 scripts/validate.py index.html . data/raw/trackaipac_page.txt
       - name: Post validation summary
         if: failure()
         run: echo "Data validation failed. Check errors above before deploying."

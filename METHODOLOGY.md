@@ -1,4 +1,38 @@
 # Methodology
+## Editorial Perspective
+
+The Influence Registry is built from a clear point of view: that the
+volume of corporate and special-interest money in U.S. politics distorts
+representative democracy and deserves public scrutiny. This belief shapes
+which data we choose to surface, how we frame it, and what we name our
+metrics.
+
+What this means in practice:
+
+- **The data is verifiable.** Every dollar amount, donation total, and
+  voting record on this site comes from public, free, government or
+  nonprofit sources (FEC, OpenSecrets, TrackAIPAC, ProPublica, Bioguide).
+  Nothing is invented. Citations link back to original filings wherever
+  possible. We will correct factual errors immediately when they are
+  reported.
+
+- **The framing is editorial.** Decisions like calling our composite the
+  "Corporate Money Score," labeling certain ranges "high risk," and
+  emphasizing the volume of corporate PAC dollars over other measures
+  reflect our perspective that this money matters and the public should
+  see it clearly. Reasonable people can disagree with these editorial
+  choices; we believe they are defensible and we welcome the debate.
+
+- **The data and the framing are separable.** Journalists, researchers,
+  and citizens who do not share our perspective can still use the
+  underlying data. All raw figures are available in their original form
+  via [data downloads](#downloads), and our scoring methodology is
+  documented in full below so that anyone can reconstruct or critique it.
+
+We are not affiliated with any political party, campaign, or advocacy
+organization. The maintainer is an individual citizen building this in
+their spare time. See [About the maintainer](#about) for personal
+disclosures.
 
 This document describes how the Influence Registry classifies, scores, and validates
 the data published in `/data/*.json`. It is written for researchers, journalists,

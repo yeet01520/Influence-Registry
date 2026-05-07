@@ -1,15 +1,16 @@
 """
 Pulls FEC sector totals for Marco Rubio and JD Vance.
-Outputs JSON in the exact format your existing fec.json uses.
 
-USAGE:
-  1. Set your API key:    export FEC_API_KEY="your_key_here"
-  2. Run:                  python3 pull_rubio_vance.py
-  3. The script prints JSON for the two members. Copy that JSON
-     and merge it into data/fec.json on your repo.
+Uses committee_id-based pagination of Schedule A, which is the
+reliable way to get full contribution data. Aggregates across
+all of each member's authorized campaign committees.
 
-Pulls career-long data (1990-2024) using the same sector keyword
-matching as your main fec_pull.py, so the format stays consistent.
+USAGE (in GitHub Actions, via the refresh-fec.yml workflow):
+  Just runs. Reads FEC_API_KEY from environment.
+
+USAGE (locally):
+  export FEC_API_KEY="your_key_here"
+  python3 pull_rubio_vance.py
 """
 
 import os
@@ -20,32 +21,30 @@ from collections import defaultdict
 
 API_KEY = os.environ.get("FEC_API_KEY")
 if not API_KEY:
-    raise SystemExit("ERROR: Set the FEC_API_KEY environment variable first.\n"
-                     "  export FEC_API_KEY='your_key_here'")
+    raise SystemExit("ERROR: Set the FEC_API_KEY environment variable first.")
 
 BASE = "https://api.open.fec.gov/v1"
 
-# Match the categories from your main fec_pull.py exactly
 CATEGORIES = {
     "aipac":         ["aipac", "israel public affairs"],
-    "fossil_fuels":  ["oil", "exxon", "chevron", "shell", "bp ", "halliburton", "occidental", "conocophillips"],
-    "pharma":        ["pfizer", "moderna", "pharma", "biotech", "merck", "lilly", "amgen", "novartis"],
-    "tech":          ["google", "amazon", "meta", "facebook", "apple", "microsoft", "netflix", "alphabet"],
-    "defense":       ["lockheed", "raytheon", "northrop", "boeing", "general dynamics", "rtx ", "l3harris"],
-    "finance":       ["goldman", "jpmorgan", "bank", "wells fargo", "morgan stanley", "citigroup", "blackrock", "blackstone", "citadel"],
-    "grassroots":    ["retired", "teacher", "nurse", "student"],
+    "fossil_fuels":  ["oil", "exxon", "chevron", "shell", "halliburton", "occidental", "conocophillips", "petroleum"],
+    "pharma":        ["pfizer", "moderna", "pharma", "biotech", "merck", "lilly", "amgen", "novartis", "johnson & johnson"],
+    "tech":          ["google", "amazon", "meta", "facebook", "apple", "microsoft", "netflix", "alphabet", "tesla", "uber", "airbnb"],
+    "defense":       ["lockheed", "raytheon", "northrop", "boeing", "general dynamics", "rtx", "l3harris"],
+    "finance":       ["goldman", "jpmorgan", "wells fargo", "morgan stanley", "citigroup", "blackrock", "blackstone", "citadel", "bank of america"],
+    "grassroots":    ["retired", "teacher", "nurse", "student", "homemaker", "self-employed"],
 }
 
-# Verified FEC candidate IDs (https://www.fec.gov/data/candidate/...)
-# Each member can have multiple campaign committees over their career —
-# the script aggregates contributions across all of them.
+# Each member maps to a list of their authorized campaign committee IDs.
+# Verified at https://www.fec.gov/data/candidate/{candidate_id}/
 TARGETS = {
     "Marco Rubio": [
-        "S0FL00338",   # Senate FL — covers all Senate runs (2010, 2016, 2022)
-        "P60006723",   # Presidential — 2016 White House run
+        "C00458844",   # Marco Rubio for President (2016)
+        "C00620518",   # Marco Rubio for Senate (2016, 2022 cycles)
+        "C00467795",   # Marco Rubio for US Senate 2010 cycle
     ],
     "JD Vance": [
-        "S2OH00436",   # Senate OH — 2022 run
+        "C00783142",   # JD Vance for Senate Inc.
     ],
 }
 
@@ -56,121 +55,151 @@ def classify(text):
             return cat
     return None
 
-def verify_candidate(candidate_id):
-    """Look up the candidate name from FEC to confirm the ID is correct."""
+def get_committee_totals(committee_id):
+    """Get the official total raised from FEC's totals endpoint."""
+    total = 0.0
     try:
-        r = requests.get(f"{BASE}/candidate/{candidate_id}/", params={
+        r = requests.get(f"{BASE}/committee/{committee_id}/totals/", params={
+            "api_key": API_KEY,
+            "per_page": 100,
+        }, timeout=30).json()
+        for cycle_summary in r.get("results", []):
+            total += cycle_summary.get("receipts", 0) or 0
+    except Exception as e:
+        print(f"    [totals] Error: {e}")
+    return total
+
+def get_committee_name(committee_id):
+    """Confirm the committee identity."""
+    try:
+        r = requests.get(f"{BASE}/committee/{committee_id}/", params={
             "api_key": API_KEY,
         }, timeout=15).json()
         results = r.get("results", [])
         if results:
             c = results[0]
-            return f"{c.get('name', '?')} ({c.get('office_full', '?')}, {c.get('state', '?')})"
-    except Exception as e:
-        return f"VERIFY FAILED: {e}"
-    return "NOT FOUND"
+            return c.get("name", "?")
+    except Exception:
+        pass
+    return "?"
 
-def pull_sector_totals(candidate_id):
-    """Walks every cycle from 2010-2024 and tallies by sector."""
-    seen = set()
+def pull_sector_totals_by_committee(committee_id):
+    """
+    Walk Schedule A receipts for a specific committee and tally by sector.
+    Uses committee_id (NOT candidate_id) which is the reliable parameter.
+    """
     totals = defaultdict(float)
-    total_raised = 0.0
+    seen_ids = set()
+    total_pages_seen = 0
 
-    for cycle in range(2010, 2026, 2):
-        page = 1
-        while True:
-            try:
-                r = requests.get(f"{BASE}/schedules/schedule_a/", params={
-                    "api_key": API_KEY,
-                    "candidate_id": candidate_id,
-                    "two_year_transaction_period": cycle,
-                    "per_page": 100,
-                    "page": page,
-                }, timeout=30).json()
-            except Exception as e:
-                print(f"  [{cycle} p{page}] Error: {e}")
-                break
+    page = 1
+    while True:
+        try:
+            r = requests.get(f"{BASE}/schedules/schedule_a/", params={
+                "api_key": API_KEY,
+                "committee_id": committee_id,
+                "per_page": 100,
+                "page": page,
+            }, timeout=30).json()
+        except Exception as e:
+            print(f"    [page {page}] Error: {e}")
+            break
 
-            results = r.get("results", [])
-            if not results:
-                break
+        results = r.get("results", [])
+        if not results:
+            break
 
-            for row in results:
-                tid = row.get("transaction_id")
-                if tid in seen:
-                    continue
-                seen.add(tid)
+        for row in results:
+            tid = row.get("transaction_id")
+            if tid and tid in seen_ids:
+                continue
+            if tid:
+                seen_ids.add(tid)
 
-                amount = row.get("contribution_receipt_amount") or 0
-                total_raised += amount
+            amount = row.get("contribution_receipt_amount") or 0
+            blob = " ".join([
+                str(row.get("contributor_name") or ""),
+                str(row.get("contributor_employer") or ""),
+                str(row.get("contributor_occupation") or ""),
+                str(row.get("committee_name") or ""),
+            ])
+            cat = classify(blob)
+            if cat:
+                totals[cat] += amount
 
-                blob = " ".join([
-                    str(row.get("contributor_name") or ""),
-                    str(row.get("contributor_employer") or ""),
-                    str(row.get("contributor_occupation") or ""),
-                    str(row.get("committee_name") or ""),
-                ])
+        total_pages_seen += 1
+        pagination = r.get("pagination", {})
+        pages = pagination.get("pages", 1)
+        if page >= pages:
+            break
 
-                cat = classify(blob)
-                if cat:
-                    totals[cat] += amount
+        page += 1
+        if total_pages_seen >= 200:  # safety cap
+            print(f"    Hit 200-page safety cap")
+            break
+        time.sleep(0.25)
 
-            pages = r.get("pagination", {}).get("pages", 1)
-            if page >= pages:
-                break
-            page += 1
-            time.sleep(0.25)  # be polite to the API
+    return totals, total_pages_seen
 
-    return totals, total_raised
-
-def format_entry(totals, total_raised):
-    """Format to match your existing fec.json structure."""
-    out = {
-        "aipac":         round(totals.get("aipac", 0)),
-        "oil_gas":       round(totals.get("fossil_fuels", 0)),
-        "fossil_fuels":  round(totals.get("fossil_fuels", 0)),
-        "pharma":        round(totals.get("pharma", 0)),
-        "defense":       round(totals.get("defense", 0)),
-        "finance":       round(totals.get("finance", 0)),
-        "tech":          round(totals.get("tech", 0)),
-        "grassroots":    round(totals.get("grassroots", 0)),
+def format_entry(combined_totals, total_raised):
+    return {
+        "aipac":         round(combined_totals.get("aipac", 0)),
+        "oil_gas":       round(combined_totals.get("fossil_fuels", 0)),
+        "fossil_fuels":  round(combined_totals.get("fossil_fuels", 0)),
+        "pharma":        round(combined_totals.get("pharma", 0)),
+        "defense":       round(combined_totals.get("defense", 0)),
+        "finance":       round(combined_totals.get("finance", 0)),
+        "tech":          round(combined_totals.get("tech", 0)),
+        "grassroots":    round(combined_totals.get("grassroots", 0)),
         "total_raised":  round(total_raised),
         "cycle":         "1990-2024",
     }
-    return out
 
 if __name__ == "__main__":
     output = {}
-    for name, candidate_ids in TARGETS.items():
-        print(f"\n=== Pulling {name} ({len(candidate_ids)} committee(s)) ===")
+    for name, committee_ids in TARGETS.items():
+        print(f"\n{'='*60}")
+        print(f"Pulling {name} ({len(committee_ids)} committee(s))")
+        print(f"{'='*60}")
+
         combined_totals = defaultdict(float)
         combined_total_raised = 0.0
-        for cid in candidate_ids:
-            who = verify_candidate(cid)
-            print(f"  Querying candidate ID: {cid}  ->  {who}")
-            totals, total_raised = pull_sector_totals(cid)
-            for k, v in totals.items():
+
+        for cid in committee_ids:
+            committee_name = get_committee_name(cid)
+            print(f"\n  Committee {cid}: {committee_name}")
+
+            # Official total from FEC's summary endpoint
+            official_raised = get_committee_totals(cid)
+            print(f"    Official total raised: ${official_raised:,.0f}")
+            combined_total_raised += official_raised
+
+            # Walk individual contributions for sector classification
+            print(f"    Walking Schedule A receipts...")
+            sector_totals, pages = pull_sector_totals_by_committee(cid)
+            print(f"    Pages processed: {pages}")
+            for k, v in sector_totals.items():
                 combined_totals[k] += v
-            combined_total_raised += total_raised
-            print(f"    Subtotal raised: ${total_raised:,.0f}")
+                if v > 0:
+                    print(f"      {k}: ${v:,.0f}")
+
         entry = format_entry(combined_totals, combined_total_raised)
         output[name] = entry
         print(f"\n  COMBINED TOTALS for {name}:")
-        print(f"    Total raised:  ${entry['total_raised']:>12,}")
-        print(f"    AIPAC:         ${entry['aipac']:>12,}")
-        print(f"    Oil/Gas:       ${entry['oil_gas']:>12,}")
-        print(f"    Pharma:        ${entry['pharma']:>12,}")
-        print(f"    Defense:       ${entry['defense']:>12,}")
-        print(f"    Finance:       ${entry['finance']:>12,}")
-        print(f"    Tech:          ${entry['tech']:>12,}")
-        print(f"    Grassroots:    ${entry['grassroots']:>12,}")
+        print(f"    Total raised:  ${entry['total_raised']:>14,}")
+        print(f"    AIPAC:         ${entry['aipac']:>14,}")
+        print(f"    Oil/Gas:       ${entry['oil_gas']:>14,}")
+        print(f"    Pharma:        ${entry['pharma']:>14,}")
+        print(f"    Defense:       ${entry['defense']:>14,}")
+        print(f"    Finance:       ${entry['finance']:>14,}")
+        print(f"    Tech:          ${entry['tech']:>14,}")
+        print(f"    Grassroots:    ${entry['grassroots']:>14,}")
 
-    print("\n\n========================================")
+    print(f"\n\n{'='*60}")
     print("JSON to MERGE into data/fec.json:")
-    print("========================================\n")
+    print(f"{'='*60}\n")
     print(json.dumps(output, indent=2))
 
-    # Also save to a file
     with open("rubio_vance_fec.json", "w") as f:
         json.dump(output, f, indent=2)
     print("\n(Also saved to rubio_vance_fec.json)")

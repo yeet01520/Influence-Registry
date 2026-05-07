@@ -1,0 +1,55 @@
+name: Audit & Fix Candidate IDs
+
+# ONE-TIME (or rare) workflow that:
+#   1. Audits all 538 members' candidate IDs against FEC search
+#   2. Patches data/fec.json with corrected primary IDs and removes cross-state contamination
+#   3. Re-fetches Schedule E (outside spending) only for affected members
+#
+# Manually triggered. Safe to re-run if needed. Full run takes ~45-90 minutes
+# (audit ~30 min for 538 API calls + refetch ~20-30 min for affected subset).
+
+on:
+  workflow_dispatch:
+
+jobs:
+  audit-and-fix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install --upgrade pip
+
+      - name: Audit candidate IDs (patches fec.json in place)
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python3 scripts/audit_candidate_ids.py
+
+      - name: Refetch Schedule E for affected members
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python3 scripts/refetch_outside_spending.py
+
+      - name: Commit fixes
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fec.json data/outside_spending.json data/audit_report.md data/members_to_refetch.json data/fec.json.before_audit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Audit & fix candidate IDs (patches fec.json + refetched affected outside spending)"
+            git pull --rebase origin main
+            git push origin main
+          fi

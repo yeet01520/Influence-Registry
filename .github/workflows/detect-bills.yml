@@ -1,0 +1,61 @@
+name: Detect Significant Bills
+
+# Runs every Monday at 1pm UTC (8-9am US Eastern) so you get an Issue
+# notification at the start of the week. Also manually triggerable.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 13 * * 1'
+
+jobs:
+  detect-bills:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      issues: write   # needed to create the GitHub Issue with drafts
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Detect significant bills
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+          GITHUB_ACTIONS: "true"
+        run: python3 scripts/detect_significant_bills.py
+
+      - name: Commit drafts file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/bills_drafts.json
+          if git diff --staged --quiet; then
+            echo "No new drafts to commit."
+          else
+            git commit -m "Auto: detected new significant bill votes (drafts)"
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Create GitHub Issue with drafts
+        if: hashFiles('/tmp/bills_summary.md') != '' && hashFiles('/tmp/no_drafts') == ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('/tmp/bills_summary.md', 'utf8');
+            const today = new Date().toISOString().slice(0, 10);
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `📋 Weekly bill review — ${today}`,
+              body: body,
+              labels: ['bills-review']
+            });
+            console.log('Issue created.');

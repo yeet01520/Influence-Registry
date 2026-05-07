@@ -138,7 +138,11 @@ try:
             for sector, func in sector_funcs.items():
                 if entry.get(sector, 0) == 0:
                     for variant in name_variants:
-                        amt = func(variant, "OH")
+                        # Pass FULL state name 'Ohio' (not 'OH') because the v7
+                        # state-matching logic does substring `csv_state in
+                        # norm_state`, and CSV stores full state names like 'ohio'.
+                        # 'ohio' in 'oh' is False; 'ohio' in 'ohio' is True.
+                        amt = func(variant, "Ohio")
                         if amt > 0:
                             entry[sector] = amt
                             print(f"    {sector}: matched '{variant}' -> ${amt:,}")
@@ -175,25 +179,30 @@ try:
             entry = v7_output["Marco Rubio"]
             if entry.get("aipac", 0) == 0:
                 print("\n  Post-processing Marco Rubio AIPAC match...")
-                rubio_variants = ["Rubio Marco", "Marco A Rubio", "Marco Antonio Rubio"]
-                for variant in rubio_variants:
-                    ta = v7.get_aipac_from_trackaipac(variant)
-                    if ta and ta.get("total", 0) > 0:
+
+                # Diagnostic: dump TrackAIPAC keys containing 'rubio' so we
+                # can see what's actually stored. This output appears in the
+                # workflow log and tells us the real name format used.
+                rubio_keys = [k for k in v7.TRACKAIPAC_DATA.keys() if "rubio" in k]
+                if rubio_keys:
+                    print(f"    TrackAIPAC keys containing 'rubio': {rubio_keys}")
+                    # If we found any, just use the first one directly
+                    ta = v7.TRACKAIPAC_DATA[rubio_keys[0]]
+                    if ta.get("total", 0) > 0:
                         entry["aipac"]              = ta["total"]
                         entry["aipac_pacs"]         = ta["pacs"]
                         entry["aipac_ie"]           = ta["ie"]
                         entry["aipac_lobby_donors"] = ta["lobby_donors"]
                         entry["aipac_sources"]      = ta["sources"]
-                        print(f"    aipac: matched '{variant}' -> ${ta['total']:,}")
+                        print(f"    aipac: matched key '{rubio_keys[0]}' -> ${ta['total']:,}")
                         # Recompute SI total
                         entry["special_interest_total"] = sum(
                             entry.get(k, 0) for k in
                             ["aipac", "fossil_fuels", "pharma", "defense", "finance", "tech", "nra"]
                         )
                         v7_output["Marco Rubio"] = entry
-                        break
                 else:
-                    print(f"    aipac: no variant matched (still $0)")
+                    print(f"    No TrackAIPAC entries containing 'rubio' found")
 
             with open(TARGET_OUTPUT, "w") as f:
                 json.dump(v7_output, f, indent=2)

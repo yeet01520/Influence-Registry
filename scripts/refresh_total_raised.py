@@ -41,9 +41,12 @@ FEC_FILE    = os.path.join(REPO_ROOT, "data", "fec.json")
 PROGRESS    = os.path.join(REPO_ROOT, "data", "fec.json.progress")
 
 # Tunables
-SLEEP_BETWEEN_CALLS = 0.25   # seconds — stays under FEC's 1000/hour limit
+# FEC API limit is 1,000 requests/hour = 1 per 3.6 seconds.
+# We use 4s to stay comfortably under.
+SLEEP_BETWEEN_CALLS = 4.0    # seconds — 1 call per 4s = 900/hour, safely under limit
 SAVE_EVERY          = 25     # save progress every N members
-MAX_RETRIES         = 3      # retries on transient errors
+MAX_RETRIES         = 5      # retries on transient errors
+RATE_LIMIT_WAIT     = 90     # seconds to wait if we hit a 429
 
 
 def fetch_committee_total(committee_id):
@@ -65,7 +68,21 @@ def fetch_committee_total(committee_id):
                 for cycle in (data.get("results") or [])
             )
             return total
-        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                # Rate limited. Wait a long time before retrying.
+                # FEC's hourly bucket needs to drain.
+                wait = RATE_LIMIT_WAIT * (attempt + 1)
+                print(f"      rate limited (429), waiting {wait}s")
+                time.sleep(wait)
+            elif attempt < MAX_RETRIES - 1:
+                wait = 2 ** attempt
+                print(f"      retry {attempt + 1} after {wait}s (HTTP {e.code})")
+                time.sleep(wait)
+            else:
+                print(f"      FAILED after {MAX_RETRIES} attempts: HTTP {e.code}")
+                return None
+        except (urllib.error.URLError, TimeoutError) as e:
             if attempt < MAX_RETRIES - 1:
                 wait = 2 ** attempt
                 print(f"      retry {attempt + 1} after {wait}s ({type(e).__name__})")

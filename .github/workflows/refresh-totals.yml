@@ -1,0 +1,40 @@
+name: Refresh Total Raised (All Members)
+
+# Run only when manually triggered from the Actions tab
+on:
+  workflow_dispatch:
+
+jobs:
+  refresh-totals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60   # ~1,074 API calls @ 0.25s each = ~5 min, plus buffer
+    permissions:
+      contents: write     # needed so the workflow can commit the updated JSON
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh total_raised for all members
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python3 scripts/refresh_total_raised.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fec.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Refresh total_raised for all members from FEC totals endpoint (auto)"
+            # Pull any commits that landed while we were running, then push
+            git pull --rebase origin main
+            git push
+          fi

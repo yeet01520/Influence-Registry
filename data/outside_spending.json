@@ -1235,7 +1235,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T19:59:04.154808+00:00"
+    "fetched_at": "2026-05-07T23:03:30.266035+00:00"
   },
   "Tammy Duckworth": {
     "candidate_ids_used": [
@@ -5398,7 +5398,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T20:53:08.801913+00:00"
+    "fetched_at": "2026-05-07T23:03:13.668856+00:00"
   },
   "Jon Husted": {
     "candidate_ids_used": [
@@ -5507,7 +5507,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T20:53:26.991196+00:00"
+    "fetched_at": "2026-05-07T23:03:43.581776+00:00"
   },
   "Robert Aderholt": {
     "candidate_ids_used": [
@@ -10766,7 +10766,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T21:12:20.271178+00:00"
+    "fetched_at": "2026-05-07T23:03:46.436329+00:00"
   },
   "Jonathan Jackson": {
     "candidate_ids_used": [
@@ -13004,7 +13004,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T21:17:11.949729+00:00"
+    "fetched_at": "2026-05-07T23:03:40.776160+00:00"
   },
   "Julia Letlow": {
     "candidate_ids_used": [
@@ -13249,7 +13249,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T21:17:56.663967+00:00"
+    "fetched_at": "2026-05-07T23:03:16.722918+00:00"
   },
   "Johnny Olszewski": {
     "candidate_ids_used": [
@@ -18449,7 +18449,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T21:36:40.544109+00:00"
+    "fetched_at": "2026-05-07T23:03:37.912208+00:00"
   },
   "Bob Latta": {
     "candidate_ids_used": [
@@ -18465,7 +18465,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T21:36:42.390652+00:00"
+    "fetched_at": "2026-05-07T23:03:18.253433+00:00"
   },
   "Mike Carey": {
     "candidate_ids_used": [
@@ -21276,18 +21276,13 @@
       "H2TX08182",
       "S4OK00398"
     ],
-    "total_supporting": 6349195423,
+    "total_supporting": 1313098,
     "total_opposing": 156524,
     "cycles": [
       2022,
       2024
     ],
     "top_supporters": [
-      {
-        "committee_id": "C00873521",
-        "committee_name": "Unknown",
-        "amount": 6347882325
-      },
       {
         "committee_id": "C00504530",
         "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
@@ -21307,6 +21302,11 @@
         "committee_id": "C00722025",
         "committee_name": "SEAL PAC USA",
         "amount": 70000
+      },
+      {
+        "committee_id": "C00493221",
+        "committee_name": "THE GUARDIAN FUND",
+        "amount": 12734
       }
     ],
     "top_opposers": [
@@ -21326,7 +21326,7 @@
         "amount": 1870
       }
     ],
-    "fetched_at": "2026-05-07T21:43:43.915398+00:00"
+    "fetched_at": "2026-05-07T23:03:48.901360+00:00"
   },
   "Al Green": {
     "candidate_ids_used": [
@@ -23320,7 +23320,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T21:51:38.132091+00:00"
+    "fetched_at": "2026-05-07T23:03:25.208515+00:00"
   },
   "Suzan DelBene": {
     "candidate_ids_used": [
@@ -24290,7 +24290,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T22:07:22.727221+00:00"
+    "fetched_at": "2026-05-07T23:03:51.592842+00:00"
   },
   "Gregorio Sablan": {
     "candidate_ids_used": [
@@ -24301,7 +24301,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T22:07:24.251608+00:00"
+    "fetched_at": "2026-05-07T23:03:34.476244+00:00"
   },
   "Adelita Grijalva": {
     "candidate_ids_used": [
@@ -24920,7 +24920,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T22:09:44.163345+00:00"
+    "fetched_at": "2026-05-07T23:03:33.128530+00:00"
   },
   "Diana DeGette": {
     "candidate_ids_used": [
@@ -25266,7 +25266,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T22:10:14.558885+00:00"
+    "fetched_at": "2026-05-07T23:03:28.057770+00:00"
   },
   "Tom Barrett": {
     "candidate_ids_used": [
@@ -27290,7 +27290,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T22:20:05.390647+00:00"
+    "fetched_at": "2026-05-07T23:03:35.828850+00:00"
   },
   "Ben Ray Luj\u00e1n": {
     "candidate_ids_used": [
@@ -27583,7 +27583,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T22:20:29.859763+00:00"
+    "fetched_at": "2026-05-07T23:03:50.243755+00:00"
   },
   "Chris Van Hollen": {
     "candidate_ids_used": [

@@ -13915,7 +13915,7 @@
       "C00620518"
     ],
     "source": "FEC_v7",
-    "total_raised": 901270,
+    "total_raised": 1024997,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -13928,7 +13928,7 @@
     "tech": 2969835,
     "nra": 0,
     "special_interest_total": 30708487,
-    "grassroots": 48443
+    "grassroots": 50320
   },
   "JD Vance": {
     "candidate_id": "S2OH00436",
@@ -13943,19 +13943,19 @@
       "C00564740"
     ],
     "source": "FEC_v7",
-    "total_raised": 222496,
+    "total_raised": 559102,
     "aipac": 1592822,
     "aipac_pacs": 268355,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1324467,
     "aipac_sources": "AMP, RJC, USI",
-    "fossil_fuels": 0,
-    "pharma": 0,
-    "defense": 0,
-    "finance": 0,
-    "tech": 0,
+    "fossil_fuels": 325154,
+    "pharma": 1125010,
+    "defense": 324953,
+    "finance": 2515182,
+    "tech": 474232,
     "nra": 0,
-    "special_interest_total": 1592822,
-    "grassroots": 21114
+    "special_interest_total": 6357353,
+    "grassroots": 94636
   }
 }

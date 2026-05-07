@@ -1,0 +1,52 @@
+name: Refresh Outside Spending
+
+# Triggers:
+#   - Manual: Actions tab → "Run workflow"
+#   - Scheduled: 1am UTC on the 5th of Jan, Apr, Jul, Oct (quarterly)
+#     This long run (~5h) starts overnight US time so it doesn't interfere with daytime usage
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 5 1,4,7,10 *'
+
+jobs:
+  refresh-outside-spending:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330   # ~5.5 hours; under 6h GH Actions max. With resume across runs you can also stop early.
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install --upgrade pip
+
+      - name: Fetch outside spending for all members
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        # continue-on-error: even if killed by timeout, the next "Commit" step
+        # still runs and saves whatever progress we made
+        continue-on-error: true
+        run: python3 scripts/fetch_outside_spending.py
+
+      - name: Commit updated data
+        if: always()   # run even if previous step was cancelled/timed out
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/outside_spending.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Refresh outside spending (Schedule E) — partial progress (auto)"
+            git pull --rebase origin main
+            git push origin main
+          fi
+

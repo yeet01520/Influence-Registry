@@ -36,10 +36,17 @@ CATEGORIES = {
     "grassroots":    ["retired", "teacher", "nurse", "student"],
 }
 
-# Known FEC candidate IDs (verified from the FEC site)
+# Verified FEC candidate IDs (https://www.fec.gov/data/candidate/...)
+# Each member can have multiple campaign committees over their career —
+# the script aggregates contributions across all of them.
 TARGETS = {
-    "Marco Rubio": "S0FL00298",   # Rubio for Senate
-    "JD Vance":    "S2OH00227",   # Vance for Senate (2022)
+    "Marco Rubio": [
+        "S0FL00338",   # Senate FL — covers all Senate runs (2010, 2016, 2022)
+        "P60006723",   # Presidential — 2016 White House run
+    ],
+    "JD Vance": [
+        "S2OH00436",   # Senate OH — 2022 run
+    ],
 }
 
 def classify(text):
@@ -48,6 +55,20 @@ def classify(text):
         if any(k in text for k in kws):
             return cat
     return None
+
+def verify_candidate(candidate_id):
+    """Look up the candidate name from FEC to confirm the ID is correct."""
+    try:
+        r = requests.get(f"{BASE}/candidate/{candidate_id}/", params={
+            "api_key": API_KEY,
+        }, timeout=15).json()
+        results = r.get("results", [])
+        if results:
+            c = results[0]
+            return f"{c.get('name', '?')} ({c.get('office_full', '?')}, {c.get('state', '?')})"
+    except Exception as e:
+        return f"VERIFY FAILED: {e}"
+    return "NOT FOUND"
 
 def pull_sector_totals(candidate_id):
     """Walks every cycle from 2010-2024 and tallies by sector."""
@@ -120,19 +141,29 @@ def format_entry(totals, total_raised):
 
 if __name__ == "__main__":
     output = {}
-    for name, cid in TARGETS.items():
-        print(f"\n=== Pulling {name} ({cid}) ===")
-        totals, total_raised = pull_sector_totals(cid)
-        entry = format_entry(totals, total_raised)
+    for name, candidate_ids in TARGETS.items():
+        print(f"\n=== Pulling {name} ({len(candidate_ids)} committee(s)) ===")
+        combined_totals = defaultdict(float)
+        combined_total_raised = 0.0
+        for cid in candidate_ids:
+            who = verify_candidate(cid)
+            print(f"  Querying candidate ID: {cid}  ->  {who}")
+            totals, total_raised = pull_sector_totals(cid)
+            for k, v in totals.items():
+                combined_totals[k] += v
+            combined_total_raised += total_raised
+            print(f"    Subtotal raised: ${total_raised:,.0f}")
+        entry = format_entry(combined_totals, combined_total_raised)
         output[name] = entry
-        print(f"  Total raised:  ${entry['total_raised']:>12,}")
-        print(f"  AIPAC:         ${entry['aipac']:>12,}")
-        print(f"  Oil/Gas:       ${entry['oil_gas']:>12,}")
-        print(f"  Pharma:        ${entry['pharma']:>12,}")
-        print(f"  Defense:       ${entry['defense']:>12,}")
-        print(f"  Finance:       ${entry['finance']:>12,}")
-        print(f"  Tech:          ${entry['tech']:>12,}")
-        print(f"  Grassroots:    ${entry['grassroots']:>12,}")
+        print(f"\n  COMBINED TOTALS for {name}:")
+        print(f"    Total raised:  ${entry['total_raised']:>12,}")
+        print(f"    AIPAC:         ${entry['aipac']:>12,}")
+        print(f"    Oil/Gas:       ${entry['oil_gas']:>12,}")
+        print(f"    Pharma:        ${entry['pharma']:>12,}")
+        print(f"    Defense:       ${entry['defense']:>12,}")
+        print(f"    Finance:       ${entry['finance']:>12,}")
+        print(f"    Tech:          ${entry['tech']:>12,}")
+        print(f"    Grassroots:    ${entry['grassroots']:>12,}")
 
     print("\n\n========================================")
     print("JSON to MERGE into data/fec.json:")

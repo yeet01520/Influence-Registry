@@ -3811,7 +3811,7 @@
     "special_interest_total": 4799081,
     "grassroots": 78557
   },
-  "Nanette Barragán": {
+  "Nanette Barrag\u00e1n": {
     "candidate_id": "H6CA44103",
     "all_candidate_ids": [
       "H6CA44103"
@@ -4849,7 +4849,7 @@
     "special_interest_total": 8350506,
     "grassroots": 183156
   },
-  "María Elvira Salazar": {
+  "Mar\u00eda Elvira Salazar": {
     "candidate_id": "H8FL27185",
     "all_candidate_ids": [
       "H8FL27185",
@@ -5856,7 +5856,7 @@
     "special_interest_total": 89439,
     "grassroots": 19794
   },
-  "André Carson": {
+  "Andr\u00e9 Carson": {
     "candidate_id": "H8IN07184",
     "all_candidate_ids": [
       "H8IN07184"
@@ -8309,7 +8309,7 @@
     "special_interest_total": 5300752,
     "grassroots": 104470
   },
-  "Nydia Velázquez": {
+  "Nydia Vel\u00e1zquez": {
     "candidate_id": "H2NY00010",
     "all_candidate_ids": [
       "H2NY00010"
@@ -13528,7 +13528,7 @@
     "special_interest_total": 89950,
     "grassroots": 100
   },
-  "Ben Ray Luján": {
+  "Ben Ray Luj\u00e1n": {
     "candidate_id": "S0NM00058",
     "all_candidate_ids": [
       "S0NM00058"
@@ -13552,7 +13552,7 @@
     "special_interest_total": 639893,
     "grassroots": 68044
   },
-  "Linda Sánchez": {
+  "Linda S\u00e1nchez": {
     "candidate_id": "H2CA39078",
     "all_candidate_ids": [
       "H2CA39078"
@@ -13577,7 +13577,7 @@
     "special_interest_total": 6114712,
     "grassroots": 100450
   },
-  "Mario Díaz-Balart": {
+  "Mario D\u00edaz-Balart": {
     "candidate_id": "H2FL25018",
     "all_candidate_ids": [
       "H2FL25018"
@@ -13601,7 +13601,7 @@
     "special_interest_total": 6567797,
     "grassroots": 9847
   },
-  "Carlos Giménez": {
+  "Carlos Gim\u00e9nez": {
     "candidate_id": "H0FL26036",
     "all_candidate_ids": [
       "H0FL26036"
@@ -13652,7 +13652,7 @@
     "special_interest_total": 34983,
     "grassroots": 650
   },
-  "Chuy García": {
+  "Chuy Garc\u00eda": {
     "candidate_id": "H8IL04134",
     "all_candidate_ids": [
       "H8IL04134"
@@ -13676,7 +13676,7 @@
     "special_interest_total": 569377,
     "grassroots": 63400
   },
-  "Pablo Hernández": {
+  "Pablo Hern\u00e1ndez": {
     "candidate_id": "H4PR01010",
     "all_candidate_ids": [
       "H4PR01010"
@@ -13902,5 +13902,29 @@
     "nra": 0,
     "special_interest_total": 2712632,
     "grassroots": 43650
+  },
+  "Marco Rubio": {
+    "aipac": 0,
+    "oil_gas": 0,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 600,
+    "tech": 0,
+    "grassroots": 0,
+    "total_raised": 263699,
+    "cycle": "1990-2024"
+  },
+  "JD Vance": {
+    "aipac": 0,
+    "oil_gas": 0,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "grassroots": 0,
+    "total_raised": 0,
+    "cycle": "1990-2024"
   }
 }

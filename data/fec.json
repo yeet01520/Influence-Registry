@@ -13904,27 +13904,58 @@
     "grassroots": 43650
   },
   "Marco Rubio": {
+    "candidate_id": "S0FL00338",
+    "all_candidate_ids": [
+      "S0FL00338",
+      "P60006723",
+      "H2CA21159"
+    ],
+    "committees": [
+      "C00458844",
+      "C00620518"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 901270,
     "aipac": 0,
-    "oil_gas": 0,
-    "fossil_fuels": 0,
-    "pharma": 0,
-    "defense": 0,
-    "finance": 0,
-    "tech": 729,
-    "grassroots": -50,
-    "total_raised": 150570036,
-    "cycle": "1990-2024"
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 1762314,
+    "pharma": 5304290,
+    "defense": 662871,
+    "finance": 20009177,
+    "tech": 2969835,
+    "nra": 0,
+    "special_interest_total": 30708487,
+    "grassroots": 48443
   },
   "JD Vance": {
+    "candidate_id": "S2OH00436",
+    "all_candidate_ids": [
+      "S2OH00436",
+      "H4NV02136",
+      "P80002496"
+    ],
+    "committees": [
+      "C00783142",
+      "C00772947",
+      "C00564740"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 222496,
     "aipac": 0,
-    "oil_gas": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
     "fossil_fuels": 0,
     "pharma": 0,
     "defense": 0,
     "finance": 0,
     "tech": 0,
-    "grassroots": 1547,
-    "total_raised": 18799448,
-    "cycle": "1990-2024"
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 21114
   }
 }

@@ -1,0 +1,43 @@
+name: Refresh FEC Data (Cabinet Members)
+
+# Run only when manually triggered from the Actions tab
+on:
+  workflow_dispatch:
+
+jobs:
+  refresh-fec:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30   # v7 takes a few minutes per member
+    permissions:
+      contents: write     # needed so the workflow can commit the updated JSON
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run v7 FEC pull for Rubio + Vance
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python3 scripts/run_v7_for_cabinet.py
+
+      - name: Merge into data/fec.json
+        run: python3 scripts/merge_fec_data.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fec.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Refresh FEC data for Rubio and Vance via v7 (auto)"
+            # Pull any commits that landed while we were running, then push
+            git pull --rebase origin main
+            git push
+          fi

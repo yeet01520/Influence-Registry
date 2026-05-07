@@ -1,0 +1,41 @@
+name: Refresh Outside Spending
+
+on:
+  workflow_dispatch:
+
+jobs:
+  refresh-outside-spending:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90   # Schedule E paginates per candidate; conservative upper bound
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install --upgrade pip
+
+      - name: Fetch outside spending for all members
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python3 scripts/fetch_outside_spending.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/outside_spending.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Refresh outside spending (Schedule E) for all members (auto)"
+            git pull --rebase origin main
+            git push origin main
+          fi

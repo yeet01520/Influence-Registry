@@ -13909,10 +13909,10 @@
     "fossil_fuels": 0,
     "pharma": 0,
     "defense": 0,
-    "finance": 2450,
-    "tech": 0,
-    "grassroots": 12066,
-    "total_raised": 445503,
+    "finance": 0,
+    "tech": 729,
+    "grassroots": -50,
+    "total_raised": 150570036,
     "cycle": "1990-2024"
   },
   "JD Vance": {
@@ -13923,8 +13923,8 @@
     "defense": 0,
     "finance": 0,
     "tech": 0,
-    "grassroots": 0,
-    "total_raised": 0,
+    "grassroots": 1547,
+    "total_raised": 18799448,
     "cycle": "1990-2024"
   }
 }

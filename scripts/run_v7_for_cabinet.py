@@ -18,6 +18,7 @@ This wrapper:
 
 import os
 import sys
+import json
 import shutil
 import importlib.util
 
@@ -103,6 +104,99 @@ try:
     print("Running v7 fetch_fec_data.main() for Rubio + Vance")
     print("=" * 70)
     v7.main()
+
+    # ── POST-PROCESS: Patch JD Vance's OpenSecrets data ────────────────────
+    # v7's name matching fails for JD Vance because "JD" gets tokenized
+    # away by _normalize_oil (the >1-char filter), leaving only {vance}
+    # which doesn't meet the 2-token threshold.
+    # Retry with name variants until we find one that matches.
+    if os.path.exists(TARGET_OUTPUT):
+        with open(TARGET_OUTPUT) as f:
+            v7_output = json.load(f)
+
+        if "JD Vance" in v7_output:
+            entry = v7_output["JD Vance"]
+            print("\n  Post-processing JD Vance OpenSecrets matches...")
+
+            # Name variants to try (in order of likelihood)
+            name_variants = [
+                "James David Vance",
+                "James Vance",
+                "James D Vance",
+                "Vance JD",
+                "Vance James",
+            ]
+
+            sector_funcs = {
+                "fossil_fuels": v7.get_oil_amount,
+                "pharma":       v7.get_pharma_amount,
+                "defense":      v7.get_defense_amount,
+                "finance":      v7.get_finance_amount,
+                "tech":         v7.get_tech_amount,
+            }
+
+            for sector, func in sector_funcs.items():
+                if entry.get(sector, 0) == 0:
+                    for variant in name_variants:
+                        amt = func(variant, "OH")
+                        if amt > 0:
+                            entry[sector] = amt
+                            print(f"    {sector}: matched '{variant}' -> ${amt:,}")
+                            break
+                    else:
+                        print(f"    {sector}: no variant matched (still $0)")
+
+            # Also retry AIPAC from TrackAIPAC
+            if entry.get("aipac", 0) == 0:
+                for variant in name_variants:
+                    ta = v7.get_aipac_from_trackaipac(variant)
+                    if ta and ta.get("total", 0) > 0:
+                        entry["aipac"]              = ta["total"]
+                        entry["aipac_pacs"]         = ta["pacs"]
+                        entry["aipac_ie"]           = ta["ie"]
+                        entry["aipac_lobby_donors"] = ta["lobby_donors"]
+                        entry["aipac_sources"]      = ta["sources"]
+                        print(f"    aipac: matched '{variant}' -> ${ta['total']:,}")
+                        break
+                else:
+                    print(f"    aipac: no variant matched (still $0)")
+
+            # Recompute special_interest_total with the patched values
+            entry["special_interest_total"] = sum(
+                entry.get(k, 0) for k in
+                ["aipac", "fossil_fuels", "pharma", "defense", "finance", "tech", "nra"]
+            )
+
+            v7_output["JD Vance"] = entry
+
+        # ── Patch Marco Rubio's AIPAC if it came back zero ─────────────────
+        # Rubio's TrackAIPAC entry exists (~$1M) but may have failed name match
+        if "Marco Rubio" in v7_output:
+            entry = v7_output["Marco Rubio"]
+            if entry.get("aipac", 0) == 0:
+                print("\n  Post-processing Marco Rubio AIPAC match...")
+                rubio_variants = ["Rubio Marco", "Marco A Rubio", "Marco Antonio Rubio"]
+                for variant in rubio_variants:
+                    ta = v7.get_aipac_from_trackaipac(variant)
+                    if ta and ta.get("total", 0) > 0:
+                        entry["aipac"]              = ta["total"]
+                        entry["aipac_pacs"]         = ta["pacs"]
+                        entry["aipac_ie"]           = ta["ie"]
+                        entry["aipac_lobby_donors"] = ta["lobby_donors"]
+                        entry["aipac_sources"]      = ta["sources"]
+                        print(f"    aipac: matched '{variant}' -> ${ta['total']:,}")
+                        # Recompute SI total
+                        entry["special_interest_total"] = sum(
+                            entry.get(k, 0) for k in
+                            ["aipac", "fossil_fuels", "pharma", "defense", "finance", "tech", "nra"]
+                        )
+                        v7_output["Marco Rubio"] = entry
+                        break
+                else:
+                    print(f"    aipac: no variant matched (still $0)")
+
+            with open(TARGET_OUTPUT, "w") as f:
+                json.dump(v7_output, f, indent=2)
 
     # ── Move output to cabinet-specific filename ────────────────────────────
     if os.path.exists(TARGET_OUTPUT):

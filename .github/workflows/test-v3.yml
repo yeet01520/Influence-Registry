@@ -1,0 +1,26 @@
+name: Test v3 Outside Spending Fix
+
+# Runs v3 in --test mode against 3 known senators (Warnock, Kelly, Cotton).
+# No writes. Just prints results so we can verify the is_notice=false fix
+# before committing to a full refetch.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run v3 test mode
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python3 scripts/refetch_outside_spending_v3.py --test

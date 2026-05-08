@@ -154,8 +154,7 @@
   "John Boozman": {
     "candidate_id": "S0AR00150",
     "all_candidate_ids": [
-      "S0AR00150",
-      "H2AR03176"
+      "S0AR00150"
     ],
     "committees": [
       "C00476317",
@@ -406,8 +405,7 @@
   "Jon Ossoff": {
     "candidate_id": "S8GA00180",
     "all_candidate_ids": [
-      "S8GA00180",
-      "H8GA06195"
+      "S8GA00180"
     ],
     "committees": [
       "C00718866",
@@ -580,8 +578,7 @@
   "Tammy Duckworth": {
     "candidate_id": "S6IL00292",
     "all_candidate_ids": [
-      "S6IL00292",
-      "H6IL06141"
+      "S6IL00292"
     ],
     "committees": [
       "C00574889",
@@ -732,9 +729,8 @@
     "grassroots": 31105
   },
   "Roger Marshall": {
-    "candidate_id": "H6KS01179",
+    "candidate_id": "S0KS00315",
     "all_candidate_ids": [
-      "H6KS01179",
       "S0KS00315"
     ],
     "committees": [
@@ -1553,9 +1549,7 @@
   "Ted Budd": {
     "candidate_id": "S2NC00505",
     "all_candidate_ids": [
-      "S2NC00505",
-      "H6IL14145",
-      "P60008844"
+      "S2NC00505"
     ],
     "committees": [
       "C00772889",
@@ -1758,9 +1752,7 @@
   "Jack Reed": {
     "candidate_id": "S6RI00163",
     "all_candidate_ids": [
-      "S6RI00163",
-      "P00012104",
-      "H6UT02150"
+      "S6RI00163"
     ],
     "committees": [
       "C00238907",
@@ -1965,9 +1957,7 @@
   "Ted Cruz": {
     "candidate_id": "S2TX00312",
     "all_candidate_ids": [
-      "S2TX00312",
-      "H0NY00089",
-      "P60006111"
+      "S2TX00312"
     ],
     "committees": [
       "C00492785",
@@ -2069,9 +2059,7 @@
   "Bernie Sanders": {
     "candidate_id": "S4VT00033",
     "all_candidate_ids": [
-      "S4VT00033",
-      "P40002461",
-      "H0CA41052"
+      "S4VT00033"
     ],
     "committees": [
       "C00411330",
@@ -2480,9 +2468,7 @@
   "Barry Moore": {
     "candidate_id": "H8AL02171",
     "all_candidate_ids": [
-      "H8AL02171",
-      "S6AL00476",
-      "P40013161"
+      "H8AL02171"
     ],
     "committees": [
       "C00639096",
@@ -2858,9 +2844,7 @@
   "French Hill": {
     "candidate_id": "H4AR02141",
     "all_candidate_ids": [
-      "H4AR02141",
-      "P40016990",
-      "S0NY00188"
+      "H4AR02141"
     ],
     "committees": [
       "C00551275",
@@ -2887,8 +2871,7 @@
   "Steve Womack": {
     "candidate_id": "H0AR03055",
     "all_candidate_ids": [
-      "H0AR03055",
-      "P80000136"
+      "H0AR03055"
     ],
     "committees": [
       "C00477745"
@@ -3232,8 +3215,7 @@
   "Ro Khanna": {
     "candidate_id": "H4CA12055",
     "all_candidate_ids": [
-      "H4CA12055",
-      "P60015708"
+      "H4CA12055"
     ],
     "committees": [
       "C00392100",
@@ -4677,9 +4659,7 @@
   "Mar\u00eda Elvira Salazar": {
     "candidate_id": "H8FL27185",
     "all_candidate_ids": [
-      "H8FL27185",
-      "P00013011",
-      "S2TX00213"
+      "H8FL27185"
     ],
     "committees": [
       "C00671859",
@@ -4705,9 +4685,7 @@
   "Buddy Carter": {
     "candidate_id": "H4GA01039",
     "all_candidate_ids": [
-      "H4GA01039",
-      "P40009219",
-      "S6CT05108"
+      "H4GA01039"
     ],
     "committees": [
       "C00543967",
@@ -4857,9 +4835,7 @@
   "Austin Scott": {
     "candidate_id": "H0GA08099",
     "all_candidate_ids": [
-      "H0GA08099",
-      "S0KY00453",
-      "P40015224"
+      "H0GA08099"
     ],
     "committees": [
       "C00482737",
@@ -5265,8 +5241,7 @@
   "Raja Krishnamoorthi": {
     "candidate_id": "H6IL08147",
     "all_candidate_ids": [
-      "H6IL08147",
-      "S6IL00482"
+      "H6IL08147"
     ],
     "committees": [
       "C00575092",
@@ -5730,9 +5705,7 @@
   "Ashley Hinson": {
     "candidate_id": "H0IA01174",
     "all_candidate_ids": [
-      "H0IA01174",
-      "S6IA00314",
-      "P60008323"
+      "H0IA01174"
     ],
     "committees": [
       "C00706267",
@@ -5932,9 +5905,7 @@
   "Brett Guthrie": {
     "candidate_id": "H8KY02031",
     "all_candidate_ids": [
-      "H8KY02031",
-      "S6WA00271",
-      "P60003274"
+      "H8KY02031"
     ],
     "committees": [
       "C00445023",
@@ -6035,9 +6006,7 @@
   "Andy Barr": {
     "candidate_id": "H0KY06104",
     "all_candidate_ids": [
-      "H0KY06104",
-      "S6KY00286",
-      "P80005580"
+      "H0KY06104"
     ],
     "committees": [
       "C00467571",
@@ -6111,9 +6080,7 @@
   "Mike Johnson": {
     "candidate_id": "H2LA04020",
     "all_candidate_ids": [
-      "H2LA04020",
-      "S2IN00018",
-      "P80004138"
+      "H2LA04020"
     ],
     "committees": [
       "C00280073",
@@ -6620,8 +6587,7 @@
   "Jack Bergman": {
     "candidate_id": "H6MI01226",
     "all_candidate_ids": [
-      "H6MI01226",
-      "S0CO00294"
+      "H6MI01226"
     ],
     "committees": [
       "C00614214",
@@ -6916,9 +6882,7 @@
   "Angie Craig": {
     "candidate_id": "H6MN02131",
     "all_candidate_ids": [
-      "H6MN02131",
-      "S6MN00499",
-      "P60015021"
+      "H6MN02131"
     ],
     "committees": [
       "C00575209",
@@ -7094,8 +7058,7 @@
   "Trent Kelly": {
     "candidate_id": "H6MS01131",
     "all_candidate_ids": [
-      "H6MS01131",
-      "S0NH00235"
+      "H6MS01131"
     ],
     "committees": [
       "C00573980",
@@ -7171,9 +7134,7 @@
   "Mike Ezell": {
     "candidate_id": "H2MS04258",
     "all_candidate_ids": [
-      "H2MS04258",
-      "P80000698",
-      "S8FL00174"
+      "H2MS04258"
     ],
     "committees": [
       "C00776393",
@@ -7740,9 +7701,7 @@
   "Tom Kean Jr.": {
     "candidate_id": "H0NJ07089",
     "all_candidate_ids": [
-      "H0NJ07089",
-      "S4OR00123",
-      "P80002314"
+      "H0NJ07089"
     ],
     "committees": [
       "C00457929",
@@ -7868,9 +7827,7 @@
   "Gabe Vasquez": {
     "candidate_id": "H2NM02191",
     "all_candidate_ids": [
-      "H2NM02191",
-      "P40012114",
-      "S0AZ00368"
+      "H2NM02191"
     ],
     "committees": [
       "C00789404",
@@ -8897,9 +8854,7 @@
   "Dave Joyce": {
     "candidate_id": "H2OH03125",
     "all_candidate_ids": [
-      "H2OH03125",
-      "S4CO00197",
-      "P40008724"
+      "H2OH03125"
     ],
     "committees": [
       "C00507368",
@@ -9547,9 +9502,7 @@
   "Gabe Amo": {
     "candidate_id": "H4RI01265",
     "all_candidate_ids": [
-      "H4RI01265",
-      "S0NV00237",
-      "P60013984"
+      "H4RI01265"
     ],
     "committees": [
       "C00838060",
@@ -10075,9 +10028,7 @@
   "Lizzie Fletcher": {
     "candidate_id": "H8TX08023",
     "all_candidate_ids": [
-      "H8TX08023",
-      "P60003746",
-      "S8WV00101"
+      "H8TX08023"
     ],
     "committees": [
       "C00082180",
@@ -10128,9 +10079,7 @@
   "Al Green": {
     "candidate_id": "H4TX09095",
     "all_candidate_ids": [
-      "H4TX09095",
-      "P80001225",
-      "S0SC00198"
+      "H4TX09095"
     ],
     "committees": [
       "C00396028",
@@ -10438,9 +10387,7 @@
   "Tony Gonzales": {
     "candidate_id": "H0TX35015",
     "all_candidate_ids": [
-      "H0TX35015",
-      "P40016164",
-      "S6CO00499"
+      "H0TX35015"
     ],
     "committees": [
       "C00717785",
@@ -10990,9 +10937,7 @@
   "Morgan Griffith": {
     "candidate_id": "H0VA09055",
     "all_candidate_ids": [
-      "H0VA09055",
-      "P60022118",
-      "S2NC00448"
+      "H0VA09055"
     ],
     "committees": [
       "C00477240",
@@ -11022,9 +10967,7 @@
   "Bobby Scott": {
     "candidate_id": "H2VA10026",
     "all_candidate_ids": [
-      "H2VA10026",
-      "S0KY00453",
-      "P40015224"
+      "H2VA10026"
     ],
     "committees": [
       "C00150227",
@@ -11835,9 +11778,7 @@
   "Gabe Evans": {
     "candidate_id": "H2CO05075",
     "all_candidate_ids": [
-      "H2CO05075",
-      "S8NJ00376",
-      "P80000821"
+      "H2CO05075"
     ],
     "committees": [
       "C00497230",
@@ -12191,9 +12132,7 @@
   "Nellie Pou": {
     "candidate_id": "H4NJ09194",
     "all_candidate_ids": [
-      "H4NJ09194",
-      "S2CO00126",
-      "P60013836"
+      "H4NJ09194"
     ],
     "committees": [
       "C00887547",

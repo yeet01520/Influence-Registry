@@ -88,7 +88,7 @@
         "amount": 11400
       }
     ],
-    "fetched_at": "2026-05-08T00:09:16.083201+00:00"
+    "fetched_at": "2026-05-08T01:20:24.893009+00:00"
   },
   "Lisa Murkowski": {
     "candidate_ids_used": [
@@ -213,7 +213,7 @@
         "amount": 240403
       }
     ],
-    "fetched_at": "2026-05-07T23:52:57.118341+00:00"
+    "fetched_at": "2026-05-08T01:02:43.690589+00:00"
   },
   "Mark Kelly": {
     "candidate_ids_used": [
@@ -282,7 +282,7 @@
         "amount": 164591
       }
     ],
-    "fetched_at": "2026-05-08T00:13:53.341670+00:00"
+    "fetched_at": "2026-05-08T01:25:48.446407+00:00"
   },
   "Ruben Gallego": {
     "candidate_ids_used": [
@@ -348,7 +348,7 @@
         "amount": 622
       }
     ],
-    "fetched_at": "2026-05-08T00:25:14.371464+00:00"
+    "fetched_at": "2026-05-08T01:41:28.448709+00:00"
   },
   "John Boozman": {
     "candidate_ids_used": [
@@ -471,7 +471,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:46:51.891467+00:00"
+    "fetched_at": "2026-05-08T00:54:54.822379+00:00"
   },
   "Adam Schiff": {
     "candidate_ids_used": [
@@ -506,7 +506,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:46:45.822270+00:00"
+    "fetched_at": "2026-05-08T00:54:44.684838+00:00"
   },
   "Michael Bennet": {
     "candidate_ids_used": [
@@ -553,7 +553,7 @@
         "amount": 260460057
       }
     ],
-    "fetched_at": "2026-05-08T00:16:20.270095+00:00"
+    "fetched_at": "2026-05-08T01:30:08.241748+00:00"
   },
   "John Hickenlooper": {
     "candidate_ids_used": [
@@ -611,7 +611,7 @@
         "amount": 49764
       }
     ],
-    "fetched_at": "2026-05-08T00:06:26.081215+00:00"
+    "fetched_at": "2026-05-08T01:16:52.208763+00:00"
   },
   "Richard Blumenthal": {
     "candidate_ids_used": [
@@ -678,7 +678,7 @@
         "amount": 32000
       }
     ],
-    "fetched_at": "2026-05-08T00:22:44.417729+00:00"
+    "fetched_at": "2026-05-08T01:38:32.497675+00:00"
   },
   "Chris Murphy": {
     "candidate_ids_used": [
@@ -748,7 +748,7 @@
         "amount": 15724
       }
     ],
-    "fetched_at": "2026-05-07T23:50:35.832479+00:00"
+    "fetched_at": "2026-05-08T01:00:24.191988+00:00"
   },
   "Chris Coons": {
     "candidate_ids_used": [
@@ -816,7 +816,7 @@
         "amount": 1300
       }
     ],
-    "fetched_at": "2026-05-07T23:50:32.228999+00:00"
+    "fetched_at": "2026-05-08T01:00:19.145478+00:00"
   },
   "Rick Scott": {
     "candidate_ids_used": [
@@ -836,7 +836,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:23:12.074543+00:00"
+    "fetched_at": "2026-05-08T01:39:11.040026+00:00"
   },
   "Jon Ossoff": {
     "candidate_ids_used": [
@@ -1001,7 +1001,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:49:05.186486+00:00"
+    "fetched_at": "2026-05-08T00:58:30.601698+00:00"
   },
   "Mazie Hirono": {
     "candidate_ids_used": [
@@ -1055,7 +1055,7 @@
         "amount": 500000
       }
     ],
-    "fetched_at": "2026-05-08T00:15:09.572476+00:00"
+    "fetched_at": "2026-05-08T01:28:04.181458+00:00"
   },
   "Mike Crapo": {
     "candidate_ids_used": [
@@ -1105,7 +1105,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-05-08T00:16:55.812005+00:00"
+    "fetched_at": "2026-05-08T01:30:57.537038+00:00"
   },
   "James Risch": {
     "candidate_ids_used": [
@@ -1229,7 +1229,7 @@
         "amount": 16463
       }
     ],
-    "fetched_at": "2026-05-07T23:54:33.268034+00:00"
+    "fetched_at": "2026-05-08T01:04:10.772285+00:00"
   },
   "Tammy Duckworth": {
     "candidate_ids_used": [
@@ -1398,7 +1398,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:05:50.262874+00:00"
+    "fetched_at": "2026-05-08T01:16:07.493278+00:00"
   },
   "Chuck Grassley": {
     "candidate_ids_used": [
@@ -1422,7 +1422,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:51:41.193268+00:00"
+    "fetched_at": "2026-05-08T01:02:00.572784+00:00"
   },
   "Joni Ernst": {
     "candidate_ids_used": [
@@ -1491,7 +1491,7 @@
         "amount": 55860
       }
     ],
-    "fetched_at": "2026-05-08T00:08:34.146876+00:00"
+    "fetched_at": "2026-05-08T01:19:29.464768+00:00"
   },
   "Jerry Moran": {
     "candidate_ids_used": [
@@ -1546,20 +1546,15 @@
         "amount": 1723
       }
     ],
-    "fetched_at": "2026-05-08T00:05:47.252837+00:00"
+    "fetched_at": "2026-05-08T01:16:03.844779+00:00"
   },
   "Roger Marshall": {
     "candidate_ids_used": [
-      "H6KS01179",
       "S0KS00315"
     ],
-    "total_supporting": 2352124,
-    "total_opposing": 859209,
+    "total_supporting": 1283883,
+    "total_opposing": 0,
     "cycles": [
-      2016,
-      2018,
-      2019,
-      2020,
       2025,
       2026
     ],
@@ -1570,54 +1565,13 @@
         "amount": 1066911
       },
       {
-        "committee_id": "C00489856",
-        "committee_name": "ESAFUND",
-        "amount": 645232
-      },
-      {
-        "committee_id": "C00569582",
-        "committee_name": "KANSAS AG COMMUNITIES COALITION",
-        "amount": 265080
-      },
-      {
         "committee_id": "C00524181",
         "committee_name": "SENATE CONSERVATIVES ACTION",
         "amount": 216972
-      },
-      {
-        "committee_id": "C00000422",
-        "committee_name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
-        "amount": 49565
       }
     ],
-    "top_opposers": [
-      {
-        "committee_id": "C00686246",
-        "committee_name": "KANSAS FARMERS FUND",
-        "amount": 749129
-      },
-      {
-        "committee_id": "C00418897",
-        "committee_name": "VOTEVETS",
-        "amount": 100000
-      },
-      {
-        "committee_id": "C00481200",
-        "committee_name": "NATIONAL ASSOCIATION FOR GUN RIGHTS INC PAC",
-        "amount": 6347
-      },
-      {
-        "committee_id": "C90015025",
-        "committee_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
-        "amount": 1723
-      },
-      {
-        "committee_id": "C00522458",
-        "committee_name": "TOGETHER WE THRIVE",
-        "amount": 1500
-      }
-    ],
-    "fetched_at": "2026-05-08T00:23:33.027015+00:00"
+    "top_opposers": [],
+    "fetched_at": "2026-05-08T01:39:37.264931+00:00"
   },
   "Mitch McConnell": {
     "candidate_ids_used": [
@@ -1670,7 +1624,7 @@
         "amount": 963435
       }
     ],
-    "fetched_at": "2026-05-08T00:21:19.153235+00:00"
+    "fetched_at": "2026-05-08T01:36:20.745721+00:00"
   },
   "Rand Paul": {
     "candidate_ids_used": [
@@ -1690,7 +1644,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:22:23.040529+00:00"
+    "fetched_at": "2026-05-08T01:38:02.975714+00:00"
   },
   "Bill Cassidy": {
     "candidate_ids_used": [
@@ -1733,7 +1687,7 @@
         "amount": 99999
       }
     ],
-    "fetched_at": "2026-05-07T23:48:14.048968+00:00"
+    "fetched_at": "2026-05-08T00:57:26.136266+00:00"
   },
   "John Kennedy": {
     "candidate_ids_used": [
@@ -1779,7 +1733,7 @@
         "amount": 7350
       }
     ],
-    "fetched_at": "2026-05-08T00:06:36.966336+00:00"
+    "fetched_at": "2026-05-08T01:17:06.936528+00:00"
   },
   "Susan Collins": {
     "candidate_ids_used": [
@@ -1835,7 +1789,7 @@
         "amount": 1956
       }
     ],
-    "fetched_at": "2026-05-08T00:28:49.259245+00:00"
+    "fetched_at": "2026-05-08T01:45:57.434674+00:00"
   },
   "Angus King": {
     "candidate_ids_used": [
@@ -1898,7 +1852,7 @@
         "amount": 24179
       }
     ],
-    "fetched_at": "2026-05-07T23:47:28.368893+00:00"
+    "fetched_at": "2026-05-08T00:55:51.672881+00:00"
   },
   "Angela Alsobrooks": {
     "candidate_ids_used": [
@@ -2018,7 +1972,7 @@
         "amount": 2946420
       }
     ],
-    "fetched_at": "2026-05-07T23:59:17.595862+00:00"
+    "fetched_at": "2026-05-08T01:09:15.103948+00:00"
   },
   "Ed Markey": {
     "candidate_ids_used": [
@@ -2067,7 +2021,7 @@
         "amount": 8135455
       }
     ],
-    "fetched_at": "2026-05-07T23:56:11.366728+00:00"
+    "fetched_at": "2026-05-08T01:05:35.906013+00:00"
   },
   "Gary Peters": {
     "candidate_ids_used": [
@@ -2129,7 +2083,7 @@
         "amount": 286822
       }
     ],
-    "fetched_at": "2026-05-08T00:02:30.867809+00:00"
+    "fetched_at": "2026-05-08T01:12:42.286100+00:00"
   },
   "Elissa Slotkin": {
     "candidate_ids_used": [
@@ -2195,7 +2149,7 @@
         "amount": 100020
       }
     ],
-    "fetched_at": "2026-05-07T23:56:39.503739+00:00"
+    "fetched_at": "2026-05-08T01:06:17.794725+00:00"
   },
   "Amy Klobuchar": {
     "candidate_ids_used": [
@@ -2234,7 +2188,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:47:02.699678+00:00"
+    "fetched_at": "2026-05-08T00:55:09.020490+00:00"
   },
   "Tina Smith": {
     "candidate_ids_used": [
@@ -2355,7 +2309,7 @@
         "amount": 561
       }
     ],
-    "fetched_at": "2026-05-08T00:23:36.797054+00:00"
+    "fetched_at": "2026-05-08T01:39:42.252552+00:00"
   },
   "Cindy Hyde-Smith": {
     "candidate_ids_used": [
@@ -2446,7 +2400,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:08:52.716804+00:00"
+    "fetched_at": "2026-05-08T01:19:55.573834+00:00"
   },
   "Eric Schmitt": {
     "candidate_ids_used": [
@@ -2471,7 +2425,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:59:32.618222+00:00"
+    "fetched_at": "2026-05-08T01:09:35.695450+00:00"
   },
   "Steve Daines": {
     "candidate_ids_used": [
@@ -2538,7 +2492,7 @@
         "amount": 47228
       }
     ],
-    "fetched_at": "2026-05-08T00:27:20.588066+00:00"
+    "fetched_at": "2026-05-08T01:44:12.099236+00:00"
   },
   "Tim Sheehy": {
     "candidate_ids_used": [
@@ -2665,7 +2619,7 @@
         "amount": 500000
       }
     ],
-    "fetched_at": "2026-05-07T23:54:10.914850+00:00"
+    "fetched_at": "2026-05-08T01:03:41.673795+00:00"
   },
   "Pete Ricketts": {
     "candidate_ids_used": [
@@ -2714,7 +2668,7 @@
         "amount": 431
       }
     ],
-    "fetched_at": "2026-05-08T00:21:57.540570+00:00"
+    "fetched_at": "2026-05-08T01:37:28.425779+00:00"
   },
   "Jacky Rosen": {
     "candidate_ids_used": [
@@ -2770,7 +2724,7 @@
         "amount": 16109
       }
     ],
-    "fetched_at": "2026-05-08T00:04:08.126062+00:00"
+    "fetched_at": "2026-05-08T01:14:31.017799+00:00"
   },
   "Catherine Cortez Masto": {
     "candidate_ids_used": [
@@ -2838,7 +2792,7 @@
         "amount": 294088
       }
     ],
-    "fetched_at": "2026-05-07T23:50:11.786106+00:00"
+    "fetched_at": "2026-05-08T00:59:50.200360+00:00"
   },
   "Jeanne Shaheen": {
     "candidate_ids_used": [
@@ -2868,7 +2822,7 @@
         "amount": 2453452
       }
     ],
-    "fetched_at": "2026-05-08T00:05:38.871876+00:00"
+    "fetched_at": "2026-05-08T01:15:53.307631+00:00"
   },
   "Maggie Hassan": {
     "candidate_ids_used": [
@@ -2887,7 +2841,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:10:26.744364+00:00"
+    "fetched_at": "2026-05-08T01:22:01.609793+00:00"
   },
   "Cory Booker": {
     "candidate_ids_used": [
@@ -2957,7 +2911,7 @@
         "amount": 6885
       }
     ],
-    "fetched_at": "2026-05-07T23:51:51.877140+00:00"
+    "fetched_at": "2026-05-08T01:02:13.699444+00:00"
   },
   "Andy Kim": {
     "candidate_ids_used": [
@@ -3003,7 +2957,7 @@
         "amount": 649577
       }
     ],
-    "fetched_at": "2026-05-07T23:47:19.953172+00:00"
+    "fetched_at": "2026-05-08T00:55:32.372901+00:00"
   },
   "Martin Heinrich": {
     "candidate_ids_used": [
@@ -3063,7 +3017,7 @@
         "amount": 1476000
       }
     ],
-    "fetched_at": "2026-05-08T00:14:46.428662+00:00"
+    "fetched_at": "2026-05-08T01:27:36.838061+00:00"
   },
   "Chuck Schumer": {
     "candidate_ids_used": [
@@ -3134,7 +3088,7 @@
         "amount": 396
       }
     ],
-    "fetched_at": "2026-05-07T23:51:42.921295+00:00"
+    "fetched_at": "2026-05-08T01:02:02.369411+00:00"
   },
   "Kirsten Gillibrand": {
     "candidate_ids_used": [
@@ -3193,7 +3147,7 @@
         "amount": 44272
       }
     ],
-    "fetched_at": "2026-05-08T00:09:28.815964+00:00"
+    "fetched_at": "2026-05-08T01:20:42.249951+00:00"
   },
   "Thom Tillis": {
     "candidate_ids_used": [
@@ -3424,7 +3378,7 @@
         "amount": 1092
       }
     ],
-    "fetched_at": "2026-05-08T00:09:22.600291+00:00"
+    "fetched_at": "2026-05-08T01:20:34.285575+00:00"
   },
   "Bernie Moreno": {
     "candidate_ids_used": [
@@ -3449,7 +3403,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:48:04.608931+00:00"
+    "fetched_at": "2026-05-08T00:57:13.018051+00:00"
   },
   "James Lankford": {
     "candidate_ids_used": [
@@ -3517,7 +3471,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-05-08T00:04:11.033036+00:00"
+    "fetched_at": "2026-05-08T01:14:34.719308+00:00"
   },
   "Ron Wyden": {
     "candidate_ids_used": [
@@ -3549,7 +3503,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:24:54.943695+00:00"
+    "fetched_at": "2026-05-08T01:41:02.590375+00:00"
   },
   "Jeff Merkley": {
     "candidate_ids_used": [
@@ -3683,7 +3637,7 @@
         "amount": 789719
       }
     ],
-    "fetched_at": "2026-05-07T23:53:23.483743+00:00"
+    "fetched_at": "2026-05-08T01:03:20.801841+00:00"
   },
   "Jack Reed": {
     "candidate_ids_used": [
@@ -3851,7 +3805,7 @@
         "amount": 165905
       }
     ],
-    "fetched_at": "2026-05-08T00:09:57.533673+00:00"
+    "fetched_at": "2026-05-08T01:21:22.074719+00:00"
   },
   "Tim Scott": {
     "candidate_ids_used": [
@@ -3947,7 +3901,7 @@
         "amount": 2585
       }
     ],
-    "fetched_at": "2026-05-08T00:07:28.005416+00:00"
+    "fetched_at": "2026-05-08T01:18:08.595193+00:00"
   },
   "Mike Rounds": {
     "candidate_ids_used": [
@@ -4050,7 +4004,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:48:17.964580+00:00"
+    "fetched_at": "2026-05-08T00:57:30.868868+00:00"
   },
   "Marsha Blackburn": {
     "candidate_ids_used": [
@@ -4117,7 +4071,7 @@
         "amount": 2038
       }
     ],
-    "fetched_at": "2026-05-08T00:14:07.735684+00:00"
+    "fetched_at": "2026-05-08T01:26:40.506926+00:00"
   },
   "Ted Cruz": {
     "candidate_ids_used": [
@@ -4266,7 +4220,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:17:18.282932+00:00"
+    "fetched_at": "2026-05-08T01:31:25.754851+00:00"
   },
   "John Curtis": {
     "candidate_ids_used": [
@@ -4316,7 +4270,7 @@
         "amount": 27293
       }
     ],
-    "fetched_at": "2026-05-08T00:06:17.267732+00:00"
+    "fetched_at": "2026-05-08T01:16:40.113253+00:00"
   },
   "Bernie Sanders": {
     "candidate_ids_used": [
@@ -4408,7 +4362,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:22:06.700598+00:00"
+    "fetched_at": "2026-05-08T01:37:40.647203+00:00"
   },
   "Mark Warner": {
     "candidate_ids_used": [
@@ -4481,7 +4435,7 @@
         "amount": 66500
       }
     ],
-    "fetched_at": "2026-05-08T00:13:55.108315+00:00"
+    "fetched_at": "2026-05-08T01:25:50.709256+00:00"
   },
   "Tim Kaine": {
     "candidate_ids_used": [
@@ -4600,7 +4554,7 @@
         "amount": 300
       }
     ],
-    "fetched_at": "2026-05-08T00:21:56.090330+00:00"
+    "fetched_at": "2026-05-08T01:37:26.665063+00:00"
   },
   "Maria Cantwell": {
     "candidate_ids_used": [
@@ -4654,7 +4608,7 @@
         "amount": 3000
       }
     ],
-    "fetched_at": "2026-05-08T00:10:30.781024+00:00"
+    "fetched_at": "2026-05-08T01:22:06.776327+00:00"
   },
   "Shelley Moore Capito": {
     "candidate_ids_used": [
@@ -4704,7 +4658,7 @@
         "amount": 1723
       }
     ],
-    "fetched_at": "2026-05-08T00:26:54.647208+00:00"
+    "fetched_at": "2026-05-08T01:43:36.168202+00:00"
   },
   "Jim Justice": {
     "candidate_ids_used": [
@@ -4799,7 +4753,7 @@
         "amount": 4079
       }
     ],
-    "fetched_at": "2026-05-08T00:30:15.807516+00:00"
+    "fetched_at": "2026-05-08T01:48:04.510671+00:00"
   },
   "Ron Johnson": {
     "candidate_ids_used": [
@@ -4819,7 +4773,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:24:53.437092+00:00"
+    "fetched_at": "2026-05-08T01:41:00.716071+00:00"
   },
   "John Barrasso": {
     "candidate_ids_used": [
@@ -4900,7 +4854,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:52:09.171791+00:00"
+    "fetched_at": "2026-05-08T01:02:24.831896+00:00"
   },
   "Lisa Blunt Rochester": {
     "candidate_ids_used": [
@@ -4940,7 +4894,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:09:58.918128+00:00"
+    "fetched_at": "2026-05-08T01:21:23.721829+00:00"
   },
   "Ashley Moody": {
     "candidate_ids_used": [
@@ -4981,7 +4935,7 @@
         "amount": 125400
       }
     ],
-    "fetched_at": "2026-05-07T23:47:41.380092+00:00"
+    "fetched_at": "2026-05-08T00:56:09.604272+00:00"
   },
   "Alan Armstrong": {
     "candidate_ids_used": [
@@ -4996,7 +4950,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:46:50.377390+00:00"
+    "fetched_at": "2026-05-08T00:54:52.949424+00:00"
   },
   "Jon Husted": {
     "candidate_ids_used": [
@@ -5037,7 +4991,7 @@
         "amount": 6585
       }
     ],
-    "fetched_at": "2026-05-08T00:07:30.864982+00:00"
+    "fetched_at": "2026-05-08T01:18:11.974043+00:00"
   },
   "Barry Moore": {
     "candidate_ids_used": [
@@ -5142,7 +5096,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-05-08T00:17:31.748564+00:00"
+    "fetched_at": "2026-05-08T01:31:43.163032+00:00"
   },
   "Robert Aderholt": {
     "candidate_ids_used": [
@@ -5219,7 +5173,7 @@
         "amount": 112727
       }
     ],
-    "fetched_at": "2026-05-07T23:52:42.707955+00:00"
+    "fetched_at": "2026-05-08T01:02:26.566710+00:00"
   },
   "Gary Palmer": {
     "candidate_ids_used": [
@@ -5274,7 +5228,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-05-07T23:59:41.379632+00:00"
+    "fetched_at": "2026-05-08T01:09:44.684302+00:00"
   },
   "Terri Sewell": {
     "candidate_ids_used": [
@@ -5458,7 +5412,7 @@
         "amount": 3356
       }
     ],
-    "fetched_at": "2026-05-07T23:56:22.913299+00:00"
+    "fetched_at": "2026-05-08T01:05:51.800377+00:00"
   },
   "Yassamin Ansari": {
     "candidate_ids_used": [
@@ -5565,7 +5519,7 @@
         "amount": 29675
       }
     ],
-    "fetched_at": "2026-05-08T00:02:39.989856+00:00"
+    "fetched_at": "2026-05-08T01:12:54.306388+00:00"
   },
   "Andy Biggs": {
     "candidate_ids_used": [
@@ -5605,7 +5559,7 @@
         "amount": 26429
       }
     ],
-    "fetched_at": "2026-05-07T23:47:12.812146+00:00"
+    "fetched_at": "2026-05-08T00:55:22.227675+00:00"
   },
   "Juan Ciscomani": {
     "candidate_ids_used": [
@@ -6064,7 +6018,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:05:12.021512+00:00"
+    "fetched_at": "2026-05-08T01:15:16.840042+00:00"
   },
   "Kevin Kiley": {
     "candidate_ids_used": [
@@ -6133,7 +6087,7 @@
         "amount": 461
       }
     ],
-    "fetched_at": "2026-05-08T00:09:25.659954+00:00"
+    "fetched_at": "2026-05-08T01:20:38.131493+00:00"
   },
   "Mike Thompson": {
     "candidate_ids_used": [
@@ -6188,7 +6142,7 @@
         "amount": 131492
       }
     ],
-    "fetched_at": "2026-05-08T00:17:39.243036+00:00"
+    "fetched_at": "2026-05-08T01:31:53.701458+00:00"
   },
   "Tom McClintock": {
     "candidate_ids_used": [
@@ -6352,7 +6306,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:56:00.388050+00:00"
+    "fetched_at": "2026-05-08T01:05:21.396031+00:00"
   },
   "John Garamendi": {
     "candidate_ids_used": [
@@ -6619,7 +6573,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:09:27.248775+00:00"
+    "fetched_at": "2026-05-08T01:20:40.332950+00:00"
   },
   "Ro Khanna": {
     "candidate_ids_used": [
@@ -6821,7 +6775,7 @@
         "amount": 13654
       }
     ],
-    "fetched_at": "2026-05-08T00:05:54.153871+00:00"
+    "fetched_at": "2026-05-08T01:16:12.339757+00:00"
   },
   "David Valadao": {
     "candidate_ids_used": [
@@ -7035,7 +6989,7 @@
         "amount": 13654
       }
     ],
-    "fetched_at": "2026-05-08T00:22:33.032975+00:00"
+    "fetched_at": "2026-05-08T01:38:16.142106+00:00"
   },
   "Julia Brownley": {
     "candidate_ids_used": [
@@ -7121,7 +7075,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:09:05.031569+00:00"
+    "fetched_at": "2026-05-08T01:20:11.148350+00:00"
   },
   "Jimmy Gomez": {
     "candidate_ids_used": [
@@ -7166,7 +7120,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:06:06.936409+00:00"
+    "fetched_at": "2026-05-08T01:16:27.266679+00:00"
   },
   "Ted Lieu": {
     "candidate_ids_used": [
@@ -7517,7 +7471,7 @@
         "amount": 10000
       }
     ],
-    "fetched_at": "2026-05-08T00:15:04.422049+00:00"
+    "fetched_at": "2026-05-08T01:28:00.160899+00:00"
   },
   "Nanette Barrag\u00e1n": {
     "candidate_ids_used": [
@@ -7702,7 +7656,7 @@
         "amount": 45515
       }
     ],
-    "fetched_at": "2026-05-08T00:17:30.276552+00:00"
+    "fetched_at": "2026-05-08T01:31:41.366852+00:00"
   },
   "Scott Peters": {
     "candidate_ids_used": [
@@ -7732,7 +7686,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:25:56.793658+00:00"
+    "fetched_at": "2026-05-08T01:43:00.951826+00:00"
   },
   "Sara Jacobs": {
     "candidate_ids_used": [
@@ -7786,7 +7740,7 @@
         "amount": 100000
       }
     ],
-    "fetched_at": "2026-05-08T00:25:21.727446+00:00"
+    "fetched_at": "2026-05-08T01:41:38.468362+00:00"
   },
   "Juan Vargas": {
     "candidate_ids_used": [
@@ -7966,7 +7920,7 @@
         "amount": 129870
       }
     ],
-    "fetched_at": "2026-05-08T00:05:41.438196+00:00"
+    "fetched_at": "2026-05-08T01:15:57.057169+00:00"
   },
   "Jason Crow": {
     "candidate_ids_used": [
@@ -8011,7 +7965,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:05:25.777930+00:00"
+    "fetched_at": "2026-05-08T01:15:35.542122+00:00"
   },
   "Brittany Pettersen": {
     "candidate_ids_used": [
@@ -8116,7 +8070,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:06:38.415320+00:00"
+    "fetched_at": "2026-05-08T01:17:08.667413+00:00"
   },
   "Joe Courtney": {
     "candidate_ids_used": [
@@ -8410,7 +8364,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:25:23.163455+00:00"
+    "fetched_at": "2026-05-08T01:41:40.123856+00:00"
   },
   "Neal Dunn": {
     "candidate_ids_used": [
@@ -8474,7 +8428,7 @@
         "amount": 1655
       }
     ],
-    "fetched_at": "2026-05-08T00:21:41.832857+00:00"
+    "fetched_at": "2026-05-08T01:37:04.883057+00:00"
   },
   "Kat Cammack": {
     "candidate_ids_used": [
@@ -8539,7 +8493,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:46:14.244637+00:00"
+    "fetched_at": "2026-05-08T00:53:38.219173+00:00"
   },
   "John Rutherford": {
     "candidate_ids_used": [
@@ -8568,7 +8522,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:07:24.317098+00:00"
+    "fetched_at": "2026-05-08T01:18:03.145781+00:00"
   },
   "Cory Mills": {
     "candidate_ids_used": [
@@ -8608,7 +8562,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:51:53.286017+00:00"
+    "fetched_at": "2026-05-08T01:02:15.348340+00:00"
   },
   "Darren Soto": {
     "candidate_ids_used": [
@@ -8652,7 +8606,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:53:08.192254+00:00"
+    "fetched_at": "2026-05-08T01:03:00.160620+00:00"
   },
   "Maxwell Frost": {
     "candidate_ids_used": [
@@ -8694,7 +8648,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:15:07.801114+00:00"
+    "fetched_at": "2026-05-08T01:28:02.021699+00:00"
   },
   "Daniel Webster": {
     "candidate_ids_used": [
@@ -8766,7 +8720,7 @@
         "amount": 15292
       }
     ],
-    "fetched_at": "2026-05-07T23:53:00.617843+00:00"
+    "fetched_at": "2026-05-08T01:02:48.365585+00:00"
   },
   "Gus Bilirakis": {
     "candidate_ids_used": [
@@ -8831,7 +8785,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:47:37.182240+00:00"
+    "fetched_at": "2026-05-08T00:56:04.003294+00:00"
   },
   "Kathy Castor": {
     "candidate_ids_used": [
@@ -8880,7 +8834,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:09:12.034887+00:00"
+    "fetched_at": "2026-05-08T01:20:19.755580+00:00"
   },
   "Laurel Lee": {
     "candidate_ids_used": [
@@ -8931,7 +8885,7 @@
         "amount": 29564
       }
     ],
-    "fetched_at": "2026-05-08T00:09:42.681312+00:00"
+    "fetched_at": "2026-05-08T01:21:01.009213+00:00"
   },
   "Vern Buchanan": {
     "candidate_ids_used": [
@@ -9088,7 +9042,7 @@
         "amount": 12000
       }
     ],
-    "fetched_at": "2026-05-08T00:25:40.197372+00:00"
+    "fetched_at": "2026-05-08T01:42:05.775988+00:00"
   },
   "Byron Donalds": {
     "candidate_ids_used": [
@@ -9137,7 +9091,7 @@
         "amount": 140000
       }
     ],
-    "fetched_at": "2026-05-07T23:49:14.566354+00:00"
+    "fetched_at": "2026-05-08T00:58:43.405672+00:00"
   },
   "Sheila Cherfilus-McCormick": {
     "candidate_ids_used": [
@@ -9197,7 +9151,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:49:03.602376+00:00"
+    "fetched_at": "2026-05-08T00:58:28.622162+00:00"
   },
   "Lois Frankel": {
     "candidate_ids_used": [
@@ -9268,7 +9222,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:05:14.623343+00:00"
+    "fetched_at": "2026-05-08T01:15:21.445256+00:00"
   },
   "Frederica Wilson": {
     "candidate_ids_used": [
@@ -9314,7 +9268,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:59:37.089491+00:00"
+    "fetched_at": "2026-05-08T01:09:41.409696+00:00"
   },
   "Debbie Wasserman Schultz": {
     "candidate_ids_used": [
@@ -9385,7 +9339,7 @@
         "amount": 2600
       }
     ],
-    "fetched_at": "2026-05-07T23:54:13.752520+00:00"
+    "fetched_at": "2026-05-08T01:03:45.403638+00:00"
   },
   "Mar\u00eda Elvira Salazar": {
     "candidate_ids_used": [
@@ -9665,7 +9619,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:21:44.972142+00:00"
+    "fetched_at": "2026-05-08T01:37:08.328061+00:00"
   },
   "Rich McCormick": {
     "candidate_ids_used": [
@@ -9727,7 +9681,7 @@
         "amount": 768
       }
     ],
-    "fetched_at": "2026-05-08T00:22:41.663033+00:00"
+    "fetched_at": "2026-05-08T01:38:29.003721+00:00"
   },
   "Lucy McBath": {
     "candidate_ids_used": [
@@ -9885,7 +9839,7 @@
         "amount": 133320
       }
     ],
-    "fetched_at": "2026-05-07T23:47:09.221491+00:00"
+    "fetched_at": "2026-05-08T00:55:17.445509+00:00"
   },
   "Mike Collins": {
     "candidate_ids_used": [
@@ -9939,7 +9893,7 @@
         "amount": 400162
       }
     ],
-    "fetched_at": "2026-05-08T00:16:54.367720+00:00"
+    "fetched_at": "2026-05-08T01:30:55.845162+00:00"
   },
   "Barry Loudermilk": {
     "candidate_ids_used": [
@@ -10070,7 +10024,7 @@
         "amount": 521090
       }
     ],
-    "fetched_at": "2026-05-08T00:22:51.870666+00:00"
+    "fetched_at": "2026-05-08T01:38:42.510982+00:00"
   },
   "David Scott": {
     "candidate_ids_used": [
@@ -10126,7 +10080,7 @@
         "amount": 56045
       }
     ],
-    "fetched_at": "2026-05-07T23:53:31.680523+00:00"
+    "fetched_at": "2026-05-08T01:03:32.075210+00:00"
   },
   "Ed Case": {
     "candidate_ids_used": [
@@ -10169,7 +10123,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:56:03.294405+00:00"
+    "fetched_at": "2026-05-08T01:05:24.855436+00:00"
   },
   "Jill Tokuda": {
     "candidate_ids_used": [
@@ -10323,7 +10277,7 @@
         "amount": 3407
       }
     ],
-    "fetched_at": "2026-05-08T00:17:36.631617+00:00"
+    "fetched_at": "2026-05-08T01:31:49.790152+00:00"
   },
   "Jonathan Jackson": {
     "candidate_ids_used": [
@@ -10357,7 +10311,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:07:42.296823+00:00"
+    "fetched_at": "2026-05-08T01:18:14.635550+00:00"
   },
   "Robin Kelly": {
     "candidate_ids_used": [
@@ -10392,7 +10346,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:23:22.926552+00:00"
+    "fetched_at": "2026-05-08T01:39:25.583700+00:00"
   },
   "Delia Ramirez": {
     "candidate_ids_used": [
@@ -10453,7 +10407,7 @@
         "amount": 116760
       }
     ],
-    "fetched_at": "2026-05-07T23:54:18.020563+00:00"
+    "fetched_at": "2026-05-08T01:03:50.437394+00:00"
   },
   "Mike Quigley": {
     "candidate_ids_used": [
@@ -10556,7 +10510,7 @@
         "amount": 1814
       }
     ],
-    "fetched_at": "2026-05-08T00:26:03.581612+00:00"
+    "fetched_at": "2026-05-08T01:43:11.281245+00:00"
   },
   "Danny Davis": {
     "candidate_ids_used": [
@@ -10607,7 +10561,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:53:02.444416+00:00"
+    "fetched_at": "2026-05-08T01:02:50.252192+00:00"
   },
   "Raja Krishnamoorthi": {
     "candidate_ids_used": [
@@ -10926,7 +10880,7 @@
         "amount": 864176
       }
     ],
-    "fetched_at": "2026-05-08T00:16:49.560169+00:00"
+    "fetched_at": "2026-05-08T01:30:49.764706+00:00"
   },
   "Nikki Budzinski": {
     "candidate_ids_used": [
@@ -11023,7 +10977,7 @@
         "amount": 784
       }
     ],
-    "fetched_at": "2026-05-08T00:09:48.521212+00:00"
+    "fetched_at": "2026-05-08T01:21:08.782592+00:00"
   },
   "Mary Miller": {
     "candidate_ids_used": [
@@ -11329,7 +11283,7 @@
         "amount": 784844
       }
     ],
-    "fetched_at": "2026-05-08T00:13:57.698270+00:00"
+    "fetched_at": "2026-05-08T01:25:54.566496+00:00"
   },
   "Jim Baird": {
     "candidate_ids_used": [
@@ -11382,7 +11336,7 @@
         "amount": 37357
       }
     ],
-    "fetched_at": "2026-05-08T00:05:48.693110+00:00"
+    "fetched_at": "2026-05-08T01:16:05.558171+00:00"
   },
   "Victoria Spartz": {
     "candidate_ids_used": [
@@ -11476,7 +11430,7 @@
         "amount": 1280
       }
     ],
-    "fetched_at": "2026-05-08T00:05:42.844394+00:00"
+    "fetched_at": "2026-05-08T01:15:58.711824+00:00"
   },
   "Andr\u00e9 Carson": {
     "candidate_ids_used": [
@@ -11944,7 +11898,7 @@
         "amount": 1241344
       }
     ],
-    "fetched_at": "2026-05-08T00:26:51.901248+00:00"
+    "fetched_at": "2026-05-08T01:43:31.967135+00:00"
   },
   "Ron Estes": {
     "candidate_ids_used": [
@@ -12000,7 +11954,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-05-08T00:23:40.622374+00:00"
+    "fetched_at": "2026-05-08T01:39:47.005576+00:00"
   },
   "James Comer": {
     "candidate_ids_used": [
@@ -12048,7 +12002,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-05-08T00:04:09.495745+00:00"
+    "fetched_at": "2026-05-08T01:14:32.610804+00:00"
   },
   "Brett Guthrie": {
     "candidate_ids_used": [
@@ -12274,7 +12228,7 @@
         "amount": 1500
       }
     ],
-    "fetched_at": "2026-05-08T00:02:49.758717+00:00"
+    "fetched_at": "2026-05-08T01:13:06.067741+00:00"
   },
   "Andy Barr": {
     "candidate_ids_used": [
@@ -12495,20 +12449,18 @@
         "amount": 1500
       }
     ],
-    "fetched_at": "2026-05-07T23:51:47.123415+00:00"
+    "fetched_at": "2026-05-08T01:02:07.805948+00:00"
   },
   "Mike Johnson": {
     "candidate_ids_used": [
-      "H2LA04020",
-      "S2IN00018",
-      "P80004138"
+      "H2LA04020"
     ],
     "total_supporting": 0,
     "total_opposing": 0,
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:16:58.638562+00:00"
+    "fetched_at": "2026-05-08T01:30:59.040412+00:00"
   },
   "Julia Letlow": {
     "candidate_ids_used": [
@@ -12549,7 +12501,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:09:06.419276+00:00"
+    "fetched_at": "2026-05-08T01:20:12.733868+00:00"
   },
   "Troy Carter": {
     "candidate_ids_used": [
@@ -12663,7 +12615,7 @@
         "amount": 1664
       }
     ],
-    "fetched_at": "2026-05-07T23:50:13.389199+00:00"
+    "fetched_at": "2026-05-08T00:59:52.166056+00:00"
   },
   "Jared Golden": {
     "candidate_ids_used": [
@@ -12728,7 +12680,7 @@
         "amount": 2465923
       }
     ],
-    "fetched_at": "2026-05-08T00:05:09.177217+00:00"
+    "fetched_at": "2026-05-08T01:15:13.368265+00:00"
   },
   "Andy Harris": {
     "candidate_ids_used": [
@@ -12770,7 +12722,7 @@
         "amount": 48
       }
     ],
-    "fetched_at": "2026-05-07T23:47:18.397158+00:00"
+    "fetched_at": "2026-05-08T00:55:30.514188+00:00"
   },
   "Johnny Olszewski": {
     "candidate_ids_used": [
@@ -12806,7 +12758,7 @@
         "amount": 9
       }
     ],
-    "fetched_at": "2026-05-08T00:07:29.406900+00:00"
+    "fetched_at": "2026-05-08T01:18:10.202402+00:00"
   },
   "Sarah Elfreth": {
     "candidate_ids_used": [
@@ -12927,7 +12879,7 @@
         "amount": 16526
       }
     ],
-    "fetched_at": "2026-05-07T23:47:38.761598+00:00"
+    "fetched_at": "2026-05-08T00:56:05.994496+00:00"
   },
   "Jamie Raskin": {
     "candidate_ids_used": [
@@ -13043,7 +12995,7 @@
         "amount": 4104
       }
     ],
-    "fetched_at": "2026-05-08T00:22:48.535905+00:00"
+    "fetched_at": "2026-05-08T01:38:38.236814+00:00"
   },
   "Jim McGovern": {
     "candidate_ids_used": [
@@ -13101,7 +13053,7 @@
         "amount": 22223
       }
     ],
-    "fetched_at": "2026-05-08T00:06:04.111070+00:00"
+    "fetched_at": "2026-05-08T01:16:23.901257+00:00"
   },
   "Lori Trahan": {
     "candidate_ids_used": [
@@ -13126,7 +13078,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:10:01.910871+00:00"
+    "fetched_at": "2026-05-08T01:21:27.558063+00:00"
   },
   "Jake Auchincloss": {
     "candidate_ids_used": [
@@ -13213,7 +13165,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:09:10.504168+00:00"
+    "fetched_at": "2026-05-08T01:20:17.883724+00:00"
   },
   "Seth Moulton": {
     "candidate_ids_used": [
@@ -13263,7 +13215,7 @@
         "amount": 125000
       }
     ],
-    "fetched_at": "2026-05-08T00:26:09.155166+00:00"
+    "fetched_at": "2026-05-08T01:43:19.568050+00:00"
   },
   "Ayanna Pressley": {
     "candidate_ids_used": [
@@ -13328,7 +13280,7 @@
         "amount": 8776
       }
     ],
-    "fetched_at": "2026-05-07T23:47:44.077058+00:00"
+    "fetched_at": "2026-05-08T00:56:12.937902+00:00"
   },
   "Stephen Lynch": {
     "candidate_ids_used": [
@@ -13365,7 +13317,7 @@
         "amount": 10
       }
     ],
-    "fetched_at": "2026-05-08T00:27:01.558929+00:00"
+    "fetched_at": "2026-05-08T01:43:45.023971+00:00"
   },
   "Bill Keating": {
     "candidate_ids_used": [
@@ -13430,7 +13382,7 @@
         "amount": 14792
       }
     ],
-    "fetched_at": "2026-05-07T23:48:19.456474+00:00"
+    "fetched_at": "2026-05-08T00:57:32.717246+00:00"
   },
   "Jack Bergman": {
     "candidate_ids_used": [
@@ -13610,7 +13562,7 @@
         "amount": 3900
       }
     ],
-    "fetched_at": "2026-05-08T00:03:06.697200+00:00"
+    "fetched_at": "2026-05-08T01:13:26.751485+00:00"
   },
   "Bill Huizenga": {
     "candidate_ids_used": [
@@ -13814,7 +13766,7 @@
         "amount": 1602201
       }
     ],
-    "fetched_at": "2026-05-08T00:10:00.505968+00:00"
+    "fetched_at": "2026-05-08T01:21:25.976561+00:00"
   },
   "John James": {
     "candidate_ids_used": [
@@ -13879,7 +13831,7 @@
         "amount": 220900
       }
     ],
-    "fetched_at": "2026-05-08T00:06:31.684954+00:00"
+    "fetched_at": "2026-05-08T01:17:00.049408+00:00"
   },
   "Haley Stevens": {
     "candidate_ids_used": [
@@ -13930,7 +13882,7 @@
         "amount": 1702298
       }
     ],
-    "fetched_at": "2026-05-08T00:03:00.527972+00:00"
+    "fetched_at": "2026-05-08T01:13:18.363890+00:00"
   },
   "Rashida Tlaib": {
     "candidate_ids_used": [
@@ -14138,7 +14090,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:09:17.520230+00:00"
+    "fetched_at": "2026-05-08T01:20:26.579094+00:00"
   },
   "Betty McCollum": {
     "candidate_ids_used": [
@@ -14196,7 +14148,7 @@
         "amount": 32900
       }
     ],
-    "fetched_at": "2026-05-07T23:48:07.427829+00:00"
+    "fetched_at": "2026-05-08T00:57:16.446860+00:00"
   },
   "Ilhan Omar": {
     "candidate_ids_used": [
@@ -14253,7 +14205,7 @@
         "amount": 9660
       }
     ],
-    "fetched_at": "2026-05-08T00:03:14.726189+00:00"
+    "fetched_at": "2026-05-08T01:13:37.213050+00:00"
   },
   "Tom Emmer": {
     "candidate_ids_used": [
@@ -15194,7 +15146,7 @@
         "amount": 1492352
       }
     ],
-    "fetched_at": "2026-05-07T23:55:50.334623+00:00"
+    "fetched_at": "2026-05-08T01:05:08.110858+00:00"
   },
   "Adrian Smith": {
     "candidate_ids_used": [
@@ -15346,7 +15298,7 @@
         "amount": 461632
       }
     ],
-    "fetched_at": "2026-05-08T00:10:43.760556+00:00"
+    "fetched_at": "2026-05-08T01:22:24.315173+00:00"
   },
   "Susie Lee": {
     "candidate_ids_used": [
@@ -15501,7 +15453,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:50:48.229537+00:00"
+    "fetched_at": "2026-05-08T01:00:41.224830+00:00"
   },
   "Donald Norcross": {
     "candidate_ids_used": [
@@ -15550,7 +15502,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:55:57.679697+00:00"
+    "fetched_at": "2026-05-08T01:05:17.782500+00:00"
   },
   "Jefferson Van Drew": {
     "candidate_ids_used": [
@@ -15680,7 +15632,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:51:12.135872+00:00"
+    "fetched_at": "2026-05-08T01:01:28.017559+00:00"
   },
   "Josh Gottheimer": {
     "candidate_ids_used": [
@@ -15822,7 +15774,7 @@
         "amount": 967
       }
     ],
-    "fetched_at": "2026-05-07T23:59:35.584940+00:00"
+    "fetched_at": "2026-05-08T01:09:39.582283+00:00"
   },
   "Tom Kean Jr.": {
     "candidate_ids_used": [
@@ -15962,7 +15914,7 @@
         "amount": 2169
       }
     ],
-    "fetched_at": "2026-05-08T00:23:15.988969+00:00"
+    "fetched_at": "2026-05-08T01:39:16.192358+00:00"
   },
   "Mikie Sherrill": {
     "candidate_ids_used": [
@@ -16059,7 +16011,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:48:32.172477+00:00"
+    "fetched_at": "2026-05-08T00:57:44.384997+00:00"
   },
   "Melanie Stansbury": {
     "candidate_ids_used": [
@@ -16280,7 +16232,7 @@
         "amount": 16600
       }
     ],
-    "fetched_at": "2026-05-08T00:21:43.249347+00:00"
+    "fetched_at": "2026-05-08T01:37:06.559084+00:00"
   },
   "Andrew Garbarino": {
     "candidate_ids_used": [
@@ -16448,7 +16400,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:02:42.761448+00:00"
+    "fetched_at": "2026-05-08T01:12:57.479632+00:00"
   },
   "Grace Meng": {
     "candidate_ids_used": [
@@ -16496,7 +16448,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:02:32.374683+00:00"
+    "fetched_at": "2026-05-08T01:12:44.144963+00:00"
   },
   "Nydia Vel\u00e1zquez": {
     "candidate_ids_used": [
@@ -16590,7 +16542,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:02:46.901606+00:00"
+    "fetched_at": "2026-05-08T01:13:02.697481+00:00"
   },
   "Yvette Clarke": {
     "candidate_ids_used": [
@@ -16672,7 +16624,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:52:44.129381+00:00"
+    "fetched_at": "2026-05-08T01:02:28.238591+00:00"
   },
   "Nicole Malliotakis": {
     "candidate_ids_used": [
@@ -17278,7 +17230,7 @@
         "amount": 1970
       }
     ],
-    "fetched_at": "2026-05-07T23:55:56.129268+00:00"
+    "fetched_at": "2026-05-08T01:05:15.873877+00:00"
   },
   "Greg Murphy": {
     "candidate_ids_used": [
@@ -17335,7 +17287,7 @@
         "amount": 1500
       }
     ],
-    "fetched_at": "2026-05-08T00:02:34.966959+00:00"
+    "fetched_at": "2026-05-08T01:12:47.584998+00:00"
   },
   "Virginia Foxx": {
     "candidate_ids_used": [
@@ -17560,7 +17512,7 @@
         "amount": 40668
       }
     ],
-    "fetched_at": "2026-05-08T00:10:48.640220+00:00"
+    "fetched_at": "2026-05-08T01:22:30.588372+00:00"
   },
   "Richard Hudson": {
     "candidate_ids_used": [
@@ -17627,7 +17579,7 @@
         "amount": 15379
       }
     ],
-    "fetched_at": "2026-05-08T00:22:47.032646+00:00"
+    "fetched_at": "2026-05-08T01:38:36.188423+00:00"
   },
   "Chuck Edwards": {
     "candidate_ids_used": [
@@ -17667,7 +17619,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:51:17.237768+00:00"
+    "fetched_at": "2026-05-08T01:01:34.961504+00:00"
   },
   "Alma Adams": {
     "candidate_ids_used": [
@@ -17720,7 +17672,7 @@
         "amount": 100000
       }
     ],
-    "fetched_at": "2026-05-07T23:46:53.437824+00:00"
+    "fetched_at": "2026-05-08T00:54:56.894276+00:00"
   },
   "Valerie Foushee": {
     "candidate_ids_used": [
@@ -17876,7 +17828,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:09:02.358785+00:00"
+    "fetched_at": "2026-05-08T01:20:07.657355+00:00"
   },
   "Jim Jordan": {
     "candidate_ids_used": [
@@ -17925,7 +17877,7 @@
         "amount": 55000
       }
     ],
-    "fetched_at": "2026-05-08T00:06:02.568346+00:00"
+    "fetched_at": "2026-05-08T01:16:21.846620+00:00"
   },
   "Bob Latta": {
     "candidate_ids_used": [
@@ -18002,7 +17954,7 @@
         "amount": 247
       }
     ],
-    "fetched_at": "2026-05-07T23:48:23.433117+00:00"
+    "fetched_at": "2026-05-08T00:57:37.750719+00:00"
   },
   "Mike Carey": {
     "candidate_ids_used": [
@@ -18065,7 +18017,7 @@
         "amount": 14864
       }
     ],
-    "fetched_at": "2026-05-08T00:16:51.846376+00:00"
+    "fetched_at": "2026-05-08T01:30:52.572756+00:00"
   },
   "Max Miller": {
     "candidate_ids_used": [
@@ -18116,7 +18068,7 @@
         "amount": 59620
       }
     ],
-    "fetched_at": "2026-05-08T00:14:56.981508+00:00"
+    "fetched_at": "2026-05-08T01:27:50.549232+00:00"
   },
   "Warren Davidson": {
     "candidate_ids_used": [
@@ -18299,7 +18251,7 @@
         "amount": 247
       }
     ],
-    "fetched_at": "2026-05-08T00:16:25.620082+00:00"
+    "fetched_at": "2026-05-08T01:30:15.759854+00:00"
   },
   "Dave Joyce": {
     "candidate_ids_used": [
@@ -18409,7 +18361,7 @@
         "amount": 54210
       }
     ],
-    "fetched_at": "2026-05-07T23:59:23.252288+00:00"
+    "fetched_at": "2026-05-08T01:09:22.936632+00:00"
   },
   "Kevin Hern": {
     "candidate_ids_used": [
@@ -18439,7 +18391,7 @@
         "amount": 19
       }
     ],
-    "fetched_at": "2026-05-08T00:09:24.068572+00:00"
+    "fetched_at": "2026-05-08T01:20:36.110083+00:00"
   },
   "Josh Brecheen": {
     "candidate_ids_used": [
@@ -18541,7 +18493,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-05-07T23:59:34.063468+00:00"
+    "fetched_at": "2026-05-08T01:09:37.429768+00:00"
   },
   "Tom Cole": {
     "candidate_ids_used": [
@@ -18777,7 +18729,7 @@
         "amount": 3000
       }
     ],
-    "fetched_at": "2026-05-08T00:14:58.396967+00:00"
+    "fetched_at": "2026-05-08T01:27:52.243164+00:00"
   },
   "Andrea Salinas": {
     "candidate_ids_used": [
@@ -18835,7 +18787,7 @@
         "amount": 244000
       }
     ],
-    "fetched_at": "2026-05-07T23:47:05.553772+00:00"
+    "fetched_at": "2026-05-08T00:55:12.398163+00:00"
   },
   "Brian Fitzpatrick": {
     "candidate_ids_used": [
@@ -19062,7 +19014,7 @@
         "amount": 1232
       }
     ],
-    "fetched_at": "2026-05-08T00:10:04.655787+00:00"
+    "fetched_at": "2026-05-08T01:21:31.030015+00:00"
   },
   "Mary Gay Scanlon": {
     "candidate_ids_used": [
@@ -19113,7 +19065,7 @@
         "amount": 1848
       }
     ],
-    "fetched_at": "2026-05-08T00:14:50.407261+00:00"
+    "fetched_at": "2026-05-08T01:27:41.794258+00:00"
   },
   "Chrissy Houlahan": {
     "candidate_ids_used": [
@@ -19213,7 +19165,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-05-07T23:52:45.633430+00:00"
+    "fetched_at": "2026-05-08T01:02:30.085214+00:00"
   },
   "Scott Perry": {
     "candidate_ids_used": [
@@ -19376,7 +19328,7 @@
         "amount": 1471
       }
     ],
-    "fetched_at": "2026-05-08T00:27:28.527239+00:00"
+    "fetched_at": "2026-05-08T01:44:23.193344+00:00"
   },
   "John Joyce": {
     "candidate_ids_used": [
@@ -19425,7 +19377,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-05-08T00:06:33.145847+00:00"
+    "fetched_at": "2026-05-08T01:17:01.818676+00:00"
   },
   "Guy Reschenthaler": {
     "candidate_ids_used": [
@@ -19595,7 +19547,7 @@
         "amount": 46
       }
     ],
-    "fetched_at": "2026-05-08T00:17:00.036466+00:00"
+    "fetched_at": "2026-05-08T01:31:00.947615+00:00"
   },
   "Chris Deluzio": {
     "candidate_ids_used": [
@@ -19797,7 +19749,7 @@
         "amount": 4326354
       }
     ],
-    "fetched_at": "2026-05-08T00:21:35.073195+00:00"
+    "fetched_at": "2026-05-08T01:36:59.249563+00:00"
   },
   "Joe Wilson": {
     "candidate_ids_used": [
@@ -19861,7 +19813,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-05-08T00:06:11.591135+00:00"
+    "fetched_at": "2026-05-08T01:16:32.729146+00:00"
   },
   "William Timmons": {
     "candidate_ids_used": [
@@ -20000,7 +19952,7 @@
         "amount": 247
       }
     ],
-    "fetched_at": "2026-05-08T00:22:10.581603+00:00"
+    "fetched_at": "2026-05-08T01:37:45.572062+00:00"
   },
   "James Clyburn": {
     "candidate_ids_used": [
@@ -20147,7 +20099,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-05-07T23:56:01.861206+00:00"
+    "fetched_at": "2026-05-08T01:05:23.174116+00:00"
   },
   "Diana Harshbarger": {
     "candidate_ids_used": [
@@ -20396,7 +20348,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-05-08T00:06:39.801852+00:00"
+    "fetched_at": "2026-05-08T01:17:10.302451+00:00"
   },
   "David Kustoff": {
     "candidate_ids_used": [
@@ -20503,7 +20455,7 @@
         "amount": 15685
       }
     ],
-    "fetched_at": "2026-05-08T00:27:03.070775+00:00"
+    "fetched_at": "2026-05-08T01:43:46.843224+00:00"
   },
   "Nathaniel Moran": {
     "candidate_ids_used": [
@@ -20529,7 +20481,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:21:39.054721+00:00"
+    "fetched_at": "2026-05-08T01:37:01.036604+00:00"
   },
   "Keith Self": {
     "candidate_ids_used": [
@@ -20673,7 +20625,7 @@
         "amount": 25
       }
     ],
-    "fetched_at": "2026-05-08T00:09:32.876341+00:00"
+    "fetched_at": "2026-05-08T01:20:47.365997+00:00"
   },
   "Jake Ellzey": {
     "candidate_ids_used": [
@@ -20802,7 +20754,7 @@
         "amount": 1870
       }
     ],
-    "fetched_at": "2026-05-08T00:21:25.849382+00:00"
+    "fetched_at": "2026-05-08T01:36:29.258223+00:00"
   },
   "Al Green": {
     "candidate_ids_used": [
@@ -20991,7 +20943,7 @@
         "amount": 16200
       }
     ],
-    "fetched_at": "2026-05-08T00:24:58.556697+00:00"
+    "fetched_at": "2026-05-08T01:41:07.548955+00:00"
   },
   "Randy Weber": {
     "candidate_ids_used": [
@@ -21058,7 +21010,7 @@
         "amount": 1500
       }
     ],
-    "fetched_at": "2026-05-08T00:22:28.419367+00:00"
+    "fetched_at": "2026-05-08T01:38:09.953722+00:00"
   },
   "Monica De La Cruz": {
     "candidate_ids_used": [
@@ -21114,7 +21066,7 @@
         "amount": 504
       }
     ],
-    "fetched_at": "2026-05-08T00:21:23.994346+00:00"
+    "fetched_at": "2026-05-08T01:36:27.197377+00:00"
   },
   "Veronica Escobar": {
     "candidate_ids_used": [
@@ -21232,7 +21184,7 @@
         "amount": 488050
       }
     ],
-    "fetched_at": "2026-05-08T00:22:05.339817+00:00"
+    "fetched_at": "2026-05-08T01:37:39.125936+00:00"
   },
   "Jodey Arrington": {
     "candidate_ids_used": [
@@ -21287,7 +21239,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-05-08T00:06:10.101227+00:00"
+    "fetched_at": "2026-05-08T01:16:30.977479+00:00"
   },
   "Joaquin Castro": {
     "candidate_ids_used": [
@@ -21333,7 +21285,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:06:08.636144+00:00"
+    "fetched_at": "2026-05-08T01:16:29.186692+00:00"
   },
   "Chip Roy": {
     "candidate_ids_used": [
@@ -21381,7 +21333,7 @@
         "amount": 1466
       }
     ],
-    "fetched_at": "2026-05-07T23:50:30.751115+00:00"
+    "fetched_at": "2026-05-08T01:00:17.362575+00:00"
   },
   "Troy Nehls": {
     "candidate_ids_used": [
@@ -21633,7 +21585,7 @@
         "amount": 123
       }
     ],
-    "fetched_at": "2026-05-08T00:23:38.312986+00:00"
+    "fetched_at": "2026-05-08T01:39:44.107055+00:00"
   },
   "Michael Cloud": {
     "candidate_ids_used": [
@@ -21675,7 +21627,7 @@
         "amount": 1500
       }
     ],
-    "fetched_at": "2026-05-08T00:16:22.881988+00:00"
+    "fetched_at": "2026-05-08T01:30:12.211981+00:00"
   },
   "Henry Cuellar": {
     "candidate_ids_used": [
@@ -21782,7 +21734,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:28:51.857231+00:00"
+    "fetched_at": "2026-05-08T01:46:00.900749+00:00"
   },
   "Jasmine Crockett": {
     "candidate_ids_used": [
@@ -21829,7 +21781,7 @@
         "amount": 50610
       }
     ],
-    "fetched_at": "2026-05-08T00:05:17.413579+00:00"
+    "fetched_at": "2026-05-08T01:15:24.853345+00:00"
   },
   "John Carter": {
     "candidate_ids_used": [
@@ -21902,7 +21854,7 @@
         "amount": 1500
       }
     ],
-    "fetched_at": "2026-05-08T00:06:14.454353+00:00"
+    "fetched_at": "2026-05-08T01:16:36.759162+00:00"
   },
   "Marc Veasey": {
     "candidate_ids_used": [
@@ -22310,7 +22262,7 @@
         "amount": 64000
       }
     ],
-    "fetched_at": "2026-05-07T23:49:09.965221+00:00"
+    "fetched_at": "2026-05-08T00:58:36.861189+00:00"
   },
   "Becca Balint": {
     "candidate_ids_used": [
@@ -22572,7 +22524,7 @@
         "amount": 1500
       }
     ],
-    "fetched_at": "2026-05-07T23:47:46.928839+00:00"
+    "fetched_at": "2026-05-08T00:56:16.344910+00:00"
   },
   "Don Beyer": {
     "candidate_ids_used": [
@@ -22617,7 +22569,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:55:51.795214+00:00"
+    "fetched_at": "2026-05-08T01:05:09.839026+00:00"
   },
   "Morgan Griffith": {
     "candidate_ids_used": [
@@ -22684,16 +22636,14 @@
   },
   "Bobby Scott": {
     "candidate_ids_used": [
-      "H2VA10026",
-      "S0KY00453",
-      "P40015224"
+      "H2VA10026"
     ],
     "total_supporting": 0,
     "total_opposing": 0,
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:48:30.724530+00:00"
+    "fetched_at": "2026-05-08T00:57:42.710832+00:00"
   },
   "Suzan DelBene": {
     "candidate_ids_used": [
@@ -22821,7 +22771,7 @@
         "amount": 4622
       }
     ],
-    "fetched_at": "2026-05-08T00:22:54.442412+00:00"
+    "fetched_at": "2026-05-08T01:38:46.279351+00:00"
   },
   "Marie Gluesenkamp Perez": {
     "candidate_ids_used": [
@@ -23163,7 +23113,7 @@
         "amount": 10000
       }
     ],
-    "fetched_at": "2026-05-08T00:10:32.390875+00:00"
+    "fetched_at": "2026-05-08T01:22:08.742526+00:00"
   },
   "Carol Miller": {
     "candidate_ids_used": [
@@ -23422,7 +23372,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:02:45.388045+00:00"
+    "fetched_at": "2026-05-08T01:13:00.847731+00:00"
   },
   "Scott Fitzgerald": {
     "candidate_ids_used": [
@@ -23463,7 +23413,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:25:37.421564+00:00"
+    "fetched_at": "2026-05-08T01:42:01.959312+00:00"
   },
   "Glenn Grothman": {
     "candidate_ids_used": [
@@ -23633,7 +23583,7 @@
         "amount": 61441
       }
     ],
-    "fetched_at": "2026-05-08T00:03:03.110132+00:00"
+    "fetched_at": "2026-05-08T01:13:22.003731+00:00"
   },
   "Stacey Plaskett": {
     "candidate_ids_used": [
@@ -23644,7 +23594,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:27:00.111800+00:00"
+    "fetched_at": "2026-05-08T01:43:43.379611+00:00"
   },
   "Gregorio Sablan": {
     "candidate_ids_used": [
@@ -23655,7 +23605,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:02:41.345195+00:00"
+    "fetched_at": "2026-05-08T01:12:55.801186+00:00"
   },
   "Adelita Grijalva": {
     "candidate_ids_used": [
@@ -23786,7 +23736,7 @@
         "amount": 86478
       }
     ],
-    "fetched_at": "2026-05-07T23:46:34.816217+00:00"
+    "fetched_at": "2026-05-08T00:54:29.025921+00:00"
   },
   "Lateefah Simon": {
     "candidate_ids_used": [
@@ -23822,7 +23772,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:09:34.296329+00:00"
+    "fetched_at": "2026-05-08T01:20:49.047250+00:00"
   },
   "Laura Friedman": {
     "candidate_ids_used": [
@@ -23963,7 +23913,7 @@
         "amount": 45515
       }
     ],
-    "fetched_at": "2026-05-07T23:54:30.673387+00:00"
+    "fetched_at": "2026-05-08T01:04:07.304088+00:00"
   },
   "Dave Min": {
     "candidate_ids_used": [
@@ -24030,7 +23980,7 @@
         "amount": 3154
       }
     ],
-    "fetched_at": "2026-05-07T23:53:30.110074+00:00"
+    "fetched_at": "2026-05-08T01:03:30.090133+00:00"
   },
   "George Whitesides": {
     "candidate_ids_used": [
@@ -24119,7 +24069,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:21:47.565062+00:00"
+    "fetched_at": "2026-05-08T01:37:11.811203+00:00"
   },
   "Pete Aguilar": {
     "candidate_ids_used": [
@@ -24254,16 +24204,14 @@
   },
   "Gabe Evans": {
     "candidate_ids_used": [
-      "H2CO05075",
-      "S8NJ00376",
-      "P80000821"
+      "H2CO05075"
     ],
     "total_supporting": 0,
     "total_opposing": 0,
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:59:39.908489+00:00"
+    "fetched_at": "2026-05-08T01:09:42.904469+00:00"
   },
   "Diana DeGette": {
     "candidate_ids_used": [
@@ -24372,7 +24320,7 @@
         "amount": 100
       }
     ],
-    "fetched_at": "2026-05-08T00:22:25.617345+00:00"
+    "fetched_at": "2026-05-08T01:38:06.441407+00:00"
   },
   "Mike Haridopolos": {
     "candidate_ids_used": [
@@ -24496,7 +24444,7 @@
         "amount": 13600
       }
     ],
-    "fetched_at": "2026-05-07T23:48:41.205445+00:00"
+    "fetched_at": "2026-05-08T00:57:57.140502+00:00"
   },
   "Clay Fuller": {
     "candidate_ids_used": [
@@ -24542,7 +24490,7 @@
         "amount": 53000
       }
     ],
-    "fetched_at": "2026-05-07T23:51:44.512633+00:00"
+    "fetched_at": "2026-05-08T01:02:04.429118+00:00"
   },
   "Derek Schmidt": {
     "candidate_ids_used": [
@@ -24587,7 +24535,7 @@
         "amount": 95454
       }
     ],
-    "fetched_at": "2026-05-07T23:54:19.580912+00:00"
+    "fetched_at": "2026-05-08T01:03:52.304199+00:00"
   },
   "Cleo Fields": {
     "candidate_ids_used": [
@@ -24612,7 +24560,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:51:49.263833+00:00"
+    "fetched_at": "2026-05-08T01:02:10.320740+00:00"
   },
   "Tom Barrett": {
     "candidate_ids_used": [
@@ -24807,7 +24755,7 @@
         "amount": 734303
       }
     ],
-    "fetched_at": "2026-05-07T23:48:26.052023+00:00"
+    "fetched_at": "2026-05-08T00:57:41.009332+00:00"
   },
   "Troy Downing": {
     "candidate_ids_used": [
@@ -24985,7 +24933,7 @@
         "amount": 46500
       }
     ],
-    "fetched_at": "2026-05-08T00:09:40.102706+00:00"
+    "fetched_at": "2026-05-08T01:20:57.591749+00:00"
   },
   "Josh Riley": {
     "candidate_ids_used": [
@@ -25052,7 +25000,7 @@
         "amount": 419997
       }
     ],
-    "fetched_at": "2026-05-08T00:09:00.863763+00:00"
+    "fetched_at": "2026-05-08T01:20:05.980845+00:00"
   },
   "John Mannion": {
     "candidate_ids_used": [
@@ -25271,7 +25219,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:54:15.197977+00:00"
+    "fetched_at": "2026-05-08T01:03:47.112457+00:00"
   },
   "Addison McDowell": {
     "candidate_ids_used": [
@@ -25300,7 +25248,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:46:47.541682+00:00"
+    "fetched_at": "2026-05-08T00:54:49.362566+00:00"
   },
   "Pat Harrigan": {
     "candidate_ids_used": [
@@ -25546,7 +25494,7 @@
         "amount": 2767
       }
     ],
-    "fetched_at": "2026-05-07T23:53:33.090045+00:00"
+    "fetched_at": "2026-05-08T01:03:33.717634+00:00"
   },
   "Michael Rulli": {
     "candidate_ids_used": [
@@ -25721,7 +25669,7 @@
         "amount": 150000
       }
     ],
-    "fetched_at": "2026-05-08T00:04:48.093597+00:00"
+    "fetched_at": "2026-05-08T01:14:41.305423+00:00"
   },
   "Ryan Mackenzie": {
     "candidate_ids_used": [
@@ -25788,7 +25736,7 @@
         "amount": 411348
       }
     ],
-    "fetched_at": "2026-05-08T00:25:19.104620+00:00"
+    "fetched_at": "2026-05-08T01:41:34.819362+00:00"
   },
   "Robert Bresnahan": {
     "candidate_ids_used": [
@@ -25896,7 +25844,7 @@
         "amount": 3972
       }
     ],
-    "fetched_at": "2026-05-08T00:26:56.185365+00:00"
+    "fetched_at": "2026-05-08T01:43:38.240011+00:00"
   },
   "Matt Van Epps": {
     "candidate_ids_used": [
@@ -25962,7 +25910,7 @@
         "amount": 8370
       }
     ],
-    "fetched_at": "2026-05-08T00:14:54.203534+00:00"
+    "fetched_at": "2026-05-08T01:27:46.869785+00:00"
   },
   "Brandon Gill": {
     "candidate_ids_used": [
@@ -26019,7 +25967,7 @@
         "amount": 195
       }
     ],
-    "fetched_at": "2026-05-07T23:48:38.627715+00:00"
+    "fetched_at": "2026-05-08T00:57:53.671824+00:00"
   },
   "Craig Goldman": {
     "candidate_ids_used": [
@@ -26065,7 +26013,7 @@
         "amount": 88776
       }
     ],
-    "fetched_at": "2026-05-07T23:52:03.558682+00:00"
+    "fetched_at": "2026-05-08T01:02:17.213086+00:00"
   },
   "Dan Crenshaw": {
     "candidate_ids_used": [
@@ -26159,7 +26107,7 @@
         "amount": 663420
       }
     ],
-    "fetched_at": "2026-05-08T00:09:09.002645+00:00"
+    "fetched_at": "2026-05-08T01:20:16.098814+00:00"
   },
   "Blake Moore": {
     "candidate_ids_used": [
@@ -26196,7 +26144,7 @@
         "amount": 13380
       }
     ],
-    "fetched_at": "2026-05-07T23:48:20.824373+00:00"
+    "fetched_at": "2026-05-08T00:57:34.291438+00:00"
   },
   "Mike Kennedy": {
     "candidate_ids_used": [
@@ -26220,7 +26168,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:17:01.404067+00:00"
+    "fetched_at": "2026-05-08T01:31:02.535666+00:00"
   },
   "Jennifer McClellan": {
     "candidate_ids_used": [
@@ -26261,7 +26209,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:05:44.306408+00:00"
+    "fetched_at": "2026-05-08T01:16:00.453956+00:00"
   },
   "Eugene Vindman": {
     "candidate_ids_used": [
@@ -26438,7 +26386,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:59:24.800558+00:00"
+    "fetched_at": "2026-05-08T01:09:24.901191+00:00"
   },
   "Michael Baumgartner": {
     "candidate_ids_used": [
@@ -26457,7 +26405,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:15:10.939496+00:00"
+    "fetched_at": "2026-05-08T01:28:05.747049+00:00"
   },
   "Riley Moore": {
     "candidate_ids_used": [
@@ -26496,7 +26444,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:23:13.643188+00:00"
+    "fetched_at": "2026-05-08T01:39:13.194274+00:00"
   },
   "Tony Wied": {
     "candidate_ids_used": [
@@ -26560,7 +26508,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:56:12.744764+00:00"
+    "fetched_at": "2026-05-08T01:05:37.522798+00:00"
   },
   "James Moylan": {
     "candidate_ids_used": [
@@ -26571,7 +26519,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:04:12.384641+00:00"
+    "fetched_at": "2026-05-08T01:14:36.215432+00:00"
   },
   "Ben Ray Luj\u00e1n": {
     "candidate_ids_used": [
@@ -26864,7 +26812,7 @@
     "cycles": [],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:21:48.904279+00:00"
+    "fetched_at": "2026-05-08T01:37:13.327982+00:00"
   },
   "Chris Van Hollen": {
     "candidate_ids_used": [
@@ -26905,7 +26853,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:51:15.777369+00:00"
+    "fetched_at": "2026-05-08T01:01:33.177304+00:00"
   },
   "John Fetterman": {
     "candidate_ids_used": [
@@ -27007,7 +26955,7 @@
         "amount": 93200
       }
     ],
-    "fetched_at": "2026-05-08T00:26:58.773174+00:00"
+    "fetched_at": "2026-05-08T01:43:41.852978+00:00"
   },
   "Steny Hoyer": {
     "candidate_ids_used": [
@@ -27104,7 +27052,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-08T00:09:30.237972+00:00"
+    "fetched_at": "2026-05-08T01:20:43.956275+00:00"
   },
   "Andy Ogles": {
     "candidate_ids_used": [
@@ -27151,7 +27099,7 @@
         "amount": 260
       }
     ],
-    "fetched_at": "2026-05-07T23:47:24.782416+00:00"
+    "fetched_at": "2026-05-08T00:55:39.143704+00:00"
   },
   "Brad Sherman": {
     "candidate_ids_used": [
@@ -27201,7 +27149,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-05-07T23:48:35.812443+00:00"
+    "fetched_at": "2026-05-08T00:57:50.012325+00:00"
   },
   "Sam Liccardo": {
     "candidate_ids_used": [

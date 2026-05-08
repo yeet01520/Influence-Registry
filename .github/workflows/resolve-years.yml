@@ -1,0 +1,45 @@
+name: Resolve Years In Office
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (no writes, just print proposed changes)'
+        type: boolean
+        default: true
+
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Resolve years_in_office
+        run: |
+          if [ "${{ inputs.dry_run }}" == "true" ]; then
+            python3 scripts/resolve_years_in_office.py --dry-run
+          else
+            python3 scripts/resolve_years_in_office.py
+          fi
+
+      - name: Commit changes
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --soft origin/main
+          git add data/profiles.json data/profiles.json.before_years
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Resolve years_in_office for 489 members"
+            git push origin main
+          fi

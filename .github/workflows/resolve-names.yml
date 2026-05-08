@@ -1,0 +1,39 @@
+name: Resolve Committee Names
+
+on:
+  workflow_dispatch:
+
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Resolve committee names
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python3 scripts/resolve_committee_names.py
+
+      - name: Commit fixes
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --soft origin/main
+          git add data/outside_spending.json data/outside_spending.json.before_names
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Resolve committee names in outside_spending.json"
+            git push origin main
+          fi

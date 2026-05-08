@@ -1,561 +1,135 @@
 # Candidate ID Audit Report
-_Run: 2026-05-07T23:24:34.748918+00:00_
+_Run: 2026-05-07T23:46:13.296584+00:00_
 
 ## Summary
 
 - Members audited: 536
-- Primary candidate_id changed: 0
-- Cross-state contamination cleaned (primary unchanged): 0
-- Already correct (no change): 0
-- FEC search returned no match (left as-is): 536
-- Members queued for Schedule E re-fetch: 16
+- Primary candidate_id changed: 12
+- Cross-state contamination cleaned (primary unchanged): 265
+- Already correct (no change): 203
+- FEC search returned no match (left as-is): 56
+- Members queued for Schedule E re-fetch: 285
+
+## Members with primary candidate_id CHANGED
+
+These had wrong primary IDs in fec.json — outside spending data was definitely incorrect:
+
+- **Andy Harris**: `H6MD07442` → `H8MD01094`
+- **Bob Latta**: `H6OH05022` → `H8OH05036`
+- **Bob Onder**: `H8MO09146` → `H4MO03221`
+- **Cleo Fields**: `H0LA08025` → `H4LA06211`
+- **Dick Durbin**: `S4IL00339` → `S6IL00151`
+- **Jim Jordan**: `H0OH12112` → `H6OH04082`
+- **John James**: `H6MI18022` → `H2MI10150`
+- **Mike Collins**: `H0GA03017` → `H4GA10071`
+- **Mike Rogers**: `H6AL06119` → `H2AL03032`
+- **Mike Simpson**: `H4FL01122` → `H8ID02064`
+- **Nick LaLota**: `H2NY01190` → `H0NY02200`
+- **Raul Ruiz**: `H0CA36177` → `H2CA36439`
+
+## Members with contamination cleaned (primary unchanged) — 265 total
+
+These had extra cross-state IDs polluting their candidate list. Primary was right, 
+but Schedule E data may have included unrelated candidates' spending.
+
+- **Aaron Bean**: removed `S0FL00437`
+- **Adam Gray**: removed `P60013398, S2CA00344`
+- **Adam Schiff**: removed `H0CA27085`
+- **Addison McDowell**: removed `P60019130, S0KY00446`
+- **Alex Padilla**: removed `H2NY06165`
+- **Alma Adams**: removed `S8CT00105, P80001688`
+- **Amy Klobuchar**: removed `P80006117`
+- **Andrea Salinas**: removed `S2IL00143`
+- **Andrew Clyde**: removed `P60010634, S6GA00010`
+- **Andy Biggs**: removed `P80009145`
+- **Andy Kim**: removed `H8NJ03206, P40014219`
+- **Andy Ogles**: removed `H2TN04191`
+- **Angus King**: removed `H2ME02048`
+- **Anna Paulina Luna**: removed `P60021094, S4NM00159`
+- **April McClain Delaney**: removed `P00006213, S6IN00019`
+- **Ashley Moody**: removed `H0TX04037, P60007200`
+- **Ayanna Pressley**: removed `P40003600`
+- **Ben Cline**: removed `P20002226, S2KS00063`
+- **Bernie Moreno**: removed `H2KY03198`
+- **Betty McCollum**: removed `P00010769, S8FL00075`
+- **Bill Cassidy**: removed `H0IL06029, P80007750`
+- **Bill Hagerty**: removed `P60018215, H4NJ02157`
+- **Bill Keating**: removed `S2OR00077`
+- **Blake Moore**: removed `P40013161, S0NC00376`
+- **Bonnie Watson Coleman**: removed `S2FL00672, P40012189`
+- **Brad Sherman**: removed `P40014748, S6LA00086`
+- **Brandon Gill**: removed `P40003865, S2WI00334`
+- **Brian Jack**: removed `P60009008, S0KY00032`
+- **Brian Mast**: removed `P40009995, S6NV00200`
+- **Brian Schatz**: removed `P60014099, H6HI02244`
+- ...and 235 more
 
 ## Members where FEC search returned no match
 
 These are unusual — could be Cabinet members, non-voting delegates, recent appointees, 
 or rare data issues. Their fec.json entries were left unchanged. Manual review needed:
 
-- Aaron Bean
-- Abraham Hamadeh
-- Adam Gray
-- Adam Schiff
 - Adam Smith
-- Addison McDowell
-- Adelita Grijalva
-- Adrian Smith
-- Adriano Espaillat
 - Al Green
 - Alan Armstrong
-- Alex Padilla
-- Alexandria Ocasio-Cortez
-- Alma Adams
 - Amata Coleman Radewagen
 - Ami Bera
-- Amy Klobuchar
-- Andrea Salinas
-- Andrew Clyde
-- Andrew Garbarino
 - André Carson
 - Andy Barr
-- Andy Biggs
-- Andy Harris
-- Andy Kim
-- Andy Ogles
-- Angela Alsobrooks
 - Angie Craig
-- Angus King
-- Ann Wagner
-- Anna Paulina Luna
-- April McClain Delaney
 - Ashley Hinson
-- Ashley Moody
-- August Pfluger
 - Austin Scott
-- Ayanna Pressley
-- Barry Loudermilk
 - Barry Moore
 - Becca Balint
-- Ben Cline
 - Ben Ray Luján
-- Bennie Thompson
-- Bernie Moreno
 - Bernie Sanders
-- Beth Van Duyne
-- Betty McCollum
-- Bill Cassidy
 - Bill Foster
-- Bill Hagerty
-- Bill Huizenga
-- Bill Keating
-- Blake Moore
-- Bob Good
-- Bob Latta
-- Bob Onder
 - Bobby Scott
-- Bonnie Watson Coleman
-- Brad Finstad
-- Brad Knott
-- Brad Schneider
-- Brad Sherman
-- Brandon Gill
-- Brendan Boyle
 - Brett Guthrie
-- Brian Babin
-- Brian Fitzpatrick
-- Brian Jack
-- Brian Mast
-- Brian Schatz
-- Brittany Pettersen
-- Bruce Westerman
-- Bryan Steil
 - Buddy Carter
-- Burgess Owens
-- Byron Donalds
 - Carlos Giménez
-- Carol Miller
-- Catherine Cortez Masto
-- Celeste Maloy
-- Chellie Pingree
-- Chip Roy
-- Chris Coons
-- Chris Deluzio
-- Chris Murphy
-- Chris Pappas
-- Chris Smith
-- Chris Van Hollen
-- Chrissy Houlahan
-- Chuck Edwards
-- Chuck Fleischmann
-- Chuck Grassley
-- Chuck Schumer
 - Chuy García
-- Cindy Hyde-Smith
-- Claudia Tenney
-- Clay Fuller
-- Clay Higgins
-- Cleo Fields
-- Cliff Bentz
-- Cory Booker
-- Cory Mills
-- Craig Goldman
-- Cynthia Lummis
-- Dale Strong
-- Dan Crenshaw
-- Dan Goldman
-- Dan Meuser
-- Dan Newhouse
-- Dan Sullivan
-- Daniel Webster
-- Danny Davis
-- Darin LaHood
-- Darrell Issa
-- Darren Soto
 - Dave Joyce
-- Dave McCormick
-- Dave Min
-- David Kustoff
-- David Rouzer
-- David Schweikert
-- David Scott
-- David Taylor
-- David Valadao
-- Deb Fischer
-- Debbie Dingell
-- Debbie Wasserman Schultz
-- Deborah Ross
-- Delia Ramirez
-- Derek Schmidt
-- Derek Tran
-- Derrick Van Orden
-- Diana DeGette
-- Diana Harshbarger
-- Dick Durbin
-- Dina Titus
-- Don Bacon
-- Don Beyer
-- Don Davis
-- Donald Norcross
-- Doris Matsui
-- Doug LaMalfa
-- Dusty Johnson
-- Dwight Evans
-- Ed Case
-- Ed Markey
-- Eleanor Holmes Norton
-- Eli Crane
-- Elissa Slotkin
-- Elizabeth Warren
-- Emanuel Cleaver
-- Emilia Sykes
-- Emily Randall
-- Eric Burlison
-- Eric Schmitt
-- Eric Sorensen
-- Erin Houchin
 - Eugene Vindman
-- Frank Lucas
-- Frank Mrvan
-- Frank Pallone
-- Frederica Wilson
 - French Hill
 - Gabe Amo
 - Gabe Evans
 - Gabe Vasquez
-- Gary Palmer
-- Gary Peters
-- George Latimer
-- George Whitesides
-- Glenn Grothman
-- Glenn Ivey
-- Glenn Thompson
-- Grace Meng
-- Greg Casar
-- Greg Landsman
-- Greg Murphy
-- Greg Stanton
-- Greg Steube
-- Gregorio Sablan
-- Gregory Meeks
-- Gus Bilirakis
-- Guy Reschenthaler
-- Gwen Moore
-- Hakeem Jeffries
-- Hal Rogers
-- Haley Stevens
 - Hank Johnson
-- Harriet Hageman
-- Henry Cuellar
-- Herb Conaway
-- Hillary Scholten
-- Ilhan Omar
 - Jack Bergman
 - Jack Reed
-- Jacky Rosen
-- Jahana Hayes
-- Jake Auchincloss
 - Jake Ellzey
-- James Clyburn
-- James Comer
-- James Lankford
-- James Moylan
-- James Risch
-- James Walkinshaw
-- Jamie Raskin
-- Jan Schakowsky
-- Janelle Bynum
-- Jared Golden
-- Jared Huffman
-- Jared Moskowitz
-- Jasmine Crockett
-- Jason Crow
-- Jason Smith
-- Jay Obernolte
-- Jeanne Shaheen
-- Jeff Crank
-- Jeff Hurd
-- Jeff Merkley
-- Jefferson Shreve
-- Jefferson Van Drew
-- Jen Kiggans
-- Jennifer McClellan
-- Jerrold Nadler
-- Jerry Moran
-- Jill Tokuda
-- Jim Baird
-- Jim Banks
-- Jim Costa
-- Jim Himes
-- Jim Jordan
-- Jim Justice
-- Jim McGovern
-- Jimmy Gomez
-- Jimmy Panetta
-- Jimmy Patronis
-- Joaquin Castro
-- Jodey Arrington
-- Joe Courtney
-- Joe Neguse
-- Joe Wilson
-- John Barrasso
 - John Boozman
-- John Carter
-- John Cornyn
-- John Curtis
-- John Fetterman
-- John Garamendi
-- John Hickenlooper
-- John Hoeven
-- John James
-- John Joyce
-- John Kennedy
-- John Larson
-- John Mannion
-- John Moolenaar
-- John Rose
-- John Rutherford
-- John Thune
-- Johnny Olszewski
-- Jon Husted
 - Jon Ossoff
-- Jonathan Jackson
-- Joni Ernst
-- Joseph Morelle
-- Josh Brecheen
-- Josh Gottheimer
-- Josh Harder
-- Josh Hawley
-- Josh Riley
-- Joyce Beatty
-- Juan Ciscomani
-- Juan Vargas
-- Judy Chu
-- Julia Brownley
-- Julia Letlow
-- Julie Fedorchak
-- Julie Johnson
-- Kat Cammack
-- Katherine Clark
-- Kathy Castor
-- Katie Britt
-- Keith Self
-- Kelly Morrison
-- Ken Calvert
-- Kevin Cramer
-- Kevin Hern
-- Kevin Kiley
-- Kevin Mullin
-- Kim Schrier
-- Kirsten Gillibrand
-- Kristen McDonald Rivet
-- Kweisi Mfume
-- LaMonica McIver
-- Lance Gooden
-- Lateefah Simon
-- Laura Friedman
-- Laura Gillen
-- Laurel Lee
-- Lauren Boebert
-- Lauren Underwood
 - Linda Sánchez
-- Lindsey Graham
-- Lisa Blunt Rochester
-- Lisa McClain
-- Lisa Murkowski
 - Lizzie Fletcher
-- Lloyd Doggett
-- Lloyd Smucker
-- Lois Frankel
-- Lori Trahan
-- Lou Correa
 - Lucy McBath
-- Luz Rivas
-- Madeleine Dean
-- Maggie Goodlander
-- Maggie Hassan
-- Marc Veasey
-- Marcy Kaptur
-- Maria Cantwell
-- Mariannette Miller-Meeks
-- Marie Gluesenkamp Perez
-- Marilyn Strickland
-- Mario Díaz-Balart
-- Mark Alford
-- Mark Amodei
-- Mark DeSaulnier
-- Mark Harris
-- Mark Kelly
-- Mark Messmer
-- Mark Pocan
-- Mark Takano
-- Mark Warner
-- Marlin Stutzman
-- Marsha Blackburn
-- Martin Heinrich
-- Mary Gay Scanlon
-- Mary Miller
 - María Elvira Salazar
-- Matt Van Epps
-- Max Miller
-- Maxine Dexter
-- Maxine Waters
-- Maxwell Frost
-- Mazie Hirono
-- Melanie Stansbury
-- Michael Baumgartner
-- Michael Bennet
-- Michael Cloud
-- Michael Guest
-- Michael McCaul
-- Michael Rulli
-- Michael Turner
-- Michelle Fischbach
-- Mike Bost
-- Mike Carey
-- Mike Collins
-- Mike Crapo
 - Mike Ezell
-- Mike Flood
-- Mike Haridopolos
 - Mike Johnson
-- Mike Kelly
-- Mike Kennedy
-- Mike Lawler
-- Mike Lee
-- Mike Levin
-- Mike Quigley
-- Mike Rogers
-- Mike Rounds
-- Mike Simpson
-- Mike Thompson
-- Mikie Sherrill
-- Mitch McConnell
-- Monica De La Cruz
 - Morgan Griffith
-- Morgan Luttrell
-- Morgan McGarvey
-- Nancy Mace
-- Nancy Pelosi
 - Nanette Barragán
-- Nathaniel Moran
-- Neal Dunn
 - Nellie Pou
-- Nick Begich
-- Nick LaLota
-- Nick Langworthy
-- Nicole Malliotakis
-- Nikema Williams
-- Nikki Budzinski
-- Norma Torres
 - Nydia Velázquez
 - Pablo Hernández
-- Pat Fallon
-- Pat Harrigan
-- Pat Ryan
-- Patty Murray
-- Paul Gosar
-- Paul Tonko
-- Pete Aguilar
-- Pete Ricketts
-- Pete Sessions
-- Pete Stauber
-- Peter Welch
-- Pramila Jayapal
 - Raja Krishnamoorthi
-- Ralph Norman
-- Rand Paul
 - Randy Feenstra
-- Randy Fine
-- Randy Weber
-- Raphael Warnock
-- Rashida Tlaib
-- Raul Ruiz
-- Rich McCormick
-- Richard Blumenthal
-- Richard Hudson
-- Richard Neal
-- Rick Allen
 - Rick Crawford
-- Rick Larsen
-- Rick Scott
-- Riley Moore
-- Ritchie Torres
 - Ro Khanna
-- Rob Menendez
-- Rob Wittman
-- Robert Aderholt
-- Robert Bresnahan
-- Robert Garcia
-- Robin Kelly
-- Roger Marshall
-- Roger Wicker
-- Roger Williams
-- Ron Estes
-- Ron Johnson
-- Ron Wyden
-- Ronny Jackson
-- Rosa DeLauro
-- Ruben Gallego
-- Rudy Yakym
-- Russ Fulcher
-- Russell Fry
-- Ryan Mackenzie
-- Ryan Zinke
-- Salud Carbajal
-- Sam Graves
-- Sam Liccardo
-- Sanford Bishop
-- Sara Jacobs
-- Sarah Elfreth
-- Sarah McBride
-- Scott DesJarlais
-- Scott Fitzgerald
-- Scott Franklin
-- Scott Perry
-- Scott Peters
-- Sean Casten
-- Seth Magaziner
-- Seth Moulton
-- Sharice Davids
-- Sheila Cherfilus-McCormick
-- Sheldon Whitehouse
-- Shelley Moore Capito
-- Sheri Biggs
-- Shomari Figures
-- Shri Thanedar
-- Stacey Plaskett
-- Steny Hoyer
-- Stephanie Bice
-- Stephen Lynch
-- Steve Cohen
-- Steve Daines
-- Steve Scalise
 - Steve Womack
-- Steven Horsford
-- Suhas Subramanyam
-- Summer Lee
-- Susan Collins
-- Susie Lee
-- Suzan DelBene
-- Suzanne Bonamici
-- Sydney Kamlager-Dove
-- Sylvia Garcia
-- Tammy Baldwin
 - Tammy Duckworth
 - Ted Budd
 - Ted Cruz
-- Ted Lieu
-- Teresa Leger Fernandez
-- Terri Sewell
-- Thom Tillis
-- Thomas Massie
-- Tim Burchett
-- Tim Kaine
-- Tim Kennedy
-- Tim Moore
-- Tim Scott
-- Tim Sheehy
-- Tim Walberg
-- Tina Smith
-- Todd Young
-- Tom Barrett
-- Tom Cole
-- Tom Cotton
-- Tom Emmer
 - Tom Kean Jr.
-- Tom McClintock
-- Tom Suozzi
-- Tom Tiffany
 - Tommy Tuberville
 - Tony Gonzales
-- Tony Wied
-- Tracey Mann
 - Trent Kelly
 - Troy Balderson
-- Troy Carter
-- Troy Downing
-- Troy Nehls
-- Val Hoyle
-- Valerie Foushee
-- Vern Buchanan
-- Veronica Escobar
-- Vicente Gonzalez
-- Victoria Spartz
-- Vince Fong
-- Virginia Foxx
-- Warren Davidson
-- Wesley Bell
-- Wesley Hunt
-- William Timmons
-- Yassamin Ansari
-- Young Kim
-- Yvette Clarke
-- Zach Nunn
-- Zoe Lofgren
 
 ## Next steps
 
 1. Review `data/audit_report.md` (this file)
-2. Run `scripts/refetch_outside_spending.py` to re-pull Schedule E for the 16 affected members
+2. Run `scripts/refetch_outside_spending.py` to re-pull Schedule E for the 285 affected members
 3. Verify spot-check members (Durbin, Cotton, Schiff, Rick Scott) now show realistic numbers
 
 ## Backup

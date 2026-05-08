@@ -1,0 +1,39 @@
+name: Refetch v3 Outside Spending (all members)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  refetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Refetch all members with v3
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python3 scripts/refetch_outside_spending_v3.py --all
+
+      - name: Commit fixes
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --soft origin/main
+          git add data/outside_spending.json data/outside_spending.json.before_v3
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Fix outside spending notice double-counting (v3, is_notice=false)"
+            git push origin main
+          fi

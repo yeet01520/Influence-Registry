@@ -1,26 +1,34 @@
 #!/usr/bin/env python3
 """
-resolve_years_in_office.py
-==========================
+resolve_years_in_office.py (v2)
+================================
 
 Replaces placeholder years_in_office values in profiles.json with real
 date spans, office-aware when a member has served in multiple chambers.
 
 Format rules:
-  - Single chamber, ever: "2019-present" or "2007-2017"
-  - Multiple chambers: "Senator 2007-present; Representative 1991-2007"
-    (most recent first, semicolon-separated)
+  - Single chamber, ever:        "2019-present" or "2007-2017"
+  - Multiple chambers:           "Senator 2007-present; Representative 1991-2007"
+                                 (most recent first, semicolon-separated)
   - Continuous service in same chamber: collapsed into one span
-  - Gaps > 1 year in same chamber: separate spans within that chamber's group
+  - Gaps > 1 year in same chamber:      separate spans within that chamber's group
 
 Source: @unitedstates/congress-legislators (canonical, free).
+
+NOTE (v2): bioguide_id is NOT a field on each profile. It lives in
+data/bioguide.json as a {name: bioguide_id} map. v1 looked for
+profile["bioguide_id"] and missed every member. v2 joins by name.
 
 USAGE:
   python3 scripts/resolve_years_in_office.py [--dry-run]
 
+INPUTS:
+  data/bioguide.json   (read; name -> bioguide_id map)
+  data/profiles.json   (read + written)
+
 OUTPUTS:
-  data/profiles.json (updated in place)
-  data/profiles.json.before_years (backup)
+  data/profiles.json                (updated in place)
+  data/profiles.json.before_years   (backup, only on real run)
 """
 
 import json
@@ -32,6 +40,7 @@ from datetime import date
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 PROFILES_FILE = DATA_DIR / "profiles.json"
+BIOGUIDE_FILE = DATA_DIR / "bioguide.json"
 BACKUP_FILE = DATA_DIR / "profiles.json.before_years"
 
 CURRENT_URL = "https://unitedstates.github.io/congress-legislators/legislators-current.json"
@@ -66,7 +75,7 @@ def collapse_runs(terms_for_chamber, today):
     """
     Given a list of terms in the same chamber (sorted by start),
     collapse continuous service into (start_year, end_year) tuples.
-    Treats 1-year gaps as continuous (Jan 3 transitions, etc).
+    Treats <=1-year gaps as continuous (Jan 3 transitions, etc).
     Returns list of runs.
     """
     runs = []
@@ -132,7 +141,7 @@ def compute_years_in_office(person):
         by_chamber[chamber].sort(key=lambda t: t.get("start", ""))
 
     # For each chamber, compute runs and determine if currently serving
-    chamber_strs = []  # list of (most_recent_start, label, formatted_runs)
+    chamber_strs = []  # list of (most_recent_start, label, formatted_run_str)
     for chamber, chamber_terms in by_chamber.items():
         runs = collapse_runs(chamber_terms, today)
         if not runs:
@@ -161,7 +170,7 @@ def compute_years_in_office(person):
 
     # Multiple chambers: sort by most_recent_start descending, label each
     chamber_strs.sort(key=lambda x: x[0], reverse=True)
-    parts = [f"{label} {runs}" for _, label, runs in chamber_strs]
+    parts = [f"{label} {run_str}" for _, label, run_str in chamber_strs]
     return "; ".join(parts)
 
 
@@ -173,7 +182,7 @@ def is_real_value(value):
       - "2007-2017"
       - "Senator 2021-present; Representative 2007-2017"
       - "2011-2017, 2021-present" (multi-run single chamber)
-    Placeholders like "Senator - VA" or "Senator — VA" don't match.
+    Placeholders like "Senator - VA" or "Senator - VA" don't match.
     """
     if not value or not isinstance(value, str):
         return False
@@ -186,8 +195,13 @@ def main():
 
     if not PROFILES_FILE.exists():
         sys.exit(f"ERROR: {PROFILES_FILE} not found")
+    if not BIOGUIDE_FILE.exists():
+        sys.exit(f"ERROR: {BIOGUIDE_FILE} not found")
 
     profiles = json.loads(PROFILES_FILE.read_text())
+    bioguide_map = json.loads(BIOGUIDE_FILE.read_text())
+    print(f"Loaded {len(profiles)} profiles and {len(bioguide_map)} bioguide IDs", flush=True)
+
     legislators = fetch_legislators()
 
     if not dry_run:
@@ -196,9 +210,9 @@ def main():
 
     fixed = 0
     skipped_real = 0
-    no_bioguide = []
-    no_match = []
-    no_terms = []
+    not_in_bioguide = []   # profile name has no entry in bioguide.json (Cabinet/Court/typo)
+    no_match = []          # bioguide_id not found in @unitedstates dataset
+    no_terms = []          # legislator found but no usable terms
 
     for name, profile in sorted(profiles.items()):
         old = profile.get("years_in_office", "")
@@ -208,9 +222,9 @@ def main():
             skipped_real += 1
             continue
 
-        bid = profile.get("bioguide_id")
+        bid = bioguide_map.get(name)
         if not bid:
-            no_bioguide.append(name)
+            not_in_bioguide.append(name)
             continue
 
         person = legislators.get(bid)
@@ -235,17 +249,23 @@ def main():
 
     print(f"\n{'='*60}")
     print(f"{'DRY RUN COMPLETE' if dry_run else 'WRITE COMPLETE'}")
-    print(f"  Fixed/would fix:           {fixed}")
-    print(f"  Already valid (skipped):   {skipped_real}")
-    print(f"  Missing bioguide_id:       {len(no_bioguide)}")
-    print(f"  Bioguide not in dataset:   {len(no_match)}")
-    print(f"  No usable terms data:      {len(no_terms)}")
-    if no_bioguide[:5]:
-        print(f"  Sample missing bioguide:   {no_bioguide[:5]}")
+    print(f"  Fixed/would fix:               {fixed}")
+    print(f"  Already valid (skipped):       {skipped_real}")
+    print(f"  Not in bioguide.json:          {len(not_in_bioguide)}")
+    print(f"  Bioguide ID not in dataset:    {len(no_match)}")
+    print(f"  No usable terms data:          {len(no_terms)}")
+    if not_in_bioguide[:10]:
+        print(f"\n  Sample not in bioguide.json (likely Cabinet/Court/non-Congress):")
+        for n in not_in_bioguide[:10]:
+            print(f"    - {n}")
     if no_match[:5]:
-        print(f"  Sample not in dataset:     {no_match[:5]}")
+        print(f"\n  Sample bioguide ID missing from @unitedstates dataset:")
+        for n, b in no_match[:5]:
+            print(f"    - {n} ({b})")
     if no_terms[:5]:
-        print(f"  Sample no terms:           {no_terms[:5]}")
+        print(f"\n  Sample no terms:")
+        for n, b in no_terms[:5]:
+            print(f"    - {n} ({b})")
 
 
 if __name__ == "__main__":

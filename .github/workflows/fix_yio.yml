@@ -1,0 +1,55 @@
+name: Fix Years In Office
+
+# Repairs years_in_office across data/profiles.json:
+# - Replaces broken values (e.g. "Senator — VT") with proper year spans
+# - Normalizes en/em dashes to plain hyphens
+# Idempotent — safe to re-run.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Preview changes without writing? (true/false)'
+        required: true
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run fixer
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            echo "=== DRY RUN MODE ==="
+            python3 scripts/fix_years_in_office.py --dry-run
+          else
+            echo "=== WRITE MODE ==="
+            python3 scripts/fix_years_in_office.py
+          fi
+
+      - name: Commit changes
+        if: ${{ inputs.dry_run == 'false' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/profiles.json data/profiles.json.before_yio
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Fix years_in_office across all profiles"
+            git push
+          fi

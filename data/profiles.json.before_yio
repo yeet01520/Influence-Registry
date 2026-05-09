@@ -8,7 +8,7 @@
       }
     ],
     "net_worth": "$6.10M",
-    "years_in_office": "2021-present",
+    "years_in_office": "2021\u2013present",
     "corruption_score": 62,
     "corruption_reasoning": "Blocked 400+ military promotions for 11 months over abortion policy; fossil fuel and defense PAC money; no prior government experience.",
     "donations": {
@@ -75,7 +75,7 @@
       }
     ],
     "net_worth": "$7.08M",
-    "years_in_office": "2023-present",
+    "years_in_office": "2023\u2013present",
     "corruption_score": 81,
     "corruption_reasoning": "Former lobbyist and business association head; significant corporate PAC money from Alabama industry; gave widely mocked SOTU response 2024.",
     "donations": {
@@ -134,7 +134,7 @@
       }
     ],
     "net_worth": "$2.35M",
-    "years_in_office": "2003-present",
+    "years_in_office": "2002\u2013present",
     "corruption_score": 72,
     "corruption_reasoning": "One of few Republicans who voted to convict Trump; moderate record; oil/gas ties from Alaska but also supported climate provisions; won 2010 write-in campaign.",
     "donations": {
@@ -200,7 +200,7 @@
       }
     ],
     "net_worth": "$7.87M",
-    "years_in_office": "2015-present",
+    "years_in_office": "2015\u2013present",
     "corruption_score": 77,
     "corruption_reasoning": "Defense and oil/gas donations tied to Alaska extractive industries; consistent conservative record; military background adds credibility.",
     "donations": {
@@ -258,7 +258,7 @@
       }
     ],
     "net_worth": "$20.45M",
-    "years_in_office": "2020-present",
+    "years_in_office": "2020\u2013present",
     "corruption_score": 53,
     "corruption_reasoning": "Pledged no corporate PAC and has kept that pledge. However accepted $765,430 from AIPAC (an ideological PAC). Places assets in blind trust, no stock trading, releases public schedule. Moderate Democrat from AZ. Score reflects AIPAC amount.",
     "donations": {
@@ -311,7 +311,7 @@
   },
   "Ruben Gallego": {
     "corruption_score": 66,
-    "years_in_office": "Senator 2025-present; Representative 2015-2025",
+    "years_in_office": "Senator \u2014 AZ",
     "donations": {
       "corporate_total": "$11.3M career",
       "aipac": "$83,219",
@@ -369,7 +369,7 @@
   },
   "John Boozman": {
     "corruption_score": 67,
-    "years_in_office": "Senator 2011-present; Representative 2001-2011",
+    "years_in_office": "Senator \u2014 AR",
     "donations": {
       "corporate_total": "$6.7M career",
       "aipac": "$191,516",
@@ -445,7 +445,7 @@
       }
     ],
     "net_worth": "$682.8K",
-    "years_in_office": "Senator 2015-present; Representative 2013-2015",
+    "years_in_office": "2013\u2013present (House), 2015\u2013present (Senate)",
     "corruption_score": 86,
     "corruption_reasoning": "Massive oil/gas and defense donations; Cotton Letter to Iran violated Logan Act conventions; hawkish foreign policy aligned with donor interests.",
     "donations": {
@@ -499,7 +499,7 @@
   },
   "Alex Padilla": {
     "corruption_score": 63,
-    "years_in_office": "2021-present",
+    "years_in_office": "Senator \u2014 CA",
     "donations": {
       "corporate_total": "$3.9M career",
       "aipac": "$104,055",
@@ -569,7 +569,7 @@
       }
     ],
     "net_worth": "$2.21M",
-    "years_in_office": "Senator 2024-present; Representative 2001-2024",
+    "years_in_office": "2001\u20132023 (House), 2023\u2013present (Senate)",
     "corruption_score": 87,
     "corruption_reasoning": "Large AIPAC donations; significant tech and entertainment industry money from CA donors; led Trump impeachment inquiries; solid oversight record but major donor ties.",
     "donations": {
@@ -623,7 +623,7 @@
   },
   "Michael Bennet": {
     "corruption_score": 70,
-    "years_in_office": "2009-present",
+    "years_in_office": "Senator \u2014 CO",
     "donations": {
       "corporate_total": "$20.2M career",
       "aipac": "$357,116",
@@ -687,7 +687,7 @@
   },
   "John Hickenlooper": {
     "corruption_score": 63,
-    "years_in_office": "2021-present",
+    "years_in_office": "Senator \u2014 CO",
     "donations": {
       "corporate_total": "$12.1M career",
       "aipac": "$496,146",
@@ -764,7 +764,7 @@
       }
     ],
     "net_worth": "$70M+",
-    "years_in_office": "2011-present",
+    "years_in_office": "2011\u2013present",
     "corruption_score": 85,
     "corruption_reasoning": "Falsely claimed Vietnam combat service; extremely wealthy \u2014 wife heir to real estate fortune; significant corporate PAC money; generally good consumer protection record.",
     "donations": {
@@ -823,7 +823,7 @@
       }
     ],
     "net_worth": "$904.0K",
-    "years_in_office": "Senator 2013-present; Representative 2007-2013",
+    "years_in_office": "2007\u20132013 (House), 2013\u2013present (Senate)",
     "corruption_score": 56,
     "corruption_reasoning": "Confirmed no corporate PAC pledge, verified clean by Roll Call. Real AIPAC PAC money: $398,760. FEC sector fields in profile were manually estimated and did not reflect actual PAC receipts \u2014 cleared. Score reflects AIPAC money only.",
     "donations": {
@@ -876,7 +876,7 @@
   },
   "Tom Carper": {
     "corruption_score": 48,
-    "years_in_office": "Senator - DE",
+    "years_in_office": "Senator \u2014 DE",
     "donations": {
       "corporate_total": "$399K career",
       "aipac": "$398,700",
@@ -889,7 +889,7 @@
   },
   "Chris Coons": {
     "corruption_score": 70,
-    "years_in_office": "2010-present",
+    "years_in_office": "Senator \u2014 DE",
     "donations": {
       "corporate_total": "$7.2M career",
       "aipac": "$322,152",
@@ -965,7 +965,7 @@
       }
     ],
     "net_worth": "$700K\u2013$1M (est.)",
-    "years_in_office": "2011-present",
+    "years_in_office": "2011\u2013present",
     "corruption_score": 61,
     "corruption_reasoning": "Highest AIPAC recipient in Senate; significant defense/aerospace donations; Cuban American PAC money; multiple foreign policy conflicts tied to donor interests.",
     "donations": {
@@ -1034,7 +1034,7 @@
       }
     ],
     "net_worth": "$513.28M",
-    "years_in_office": "2019-present",
+    "years_in_office": "2019\u2013present",
     "corruption_score": 87,
     "corruption_reasoning": "Presided over largest Medicare fraud settlement in US history ($1.7B); one of wealthiest senators; 'Rescue America' plan called for sunsetting Social Security/Medicare.",
     "donations": {
@@ -1090,7 +1090,7 @@
       }
     ],
     "net_worth": "$3.25M",
-    "years_in_office": "2021-present",
+    "years_in_office": "2021\u2013present",
     "corruption_score": 59,
     "corruption_reasoning": "Confirmed no corporate PAC pledge per own Senate website and Ban Corporate PACs Act co-authorship. Real AIPAC money: $1,543,210. Massive FEC career employment totals ($9M finance, $12M tech) reflect individual Georgia tech/finance industry employees donating \u2014 not corporate PAC checks. Atlanta is a major tech and finance hub. Score reflects AIPAC only.",
     "donations": {
@@ -1156,7 +1156,7 @@
       }
     ],
     "net_worth": "$1.45M",
-    "years_in_office": "2021-present",
+    "years_in_office": "2021\u2013present",
     "corruption_score": 80,
     "corruption_reasoning": "Senior pastor of Ebenezer Baptist Church; largely grassroots funded; AIPAC donations; called for Gaza ceasefire; strong voting rights record.",
     "donations": {
@@ -1210,7 +1210,7 @@
   },
   "Brian Schatz": {
     "corruption_score": 63,
-    "years_in_office": "2012-present",
+    "years_in_office": "Senator \u2014 HI",
     "donations": {
       "corporate_total": "$4.7M career",
       "aipac": "$211,432",
@@ -1268,7 +1268,7 @@
   },
   "Mazie Hirono": {
     "corruption_score": 63,
-    "years_in_office": "Senator 2013-present; Representative 2007-2013",
+    "years_in_office": "Senator \u2014 HI",
     "donations": {
       "corporate_total": "$3.5M career",
       "aipac": "$32,848",
@@ -1331,7 +1331,7 @@
   },
   "Mike Crapo": {
     "corruption_score": 67,
-    "years_in_office": "Senator 1999-present; Representative 1993-1999",
+    "years_in_office": "Senator \u2014 ID",
     "donations": {
       "corporate_total": "$12.8M career",
       "aipac": "$223,977",
@@ -1396,7 +1396,7 @@
   },
   "James Risch": {
     "corruption_score": 65,
-    "years_in_office": "2009-present",
+    "years_in_office": "Senator \u2014 ID",
     "donations": {
       "corporate_total": "$3.2M career",
       "aipac": "$658,269",
@@ -1473,7 +1473,7 @@
       }
     ],
     "net_worth": "$4.8M",
-    "years_in_office": "Senator 1997-present; Representative 1983-1997",
+    "years_in_office": "1983\u20131997 (House), 1997\u2013present (Senate)",
     "corruption_score": 85,
     "corruption_reasoning": "Long career Senate Whip; significant pharma and finance donations; generally progressive record but donor relationships notable; judicial reform advocate.",
     "donations": {
@@ -1543,7 +1543,7 @@
       }
     ],
     "net_worth": "$1.37M",
-    "years_in_office": "Senator 2017-present; Representative 2013-2017",
+    "years_in_office": "2013\u20132017 (House), 2017\u2013present (Senate)",
     "corruption_score": 78,
     "corruption_reasoning": "Combat veteran who lost both legs in Iraq; largely clean record; AIPAC donations but strong military care advocacy; consistent progressive votes.",
     "donations": {
@@ -1596,7 +1596,7 @@
   },
   "Todd Young": {
     "corruption_score": 67,
-    "years_in_office": "Senator 2017-present; Representative 2011-2017",
+    "years_in_office": "Senator \u2014 IN",
     "donations": {
       "corporate_total": "$14.7M career",
       "aipac": "$232,249",
@@ -1669,7 +1669,7 @@
   },
   "Jim Banks": {
     "corruption_score": 62,
-    "years_in_office": "Senator 2025-present; Representative 2017-2025",
+    "years_in_office": "Senator \u2014 IN",
     "donations": {
       "corporate_total": "$4.3M career",
       "aipac": "$355,651",
@@ -1745,7 +1745,7 @@
       }
     ],
     "net_worth": "$6.21M",
-    "years_in_office": "Senator 1981-present; Representative 1975-1981",
+    "years_in_office": "1959\u2013present (total)",
     "corruption_score": 89,
     "corruption_reasoning": "Longest-serving Republican senator; massive agribusiness and pharma donations; blocked Merrick Garland hearings; but also genuine whistleblower champion.",
     "donations": {
@@ -1811,7 +1811,7 @@
       }
     ],
     "net_worth": "$825.2K",
-    "years_in_office": "2015-present",
+    "years_in_office": "2015\u2013present",
     "corruption_score": 81,
     "corruption_reasoning": "Military veteran; significant Koch and agribusiness money; anti-abortion record; divorced from Army colonel with allegations of domestic abuse claims.",
     "donations": {
@@ -1865,7 +1865,7 @@
   },
   "Jerry Moran": {
     "corruption_score": 65,
-    "years_in_office": "Senator 2011-present; Representative 1997-2011",
+    "years_in_office": "Senator \u2014 KS",
     "donations": {
       "corporate_total": "$9.0M career",
       "aipac": "$163,949",
@@ -1928,7 +1928,7 @@
   },
   "Roger Marshall": {
     "corruption_score": 67,
-    "years_in_office": "Senator 2021-present; Representative 2017-2021",
+    "years_in_office": "Senator \u2014 KS",
     "donations": {
       "corporate_total": "$4.1M career",
       "aipac": "$262,295",
@@ -2005,7 +2005,7 @@
       }
     ],
     "net_worth": "$67.64M",
-    "years_in_office": "1985-present",
+    "years_in_office": "1985\u2013present",
     "corruption_score": 88,
     "corruption_reasoning": "40 years accumulating donor influence; blocked Garland SCOTUS; buried campaign finance reform; top dark money recipient; wife's family China shipping ties.",
     "donations": {
@@ -2072,7 +2072,7 @@
       }
     ],
     "net_worth": "$2.09M",
-    "years_in_office": "2011-present",
+    "years_in_office": "2011\u2013present",
     "corruption_score": 66,
     "corruption_reasoning": "Libertarian-leaning; funded mostly by small donors; consistent anti-war votes; bills himself as Medicare-billing doctor while opposing government healthcare.",
     "donations": {
@@ -2139,7 +2139,7 @@
       }
     ],
     "net_worth": "$431.5K",
-    "years_in_office": "Senator 2015-present; Representative 2009-2015",
+    "years_in_office": "2009\u20132015 (House), 2015\u2013present (Senate)",
     "corruption_score": 86,
     "corruption_reasoning": "One of 7 Republicans who voted to convict Trump; physician; significant pharma donations; Louisiana energy industry money.",
     "donations": {
@@ -2192,7 +2192,7 @@
   },
   "John Kennedy": {
     "corruption_score": 72,
-    "years_in_office": "2017-present",
+    "years_in_office": "Senator \u2014 LA",
     "donations": {
       "corporate_total": "$11.9M career",
       "aipac": "$108,680",
@@ -2269,7 +2269,7 @@
       }
     ],
     "net_worth": "$6.89M",
-    "years_in_office": "1997-present",
+    "years_in_office": "1997\u2013present",
     "corruption_score": 87,
     "corruption_reasoning": "Moderate Republican; voted against ACA repeal; voted for Kavanaugh after he implied Roe was settled law \u2014 which proved false.",
     "donations": {
@@ -2323,7 +2323,7 @@
   },
   "Angus King": {
     "corruption_score": 35,
-    "years_in_office": "2013-present",
+    "years_in_office": "Senator \u2014 ME",
     "donations": {
       "corporate_total": "$4.3M career",
       "aipac": "$206,555",
@@ -2387,7 +2387,7 @@
   },
   "Ben Cardin": {
     "corruption_score": 55,
-    "years_in_office": "Senator - MD",
+    "years_in_office": "Senator \u2014 MD",
     "donations": {
       "corporate_total": "$1.5M career",
       "aipac": "$1,482,300",
@@ -2400,7 +2400,7 @@
   },
   "Angela Alsobrooks": {
     "corruption_score": 63,
-    "years_in_office": "2025-present",
+    "years_in_office": "Senator \u2014 MD",
     "donations": {
       "corporate_total": "$4.7M career",
       "aipac": "$224,016",
@@ -2463,7 +2463,7 @@
       }
     ],
     "net_worth": "$7.09M",
-    "years_in_office": "2013-present",
+    "years_in_office": "2013\u2013present",
     "corruption_score": 18,
     "corruption_reasoning": "Refuses corporate PAC money; architect of CFPB; consistent record fighting financial industry and pharma. Cherokee ancestry controversy does not involve corruption.",
     "donations": {
@@ -2517,7 +2517,7 @@
   },
   "Ed Markey": {
     "corruption_score": 63,
-    "years_in_office": "Senator 2013-present; Representative 1975-2013",
+    "years_in_office": "Senator \u2014 MA",
     "donations": {
       "corporate_total": "$13.7M career",
       "aipac": "$54,059",
@@ -2581,7 +2581,7 @@
   },
   "Gary Peters": {
     "corruption_score": 70,
-    "years_in_office": "Senator 2015-present; Representative 2009-2015",
+    "years_in_office": "Senator \u2014 MI",
     "donations": {
       "corporate_total": "$20.4M career",
       "aipac": "$222,740",
@@ -2649,7 +2649,7 @@
   },
   "Elissa Slotkin": {
     "corruption_score": 14,
-    "years_in_office": "Senator 2025-present; Representative 2019-2025",
+    "years_in_office": "Representative \u2014 MI",
     "donations": {
       "total_raised": "varies",
       "aipac": "$390,092",
@@ -2720,7 +2720,7 @@
       }
     ],
     "net_worth": "$2.27M",
-    "years_in_office": "2007-present",
+    "years_in_office": "2007\u2013present",
     "corruption_score": 88,
     "corruption_reasoning": "Moderate Democrat; significant pharma and Wall Street donations; known for treating staff poorly; antitrust work partially offset by corporate donor relationships.",
     "donations": {
@@ -2774,7 +2774,7 @@
   },
   "Tina Smith": {
     "corruption_score": 63,
-    "years_in_office": "2018-present",
+    "years_in_office": "Senator \u2014 MN",
     "donations": {
       "corporate_total": "$5.6M career",
       "aipac": "$113,794",
@@ -2837,7 +2837,7 @@
   },
   "Roger Wicker": {
     "corruption_score": 70,
-    "years_in_office": "Senator 2007-present; Representative 1995-2007",
+    "years_in_office": "Senator \u2014 MS",
     "donations": {
       "corporate_total": "$12.2M career",
       "aipac": "$533,926",
@@ -2901,7 +2901,7 @@
   },
   "Cindy Hyde-Smith": {
     "corruption_score": 62,
-    "years_in_office": "2018-present",
+    "years_in_office": "Senator \u2014 MS",
     "donations": {
       "corporate_total": "$2.8M career",
       "aipac": "$221,345",
@@ -2973,7 +2973,7 @@
       }
     ],
     "net_worth": "$2.83M",
-    "years_in_office": "2019-present",
+    "years_in_office": "2019\u2013present",
     "corruption_score": 72,
     "corruption_reasoning": "Raised fist to Jan. 6 rioters then fled; first senator to object to 2020 certification; book deal from Regnery after Simon & Schuster dropped him.",
     "donations": {
@@ -3028,7 +3028,7 @@
   },
   "Eric Schmitt": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Senator \u2014 MO",
     "donations": {
       "corporate_total": "$2.0M career",
       "aipac": "$37,079",
@@ -3093,7 +3093,7 @@
   },
   "Steve Daines": {
     "corruption_score": 67,
-    "years_in_office": "Senator 2015-present; Representative 2013-2015",
+    "years_in_office": "Senator \u2014 MT",
     "donations": {
       "corporate_total": "$12.1M career",
       "aipac": "$561,668",
@@ -3152,7 +3152,7 @@
   },
   "Tim Sheehy": {
     "corruption_score": 62,
-    "years_in_office": "2025-present",
+    "years_in_office": "Senator \u2014 MT",
     "donations": {
       "corporate_total": "$6.0M career",
       "aipac": "$79,253",
@@ -3199,7 +3199,7 @@
   },
   "Deb Fischer": {
     "corruption_score": 67,
-    "years_in_office": "2013-present",
+    "years_in_office": "Senator \u2014 NE",
     "donations": {
       "corporate_total": "$6.7M career",
       "aipac": "$632,220",
@@ -3258,7 +3258,7 @@
   },
   "Pete Ricketts": {
     "corruption_score": 65,
-    "years_in_office": "2023-present",
+    "years_in_office": "Senator \u2014 NE",
     "donations": {
       "corporate_total": "$3.0M career",
       "aipac": "$372,552",
@@ -3323,7 +3323,7 @@
   },
   "Jacky Rosen": {
     "corruption_score": 67,
-    "years_in_office": "Senator 2019-present; Representative 2017-2019",
+    "years_in_office": "Senator \u2014 NV",
     "donations": {
       "corporate_total": "$19.0M career",
       "aipac": "$2,107,243",
@@ -3381,7 +3381,7 @@
   },
   "Catherine Cortez Masto": {
     "corruption_score": 63,
-    "years_in_office": "2017-present",
+    "years_in_office": "Senator \u2014 NV",
     "donations": {
       "corporate_total": "$14.5M career",
       "aipac": "$690,749",
@@ -3444,7 +3444,7 @@
   },
   "Jeanne Shaheen": {
     "corruption_score": 66,
-    "years_in_office": "2009-present",
+    "years_in_office": "Senator \u2014 NH",
     "donations": {
       "corporate_total": "$10.6M career",
       "aipac": "$385,505",
@@ -3507,7 +3507,7 @@
   },
   "Maggie Hassan": {
     "corruption_score": 66,
-    "years_in_office": "2017-present",
+    "years_in_office": "Senator \u2014 NH",
     "donations": {
       "corporate_total": "$13.1M career",
       "aipac": "$760,212",
@@ -3571,7 +3571,7 @@
   },
   "Cory Booker": {
     "corruption_score": 63,
-    "years_in_office": "2013-present",
+    "years_in_office": "Senator \u2014 NJ",
     "donations": {
       "corporate_total": "$21.8M career",
       "aipac": "$836,541",
@@ -3640,7 +3640,7 @@
   },
   "Andy Kim": {
     "corruption_score": 15,
-    "years_in_office": "Senator 2024-present; Representative 2019-2024",
+    "years_in_office": "Senator \u2014 NJ",
     "donations": {
       "total_raised": "varies",
       "aipac": "$512,969",
@@ -3709,7 +3709,7 @@
   },
   "Martin Heinrich": {
     "corruption_score": 63,
-    "years_in_office": "Senator 2013-present; Representative 2009-2013",
+    "years_in_office": "Senator \u2014 NM",
     "donations": {
       "corporate_total": "$7.7M career",
       "aipac": "$288,857",
@@ -3767,7 +3767,7 @@
   },
   "Ben Ray Luj\u00e1n": {
     "corruption_score": 63,
-    "years_in_office": "Senator 2021-present; Representative 2009-2021",
+    "years_in_office": "Senator \u2014 NM",
     "donations": {
       "corporate_total": "$93K career",
       "aipac": "$93,499",
@@ -3837,7 +3837,7 @@
       }
     ],
     "net_worth": "$2.00M",
-    "years_in_office": "Senator 1999-present; Representative 1981-1999",
+    "years_in_office": "1981\u2013present",
     "corruption_score": 84,
     "corruption_reasoning": "$2.85M AIPAC donations; major Wall Street ties from NY; blocked Gaza ceasefire votes repeatedly; but passed major progressive legislation.",
     "donations": {
@@ -3892,7 +3892,7 @@
   },
   "Kirsten Gillibrand": {
     "corruption_score": 56,
-    "years_in_office": "Senator 2009-present; Representative 2007-2009",
+    "years_in_office": "Senator \u2014 NY",
     "donations": {
       "total_raised": "$80M+ career",
       "aipac": "$628,057",
@@ -3958,7 +3958,7 @@
   },
   "Thom Tillis": {
     "corruption_score": 72,
-    "years_in_office": "2015-present",
+    "years_in_office": "Senator \u2014 NC",
     "donations": {
       "corporate_total": "$15.4M career",
       "aipac": "$405,386",
@@ -4017,7 +4017,7 @@
   },
   "Ted Budd": {
     "corruption_score": 62,
-    "years_in_office": "Senator 2023-present; Representative 2017-2023",
+    "years_in_office": "Senator \u2014 NC",
     "donations": {
       "corporate_total": "$5.7M career",
       "aipac": "$80,136",
@@ -4086,7 +4086,7 @@
   },
   "John Hoeven": {
     "corruption_score": 72,
-    "years_in_office": "2011-present",
+    "years_in_office": "Senator \u2014 ND",
     "donations": {
       "corporate_total": "$4.7M career",
       "aipac": "$314,804",
@@ -4150,7 +4150,7 @@
   },
   "Kevin Cramer": {
     "corruption_score": 72,
-    "years_in_office": "Senator 2019-present; Representative 2013-2019",
+    "years_in_office": "Senator \u2014 ND",
     "donations": {
       "corporate_total": "$6.5M career",
       "aipac": "$364,123",
@@ -4209,7 +4209,7 @@
   },
   "Sherrod Brown": {
     "corruption_score": 48,
-    "years_in_office": "Senator - OH",
+    "years_in_office": "Senator \u2014 OH",
     "donations": {
       "corporate_total": "$489K career",
       "aipac": "$489,210",
@@ -4222,7 +4222,7 @@
   },
   "Bernie Moreno": {
     "corruption_score": 62,
-    "years_in_office": "2025-present",
+    "years_in_office": "Senator \u2014 OH",
     "donations": {
       "corporate_total": "$5.3M career",
       "aipac": "$66,112",
@@ -4269,7 +4269,7 @@
   },
   "James Lankford": {
     "corruption_score": 70,
-    "years_in_office": "Senator 2015-present; Representative 2011-2015",
+    "years_in_office": "Senator \u2014 OK",
     "donations": {
       "corporate_total": "$7.4M career",
       "aipac": "$311,655",
@@ -4333,7 +4333,7 @@
   },
   "Markwayne Mullin": {
     "corruption_score": 62,
-    "years_in_office": "Senator - OK",
+    "years_in_office": "Senator \u2014 OK",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -4347,7 +4347,7 @@
   },
   "Ron Wyden": {
     "corruption_score": 16,
-    "years_in_office": "Senator 1996-present; Representative 1981-1996",
+    "years_in_office": "Senator \u2014 OR",
     "donations": {
       "total_raised": "varies",
       "aipac": "$474,393",
@@ -4412,7 +4412,7 @@
   },
   "Jeff Merkley": {
     "corruption_score": 14,
-    "years_in_office": "2009-present",
+    "years_in_office": "Senator \u2014 OR",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -4476,7 +4476,7 @@
   },
   "Bob Casey": {
     "corruption_score": 45,
-    "years_in_office": "Senator - PA",
+    "years_in_office": "Senator \u2014 PA",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -4489,7 +4489,7 @@
   },
   "Dave McCormick": {
     "corruption_score": 62,
-    "years_in_office": "2025-present",
+    "years_in_office": "Senator \u2014 PA",
     "donations": {
       "corporate_total": "$9.7M career",
       "aipac": "$133,977",
@@ -4542,7 +4542,7 @@
   },
   "Jack Reed": {
     "corruption_score": 66,
-    "years_in_office": "Senator 1997-present; Representative 1991-1997",
+    "years_in_office": "Senator \u2014 RI",
     "donations": {
       "corporate_total": "$8.7M career",
       "aipac": "$328,083",
@@ -4610,7 +4610,7 @@
   },
   "Sheldon Whitehouse": {
     "corruption_score": 53,
-    "years_in_office": "2007-present",
+    "years_in_office": "Senator \u2014 RI",
     "donations": {
       "total_raised": "$20M+ career",
       "aipac": "$408,044",
@@ -4687,7 +4687,7 @@
       }
     ],
     "net_worth": "$1.48M",
-    "years_in_office": "Senator 2003-present; Representative 1995-2003",
+    "years_in_office": "1995\u20132003 (House), 2003\u2013present (Senate)",
     "corruption_score": 86,
     "corruption_reasoning": "$1.76M AIPAC; massive defense contractor money; called Trump a 'race-baiting xenophobe' then became his top defender; election tampering investigation.",
     "donations": {
@@ -4749,7 +4749,7 @@
       }
     ],
     "net_worth": "$5.99M",
-    "years_in_office": "Senator 2013-present; Representative 2011-2013",
+    "years_in_office": "2011\u20132013 (House), 2013\u2013present (Senate)",
     "corruption_score": 88,
     "corruption_reasoning": "Only Black Republican senator; significant financial and defense donations; failed 2024 presidential run; supported police reform then sided with GOP blocking it.",
     "donations": {
@@ -4816,7 +4816,7 @@
       }
     ],
     "net_worth": "$751.9K",
-    "years_in_office": "Senator 2005-present; Representative 1997-2003",
+    "years_in_office": "1997\u20132003 (House), 2005\u2013present (Senate)",
     "corruption_score": 89,
     "corruption_reasoning": "Senate Majority Leader; agriculture, finance and telecom donations; supported Trump election claims initially then distanced; generally establishment Republican.",
     "donations": {
@@ -4869,7 +4869,7 @@
   },
   "Mike Rounds": {
     "corruption_score": 65,
-    "years_in_office": "2015-present",
+    "years_in_office": "Senator \u2014 SD",
     "donations": {
       "corporate_total": "$4.9M career",
       "aipac": "$274,097",
@@ -4928,7 +4928,7 @@
   },
   "Bill Hagerty": {
     "corruption_score": 70,
-    "years_in_office": "2021-present",
+    "years_in_office": "Senator \u2014 TN",
     "donations": {
       "corporate_total": "$6.4M career",
       "aipac": "$136,097",
@@ -4993,7 +4993,7 @@
   },
   "Marsha Blackburn": {
     "corruption_score": 62,
-    "years_in_office": "Senator 2019-present; Representative 2003-2019",
+    "years_in_office": "Senator \u2014 TN",
     "donations": {
       "corporate_total": "$16.3M career",
       "aipac": "$449,882",
@@ -5065,7 +5065,7 @@
       }
     ],
     "net_worth": "$11.28M",
-    "years_in_office": "2013-present",
+    "years_in_office": "2013\u2013present",
     "corruption_score": 86,
     "corruption_reasoning": "$1.9M AIPAC + $3.5M fossil fuels; organized Cotton Letter to Iran; Cancun trip during Texas freeze; election denial.",
     "donations": {
@@ -5137,7 +5137,7 @@
       }
     ],
     "net_worth": "$1.50M",
-    "years_in_office": "2002-present",
+    "years_in_office": "2002\u2013present",
     "corruption_score": 84,
     "corruption_reasoning": "Top fossil fuel recipient; major gun industry money; failed Speaker bid; negotiated Bipartisan Safer Communities Act on guns \u2014 partial credit.",
     "donations": {
@@ -5190,7 +5190,7 @@
   },
   "Mike Lee": {
     "corruption_score": 67,
-    "years_in_office": "2011-present",
+    "years_in_office": "Senator \u2014 UT",
     "donations": {
       "corporate_total": "$7.1M career",
       "aipac": "$292,124",
@@ -5255,7 +5255,7 @@
   },
   "John Curtis": {
     "corruption_score": 62,
-    "years_in_office": "Senator 2025-present; Representative 2017-2025",
+    "years_in_office": "Senator-elect \u2014 UT",
     "donations": {
       "corporate_total": "$4.5M career",
       "aipac": "$67,900",
@@ -5315,7 +5315,7 @@
       }
     ],
     "net_worth": "$3M (mostly book sales)",
-    "years_in_office": "Senator 2007-present; Representative 1991-2007",
+    "years_in_office": "1991\u2013present",
     "corruption_score": 12,
     "corruption_reasoning": "Funded almost entirely by small-dollar donors; refuses corporate PAC money; consistent 40-year record; no major ethics violations; honeymoon trip partially funded by campaign but disclosed.",
     "donations": {
@@ -5369,7 +5369,7 @@
   },
   "Peter Welch": {
     "corruption_score": 15,
-    "years_in_office": "Senator 2023-present; Representative 2007-2023",
+    "years_in_office": "Senator \u2014 VT",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -5433,7 +5433,7 @@
   },
   "Mark Warner": {
     "corruption_score": 70,
-    "years_in_office": "2009-present",
+    "years_in_office": "Senator \u2014 VA",
     "donations": {
       "corporate_total": "$24.4M career",
       "aipac": "$631,921",
@@ -5497,7 +5497,7 @@
   },
   "Tim Kaine": {
     "corruption_score": 70,
-    "years_in_office": "2013-present",
+    "years_in_office": "Senator \u2014 VA",
     "donations": {
       "corporate_total": "$16.7M career",
       "aipac": "$442,956",
@@ -5561,7 +5561,7 @@
   },
   "Patty Murray": {
     "corruption_score": 63,
-    "years_in_office": "1993-present",
+    "years_in_office": "Senator \u2014 WA",
     "donations": {
       "corporate_total": "$15.6M career",
       "aipac": "$524,336",
@@ -5620,7 +5620,7 @@
   },
   "Maria Cantwell": {
     "corruption_score": 56,
-    "years_in_office": "Senator 2001-present; Representative 1993-1995",
+    "years_in_office": "Senator \u2014 WA",
     "donations": {
       "total_raised": "$30M+ career",
       "aipac": "$392,639",
@@ -5680,7 +5680,7 @@
   },
   "Shelley Moore Capito": {
     "corruption_score": 72,
-    "years_in_office": "Senator 2015-present; Representative 2001-2015",
+    "years_in_office": "Senator \u2014 WV",
     "donations": {
       "corporate_total": "$10.2M career",
       "aipac": "$325,742",
@@ -5744,7 +5744,7 @@
   },
   "Jim Justice": {
     "corruption_score": 67,
-    "years_in_office": "2025-present",
+    "years_in_office": "Senator \u2014 WV",
     "donations": {
       "corporate_total": "$1.2M career",
       "aipac": "$11,986",
@@ -5798,7 +5798,7 @@
   },
   "Tammy Baldwin": {
     "corruption_score": 63,
-    "years_in_office": "Senator 2013-present; Representative 1999-2013",
+    "years_in_office": "Senator \u2014 WI",
     "donations": {
       "corporate_total": "$17.5M career",
       "aipac": "$762,296",
@@ -5862,7 +5862,7 @@
   },
   "Ron Johnson": {
     "corruption_score": 67,
-    "years_in_office": "2011-present",
+    "years_in_office": "Senator \u2014 WI",
     "donations": {
       "corporate_total": "$14.2M career",
       "aipac": "$335,142",
@@ -5923,7 +5923,7 @@
   },
   "John Barrasso": {
     "corruption_score": 72,
-    "years_in_office": "2007-present",
+    "years_in_office": "Senator \u2014 WY",
     "donations": {
       "corporate_total": "$12.2M career",
       "aipac": "$693,198",
@@ -5988,7 +5988,7 @@
   },
   "Cynthia Lummis": {
     "corruption_score": 67,
-    "years_in_office": "Senator 2021-present; Representative 2009-2017",
+    "years_in_office": "Senator \u2014 WY",
     "donations": {
       "corporate_total": "$2.1M career",
       "aipac": "$14,795",
@@ -6053,7 +6053,7 @@
   },
   "Barry Moore": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 AL",
     "donations": {
       "corporate_total": "$586K career",
       "aipac": "$30,173",
@@ -6112,7 +6112,7 @@
   },
   "Mike Rogers": {
     "corruption_score": 62,
-    "years_in_office": "2003-present",
+    "years_in_office": "Representative \u2014 AL",
     "donations": {
       "corporate_total": "$6.2M career",
       "aipac": "$924,925",
@@ -6176,7 +6176,7 @@
   },
   "Robert Aderholt": {
     "corruption_score": 62,
-    "years_in_office": "1997-present",
+    "years_in_office": "Representative \u2014 AL",
     "donations": {
       "corporate_total": "$6.0M career",
       "aipac": "$116,458",
@@ -6240,7 +6240,7 @@
   },
   "Dale Strong": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 AL",
     "donations": {
       "corporate_total": "$1.2M career",
       "aipac": "$37,321",
@@ -6298,7 +6298,7 @@
   },
   "Gary Palmer": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 AL",
     "donations": {
       "corporate_total": "$2.7M career",
       "aipac": "$88,019",
@@ -6357,7 +6357,7 @@
   },
   "Terri Sewell": {
     "corruption_score": 63,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 AL",
     "donations": {
       "corporate_total": "$7.9M career",
       "aipac": "$75,552",
@@ -6425,7 +6425,7 @@
   },
   "Nick Begich": {
     "corruption_score": 62,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 AK",
     "donations": {
       "corporate_total": "$739K career",
       "aipac": "$7,599",
@@ -6477,7 +6477,7 @@
   },
   "David Schweikert": {
     "corruption_score": 62,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 AZ",
     "donations": {
       "corporate_total": "$6.3M career",
       "aipac": "$191,943",
@@ -6541,7 +6541,7 @@
   },
   "Eli Crane": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 AZ",
     "donations": {
       "corporate_total": "$1.2M career",
       "aipac": "$500",
@@ -6600,7 +6600,7 @@
   },
   "Yassamin Ansari": {
     "corruption_score": 63,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 AZ",
     "donations": {
       "corporate_total": "$727K career",
       "aipac": "$5,000",
@@ -6644,7 +6644,7 @@
   },
   "Greg Stanton": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 AZ",
     "donations": {
       "corporate_total": "$3.4M career",
       "aipac": "$261,589",
@@ -6707,7 +6707,7 @@
   },
   "Andy Biggs": {
     "corruption_score": 62,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 AZ",
     "donations": {
       "corporate_total": "$1.0M career",
       "aipac": "$39,184",
@@ -6777,7 +6777,7 @@
   },
   "Juan Ciscomani": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 AZ",
     "donations": {
       "corporate_total": "$3.8M career",
       "aipac": "$1,039,301",
@@ -6835,7 +6835,7 @@
   },
   "Ra\u00fal Grijalva": {
     "corruption_score": 45,
-    "years_in_office": "Representative - AZ",
+    "years_in_office": "Representative \u2014 AZ",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -6848,7 +6848,7 @@
   },
   "Quentin Fulks": {
     "corruption_score": 45,
-    "years_in_office": "Representative - AZ",
+    "years_in_office": "Representative \u2014 AZ",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -6861,7 +6861,7 @@
   },
   "Paul Gosar": {
     "corruption_score": 65,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 AZ",
     "donations": {
       "corporate_total": "$1.9M career",
       "aipac": "$18,250",
@@ -6927,7 +6927,7 @@
   },
   "Rick Crawford": {
     "corruption_score": 62,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 AR",
     "donations": {
       "corporate_total": "$1.8M career",
       "aipac": "$20,387",
@@ -6986,7 +6986,7 @@
   },
   "French Hill": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 AR",
     "donations": {
       "corporate_total": "$9.7M career",
       "aipac": "$63,057",
@@ -7050,7 +7050,7 @@
   },
   "Steve Womack": {
     "corruption_score": 62,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 AR",
     "donations": {
       "corporate_total": "$3.6M career",
       "aipac": "$131,071",
@@ -7108,7 +7108,7 @@
   },
   "Bruce Westerman": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 AR",
     "donations": {
       "corporate_total": "$2.4M career",
       "aipac": "$50,627",
@@ -7172,7 +7172,7 @@
   },
   "Doug LaMalfa": {
     "corruption_score": 62,
-    "years_in_office": "Representative - CA",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$1.0M career",
       "aipac": "None on record",
@@ -7231,7 +7231,7 @@
   },
   "Jared Huffman": {
     "corruption_score": 14,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "total_raised": "varies",
       "aipac": "$42,006",
@@ -7295,7 +7295,7 @@
   },
   "Kevin Kiley": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$1.6M career",
       "aipac": "$86,981",
@@ -7359,7 +7359,7 @@
   },
   "Mike Thompson": {
     "corruption_score": 63,
-    "years_in_office": "1999-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$8.7M career",
       "aipac": "$39,235",
@@ -7422,7 +7422,7 @@
   },
   "Tom McClintock": {
     "corruption_score": 62,
-    "years_in_office": "2009-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$3.2M career",
       "aipac": "$44,483",
@@ -7481,7 +7481,7 @@
   },
   "Ami Bera": {
     "corruption_score": 63,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$8.2M career",
       "aipac": "$269,170",
@@ -7545,7 +7545,7 @@
   },
   "Doris Matsui": {
     "corruption_score": 63,
-    "years_in_office": "2005-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$5.1M career",
       "aipac": "$21,305",
@@ -7603,7 +7603,7 @@
   },
   "John Garamendi": {
     "corruption_score": 63,
-    "years_in_office": "2009-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$2.6M career",
       "aipac": "$65,867",
@@ -7666,7 +7666,7 @@
   },
   "Josh Harder": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$8.3M career",
       "aipac": "$382,938",
@@ -7729,7 +7729,7 @@
   },
   "Mark DeSaulnier": {
     "corruption_score": 63,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$718K career",
       "aipac": "$27,060",
@@ -7794,7 +7794,7 @@
       }
     ],
     "net_worth": "$281.51M",
-    "years_in_office": "1987-present",
+    "years_in_office": "1987\u2013present",
     "corruption_score": 86,
     "corruption_reasoning": "Husband's stock trades timed around legislation she oversees; tech stocks before tech regulation; AIPAC donations; opposed stock trading ban.",
     "donations": {
@@ -7849,7 +7849,7 @@
   },
   "Barbara Lee": {
     "corruption_score": 45,
-    "years_in_office": "Representative - CA",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -7862,7 +7862,7 @@
   },
   "John Duarte": {
     "corruption_score": 62,
-    "years_in_office": "Representative - CA",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -7875,7 +7875,7 @@
   },
   "Eric Swalwell": {
     "corruption_score": 50,
-    "years_in_office": "Representative - CA",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$877K career",
       "aipac": "$876,540",
@@ -7889,7 +7889,7 @@
   },
   "Kevin Mullin": {
     "corruption_score": 63,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$675K career",
       "aipac": "$126,185",
@@ -7947,7 +7947,7 @@
   },
   "Anna Eshoo": {
     "corruption_score": 45,
-    "years_in_office": "Representative - CA",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -7960,7 +7960,7 @@
   },
   "Ro Khanna": {
     "corruption_score": 16,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "total_raised": "varies",
       "aipac": "$146,998",
@@ -8025,7 +8025,7 @@
   },
   "Zoe Lofgren": {
     "corruption_score": 63,
-    "years_in_office": "1995-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$6.4M career",
       "aipac": "$49,388",
@@ -8088,7 +8088,7 @@
   },
   "Jimmy Panetta": {
     "corruption_score": 63,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$4.0M career",
       "aipac": "$463,176",
@@ -8152,7 +8152,7 @@
   },
   "Kevin McCarthy": {
     "corruption_score": 82,
-    "years_in_office": "Former Speaker - CA",
+    "years_in_office": "Former Speaker \u2014 CA",
     "donations": {
       "corporate_total": "$2.8M career",
       "aipac": "$1,234,560",
@@ -8165,7 +8165,7 @@
   },
   "Jim Costa": {
     "corruption_score": 63,
-    "years_in_office": "2005-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$4.5M career",
       "aipac": "$346,122",
@@ -8224,7 +8224,7 @@
   },
   "David Valadao": {
     "corruption_score": 62,
-    "years_in_office": "2013-2019, 2021-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$5.4M career",
       "aipac": "$164,151",
@@ -8283,7 +8283,7 @@
   },
   "Jay Obernolte": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$1.3M career",
       "aipac": "$31,398",
@@ -8346,7 +8346,7 @@
   },
   "Salud Carbajal": {
     "corruption_score": 63,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$2.8M career",
       "aipac": "$50,945",
@@ -8409,7 +8409,7 @@
   },
   "Raul Ruiz": {
     "corruption_score": 63,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$7.0M career",
       "aipac": "$197,383",
@@ -8477,7 +8477,7 @@
   },
   "Julia Brownley": {
     "corruption_score": 63,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$3.9M career",
       "aipac": "$192,077",
@@ -8540,7 +8540,7 @@
   },
   "Judy Chu": {
     "corruption_score": 63,
-    "years_in_office": "2009-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$4.1M career",
       "aipac": "$29,735",
@@ -8603,7 +8603,7 @@
   },
   "Jimmy Gomez": {
     "corruption_score": 63,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$2.8M career",
       "aipac": "$293,555",
@@ -8665,7 +8665,7 @@
   },
   "Ted Lieu": {
     "corruption_score": 63,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$5.3M career",
       "aipac": "$887,737",
@@ -8728,7 +8728,7 @@
   },
   "Sydney Kamlager-Dove": {
     "corruption_score": 15,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "total_raised": "varies",
       "aipac": "$60,617",
@@ -8791,7 +8791,7 @@
   },
   "Linda S\u00e1nchez": {
     "corruption_score": 63,
-    "years_in_office": "2003-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$5.8M career",
       "aipac": "$125,321",
@@ -8854,7 +8854,7 @@
   },
   "Mark Takano": {
     "corruption_score": 63,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$2.2M career",
       "aipac": "$85,802",
@@ -8916,7 +8916,7 @@
   },
   "Young Kim": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$6.7M career",
       "aipac": "$536,138",
@@ -8974,7 +8974,7 @@
   },
   "Ken Calvert": {
     "corruption_score": 62,
-    "years_in_office": "1993-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$9.8M career",
       "aipac": "$1,115,578",
@@ -9033,7 +9033,7 @@
   },
   "Robert Garcia": {
     "corruption_score": 14,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "total_raised": "varies",
       "aipac": "$104,357",
@@ -9092,7 +9092,7 @@
   },
   "Maxine Waters": {
     "corruption_score": 63,
-    "years_in_office": "1991-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$4.7M career",
       "aipac": "$4,000",
@@ -9151,7 +9151,7 @@
   },
   "Nanette Barrag\u00e1n": {
     "corruption_score": 63,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$2.4M career",
       "aipac": "$94,404",
@@ -9213,7 +9213,7 @@
   },
   "Michelle Steel": {
     "corruption_score": 62,
-    "years_in_office": "Representative - CA",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -9226,7 +9226,7 @@
   },
   "Lou Correa": {
     "corruption_score": 63,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$2.6M career",
       "aipac": "$79,446",
@@ -9294,7 +9294,7 @@
   },
   "Katie Porter": {
     "corruption_score": 14,
-    "years_in_office": "Representative - CA",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -9309,7 +9309,7 @@
   },
   "Darrell Issa": {
     "corruption_score": 62,
-    "years_in_office": "2001-2019, 2021-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$7.2M career",
       "aipac": "$88,644",
@@ -9369,7 +9369,7 @@
   },
   "Mike Levin": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$5.3M career",
       "aipac": "$479,325",
@@ -9432,7 +9432,7 @@
   },
   "Scott Peters": {
     "corruption_score": 63,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$7.9M career",
       "aipac": "$162,230",
@@ -9496,7 +9496,7 @@
   },
   "Sara Jacobs": {
     "corruption_score": 63,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$852K career",
       "aipac": "$70,781",
@@ -9559,7 +9559,7 @@
   },
   "Juan Vargas": {
     "corruption_score": 63,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 CA",
     "donations": {
       "corporate_total": "$4.3M career",
       "aipac": "$313,255",
@@ -9627,7 +9627,7 @@
   },
   "Jeff Crank": {
     "corruption_score": 62,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 CO",
     "donations": {
       "corporate_total": "$523K career",
       "aipac": "$7,026",
@@ -9678,7 +9678,7 @@
   },
   "Joe Neguse": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 CO",
     "donations": {
       "corporate_total": "$2.5M career",
       "aipac": "$364,661",
@@ -9740,7 +9740,7 @@
   },
   "Jeff Hurd": {
     "corruption_score": 62,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 CO",
     "donations": {
       "corporate_total": "$643K career",
       "aipac": "$50,167",
@@ -9791,7 +9791,7 @@
   },
   "Ken Buck": {
     "corruption_score": 62,
-    "years_in_office": "Former Representative - CO",
+    "years_in_office": "Former Representative \u2014 CO",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -9804,7 +9804,7 @@
   },
   "Jason Crow": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 CO",
     "donations": {
       "corporate_total": "$3.5M career",
       "aipac": "$247,334",
@@ -9867,7 +9867,7 @@
   },
   "Brittany Pettersen": {
     "corruption_score": 14,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 CO",
     "donations": {
       "total_raised": "varies",
       "aipac": "$140,362",
@@ -9925,7 +9925,7 @@
   },
   "Yadira Caraveo": {
     "corruption_score": 20,
-    "years_in_office": "Representative - CO",
+    "years_in_office": "Representative \u2014 CO",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -9940,7 +9940,7 @@
   },
   "John Larson": {
     "corruption_score": 63,
-    "years_in_office": "1999-present",
+    "years_in_office": "Representative \u2014 CT",
     "donations": {
       "corporate_total": "$9.4M career",
       "aipac": "$41,703",
@@ -9998,7 +9998,7 @@
   },
   "Joe Courtney": {
     "corruption_score": 63,
-    "years_in_office": "2007-present",
+    "years_in_office": "Representative \u2014 CT",
     "donations": {
       "corporate_total": "$4.8M career",
       "aipac": "$107,527",
@@ -10061,7 +10061,7 @@
   },
   "Rosa DeLauro": {
     "corruption_score": 63,
-    "years_in_office": "1991-present",
+    "years_in_office": "Representative \u2014 CT",
     "donations": {
       "corporate_total": "$5.0M career",
       "aipac": "$164,219",
@@ -10125,7 +10125,7 @@
   },
   "Jim Himes": {
     "corruption_score": 63,
-    "years_in_office": "2009-present",
+    "years_in_office": "Representative \u2014 CT",
     "donations": {
       "corporate_total": "$11.5M career",
       "aipac": "$76,408",
@@ -10189,7 +10189,7 @@
   },
   "Jahana Hayes": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 CT",
     "donations": {
       "corporate_total": "$2.4M career",
       "aipac": "$128,447",
@@ -10252,7 +10252,7 @@
   },
   "Sarah McBride": {
     "corruption_score": 12,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 DE",
     "donations": {
       "total_raised": "varies",
       "aipac": "$71,466",
@@ -10312,7 +10312,7 @@
       }
     ],
     "net_worth": "$388K (family is wealthy)",
-    "years_in_office": "2017-2024",
+    "years_in_office": "2017\u20132024",
     "corruption_score": 85,
     "corruption_reasoning": "DOJ sex trafficking investigation; ethics committee found evidence of sexual misconduct; paid for sex; used drugs; resigned before report released.",
     "donations": {
@@ -10356,7 +10356,7 @@
   },
   "Neal Dunn": {
     "corruption_score": 62,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$3.1M career",
       "aipac": "$55,322",
@@ -10420,7 +10420,7 @@
   },
   "Kat Cammack": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$1.5M career",
       "aipac": "$74,179",
@@ -10479,7 +10479,7 @@
   },
   "Aaron Bean": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$966K career",
       "aipac": "$68,320",
@@ -10537,7 +10537,7 @@
   },
   "John Rutherford": {
     "corruption_score": 62,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$1.6M career",
       "aipac": "$64,271",
@@ -10600,7 +10600,7 @@
   },
   "Michael Waltz": {
     "corruption_score": 62,
-    "years_in_office": "NSA (former Rep) - FL",
+    "years_in_office": "NSA (former Rep) \u2014 FL",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -10613,7 +10613,7 @@
   },
   "Cory Mills": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$438K career",
       "aipac": "$36,573",
@@ -10672,7 +10672,7 @@
   },
   "Bill Posey": {
     "corruption_score": 62,
-    "years_in_office": "Representative - FL",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -10685,7 +10685,7 @@
   },
   "Darren Soto": {
     "corruption_score": 63,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$3.0M career",
       "aipac": "$389,693",
@@ -10748,7 +10748,7 @@
   },
   "Maxwell Frost": {
     "corruption_score": 13,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -10808,7 +10808,7 @@
   },
   "Daniel Webster": {
     "corruption_score": 62,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$2.5M career",
       "aipac": "$80,877",
@@ -10867,7 +10867,7 @@
   },
   "Gus Bilirakis": {
     "corruption_score": 62,
-    "years_in_office": "2007-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$7.3M career",
       "aipac": "$101,892",
@@ -10930,7 +10930,7 @@
   },
   "Anna Paulina Luna": {
     "corruption_score": 65,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$1.8M career",
       "aipac": "$27,288",
@@ -10990,7 +10990,7 @@
   },
   "Kathy Castor": {
     "corruption_score": 63,
-    "years_in_office": "2007-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$3.4M career",
       "aipac": "$93,259",
@@ -11053,7 +11053,7 @@
   },
   "Laurel Lee": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$1.1M career",
       "aipac": "$46,071",
@@ -11117,7 +11117,7 @@
   },
   "Vern Buchanan": {
     "corruption_score": 62,
-    "years_in_office": "2007-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$10.8M career",
       "aipac": "$80,471",
@@ -11181,7 +11181,7 @@
   },
   "Greg Steube": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$1.4M career",
       "aipac": "$100,711",
@@ -11246,7 +11246,7 @@
   },
   "Scott Franklin": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$804K career",
       "aipac": "$49,225",
@@ -11309,7 +11309,7 @@
   },
   "Byron Donalds": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$2.3M career",
       "aipac": "$77,628",
@@ -11369,7 +11369,7 @@
   },
   "Sheila Cherfilus-McCormick": {
     "corruption_score": 63,
-    "years_in_office": "Representative - FL",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$619K career",
       "aipac": "$342,042",
@@ -11426,7 +11426,7 @@
   },
   "Brian Mast": {
     "corruption_score": 72,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$4.3M career",
       "aipac": "$744,281",
@@ -11485,7 +11485,7 @@
   },
   "Lois Frankel": {
     "corruption_score": 67,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$3.7M career",
       "aipac": "$789,310",
@@ -11548,7 +11548,7 @@
   },
   "Jared Moskowitz": {
     "corruption_score": 70,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$1.6M career",
       "aipac": "$727,908",
@@ -11612,7 +11612,7 @@
   },
   "Frederica Wilson": {
     "corruption_score": 63,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$844K career",
       "aipac": "$44,215",
@@ -11675,7 +11675,7 @@
   },
   "Debbie Wasserman Schultz": {
     "corruption_score": 67,
-    "years_in_office": "2005-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$8.4M career",
       "aipac": "$1,144,010",
@@ -11739,7 +11739,7 @@
   },
   "Mario D\u00edaz-Balart": {
     "corruption_score": 67,
-    "years_in_office": "2003-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$5.5M career",
       "aipac": "$918,300",
@@ -11798,7 +11798,7 @@
   },
   "Mar\u00eda Elvira Salazar": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$4.0M career",
       "aipac": "$127,411",
@@ -11857,7 +11857,7 @@
   },
   "Carlos Gim\u00e9nez": {
     "corruption_score": 67,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 FL",
     "donations": {
       "corporate_total": "$1.7M career",
       "aipac": "$122,359",
@@ -11916,7 +11916,7 @@
   },
   "Buddy Carter": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 GA",
     "donations": {
       "corporate_total": "$4.9M career",
       "aipac": "$67,347",
@@ -11975,7 +11975,7 @@
   },
   "Sanford Bishop": {
     "corruption_score": 63,
-    "years_in_office": "1993-present",
+    "years_in_office": "Representative \u2014 GA",
     "donations": {
       "corporate_total": "$4.6M career",
       "aipac": "$86,537",
@@ -12039,7 +12039,7 @@
   },
   "Drew Ferguson": {
     "corruption_score": 62,
-    "years_in_office": "Representative - GA",
+    "years_in_office": "Representative \u2014 GA",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -12052,7 +12052,7 @@
   },
   "Hank Johnson": {
     "corruption_score": 63,
-    "years_in_office": "2007-present",
+    "years_in_office": "Representative \u2014 GA",
     "donations": {
       "corporate_total": "$1.8M career",
       "aipac": "$68,415",
@@ -12115,7 +12115,7 @@
   },
   "Nikema Williams": {
     "corruption_score": 14,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 GA",
     "donations": {
       "total_raised": "varies",
       "aipac": "$121,615",
@@ -12179,7 +12179,7 @@
   },
   "Rich McCormick": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 GA",
     "donations": {
       "corporate_total": "$2.4M career",
       "aipac": "$95,127",
@@ -12243,7 +12243,7 @@
   },
   "Lucy McBath": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 GA",
     "donations": {
       "corporate_total": "$5.1M career",
       "aipac": "$575,932",
@@ -12301,7 +12301,7 @@
   },
   "Austin Scott": {
     "corruption_score": 62,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 GA",
     "donations": {
       "corporate_total": "$2.6M career",
       "aipac": "$62,218",
@@ -12360,7 +12360,7 @@
   },
   "Andrew Clyde": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 GA",
     "donations": {
       "corporate_total": "$277K career",
       "aipac": "$1,000",
@@ -12420,7 +12420,7 @@
   },
   "Mike Collins": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 GA",
     "donations": {
       "corporate_total": "$524K career",
       "aipac": "$20,446",
@@ -12478,7 +12478,7 @@
   },
   "Barry Loudermilk": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 GA",
     "donations": {
       "corporate_total": "$2.4M career",
       "aipac": "$78,182",
@@ -12538,7 +12538,7 @@
   },
   "Rick Allen": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 GA",
     "donations": {
       "corporate_total": "$2.3M career",
       "aipac": "$53,621",
@@ -12597,7 +12597,7 @@
   },
   "David Scott": {
     "corruption_score": 63,
-    "years_in_office": "Representative - GA",
+    "years_in_office": "Representative \u2014 GA",
     "donations": {
       "corporate_total": "$7.0M career",
       "aipac": "$123,721",
@@ -12668,7 +12668,7 @@
       }
     ],
     "net_worth": "$25.58M",
-    "years_in_office": "2021-present",
+    "years_in_office": "2021\u2013present",
     "corruption_score": 79,
     "corruption_reasoning": "Promoted QAnon; school shooting conspiracies; stripped of committees; potential stock trading violations; multiple ethics concerns.",
     "donations": {
@@ -12719,7 +12719,7 @@
   },
   "Ed Case": {
     "corruption_score": 63,
-    "years_in_office": "2003-2007, 2019-present",
+    "years_in_office": "Representative \u2014 HI",
     "donations": {
       "corporate_total": "$1.9M career",
       "aipac": "$48,901",
@@ -12783,7 +12783,7 @@
   },
   "Jill Tokuda": {
     "corruption_score": 63,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 HI",
     "donations": {
       "corporate_total": "$395K career",
       "aipac": "$27,000",
@@ -12841,7 +12841,7 @@
   },
   "Russ Fulcher": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 ID",
     "donations": {
       "corporate_total": "$564K career",
       "aipac": "$21,509",
@@ -12905,7 +12905,7 @@
   },
   "Mike Simpson": {
     "corruption_score": 62,
-    "years_in_office": "1999-present",
+    "years_in_office": "Representative \u2014 ID",
     "donations": {
       "corporate_total": "$4.0M career",
       "aipac": "$66,760",
@@ -12969,7 +12969,7 @@
   },
   "Jonathan Jackson": {
     "corruption_score": 15,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "total_raised": "varies",
       "aipac": "$18,000",
@@ -13033,7 +13033,7 @@
   },
   "Robin Kelly": {
     "corruption_score": 63,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "corporate_total": "$3.5M career",
       "aipac": "$62,992",
@@ -13100,7 +13100,7 @@
   },
   "Delia Ramirez": {
     "corruption_score": 12,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -13158,7 +13158,7 @@
   },
   "Chuy Garc\u00eda": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "corporate_total": "$567K career",
       "aipac": "None on record",
@@ -13220,7 +13220,7 @@
   },
   "Mike Quigley": {
     "corruption_score": 63,
-    "years_in_office": "2009-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "corporate_total": "$3.1M career",
       "aipac": "$89,585",
@@ -13288,7 +13288,7 @@
   },
   "Sean Casten": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "corporate_total": "$5.3M career",
       "aipac": "$259,283",
@@ -13351,7 +13351,7 @@
   },
   "Danny Davis": {
     "corruption_score": 63,
-    "years_in_office": "1997-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "corporate_total": "$2.4M career",
       "aipac": "$60,360",
@@ -13419,7 +13419,7 @@
   },
   "Raja Krishnamoorthi": {
     "corruption_score": 70,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "corporate_total": "$11.3M career",
       "aipac": "$266,094",
@@ -13482,7 +13482,7 @@
   },
   "Jan Schakowsky": {
     "corruption_score": 70,
-    "years_in_office": "1999-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "corporate_total": "$3.8M career",
       "aipac": "$376,102",
@@ -13540,7 +13540,7 @@
   },
   "Brad Schneider": {
     "corruption_score": 67,
-    "years_in_office": "2013-2015, 2017-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "corporate_total": "$10.1M career",
       "aipac": "$1,008,976",
@@ -13604,7 +13604,7 @@
   },
   "Bill Foster": {
     "corruption_score": 63,
-    "years_in_office": "2008-2011, 2013-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "corporate_total": "$8.1M career",
       "aipac": "$371,029",
@@ -13667,7 +13667,7 @@
   },
   "Mike Bost": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "corporate_total": "$3.1M career",
       "aipac": "$127,143",
@@ -13726,7 +13726,7 @@
   },
   "Nikki Budzinski": {
     "corruption_score": 14,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "total_raised": "varies",
       "aipac": "$253,919",
@@ -13784,7 +13784,7 @@
   },
   "Lauren Underwood": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "corporate_total": "$5.5M career",
       "aipac": "$10,950",
@@ -13847,7 +13847,7 @@
   },
   "Mary Miller": {
     "corruption_score": 65,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "corporate_total": "$325K career",
       "aipac": "$5,051",
@@ -13906,7 +13906,7 @@
   },
   "Darin LaHood": {
     "corruption_score": 67,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "corporate_total": "$6.6M career",
       "aipac": "$145,856",
@@ -13970,7 +13970,7 @@
   },
   "Eric Sorensen": {
     "corruption_score": 14,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 IL",
     "donations": {
       "total_raised": "varies",
       "aipac": "$278,473",
@@ -14029,7 +14029,7 @@
   },
   "Frank Mrvan": {
     "corruption_score": 63,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 IN",
     "donations": {
       "corporate_total": "$1.7M career",
       "aipac": "$100,707",
@@ -14087,7 +14087,7 @@
   },
   "Rudy Yakym": {
     "corruption_score": 62,
-    "years_in_office": "2022-present",
+    "years_in_office": "Representative \u2014 IN",
     "donations": {
       "corporate_total": "$1.1M career",
       "aipac": "$195,793",
@@ -14145,7 +14145,7 @@
   },
   "Marlin Stutzman": {
     "corruption_score": 62,
-    "years_in_office": "2010-2017, 2025-present",
+    "years_in_office": "Representative \u2014 IN",
     "donations": {
       "corporate_total": "$2.1M career",
       "aipac": "$28,129",
@@ -14198,7 +14198,7 @@
   },
   "Jim Baird": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 IN",
     "donations": {
       "corporate_total": "$277K career",
       "aipac": "$20,847",
@@ -14266,7 +14266,7 @@
   },
   "Victoria Spartz": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 IN",
     "donations": {
       "corporate_total": "$1.4M career",
       "aipac": "$80,574",
@@ -14331,7 +14331,7 @@
   },
   "Jefferson Shreve": {
     "corruption_score": 62,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 IN",
     "donations": {
       "corporate_total": "$67K career",
       "aipac": "$14,077",
@@ -14372,7 +14372,7 @@
   },
   "Andr\u00e9 Carson": {
     "corruption_score": 71,
-    "years_in_office": "2008-present",
+    "years_in_office": "Representative \u2014 IN",
     "donations": {
       "corporate_total": "$2.8M career",
       "aipac": "None on record",
@@ -14435,7 +14435,7 @@
   },
   "Mark Messmer": {
     "corruption_score": 62,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 IN",
     "donations": {
       "corporate_total": "$533K career",
       "aipac": "$308,630",
@@ -14475,7 +14475,7 @@
   },
   "Erin Houchin": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 IN",
     "donations": {
       "corporate_total": "$1.3M career",
       "aipac": "$29,466",
@@ -14538,7 +14538,7 @@
   },
   "Ashley Hinson": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 IA",
     "donations": {
       "corporate_total": "$4.3M career",
       "aipac": "$145,560",
@@ -14596,7 +14596,7 @@
   },
   "Zach Nunn": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 IA",
     "donations": {
       "corporate_total": "$2.5M career",
       "aipac": "$121,323",
@@ -14665,7 +14665,7 @@
   },
   "Randy Feenstra": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 IA",
     "donations": {
       "corporate_total": "$2.8M career",
       "aipac": "$106,694",
@@ -14729,7 +14729,7 @@
   },
   "Mariannette Miller-Meeks": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 IA",
     "donations": {
       "corporate_total": "$4.1M career",
       "aipac": "$150,370",
@@ -14793,7 +14793,7 @@
   },
   "Tracey Mann": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 KS",
     "donations": {
       "corporate_total": "$1.1M career",
       "aipac": "$60,957",
@@ -14851,7 +14851,7 @@
   },
   "Jake LaTurner": {
     "corruption_score": 62,
-    "years_in_office": "Representative - KS",
+    "years_in_office": "Representative \u2014 KS",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -14864,7 +14864,7 @@
   },
   "Sharice Davids": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 KS",
     "donations": {
       "corporate_total": "$5.7M career",
       "aipac": "$237,895",
@@ -14928,7 +14928,7 @@
   },
   "Ron Estes": {
     "corruption_score": 62,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 KS",
     "donations": {
       "corporate_total": "$3.3M career",
       "aipac": "$78,678",
@@ -14992,7 +14992,7 @@
   },
   "James Comer": {
     "corruption_score": 62,
-    "years_in_office": "2016-present",
+    "years_in_office": "Oversight Chair \u2014 KY",
     "donations": {
       "corporate_total": "$2.2M career",
       "aipac": "$48,283",
@@ -15057,7 +15057,7 @@
   },
   "Brett Guthrie": {
     "corruption_score": 62,
-    "years_in_office": "2009-present",
+    "years_in_office": "Representative \u2014 KY",
     "donations": {
       "corporate_total": "$9.1M career",
       "aipac": "$39,556",
@@ -15121,7 +15121,7 @@
   },
   "Morgan McGarvey": {
     "corruption_score": 63,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 KY",
     "donations": {
       "corporate_total": "$1.3M career",
       "aipac": "$108,749",
@@ -15183,7 +15183,7 @@
   },
   "Thomas Massie": {
     "corruption_score": 16,
-    "years_in_office": "2012-present",
+    "years_in_office": "Representative \u2014 KY",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -15249,7 +15249,7 @@
   },
   "Hal Rogers": {
     "corruption_score": 62,
-    "years_in_office": "1981-present",
+    "years_in_office": "Representative \u2014 KY",
     "donations": {
       "corporate_total": "$4.4M career",
       "aipac": "$53,655",
@@ -15313,7 +15313,7 @@
   },
   "Andy Barr": {
     "corruption_score": 62,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 KY",
     "donations": {
       "corporate_total": "$12.2M career",
       "aipac": "$288,426",
@@ -15377,7 +15377,7 @@
   },
   "Steve Scalise": {
     "corruption_score": 77,
-    "years_in_office": "2008-present",
+    "years_in_office": "Majority Leader \u2014 LA",
     "donations": {
       "corporate_total": "$24.7M career",
       "aipac": "$895,733",
@@ -15437,7 +15437,7 @@
   },
   "Clay Higgins": {
     "corruption_score": 62,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 LA",
     "donations": {
       "corporate_total": "$908K career",
       "aipac": "$19,546",
@@ -15510,7 +15510,7 @@
       }
     ],
     "net_worth": "$100K (one of least wealthy members)",
-    "years_in_office": "2017-present",
+    "years_in_office": "2017\u2013present",
     "corruption_score": 84,
     "corruption_reasoning": "Led fake electoral college scheme before 2020; Speaker who initially blocked Ukraine aid; significant fossil fuel money from Louisiana; extremist religious positions.",
     "donations": {
@@ -15565,7 +15565,7 @@
   },
   "Julia Letlow": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 LA",
     "donations": {
       "corporate_total": "$1.7M career",
       "aipac": "$83,896",
@@ -15634,7 +15634,7 @@
   },
   "Garret Graves": {
     "corruption_score": 62,
-    "years_in_office": "Representative - LA",
+    "years_in_office": "Representative \u2014 LA",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -15647,7 +15647,7 @@
   },
   "Troy Carter": {
     "corruption_score": 63,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 LA",
     "donations": {
       "corporate_total": "$1.4M career",
       "aipac": "$53,337",
@@ -15705,7 +15705,7 @@
   },
   "Chellie Pingree": {
     "corruption_score": 63,
-    "years_in_office": "2009-present",
+    "years_in_office": "Representative \u2014 ME",
     "donations": {
       "corporate_total": "$2.2M career",
       "aipac": "$62,850",
@@ -15763,7 +15763,7 @@
   },
   "Jared Golden": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 ME",
     "donations": {
       "corporate_total": "$7.4M career",
       "aipac": "$1,071,069",
@@ -15823,7 +15823,7 @@
   },
   "Andy Harris": {
     "corruption_score": 62,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 MD",
     "donations": {
       "corporate_total": "$5.4M career",
       "aipac": "$70,208",
@@ -15893,7 +15893,7 @@
   },
   "Johnny Olszewski": {
     "corruption_score": 63,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 MD",
     "donations": {
       "corporate_total": "$478K career",
       "aipac": "$61,733",
@@ -15938,7 +15938,7 @@
   },
   "Sarah Elfreth": {
     "corruption_score": 63,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 MD",
     "donations": {
       "corporate_total": "$270K career",
       "aipac": "$20,849",
@@ -15982,7 +15982,7 @@
   },
   "Glenn Ivey": {
     "corruption_score": 63,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 MD",
     "donations": {
       "corporate_total": "$1.5M career",
       "aipac": "$890,233",
@@ -16044,7 +16044,7 @@
   },
   "Steny Hoyer": {
     "corruption_score": 67,
-    "years_in_office": "1981-present",
+    "years_in_office": "Representative \u2014 MD",
     "donations": {
       "corporate_total": "$21.0M career",
       "aipac": "$957,516",
@@ -16108,7 +16108,7 @@
   },
   "April McClain Delaney": {
     "corruption_score": 63,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 MD",
     "donations": {
       "corporate_total": "$585K career",
       "aipac": "$52,664",
@@ -16154,7 +16154,7 @@
   },
   "David Trone": {
     "corruption_score": 45,
-    "years_in_office": "Representative - MD",
+    "years_in_office": "Representative \u2014 MD",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -16167,7 +16167,7 @@
   },
   "Jamie Raskin": {
     "corruption_score": 14,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 MD",
     "donations": {
       "total_raised": "varies",
       "aipac": "$168,416",
@@ -16231,7 +16231,7 @@
   },
   "Richard Neal": {
     "corruption_score": 63,
-    "years_in_office": "1989-present",
+    "years_in_office": "Representative \u2014 MA",
     "donations": {
       "corporate_total": "$16.0M career",
       "aipac": "$138,736",
@@ -16295,7 +16295,7 @@
   },
   "Jim McGovern": {
     "corruption_score": 63,
-    "years_in_office": "1997-present",
+    "years_in_office": "Representative \u2014 MA",
     "donations": {
       "corporate_total": "$3.3M career",
       "aipac": "$77,317",
@@ -16358,7 +16358,7 @@
   },
   "Lori Trahan": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 MA",
     "donations": {
       "corporate_total": "$2.4M career",
       "aipac": "$51,703",
@@ -16416,7 +16416,7 @@
   },
   "Jake Auchincloss": {
     "corruption_score": 63,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 MA",
     "donations": {
       "corporate_total": "$5.0M career",
       "aipac": "$866,243",
@@ -16479,7 +16479,7 @@
   },
   "Katherine Clark": {
     "corruption_score": 63,
-    "years_in_office": "2013-present",
+    "years_in_office": "Minority Whip \u2014 MA",
     "donations": {
       "corporate_total": "$6.8M career",
       "aipac": "$863,530",
@@ -16547,7 +16547,7 @@
   },
   "Seth Moulton": {
     "corruption_score": 63,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 MA",
     "donations": {
       "corporate_total": "$7.1M career",
       "aipac": "$101,532",
@@ -16611,7 +16611,7 @@
   },
   "Ayanna Pressley": {
     "corruption_score": 14,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 MA",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -16670,7 +16670,7 @@
   },
   "Stephen Lynch": {
     "corruption_score": 63,
-    "years_in_office": "2001-present",
+    "years_in_office": "Representative \u2014 MA",
     "donations": {
       "corporate_total": "$3.9M career",
       "aipac": "$1,000",
@@ -16739,7 +16739,7 @@
   },
   "Bill Keating": {
     "corruption_score": 63,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 MA",
     "donations": {
       "corporate_total": "$2.1M career",
       "aipac": "$108,152",
@@ -16807,7 +16807,7 @@
   },
   "Jack Bergman": {
     "corruption_score": 62,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 MI",
     "donations": {
       "corporate_total": "$2.5M career",
       "aipac": "$54,719",
@@ -16871,7 +16871,7 @@
   },
   "John Moolenaar": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 MI",
     "donations": {
       "corporate_total": "$2.6M career",
       "aipac": "$36,097",
@@ -16934,7 +16934,7 @@
   },
   "Hillary Scholten": {
     "corruption_score": 63,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 MI",
     "donations": {
       "corporate_total": "$3.2M career",
       "aipac": "$396,031",
@@ -16997,7 +16997,7 @@
   },
   "Bill Huizenga": {
     "corruption_score": 62,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 MI",
     "donations": {
       "corporate_total": "$8.0M career",
       "aipac": "$41,306",
@@ -17056,7 +17056,7 @@
   },
   "Tim Walberg": {
     "corruption_score": 62,
-    "years_in_office": "2007-2009, 2011-present",
+    "years_in_office": "Representative \u2014 MI",
     "donations": {
       "corporate_total": "$4.9M career",
       "aipac": "$134,335",
@@ -17120,7 +17120,7 @@
   },
   "Debbie Dingell": {
     "corruption_score": 63,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 MI",
     "donations": {
       "corporate_total": "$2.6M career",
       "aipac": "$29,424",
@@ -17179,7 +17179,7 @@
   },
   "Dan Kildee": {
     "corruption_score": 45,
-    "years_in_office": "Representative - MI",
+    "years_in_office": "Representative \u2014 MI",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -17192,7 +17192,7 @@
   },
   "Lisa McClain": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 MI",
     "donations": {
       "corporate_total": "$1.4M career",
       "aipac": "$108,918",
@@ -17251,7 +17251,7 @@
   },
   "John James": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 MI",
     "donations": {
       "corporate_total": "$12.4M career",
       "aipac": "$268,355",
@@ -17315,7 +17315,7 @@
   },
   "Haley Stevens": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 MI",
     "donations": {
       "corporate_total": "$6.2M career",
       "aipac": "$1,269,535",
@@ -17378,7 +17378,7 @@
   },
   "Rashida Tlaib": {
     "corruption_score": 14,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 MI",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -17445,7 +17445,7 @@
   },
   "Shri Thanedar": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 MI",
     "donations": {
       "total_raised": "varies",
       "aipac": "$194,569",
@@ -17510,7 +17510,7 @@
   },
   "Brad Finstad": {
     "corruption_score": 62,
-    "years_in_office": "2022-present",
+    "years_in_office": "Representative \u2014 MN",
     "donations": {
       "corporate_total": "$730K career",
       "aipac": "$47,246",
@@ -17574,7 +17574,7 @@
   },
   "Angie Craig": {
     "corruption_score": 15,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 MN",
     "donations": {
       "total_raised": "varies",
       "aipac": "$655,825",
@@ -17634,7 +17634,7 @@
   },
   "Kelly Morrison": {
     "corruption_score": 12,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 MN",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -17685,7 +17685,7 @@
   },
   "Betty McCollum": {
     "corruption_score": 63,
-    "years_in_office": "2001-present",
+    "years_in_office": "Representative \u2014 MN",
     "donations": {
       "corporate_total": "$3.1M career",
       "aipac": "$59,108",
@@ -17750,7 +17750,7 @@
       }
     ],
     "net_worth": "$18.06M",
-    "years_in_office": "2019-present",
+    "years_in_office": "2019\u2013present",
     "corruption_score": 18,
     "corruption_reasoning": "Campaign paid husband's consulting firm $2.8M \u2014 FEC complaint dismissed but controversy remains. Removed from Foreign Affairs Committee by Republicans. Refuses corporate PAC. No criminal findings.",
     "donations": {
@@ -17805,7 +17805,7 @@
   },
   "Tom Emmer": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Majority Whip \u2014 MN",
     "donations": {
       "corporate_total": "$9.3M career",
       "aipac": "$784,132",
@@ -17869,7 +17869,7 @@
   },
   "Michelle Fischbach": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 MN",
     "donations": {
       "corporate_total": "$1.4M career",
       "aipac": "$64,231",
@@ -17933,7 +17933,7 @@
   },
   "Pete Stauber": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 MN",
     "donations": {
       "corporate_total": "$2.3M career",
       "aipac": "$61,697",
@@ -17992,7 +17992,7 @@
   },
   "Trent Kelly": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 MS",
     "donations": {
       "corporate_total": "$1.7M career",
       "aipac": "$29,709",
@@ -18056,7 +18056,7 @@
   },
   "Bennie Thompson": {
     "corruption_score": 63,
-    "years_in_office": "1993-present",
+    "years_in_office": "Representative \u2014 MS",
     "donations": {
       "corporate_total": "$4.0M career",
       "aipac": "$9,300",
@@ -18119,7 +18119,7 @@
   },
   "Michael Guest": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 MS",
     "donations": {
       "corporate_total": "$1.2M career",
       "aipac": "$35,755",
@@ -18183,7 +18183,7 @@
   },
   "Mike Ezell": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 MS",
     "donations": {
       "corporate_total": "$563K career",
       "aipac": "$51,911",
@@ -18242,7 +18242,7 @@
   },
   "Jason Smith": {
     "corruption_score": 62,
-    "years_in_office": "2013-present",
+    "years_in_office": "Ways & Means Chair \u2014 MO",
     "donations": {
       "corporate_total": "$7.8M career",
       "aipac": "$100,087",
@@ -18306,7 +18306,7 @@
   },
   "Ann Wagner": {
     "corruption_score": 62,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 MO",
     "donations": {
       "corporate_total": "$10.3M career",
       "aipac": "$275,405",
@@ -18365,7 +18365,7 @@
   },
   "Blaine Luetkemeyer": {
     "corruption_score": 62,
-    "years_in_office": "Representative - MO",
+    "years_in_office": "Representative \u2014 MO",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -18378,7 +18378,7 @@
   },
   "Mark Alford": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 MO",
     "donations": {
       "corporate_total": "$588K career",
       "aipac": "$80,384",
@@ -18436,7 +18436,7 @@
   },
   "Emanuel Cleaver": {
     "corruption_score": 63,
-    "years_in_office": "2005-present",
+    "years_in_office": "Representative \u2014 MO",
     "donations": {
       "corporate_total": "$5.2M career",
       "aipac": "$95,782",
@@ -18500,7 +18500,7 @@
   },
   "Sam Graves": {
     "corruption_score": 62,
-    "years_in_office": "2001-present",
+    "years_in_office": "Representative \u2014 MO",
     "donations": {
       "corporate_total": "$4.9M career",
       "aipac": "$80,754",
@@ -18559,7 +18559,7 @@
   },
   "Eric Burlison": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 MO",
     "donations": {
       "corporate_total": "$517K career",
       "aipac": "$36,922",
@@ -18617,7 +18617,7 @@
   },
   "Wesley Bell": {
     "corruption_score": 68,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 MO",
     "donations": {
       "total_raised": "varies",
       "aipac": "$3,882,993",
@@ -18664,7 +18664,7 @@
   },
   "Ryan Zinke": {
     "corruption_score": 62,
-    "years_in_office": "2015-2017, 2023-present",
+    "years_in_office": "Representative \u2014 MT",
     "donations": {
       "corporate_total": "$4.6M career",
       "aipac": "$40,076",
@@ -18729,7 +18729,7 @@
   },
   "Matt Rosendale": {
     "corruption_score": 62,
-    "years_in_office": "Representative - MT",
+    "years_in_office": "Representative \u2014 MT",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -18742,7 +18742,7 @@
   },
   "Mike Flood": {
     "corruption_score": 62,
-    "years_in_office": "2022-present",
+    "years_in_office": "Representative \u2014 NE",
     "donations": {
       "corporate_total": "$1.4M career",
       "aipac": "$48,229",
@@ -18806,7 +18806,7 @@
   },
   "Don Bacon": {
     "corruption_score": 62,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 NE",
     "donations": {
       "corporate_total": "$6.4M career",
       "aipac": "$1,291,908",
@@ -18870,7 +18870,7 @@
   },
   "Adrian Smith": {
     "corruption_score": 62,
-    "years_in_office": "2007-present",
+    "years_in_office": "Representative \u2014 NE",
     "donations": {
       "corporate_total": "$5.4M career",
       "aipac": "$29,129",
@@ -18928,7 +18928,7 @@
   },
   "Dina Titus": {
     "corruption_score": 63,
-    "years_in_office": "2009-2011, 2013-present",
+    "years_in_office": "Representative \u2014 NV",
     "donations": {
       "corporate_total": "$3.3M career",
       "aipac": "$183,520",
@@ -18996,7 +18996,7 @@
   },
   "Mark Amodei": {
     "corruption_score": 62,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 NV",
     "donations": {
       "corporate_total": "$2.0M career",
       "aipac": "$36,207",
@@ -19059,7 +19059,7 @@
   },
   "Susie Lee": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 NV",
     "donations": {
       "corporate_total": "$7.3M career",
       "aipac": "$725,904",
@@ -19123,7 +19123,7 @@
   },
   "Steven Horsford": {
     "corruption_score": 63,
-    "years_in_office": "2013-2015, 2019-present",
+    "years_in_office": "Representative \u2014 NV",
     "donations": {
       "corporate_total": "$6.8M career",
       "aipac": "$193,815",
@@ -19182,7 +19182,7 @@
   },
   "Chris Pappas": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 NH",
     "donations": {
       "corporate_total": "$4.1M career",
       "aipac": "$811,319",
@@ -19241,7 +19241,7 @@
   },
   "Annie Kuster": {
     "corruption_score": 45,
-    "years_in_office": "Representative - NH",
+    "years_in_office": "Representative \u2014 NH",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -19254,7 +19254,7 @@
   },
   "Donald Norcross": {
     "corruption_score": 63,
-    "years_in_office": "2014-present",
+    "years_in_office": "Representative \u2014 NJ",
     "donations": {
       "corporate_total": "$4.4M career",
       "aipac": "$302,173",
@@ -19313,7 +19313,7 @@
   },
   "Jefferson Van Drew": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 NJ",
     "donations": {
       "corporate_total": "$3.0M career",
       "aipac": "$87,782",
@@ -19373,7 +19373,7 @@
   },
   "Herb Conaway": {
     "corruption_score": 63,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 NJ",
     "donations": {
       "corporate_total": "$469K career",
       "aipac": "$26,075",
@@ -19418,7 +19418,7 @@
   },
   "Chris Smith": {
     "corruption_score": 62,
-    "years_in_office": "1981-present",
+    "years_in_office": "Representative \u2014 NJ",
     "donations": {
       "corporate_total": "$2.4M career",
       "aipac": "$234,507",
@@ -19477,7 +19477,7 @@
   },
   "Josh Gottheimer": {
     "corruption_score": 63,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 NJ",
     "donations": {
       "corporate_total": "$19.3M career",
       "aipac": "$1,902,122",
@@ -19542,7 +19542,7 @@
   },
   "Frank Pallone": {
     "corruption_score": 63,
-    "years_in_office": "1987-present",
+    "years_in_office": "Representative \u2014 NJ",
     "donations": {
       "corporate_total": "$15.9M career",
       "aipac": "$254,670",
@@ -19610,7 +19610,7 @@
   },
   "Tom Kean Jr.": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 NJ",
     "donations": {
       "corporate_total": "$759K career",
       "aipac": "$758,998",
@@ -19669,7 +19669,7 @@
   },
   "Rob Menendez": {
     "corruption_score": 63,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 NJ",
     "donations": {
       "corporate_total": "$1.5M career",
       "aipac": "$460,324",
@@ -19733,7 +19733,7 @@
   },
   "Bill Pascrell": {
     "corruption_score": 45,
-    "years_in_office": "Representative - NJ",
+    "years_in_office": "Representative \u2014 NJ",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -19746,7 +19746,7 @@
   },
   "Donald Payne Jr.": {
     "corruption_score": 45,
-    "years_in_office": "Representative - NJ",
+    "years_in_office": "Representative \u2014 NJ",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -19759,7 +19759,7 @@
   },
   "Mikie Sherrill": {
     "corruption_score": 63,
-    "years_in_office": "Representative - NJ",
+    "years_in_office": "Representative \u2014 NJ",
     "donations": {
       "corporate_total": "$8.3M career",
       "aipac": "None on record",
@@ -19822,7 +19822,7 @@
   },
   "Bonnie Watson Coleman": {
     "corruption_score": 63,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 NJ",
     "donations": {
       "corporate_total": "$1.5M career",
       "aipac": "None on record",
@@ -19880,7 +19880,7 @@
   },
   "Melanie Stansbury": {
     "corruption_score": 12,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 NM",
     "donations": {
       "total_raised": "varies",
       "aipac": "$54,993",
@@ -19943,7 +19943,7 @@
   },
   "Gabe Vasquez": {
     "corruption_score": 13,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 NM",
     "donations": {
       "total_raised": "varies",
       "aipac": "$192,648",
@@ -20003,7 +20003,7 @@
   },
   "Teresa Leger Fernandez": {
     "corruption_score": 12,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 NM",
     "donations": {
       "total_raised": "varies",
       "aipac": "$89,898",
@@ -20066,7 +20066,7 @@
   },
   "Nick LaLota": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$1.8M career",
       "aipac": "$162,300",
@@ -20129,7 +20129,7 @@
   },
   "Andrew Garbarino": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$3.6M career",
       "aipac": "$175,524",
@@ -20193,7 +20193,7 @@
   },
   "Tom Suozzi": {
     "corruption_score": 63,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$7.3M career",
       "aipac": "$386,957",
@@ -20257,7 +20257,7 @@
   },
   "Anthony D'Esposito": {
     "corruption_score": 62,
-    "years_in_office": "Representative - NY",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -20270,7 +20270,7 @@
   },
   "Gregory Meeks": {
     "corruption_score": 70,
-    "years_in_office": "1997-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$9.8M career",
       "aipac": "$834,173",
@@ -20335,7 +20335,7 @@
   },
   "Grace Meng": {
     "corruption_score": 63,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$3.0M career",
       "aipac": "None on record",
@@ -20398,7 +20398,7 @@
   },
   "Nydia Vel\u00e1zquez": {
     "corruption_score": 63,
-    "years_in_office": "1993-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$3.9M career",
       "aipac": "None on record",
@@ -20473,7 +20473,7 @@
       }
     ],
     "net_worth": "$599.7K",
-    "years_in_office": "2013-present",
+    "years_in_office": "2013\u2013present",
     "corruption_score": 84,
     "corruption_reasoning": "AIPAC donations; Brooklyn-based; ties to New York real estate and financial industry; solid voting record; led House Dems through challenging 119th Congress.",
     "donations": {
@@ -20526,7 +20526,7 @@
   },
   "Yvette Clarke": {
     "corruption_score": 63,
-    "years_in_office": "2007-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$3.2M career",
       "aipac": "$125,644",
@@ -20585,7 +20585,7 @@
   },
   "Dan Goldman": {
     "corruption_score": 63,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$2.6M career",
       "aipac": "$476,135",
@@ -20649,7 +20649,7 @@
   },
   "Nicole Malliotakis": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$3.5M career",
       "aipac": "$239,481",
@@ -20708,7 +20708,7 @@
   },
   "Adriano Espaillat": {
     "corruption_score": 63,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$2.1M career",
       "aipac": "$319,814",
@@ -20773,7 +20773,7 @@
       }
     ],
     "net_worth": "$49.0K",
-    "years_in_office": "2019-present",
+    "years_in_office": "2019\u2013present",
     "corruption_score": 8,
     "corruption_reasoning": "Refuses all corporate PAC money; grassroots funded; consistent progressive record; no ethics violations; youngest woman ever elected to Congress.",
     "donations": {
@@ -20828,7 +20828,7 @@
   },
   "Ritchie Torres": {
     "corruption_score": 70,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$8.3M career",
       "aipac": "$1,746,031",
@@ -20887,7 +20887,7 @@
   },
   "George Latimer": {
     "corruption_score": 63,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$4.3M career",
       "aipac": "$2,904,555",
@@ -20939,7 +20939,7 @@
   },
   "Mike Lawler": {
     "corruption_score": 72,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$4.2M career",
       "aipac": "$924,539",
@@ -20997,7 +20997,7 @@
   },
   "Pat Ryan": {
     "corruption_score": 14,
-    "years_in_office": "2022-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "total_raised": "varies",
       "aipac": "$391,057",
@@ -21061,7 +21061,7 @@
   },
   "Marc Molinaro": {
     "corruption_score": 62,
-    "years_in_office": "Representative - NY",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -21074,7 +21074,7 @@
   },
   "Paul Tonko": {
     "corruption_score": 63,
-    "years_in_office": "2009-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$3.2M career",
       "aipac": "$58,890",
@@ -21131,7 +21131,7 @@
   },
   "Elise Stefanik": {
     "corruption_score": 67,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$988K career",
       "aipac": "$987,650",
@@ -21144,7 +21144,7 @@
   },
   "Brandon Williams": {
     "corruption_score": 62,
-    "years_in_office": "Representative - NY",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -21157,7 +21157,7 @@
   },
   "Nick Langworthy": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$787K career",
       "aipac": "$101,035",
@@ -21215,7 +21215,7 @@
   },
   "Joseph Morelle": {
     "corruption_score": 63,
-    "years_in_office": "2018-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$2.9M career",
       "aipac": "$224,256",
@@ -21273,7 +21273,7 @@
   },
   "Tim Kennedy": {
     "corruption_score": 63,
-    "years_in_office": "2024-present",
+    "years_in_office": "Representative \u2014 NY",
     "donations": {
       "corporate_total": "$903K career",
       "aipac": "$77,890",
@@ -21318,7 +21318,7 @@
   },
   "Don Davis": {
     "corruption_score": 65,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 NC",
     "donations": {
       "total_raised": "varies",
       "aipac": "$1,321,202",
@@ -21383,7 +21383,7 @@
   },
   "Greg Murphy": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 NC",
     "donations": {
       "corporate_total": "$2.5M career",
       "aipac": "$100,794",
@@ -21447,7 +21447,7 @@
   },
   "Virginia Foxx": {
     "corruption_score": 62,
-    "years_in_office": "2005-present",
+    "years_in_office": "Representative \u2014 NC",
     "donations": {
       "corporate_total": "$5.0M career",
       "aipac": "$276,149",
@@ -21517,7 +21517,7 @@
   },
   "David Rouzer": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 NC",
     "donations": {
       "corporate_total": "$2.7M career",
       "aipac": "$51,571",
@@ -21576,7 +21576,7 @@
   },
   "Tim Moore": {
     "corruption_score": 62,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 NC",
     "donations": {
       "corporate_total": "$792K career",
       "aipac": "$31,071",
@@ -21628,7 +21628,7 @@
   },
   "Mark Harris": {
     "corruption_score": 62,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 NC",
     "donations": {
       "corporate_total": "$771K career",
       "aipac": "$18,303",
@@ -21680,7 +21680,7 @@
   },
   "Richard Hudson": {
     "corruption_score": 62,
-    "years_in_office": "2013-present",
+    "years_in_office": "NRCC Chair \u2014 NC",
     "donations": {
       "corporate_total": "$7.8M career",
       "aipac": "$221,658",
@@ -21739,7 +21739,7 @@
   },
   "Patrick McHenry": {
     "corruption_score": 62,
-    "years_in_office": "Former Speaker Pro Tem - NC",
+    "years_in_office": "Former Speaker Pro Tem \u2014 NC",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -21752,7 +21752,7 @@
   },
   "Chuck Edwards": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 NC",
     "donations": {
       "corporate_total": "$845K career",
       "aipac": "$78,580",
@@ -21810,7 +21810,7 @@
   },
   "Alma Adams": {
     "corruption_score": 63,
-    "years_in_office": "2014-present",
+    "years_in_office": "Representative \u2014 NC",
     "donations": {
       "corporate_total": "$1.6M career",
       "aipac": "$25,858",
@@ -21877,7 +21877,7 @@
   },
   "Jeff Jackson": {
     "corruption_score": 45,
-    "years_in_office": "Former Representative - NC",
+    "years_in_office": "Former Representative \u2014 NC",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -21890,7 +21890,7 @@
   },
   "Wiley Nickel": {
     "corruption_score": 45,
-    "years_in_office": "Representative - NC",
+    "years_in_office": "Representative \u2014 NC",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -21903,7 +21903,7 @@
   },
   "Valerie Foushee": {
     "corruption_score": 14,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 NC",
     "donations": {
       "total_raised": "varies",
       "aipac": "$483,998",
@@ -21966,7 +21966,7 @@
   },
   "Brad Miller": {
     "corruption_score": 45,
-    "years_in_office": "Representative - NC",
+    "years_in_office": "Representative \u2014 NC",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -21979,7 +21979,7 @@
   },
   "Kelly Armstrong": {
     "corruption_score": 62,
-    "years_in_office": "Former Representative - ND",
+    "years_in_office": "Former Representative \u2014 ND",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -21992,7 +21992,7 @@
   },
   "Greg Landsman": {
     "corruption_score": 14,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 OH",
     "donations": {
       "total_raised": "varies",
       "aipac": "$732,093",
@@ -22051,7 +22051,7 @@
   },
   "Brad Wenstrup": {
     "corruption_score": 62,
-    "years_in_office": "Representative - OH",
+    "years_in_office": "Representative \u2014 OH",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -22064,7 +22064,7 @@
   },
   "Joyce Beatty": {
     "corruption_score": 63,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 OH",
     "donations": {
       "corporate_total": "$5.6M career",
       "aipac": "$191,676",
@@ -22149,7 +22149,7 @@
       }
     ],
     "net_worth": "$282.5K",
-    "years_in_office": "2007-present",
+    "years_in_office": "2007\u2013present",
     "corruption_score": 82,
     "corruption_reasoning": "Knew about Ohio State wrestling sexual abuse; led fake elector scheme; contempt of Congress; Trump's chief attack dog.",
     "donations": {
@@ -22204,7 +22204,7 @@
   },
   "Bob Latta": {
     "corruption_score": 62,
-    "years_in_office": "2007-present",
+    "years_in_office": "Representative \u2014 OH",
     "donations": {
       "corporate_total": "$5.0M career",
       "aipac": "$75,387",
@@ -22268,7 +22268,7 @@
   },
   "Mike Carey": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 OH",
     "donations": {
       "corporate_total": "$1.9M career",
       "aipac": "$73,526",
@@ -22327,7 +22327,7 @@
   },
   "Max Miller": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 OH",
     "donations": {
       "corporate_total": "$1.3M career",
       "aipac": "$309,274",
@@ -22386,7 +22386,7 @@
   },
   "Warren Davidson": {
     "corruption_score": 62,
-    "years_in_office": "2016-present",
+    "years_in_office": "Representative \u2014 OH",
     "donations": {
       "corporate_total": "$1.9M career",
       "aipac": "$3,300",
@@ -22450,7 +22450,7 @@
   },
   "Marcy Kaptur": {
     "corruption_score": 63,
-    "years_in_office": "1983-present",
+    "years_in_office": "Representative \u2014 OH",
     "donations": {
       "corporate_total": "$3.6M career",
       "aipac": "$184,548",
@@ -22518,7 +22518,7 @@
   },
   "Michael Turner": {
     "corruption_score": 62,
-    "years_in_office": "2003-present",
+    "years_in_office": "Intel Chair \u2014 OH",
     "donations": {
       "corporate_total": "$5.7M career",
       "aipac": "$228,038",
@@ -22587,7 +22587,7 @@
   },
   "Dave Joyce": {
     "corruption_score": 62,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 OH",
     "donations": {
       "corporate_total": "$4.8M career",
       "aipac": "$79,899",
@@ -22650,7 +22650,7 @@
   },
   "Emilia Sykes": {
     "corruption_score": 14,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 OH",
     "donations": {
       "total_raised": "varies",
       "aipac": "$347,272",
@@ -22714,7 +22714,7 @@
   },
   "David Joyce": {
     "corruption_score": 62,
-    "years_in_office": "Representative - OH",
+    "years_in_office": "Representative \u2014 OH",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -22728,7 +22728,7 @@
   },
   "Anthony Gonzalez": {
     "corruption_score": 62,
-    "years_in_office": "Former Representative - OH",
+    "years_in_office": "Former Representative \u2014 OH",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -22741,7 +22741,7 @@
   },
   "Bill Johnson": {
     "corruption_score": 62,
-    "years_in_office": "Representative - OH",
+    "years_in_office": "Representative \u2014 OH",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -22754,7 +22754,7 @@
   },
   "Kevin Hern": {
     "corruption_score": 62,
-    "years_in_office": "2018-present",
+    "years_in_office": "Representative \u2014 OK",
     "donations": {
       "corporate_total": "$2.8M career",
       "aipac": "$147,563",
@@ -22813,7 +22813,7 @@
   },
   "Josh Brecheen": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 OK",
     "donations": {
       "corporate_total": "$232K career",
       "aipac": "$34,630",
@@ -22871,7 +22871,7 @@
   },
   "Frank Lucas": {
     "corruption_score": 62,
-    "years_in_office": "1993-present",
+    "years_in_office": "Representative \u2014 OK",
     "donations": {
       "corporate_total": "$5.7M career",
       "aipac": "$11,594",
@@ -22929,7 +22929,7 @@
   },
   "Tom Cole": {
     "corruption_score": 62,
-    "years_in_office": "2003-present",
+    "years_in_office": "Rules Chair \u2014 OK",
     "donations": {
       "corporate_total": "$7.6M career",
       "aipac": "$549,387",
@@ -22997,7 +22997,7 @@
   },
   "Stephanie Bice": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 OK",
     "donations": {
       "corporate_total": "$2.9M career",
       "aipac": "$74,710",
@@ -23055,7 +23055,7 @@
   },
   "Suzanne Bonamici": {
     "corruption_score": 63,
-    "years_in_office": "2012-present",
+    "years_in_office": "Representative \u2014 OR",
     "donations": {
       "corporate_total": "$1.9M career",
       "aipac": "$96,209",
@@ -23117,7 +23117,7 @@
   },
   "Cliff Bentz": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 OR",
     "donations": {
       "corporate_total": "$603K career",
       "aipac": "$10,786",
@@ -23181,7 +23181,7 @@
   },
   "Earl Blumenauer": {
     "corruption_score": 12,
-    "years_in_office": "Representative - OR",
+    "years_in_office": "Representative \u2014 OR",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -23196,7 +23196,7 @@
   },
   "Maxine Dexter": {
     "corruption_score": 63,
-    "years_in_office": "2025-present",
+    "years_in_office": "Representative \u2014 OR",
     "donations": {
       "corporate_total": "$609K career",
       "aipac": "None on record",
@@ -23253,7 +23253,7 @@
       }
     ],
     "net_worth": "$1.2M",
-    "years_in_office": "Secretary of Labor 2025-present",
+    "years_in_office": "Secretary of Labor 2025\u2013present",
     "corruption_score": 42,
     "corruption_reasoning": "One of few House Republicans who supported PRO Act (pro-union); endorsed by Teamsters; moderate record on labor makes her an unusual Trump cabinet pick.",
     "donations": {
@@ -23302,7 +23302,7 @@
   },
   "Andrea Salinas": {
     "corruption_score": 63,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 OR",
     "donations": {
       "corporate_total": "$1.8M career",
       "aipac": "$293,613",
@@ -23360,7 +23360,7 @@
   },
   "Brian Fitzpatrick": {
     "corruption_score": 62,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$8.2M career",
       "aipac": "$831,144",
@@ -23429,7 +23429,7 @@
   },
   "Brendan Boyle": {
     "corruption_score": 63,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$3.6M career",
       "aipac": "$458,181",
@@ -23491,7 +23491,7 @@
   },
   "Dwight Evans": {
     "corruption_score": 63,
-    "years_in_office": "2016-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$1.8M career",
       "aipac": "$33,749",
@@ -23548,7 +23548,7 @@
   },
   "Madeleine Dean": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$2.5M career",
       "aipac": "$69,819",
@@ -23610,7 +23610,7 @@
   },
   "Mary Gay Scanlon": {
     "corruption_score": 15,
-    "years_in_office": "2018-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "total_raised": "varies",
       "aipac": "$74,025",
@@ -23674,7 +23674,7 @@
   },
   "Chrissy Houlahan": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$5.0M career",
       "aipac": "$90,523",
@@ -23737,7 +23737,7 @@
   },
   "Susan Wild": {
     "corruption_score": 45,
-    "years_in_office": "Representative - PA",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -23750,7 +23750,7 @@
   },
   "Matt Cartwright": {
     "corruption_score": 45,
-    "years_in_office": "Representative - PA",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -23763,7 +23763,7 @@
   },
   "Dan Meuser": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$2.0M career",
       "aipac": "$49,696",
@@ -23822,7 +23822,7 @@
   },
   "Scott Perry": {
     "corruption_score": 62,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$2.1M career",
       "aipac": "$97,961",
@@ -23887,7 +23887,7 @@
   },
   "Lloyd Smucker": {
     "corruption_score": 62,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$2.8M career",
       "aipac": "$72,517",
@@ -23946,7 +23946,7 @@
   },
   "Summer Lee": {
     "corruption_score": 15,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -24011,7 +24011,7 @@
   },
   "John Joyce": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$2.7M career",
       "aipac": "$431",
@@ -24075,7 +24075,7 @@
   },
   "Guy Reschenthaler": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$2.5M career",
       "aipac": "$440,627",
@@ -24139,7 +24139,7 @@
   },
   "Glenn Thompson": {
     "corruption_score": 62,
-    "years_in_office": "2009-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$3.6M career",
       "aipac": "None on record",
@@ -24202,7 +24202,7 @@
   },
   "Mike Kelly": {
     "corruption_score": 62,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "corporate_total": "$5.6M career",
       "aipac": "$44,962",
@@ -24261,7 +24261,7 @@
   },
   "Chris Deluzio": {
     "corruption_score": 14,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 PA",
     "donations": {
       "total_raised": "varies",
       "aipac": "$302,699",
@@ -24324,7 +24324,7 @@
   },
   "Gabe Amo": {
     "corruption_score": 14,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 RI",
     "donations": {
       "total_raised": "varies",
       "aipac": "$99K",
@@ -24387,7 +24387,7 @@
   },
   "Seth Magaziner": {
     "corruption_score": 68,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 RI",
     "donations": {
       "total_raised": "varies",
       "aipac": "$100,131",
@@ -24450,7 +24450,7 @@
   },
   "Nancy Mace": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 SC",
     "donations": {
       "corporate_total": "$3.1M career",
       "aipac": "None on record",
@@ -24510,7 +24510,7 @@
   },
   "Joe Wilson": {
     "corruption_score": 62,
-    "years_in_office": "2001-present",
+    "years_in_office": "Representative \u2014 SC",
     "donations": {
       "corporate_total": "$5.0M career",
       "aipac": "$360K",
@@ -24574,7 +24574,7 @@
   },
   "Jeff Duncan": {
     "corruption_score": 62,
-    "years_in_office": "Representative - SC",
+    "years_in_office": "Representative \u2014 SC",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -24587,7 +24587,7 @@
   },
   "William Timmons": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 SC",
     "donations": {
       "corporate_total": "$2.0M career",
       "aipac": "None on record",
@@ -24655,7 +24655,7 @@
   },
   "Ralph Norman": {
     "corruption_score": 62,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 SC",
     "donations": {
       "corporate_total": "$1.4M career",
       "aipac": "None on record",
@@ -24715,7 +24715,7 @@
   },
   "James Clyburn": {
     "corruption_score": 63,
-    "years_in_office": "1993-present",
+    "years_in_office": "Representative \u2014 SC",
     "donations": {
       "corporate_total": "$11.0M career",
       "aipac": "None on record",
@@ -24774,7 +24774,7 @@
   },
   "Russell Fry": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 SC",
     "donations": {
       "corporate_total": "$666K career",
       "aipac": "None on record",
@@ -24837,7 +24837,7 @@
   },
   "Dusty Johnson": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 SD",
     "donations": {
       "corporate_total": "$3.4M career",
       "aipac": "None on record",
@@ -24900,7 +24900,7 @@
   },
   "Diana Harshbarger": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 TN",
     "donations": {
       "corporate_total": "$1.3M career",
       "aipac": "$49,508",
@@ -24959,7 +24959,7 @@
   },
   "Tim Burchett": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 TN",
     "donations": {
       "corporate_total": "$1.1M career",
       "aipac": "$30,561",
@@ -25018,7 +25018,7 @@
   },
   "Chuck Fleischmann": {
     "corruption_score": 62,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 TN",
     "donations": {
       "corporate_total": "$3.4M career",
       "aipac": "None on record",
@@ -25081,7 +25081,7 @@
   },
   "Scott DesJarlais": {
     "corruption_score": 62,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 TN",
     "donations": {
       "corporate_total": "$1.4M career",
       "aipac": "$25,735",
@@ -25147,7 +25147,7 @@
   },
   "Jim Cooper": {
     "corruption_score": 45,
-    "years_in_office": "Former Representative - TN",
+    "years_in_office": "Former Representative \u2014 TN",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -25160,7 +25160,7 @@
   },
   "John Rose": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 TN",
     "donations": {
       "corporate_total": "$2.0M career",
       "aipac": "$52,738",
@@ -25224,7 +25224,7 @@
   },
   "Mark Green": {
     "corruption_score": 62,
-    "years_in_office": "Representative - TN",
+    "years_in_office": "Representative \u2014 TN",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -25237,7 +25237,7 @@
   },
   "David Kustoff": {
     "corruption_score": 62,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 TN",
     "donations": {
       "corporate_total": "$4.2M career",
       "aipac": "$222,727",
@@ -25300,7 +25300,7 @@
   },
   "Steve Cohen": {
     "corruption_score": 63,
-    "years_in_office": "2007-present",
+    "years_in_office": "Representative \u2014 TN",
     "donations": {
       "corporate_total": "$2.0M career",
       "aipac": "$125,998",
@@ -25364,7 +25364,7 @@
   },
   "Nathaniel Moran": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$661K career",
       "aipac": "$55,469",
@@ -25427,7 +25427,7 @@
   },
   "Bryan Babin": {
     "corruption_score": 62,
-    "years_in_office": "Representative - TX",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -25440,7 +25440,7 @@
   },
   "Keith Self": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$385K career",
       "aipac": "$51,001",
@@ -25503,7 +25503,7 @@
   },
   "Pat Fallon": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$702K career",
       "aipac": "$81,077",
@@ -25561,7 +25561,7 @@
   },
   "Lance Gooden": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$2.2M career",
       "aipac": "$46,250",
@@ -25619,7 +25619,7 @@
   },
   "Jake Ellzey": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$1.8M career",
       "aipac": "$165,828",
@@ -25682,7 +25682,7 @@
   },
   "Lizzie Fletcher": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$5.9M career",
       "aipac": "$183,461",
@@ -25746,7 +25746,7 @@
   },
   "Morgan Luttrell": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$1.3M career",
       "aipac": "$31,165",
@@ -25809,7 +25809,7 @@
   },
   "Al Green": {
     "corruption_score": 63,
-    "years_in_office": "2005-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$1.6M career",
       "aipac": "$27,855",
@@ -25872,7 +25872,7 @@
   },
   "Michael McCaul": {
     "corruption_score": 67,
-    "years_in_office": "2005-present",
+    "years_in_office": "Foreign Affairs Chair \u2014 TX",
     "donations": {
       "corporate_total": "$9.3M career",
       "aipac": "$883,348",
@@ -25936,7 +25936,7 @@
   },
   "August Pfluger": {
     "corruption_score": 67,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$4.0M career",
       "aipac": "$165,612",
@@ -26004,7 +26004,7 @@
   },
   "Kay Granger": {
     "corruption_score": 67,
-    "years_in_office": "Representative - TX",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$877K career",
       "aipac": "None on record",
@@ -26017,7 +26017,7 @@
   },
   "Ronny Jackson": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$2.4M career",
       "aipac": "$80,165",
@@ -26083,7 +26083,7 @@
   },
   "Randy Weber": {
     "corruption_score": 67,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$1.9M career",
       "aipac": "$107,056",
@@ -26143,7 +26143,7 @@
   },
   "Monica De La Cruz": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$2.8M career",
       "aipac": "$83,163",
@@ -26202,7 +26202,7 @@
   },
   "Veronica Escobar": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$1.8M career",
       "aipac": "$47,396",
@@ -26264,7 +26264,7 @@
   },
   "Pete Sessions": {
     "corruption_score": 62,
-    "years_in_office": "1997-2019, 2021-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$14.7M career",
       "aipac": "$56,305",
@@ -26323,7 +26323,7 @@
   },
   "Sheila Jackson Lee": {
     "corruption_score": 45,
-    "years_in_office": "Representative - TX",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -26336,7 +26336,7 @@
   },
   "Jodey Arrington": {
     "corruption_score": 62,
-    "years_in_office": "2017-present",
+    "years_in_office": "Budget Chair \u2014 TX",
     "donations": {
       "corporate_total": "$4.8M career",
       "aipac": "$44,730",
@@ -26400,7 +26400,7 @@
   },
   "Joaquin Castro": {
     "corruption_score": 63,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$2.1M career",
       "aipac": "$30,401",
@@ -26464,7 +26464,7 @@
   },
   "Chip Roy": {
     "corruption_score": 65,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$3.0M career",
       "aipac": "$17,000",
@@ -26529,7 +26529,7 @@
   },
   "Troy Nehls": {
     "corruption_score": 67,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$1.0M career",
       "aipac": "$17,282",
@@ -26588,7 +26588,7 @@
   },
   "Tony Gonzales": {
     "corruption_score": 65,
-    "years_in_office": "Representative - TX",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$4.0M career",
       "aipac": "None on record",
@@ -26652,7 +26652,7 @@
   },
   "Beth Van Duyne": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$4.3M career",
       "aipac": "$85,001",
@@ -26711,7 +26711,7 @@
   },
   "Roger Williams": {
     "corruption_score": 67,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$7.4M career",
       "aipac": "$34,510",
@@ -26770,7 +26770,7 @@
   },
   "Michael Burgess": {
     "corruption_score": 65,
-    "years_in_office": "Representative - TX",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$432K career",
       "aipac": "None on record",
@@ -26783,7 +26783,7 @@
   },
   "Michael Cloud": {
     "corruption_score": 62,
-    "years_in_office": "2018-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$810K career",
       "aipac": "$36,023",
@@ -26842,7 +26842,7 @@
   },
   "Henry Cuellar": {
     "corruption_score": 63,
-    "years_in_office": "2005-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$8.3M career",
       "aipac": "$523,264",
@@ -26917,7 +26917,7 @@
   },
   "Sylvia Garcia": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$1.4M career",
       "aipac": "$97,757",
@@ -26979,7 +26979,7 @@
   },
   "Jasmine Crockett": {
     "corruption_score": 15,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -27043,7 +27043,7 @@
   },
   "John Carter": {
     "corruption_score": 67,
-    "years_in_office": "2003-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$5.4M career",
       "aipac": "$61,011",
@@ -27106,7 +27106,7 @@
   },
   "Colin Allred": {
     "corruption_score": 45,
-    "years_in_office": "Former Representative - TX",
+    "years_in_office": "Former Representative \u2014 TX",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -27119,7 +27119,7 @@
   },
   "Marc Veasey": {
     "corruption_score": 63,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$4.6M career",
       "aipac": "$121,097",
@@ -27177,7 +27177,7 @@
   },
   "Vicente Gonzalez": {
     "corruption_score": 63,
-    "years_in_office": "2017-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$4.4M career",
       "aipac": "$291,868",
@@ -27241,7 +27241,7 @@
   },
   "Greg Casar": {
     "corruption_score": 13,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -27300,7 +27300,7 @@
   },
   "Brian Babin": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$2.7M career",
       "aipac": "$44,544",
@@ -27364,7 +27364,7 @@
   },
   "Lloyd Doggett": {
     "corruption_score": 63,
-    "years_in_office": "1995-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$4.2M career",
       "aipac": "$67,374",
@@ -27427,7 +27427,7 @@
   },
   "Wesley Hunt": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 TX",
     "donations": {
       "corporate_total": "$4.1M career",
       "aipac": "$139,752",
@@ -27490,7 +27490,7 @@
   },
   "Rob Bishop": {
     "corruption_score": 62,
-    "years_in_office": "Former Representative - UT",
+    "years_in_office": "Former Representative \u2014 UT",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -27503,7 +27503,7 @@
   },
   "Celeste Maloy": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 UT",
     "donations": {
       "corporate_total": "$491K career",
       "aipac": "$80,756",
@@ -27566,7 +27566,7 @@
   },
   "Burgess Owens": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 UT",
     "donations": {
       "corporate_total": "$1.7M career",
       "aipac": "$83,693",
@@ -27626,7 +27626,7 @@
   },
   "Becca Balint": {
     "corruption_score": 12,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 VT",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -27690,7 +27690,7 @@
   },
   "Rob Wittman": {
     "corruption_score": 62,
-    "years_in_office": "2007-present",
+    "years_in_office": "Representative \u2014 VA",
     "donations": {
       "corporate_total": "$5.2M career",
       "aipac": "$112,386",
@@ -27758,7 +27758,7 @@
   },
   "Jen Kiggans": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 VA",
     "donations": {
       "corporate_total": "$2.7M career",
       "aipac": "$67,370",
@@ -27822,7 +27822,7 @@
   },
   "Bob Good": {
     "corruption_score": 62,
-    "years_in_office": "Representative - VA",
+    "years_in_office": "Representative \u2014 VA",
     "donations": {
       "corporate_total": "$688K career",
       "aipac": "None on record",
@@ -27876,7 +27876,7 @@
   },
   "Ben Cline": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 VA",
     "donations": {
       "corporate_total": "$1.1M career",
       "aipac": "$35,290",
@@ -27939,7 +27939,7 @@
   },
   "Abigail Spanberger": {
     "corruption_score": 45,
-    "years_in_office": "Representative - VA",
+    "years_in_office": "Representative \u2014 VA",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -27952,7 +27952,7 @@
   },
   "Don Beyer": {
     "corruption_score": 63,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 VA",
     "donations": {
       "corporate_total": "$4.5M career",
       "aipac": "$63,389",
@@ -28011,7 +28011,7 @@
   },
   "Morgan Griffith": {
     "corruption_score": 62,
-    "years_in_office": "2011-present",
+    "years_in_office": "Representative \u2014 VA",
     "donations": {
       "corporate_total": "$3.0M career",
       "aipac": "$33,155",
@@ -28075,7 +28075,7 @@
   },
   "Jennifer Wexton": {
     "corruption_score": 45,
-    "years_in_office": "Representative - VA",
+    "years_in_office": "Representative \u2014 VA",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -28088,7 +28088,7 @@
   },
   "Gerry Connolly": {
     "corruption_score": 45,
-    "years_in_office": "Representative - VA",
+    "years_in_office": "Representative \u2014 VA",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -28102,7 +28102,7 @@
   },
   "Donald McEachin": {
     "corruption_score": 45,
-    "years_in_office": "Representative - VA",
+    "years_in_office": "Representative \u2014 VA",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -28115,7 +28115,7 @@
   },
   "Bobby Scott": {
     "corruption_score": 63,
-    "years_in_office": "1993-present",
+    "years_in_office": "Representative \u2014 VA",
     "donations": {
       "corporate_total": "$1.9M career",
       "aipac": "$4,500",
@@ -28177,7 +28177,7 @@
   },
   "Suzan DelBene": {
     "corruption_score": 63,
-    "years_in_office": "2012-present",
+    "years_in_office": "DCCC Chair \u2014 WA",
     "donations": {
       "corporate_total": "$7.2M career",
       "aipac": "$245,577",
@@ -28241,7 +28241,7 @@
   },
   "Rick Larsen": {
     "corruption_score": 63,
-    "years_in_office": "2001-present",
+    "years_in_office": "Representative \u2014 WA",
     "donations": {
       "corporate_total": "$4.7M career",
       "aipac": "$81,661",
@@ -28304,7 +28304,7 @@
   },
   "Marie Gluesenkamp Perez": {
     "corruption_score": 14,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 WA",
     "donations": {
       "total_raised": "varies",
       "aipac": "$378,265",
@@ -28364,7 +28364,7 @@
   },
   "Dan Newhouse": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 WA",
     "donations": {
       "corporate_total": "$1.9M career",
       "aipac": "$135,870",
@@ -28423,7 +28423,7 @@
   },
   "Cathy McMorris Rodgers": {
     "corruption_score": 62,
-    "years_in_office": "Representative - WA",
+    "years_in_office": "Representative \u2014 WA",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -28436,7 +28436,7 @@
   },
   "Derek Kilmer": {
     "corruption_score": 45,
-    "years_in_office": "Representative - WA",
+    "years_in_office": "Representative \u2014 WA",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -28449,7 +28449,7 @@
   },
   "Pramila Jayapal": {
     "corruption_score": 14,
-    "years_in_office": "2017-present",
+    "years_in_office": "Progressive Caucus Chair \u2014 WA",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -28514,7 +28514,7 @@
   },
   "Kim Schrier": {
     "corruption_score": 63,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 WA",
     "donations": {
       "corporate_total": "$8.0M career",
       "aipac": "$274,533",
@@ -28577,7 +28577,7 @@
   },
   "Adam Smith": {
     "corruption_score": 63,
-    "years_in_office": "1997-present",
+    "years_in_office": "HASC Ranking Member \u2014 WA",
     "donations": {
       "corporate_total": "$6.4M career",
       "aipac": "$457,076",
@@ -28640,7 +28640,7 @@
   },
   "Marilyn Strickland": {
     "corruption_score": 63,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 WA",
     "donations": {
       "corporate_total": "$1.7M career",
       "aipac": "$344,917",
@@ -28703,7 +28703,7 @@
   },
   "Carol Miller": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 WV",
     "donations": {
       "corporate_total": "$1.6M career",
       "aipac": "$56,458",
@@ -28763,7 +28763,7 @@
   },
   "Alex Mooney": {
     "corruption_score": 62,
-    "years_in_office": "Representative - WV",
+    "years_in_office": "Representative \u2014 WV",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -28776,7 +28776,7 @@
   },
   "Bryan Steil": {
     "corruption_score": 62,
-    "years_in_office": "2019-present",
+    "years_in_office": "Representative \u2014 WI",
     "donations": {
       "corporate_total": "$6.2M career",
       "aipac": "$112,267",
@@ -28840,7 +28840,7 @@
   },
   "Mark Pocan": {
     "corruption_score": 13,
-    "years_in_office": "2013-present",
+    "years_in_office": "Representative \u2014 WI",
     "donations": {
       "total_raised": "varies",
       "aipac": "$0",
@@ -28899,7 +28899,7 @@
   },
   "Derrick Van Orden": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 WI",
     "donations": {
       "corporate_total": "$2.9M career",
       "aipac": "$83,477",
@@ -28959,7 +28959,7 @@
   },
   "Gwen Moore": {
     "corruption_score": 63,
-    "years_in_office": "2005-present",
+    "years_in_office": "Representative \u2014 WI",
     "donations": {
       "corporate_total": "$4.7M career",
       "aipac": "$51,935",
@@ -29016,7 +29016,7 @@
   },
   "Scott Fitzgerald": {
     "corruption_score": 62,
-    "years_in_office": "2021-present",
+    "years_in_office": "Representative \u2014 WI",
     "donations": {
       "corporate_total": "$1.3M career",
       "aipac": "$48,413",
@@ -29074,7 +29074,7 @@
   },
   "Glenn Grothman": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Representative \u2014 WI",
     "donations": {
       "corporate_total": "$1.7M career",
       "aipac": "$92,815",
@@ -29139,7 +29139,7 @@
   },
   "Tom Tiffany": {
     "corruption_score": 62,
-    "years_in_office": "2020-present",
+    "years_in_office": "Representative \u2014 WI",
     "donations": {
       "corporate_total": "$873K career",
       "aipac": "$53,176",
@@ -29198,7 +29198,7 @@
   },
   "Mike Gallagher": {
     "corruption_score": 62,
-    "years_in_office": "Former Representative - WI",
+    "years_in_office": "Former Representative \u2014 WI",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -29211,7 +29211,7 @@
   },
   "Harriet Hageman": {
     "corruption_score": 62,
-    "years_in_office": "2023-present",
+    "years_in_office": "Representative \u2014 WY",
     "donations": {
       "corporate_total": "$985K career",
       "aipac": "None on record",
@@ -29276,7 +29276,7 @@
   },
   "Stacey Plaskett": {
     "corruption_score": 63,
-    "years_in_office": "2015-present",
+    "years_in_office": "Delegate \u2014 VI",
     "donations": {
       "corporate_total": "$928K career",
       "aipac": "None on record",
@@ -29333,7 +29333,7 @@
   },
   "Gregorio Sablan": {
     "corruption_score": 63,
-    "years_in_office": "Delegate - MP",
+    "years_in_office": "Delegate \u2014 MP",
     "donations": {
       "corporate_total": "$69K career",
       "aipac": "None on record",
@@ -29379,7 +29379,7 @@
   },
   "Michael San Nicolas": {
     "corruption_score": 45,
-    "years_in_office": "Delegate - GU",
+    "years_in_office": "Delegate \u2014 GU",
     "donations": {
       "corporate_total": "$5-18M career",
       "aipac": "None on record",
@@ -29392,7 +29392,7 @@
   },
   "Amata Coleman Radewagen": {
     "corruption_score": 62,
-    "years_in_office": "2015-present",
+    "years_in_office": "Delegate \u2014 AS",
     "donations": {
       "corporate_total": "$34K career",
       "aipac": "None on record",
@@ -29439,7 +29439,7 @@
   },
   "Jenniffer Gonz\u00e1lez-Col\u00f3n": {
     "corruption_score": 62,
-    "years_in_office": "Resident Commissioner - PR",
+    "years_in_office": "Resident Commissioner \u2014 PR",
     "donations": {
       "corporate_total": "$8-25M career",
       "aipac": "None on record",
@@ -29463,7 +29463,7 @@
         "year": "1979"
       }
     ],
-    "years_in_office": "2005-present",
+    "years_in_office": "2005\u2013present",
     "corruption_score": 62,
     "corruption_reasoning": "Wife Jane Roberts earned $10M+ in legal recruiting fees from law firms with active Supreme Court cases (ProPublica). Refused to testify before Senate Judiciary Committee and blocked subpoena. Multiple documented missed stock recusals (AT&T, Life Technologies, ABB) tracked by Fix the Court. One of only two justices who still holds individual stocks. Designed ethics code with no enforcement mechanism.",
     "donations": {
@@ -29543,7 +29543,7 @@
         "year": "1974"
       }
     ],
-    "years_in_office": "1991-present",
+    "years_in_office": "1991\u2013present",
     "corruption_score": 95,
     "corruption_reasoning": "Worst ethics record in modern SCOTUS history. $4M+ in undisclosed gifts from GOP megadonor Harlan Crow (ProPublica). Refused to recuse in Trump v. U.S., Trump v. Anderson, and five Jan. 6-related cases while Ginni Thomas was directly involved in Stop the Steal. Senate Judiciary Committee Dec. 2024 report found violations of the Ethics in Government Act spanning decades.",
     "donations": {
@@ -30233,7 +30233,7 @@
       }
     ],
     "net_worth": "$4-7B est.",
-    "years_in_office": "2017-2021, 2025-present",
+    "years_in_office": "2017\u20132021, 2025\u2013present",
     "corruption_score": 82,
     "corruption_reasoning": "Multiple indictments, emoluments violations, hush money conviction, Jan 6, business entanglements with foreign states.",
     "donations": {
@@ -30297,7 +30297,7 @@
       }
     ],
     "net_worth": "$4-10M",
-    "years_in_office": "2023-2025 (Senate), 2025-present (VP)",
+    "years_in_office": "2023\u20132025 (Senate), 2025\u2013present (VP)",
     "corruption_score": 48,
     "corruption_reasoning": "Heavy tech/crypto donor ties via Peter Thiel; evolved positions rapidly; significant venture capital financial ties.",
     "donations": {
@@ -30355,7 +30355,7 @@
       }
     ],
     "net_worth": "$700M+",
-    "years_in_office": "Secretary of the Treasury 2025-present",
+    "years_in_office": "Secretary of the Treasury 2025\u2013present",
     "corruption_score": 58,
     "corruption_reasoning": "Hedge fund billionaire; founder of Key Square Capital; significant financial conflicts managing Treasury while owning major market positions; first openly gay cabinet member confirmed by Senate.",
     "donations": {
@@ -30417,7 +30417,7 @@
       }
     ],
     "net_worth": "$6.6M",
-    "years_in_office": "Secretary of Defense 2025-present",
+    "years_in_office": "Secretary of Defense 2025\u2013present",
     "corruption_score": 72,
     "corruption_reasoning": "Fox News host with no prior government leadership experience; sexual assault settlement; alcohol issues acknowledged; fired top military officials; attempted to gut diversity programs.",
     "donations": {
@@ -30482,7 +30482,7 @@
       }
     ],
     "net_worth": "$4.2M",
-    "years_in_office": "Attorney General Jan 2025 - Apr 2026 (Fired)",
+    "years_in_office": "Attorney General Jan 2025 \u2013 Apr 2026 (Fired)",
     "corruption_score": 70,
     "corruption_reasoning": "As Florida AG declined to join Trump University fraud investigation weeks after receiving $25K from Trump Foundation (potentially illegal); now serves as his AG; reversed DOJ independence norms.",
     "donations": {
@@ -30546,7 +30546,7 @@
       }
     ],
     "net_worth": "$100M+",
-    "years_in_office": "Secretary of the Interior 2025-present",
+    "years_in_office": "Secretary of the Interior 2025\u2013present",
     "corruption_score": 55,
     "corruption_reasoning": "Tech billionaire who sold Great Plains Software to Microsoft for $1.1B; significant oil/gas ties from North Dakota; Interior Department oversees energy on federal lands \u2014 direct conflict.",
     "donations": {
@@ -30609,7 +30609,7 @@
       }
     ],
     "net_worth": "$3.1M",
-    "years_in_office": "Secretary of Agriculture 2025-present",
+    "years_in_office": "Secretary of Agriculture 2025\u2013present",
     "corruption_score": 48,
     "corruption_reasoning": "Former head of America First Policy Institute; Texas A&M background appropriate for ag role; limited agriculture policy experience; MAGA network figure.",
     "donations": {
@@ -30665,7 +30665,7 @@
       }
     ],
     "net_worth": "$2B+",
-    "years_in_office": "Secretary of Commerce 2025-present",
+    "years_in_office": "Secretary of Commerce 2025\u2013present",
     "corruption_score": 62,
     "corruption_reasoning": "Cantor Fitzgerald CEO who lost 658 employees on 9/11; fought to protect company's interests aggressively after; significant conflicts as Commerce Secretary with financial industry ties.",
     "donations": {
@@ -30728,7 +30728,7 @@
       }
     ],
     "net_worth": "$4.1M",
-    "years_in_office": "Secretary of Transportation 2025-present",
+    "years_in_office": "Secretary of Transportation 2025\u2013present",
     "corruption_score": 44,
     "corruption_reasoning": "Former Real World cast member; Fox Business host; Wisconsin congressman; limited transportation policy experience but popular communicator.",
     "donations": {
@@ -30790,7 +30790,7 @@
       }
     ],
     "net_worth": "$50M+",
-    "years_in_office": "Secretary of Energy 2025-present",
+    "years_in_office": "Secretary of Energy 2025\u2013present",
     "corruption_score": 68,
     "corruption_reasoning": "CEO of Liberty Energy (fracking company); $8.7M in fossil fuel donations tracked; overseeing energy transition while personally profiting from fossil fuels; rolled back clean energy programs.",
     "donations": {
@@ -30848,7 +30848,7 @@
       }
     ],
     "net_worth": "$3B+ (WWE)",
-    "years_in_office": "Secretary of Education 2025-present",
+    "years_in_office": "Secretary of Education 2025\u2013present",
     "corruption_score": 58,
     "corruption_reasoning": "WWE co-founder; no educational background or experience; working to dismantle department she leads; significant conflicts with entertainment industry past.",
     "donations": {
@@ -30907,7 +30907,7 @@
       }
     ],
     "net_worth": "$800K",
-    "years_in_office": "Secretary of HUD 2025-present",
+    "years_in_office": "Secretary of HUD 2025\u2013present",
     "corruption_score": 40,
     "corruption_reasoning": "Former NFL player; led White House Opportunity and Revitalization Council in first Trump term; housing and community development background; limited financial conflicts.",
     "donations": {
@@ -30973,7 +30973,7 @@
       }
     ],
     "net_worth": "$1.4M",
-    "years_in_office": "Secretary of Veterans Affairs 2025-present",
+    "years_in_office": "Secretary of Veterans Affairs 2025\u2013present",
     "corruption_score": 48,
     "corruption_reasoning": "Former Congressman and military chaplain; consistent Trumpist; lost Georgia Senate race to Raphael Warnock; veterans service background through chaplaincy.",
     "donations": {
@@ -31029,7 +31029,7 @@
       }
     ],
     "net_worth": "$2.8M",
-    "years_in_office": "Secretary of Homeland Security 2025-present",
+    "years_in_office": "Secretary of Homeland Security 2025\u2013present",
     "corruption_score": 64,
     "corruption_reasoning": "Published memoir admitting she killed her own dog; promoted her daughter's appraisal license; ended presidential ambitions with book controversies; significant oil/gas and ag donations.",
     "donations": {
@@ -31093,7 +31093,7 @@
       }
     ],
     "net_worth": "$300B+",
-    "years_in_office": "DOGE Senior Advisor 2025-present",
+    "years_in_office": "DOGE Senior Advisor 2025\u2013present",
     "corruption_score": 77,
     "corruption_reasoning": "$250M+ donated to Trump; no Senate confirmation for government role; DOGE benefits Tesla/SpaceX competitors; SEC violations; access to government data.",
     "donations": {
@@ -31154,7 +31154,7 @@
       }
     ],
     "net_worth": "$500K",
-    "years_in_office": "Director of National Intelligence 2025-present",
+    "years_in_office": "Director of National Intelligence 2025\u2013present",
     "corruption_score": 58,
     "corruption_reasoning": "Met with Assad during Syrian civil war without State Dept coordination; promoted Russian talking points on Ukraine; left Democratic Party; limited intelligence background for DNI role.",
     "donations": {
@@ -31218,7 +31218,7 @@
       }
     ],
     "net_worth": "$2.8M",
-    "years_in_office": "Director of CIA 2025-present",
+    "years_in_office": "Director of CIA 2025\u2013present",
     "corruption_score": 62,
     "corruption_reasoning": "As DNI in Trump's first term, declassified intelligence selectively to attack political opponents; exaggerated credentials in campaign materials; now runs CIA.",
     "donations": {
@@ -31280,7 +31280,7 @@
       }
     ],
     "net_worth": "$4M (est.)",
-    "years_in_office": "FBI Director 2025-present",
+    "years_in_office": "FBI Director 2025\u2013present",
     "corruption_score": 68,
     "corruption_reasoning": "Published enemy list of journalists; vowed to investigate Trump opponents; fired 1,000+ FBI agents; no prior law enforcement leadership; confirmation was controversial.",
     "donations": {
@@ -31339,7 +31339,7 @@
       }
     ],
     "net_worth": "$1.8M",
-    "years_in_office": "Director of OMB 2025-present",
+    "years_in_office": "Director of OMB 2025\u2013present",
     "corruption_score": 65,
     "corruption_reasoning": "Architect of Project 2025; wrote chapter on dismantling administrative state; impounded Congressionally-appropriated funds; asserts broad presidential power to override budget law.",
     "donations": {
@@ -31402,7 +31402,7 @@
       }
     ],
     "net_worth": "$1.2M",
-    "years_in_office": "US Trade Representative 2025-present",
+    "years_in_office": "US Trade Representative 2025\u2013present",
     "corruption_score": 45,
     "corruption_reasoning": "Relatively low public profile; former chief of staff to Robert Lighthizer; implementing sweeping tariff agenda; some trade experience from first Trump term.",
     "donations": {
@@ -31484,7 +31484,7 @@
       }
     ],
     "net_worth": "$12.69M",
-    "years_in_office": "Senator 2025-present; Representative 2017-2025",
+    "years_in_office": "2017\u2013present",
     "corruption_score": 28,
     "corruption_reasoning": "Progressive record in House; first Black senator from Delaware. Limited corporate PAC money. Known for mental health and workforce legislation.",
     "key_votes": [
@@ -31547,7 +31547,7 @@
       }
     ],
     "net_worth": "$4M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 62,
     "corruption_reasoning": "Former Florida AG and fierce Trump ally. Led multi-state lawsuits against Biden policies. Appointed to Senate seat Jan 2025 after serving as AG. Fossil fuel and pharma industry donor ties.",
     "key_votes": [
@@ -31599,7 +31599,7 @@
       }
     ],
     "net_worth": "$12M",
-    "years_in_office": "2026-present",
+    "years_in_office": "2026\u2013present",
     "corruption_score": 55,
     "corruption_reasoning": "CEO of Williams Companies (natural gas pipeline giant) before appointment. Deep fossil fuel industry ties raise significant conflict-of-interest concerns on energy legislation.",
     "key_votes": [
@@ -31640,7 +31640,7 @@
       }
     ],
     "net_worth": "$1.8M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 58,
     "corruption_reasoning": "Former Ohio Lt. Governor and Secretary of State. Promoted Trump's election fraud claims while SOS. Appointed to fill JD Vance's seat. Industry and real estate donor ties.",
     "key_votes": [
@@ -31697,7 +31697,7 @@
       }
     ],
     "net_worth": "$3.1M",
-    "years_in_office": "Senator 2017-present; Representative 2003-2017",
+    "years_in_office": "2017\u2013present",
     "corruption_score": 24,
     "corruption_reasoning": "Consistent progressive record on campaign finance and oversight. Pushed back on Biden Gaza policy. Led DSCC and helped Dems win Senate majority. Limited corporate PAC money.",
     "key_votes": [
@@ -31765,7 +31765,7 @@
       }
     ],
     "net_worth": "$1.69M",
-    "years_in_office": "2023-present",
+    "years_in_office": "2023\u2013present",
     "corruption_score": 78,
     "corruption_reasoning": "Originally pledged no corporate PAC money in 2022 campaign. Has since received $357,118 from AIPAC and significant FEC industry sector donations. Has shifted considerably rightward on foreign policy and Israel since taking office. FEC data shows large career totals from pharma, finance, tech, and defense sectors.",
     "key_votes": [
@@ -31834,7 +31834,7 @@
       }
     ],
     "net_worth": "$673.0K",
-    "years_in_office": "2023-present",
+    "years_in_office": "2023\u2013present",
     "corruption_score": 82,
     "corruption_reasoning": "FBI investigation, fabricated campaign loan, multiple FEC violations, refused ethics cooperation. Compared to George Santos by Campaign Legal Center.",
     "key_votes": [
@@ -31893,7 +31893,7 @@
       }
     ],
     "net_worth": "$1.88M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 20,
     "corruption_reasoning": "Former DOJ official. Won open seat 2024. Progressive record, limited corporate ties as freshman.",
     "key_votes": [
@@ -31943,7 +31943,7 @@
       }
     ],
     "net_worth": "$0.1M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 18,
     "corruption_reasoning": "Daughter of Rep. Ra\u00fal Grijalva. Educator and community organizer. Progressive record.",
     "key_votes": [
@@ -31987,7 +31987,7 @@
       }
     ],
     "net_worth": "$833.0K",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 58,
     "corruption_reasoning": "Lost 2022 Arizona AG race by 280 votes then refused to concede. Election denier. MAGA loyalist.",
     "key_votes": [
@@ -32034,7 +32034,7 @@
       }
     ],
     "net_worth": "$965.5K",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 36,
     "corruption_reasoning": "Former California state assemblymember. Won competitive Central Valley seat. Agriculture and business donor ties.",
     "key_votes": [
@@ -32080,7 +32080,7 @@
       }
     ],
     "net_worth": "$232.5K",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 14,
     "corruption_reasoning": "Civil rights activist and Alameda County Board President. Won Barbara Lee's old seat. No corporate PAC money. Only member of Congress to have been on parole.",
     "key_votes": [
@@ -32130,7 +32130,7 @@
       }
     ],
     "net_worth": "$1.23M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 20,
     "corruption_reasoning": "Former California state assemblywoman focused on transportation and housing. Progressive on climate and transit.",
     "key_votes": [
@@ -32175,7 +32175,7 @@
       }
     ],
     "net_worth": "$3.08M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 16,
     "corruption_reasoning": "STEM educator and founder of Arleta High School computer science program. Progressive on education, immigration, technology access.",
     "key_votes": [
@@ -32219,7 +32219,7 @@
       }
     ],
     "net_worth": "$4.61M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 20,
     "corruption_reasoning": "First Vietnamese-American to represent Little Saigon. Won narrow 2024 race. Progressive on healthcare, veteran affairs.",
     "key_votes": [
@@ -32270,7 +32270,7 @@
       }
     ],
     "net_worth": "$2.27M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 30,
     "corruption_reasoning": "Former California state senator. Finance law background. DUI arrest in 2023 was significant controversy.",
     "key_votes": [
@@ -32322,7 +32322,7 @@
       }
     ],
     "net_worth": "$35.48M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 24,
     "corruption_reasoning": "Former Virgin Galactic CEO. Aerospace and space industry ties. Won Republican-leaning district.",
     "key_votes": [
@@ -32368,7 +32368,7 @@
       }
     ],
     "net_worth": "$115.5K",
-    "years_in_office": "2015-present",
+    "years_in_office": "2015\u2013present",
     "corruption_score": 20,
     "corruption_reasoning": "Former LA 911 dispatcher who fled civil war in Guatemala as a child. Progressive on immigration, labor. Minimal corporate ties.",
     "key_votes": [
@@ -32425,7 +32425,7 @@
       }
     ],
     "net_worth": "$218.0K",
-    "years_in_office": "2015-present",
+    "years_in_office": "2015\u2013present",
     "corruption_score": 59,
     "corruption_reasoning": "House Democratic Caucus Chair. Former Redlands mayor. Labor and tech ties in Inland Empire.",
     "key_votes": [
@@ -32488,7 +32488,7 @@
       }
     ],
     "net_worth": "$2.26M",
-    "years_in_office": "2024-present",
+    "years_in_office": "2024\u2013present",
     "corruption_score": 48,
     "corruption_reasoning": "Former Kevin McCarthy aide who won special election to fill his seat.",
     "key_votes": [
@@ -32546,7 +32546,7 @@
       }
     ],
     "net_worth": "$6.8M",
-    "years_in_office": "1997-present",
+    "years_in_office": "1997\u2013present",
     "corruption_score": 59,
     "corruption_reasoning": "CPA and tax attorney. Finance and real estate significant donor. Vocal critic of Wall Street but took their money.",
     "key_votes": [
@@ -32609,7 +32609,7 @@
       }
     ],
     "net_worth": "$8.40M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 32,
     "corruption_reasoning": "Former San Jose mayor. Tech and finance industry ties. Managed city through COVID and George Floyd protests.",
     "key_votes": [
@@ -32655,7 +32655,7 @@
       }
     ],
     "net_worth": "$0.4M",
-    "years_in_office": "2021-present",
+    "years_in_office": "2021\u2013present",
     "corruption_score": 74,
     "corruption_reasoning": "Restaurant owner with no college degree. Groped and vaping at Beetlejuice musical. Switched districts to win easier seat. Freedom Caucus extremist.",
     "key_votes": [
@@ -32721,7 +32721,7 @@
       }
     ],
     "net_worth": "$439.5K",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 44,
     "corruption_reasoning": "Army veteran who flipped competitive Denver suburbs seat. Law enforcement background.",
     "key_votes": [
@@ -32772,7 +32772,7 @@
       }
     ],
     "net_worth": "$2.84M",
-    "years_in_office": "1997-present",
+    "years_in_office": "1997\u2013present",
     "corruption_score": 24,
     "corruption_reasoning": "House Democratic Chief Deputy Whip. One of most senior Democratic women. Strong on healthcare and gun safety.",
     "key_votes": [
@@ -32835,7 +32835,7 @@
       }
     ],
     "net_worth": "$6.2M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 64,
     "corruption_reasoning": "Former Florida state legislator known for extreme anti-LGBTQ bills. Made antisemitic and homophobic statements.",
     "key_votes": [
@@ -32893,7 +32893,7 @@
       }
     ],
     "net_worth": "$8.65M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 52,
     "corruption_reasoning": "Former Florida Senate President. Space industry ties in Florida's Space Coast district.",
     "key_votes": [
@@ -32939,7 +32939,7 @@
       }
     ],
     "net_worth": "$4.1M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 52,
     "corruption_reasoning": "Former Florida Chief Financial Officer. Business and insurance industry ties. Won seat vacated by Matt Gaetz.",
     "key_votes": [
@@ -32980,7 +32980,7 @@
       }
     ],
     "net_worth": "$1.12M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 54,
     "corruption_reasoning": "Former Trump White House political affairs director. MAGA loyalist who owed his career entirely to Trump. Won safe Republican seat.",
     "key_votes": [
@@ -33027,7 +33027,7 @@
       }
     ],
     "net_worth": "$1.1M",
-    "years_in_office": "2026-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 52,
     "corruption_reasoning": "Former Louisiana state legislator who moved to Georgia to run for Congress. Business and energy industry ties. MAGA loyalist.",
     "key_votes": [
@@ -33070,7 +33070,7 @@
       }
     ],
     "net_worth": "$3.53M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 50,
     "corruption_reasoning": "Former Kansas Attorney General who lost 2022 governor's race to Laura Kelly. Business and energy industry ties. Generally mainstream Republican.",
     "key_votes": [
@@ -33115,7 +33115,7 @@
       }
     ],
     "net_worth": "$42.47M",
-    "years_in_office": "1993-1997, 2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 36,
     "corruption_reasoning": "Former Louisiana congressman (1993-97) and state senator who returned to Congress in 2025. Progressive on civil rights. Had ethics and legal issues in 1990s.",
     "key_votes": [
@@ -33161,7 +33161,7 @@
       }
     ],
     "net_worth": "$1.10M",
-    "years_in_office": "1987-1996, 2020-present",
+    "years_in_office": "2020\u2013present",
     "corruption_score": 22,
     "corruption_reasoning": "Former NAACP president and congressman (1987-96) who returned to Congress. Former state senator. Progressive on civil rights, voting rights, and racial equity. Limited corporate ties.",
     "key_votes": [
@@ -33224,7 +33224,7 @@
       }
     ],
     "net_worth": "$18.13M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 58,
     "corruption_reasoning": "Former Missouri state senator and physician. MAGA loyalist and anti-abortion activist. Won Todd Akin's old district. Led extreme abortion restriction legislation in Missouri.",
     "key_votes": [
@@ -33271,7 +33271,7 @@
       }
     ],
     "net_worth": "$9.00M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 54,
     "corruption_reasoning": "Montana businessman and former state auditor. Business and energy industry ties. Won seat replacing Ryan Zinke who moved to different district.",
     "key_votes": [
@@ -33323,7 +33323,7 @@
       }
     ],
     "net_worth": "$3.83M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 20,
     "corruption_reasoning": "Former NSC official and wife of journalist Jeffrey Goldberg. Won open NH seat. National security background. Progressive on defense and foreign policy. Limited corporate ties.",
     "key_votes": [
@@ -33364,7 +33364,7 @@
       }
     ],
     "net_worth": "$1.14M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 20,
     "corruption_reasoning": "Former New Jersey state senator and Paterson Mayor. Progressive on labor, immigration, and healthcare. Limited corporate ties. First Latina from NJ to serve in Congress.",
     "key_votes": [
@@ -33409,7 +33409,7 @@
       }
     ],
     "net_worth": "$673.0K",
-    "years_in_office": "2024-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 18,
     "corruption_reasoning": "Former Essex County elected official and local leader. Progressive on criminal justice, housing, education. Limited corporate ties. New member.",
     "key_votes": [
@@ -33452,7 +33452,7 @@
       }
     ],
     "net_worth": "$1.31M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 22,
     "corruption_reasoning": "Former Hempstead town supervisor. Won competitive Long Island seat. Progressive on housing, climate, and consumer protection. Limited corporate ties.",
     "key_votes": [
@@ -33497,7 +33497,7 @@
       }
     ],
     "net_worth": "$1.61M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 22,
     "corruption_reasoning": "Attorney who won competitive Southern Tier NY district. Progressive on labor and rural issues. Limited corporate ties. Won competitive seat flipping Republican-held district.",
     "key_votes": [
@@ -33542,7 +33542,7 @@
       }
     ],
     "net_worth": "$456.0K",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 22,
     "corruption_reasoning": "Former New York state senator. Won competitive upstate NY district. Progressive on healthcare, climate, education. Limited corporate ties.",
     "key_votes": [
@@ -33587,7 +33587,7 @@
       }
     ],
     "net_worth": "$1.34M",
-    "years_in_office": "2017-2019, 2021-present",
+    "years_in_office": "2023\u2013present",
     "corruption_score": 58,
     "corruption_reasoning": "Former attorney and newspaper publisher. MAGA Republican who won back seat after losing and then regaining through redistricting. Jan. 6 adjacent positions. Business and media ties.",
     "key_votes": [
@@ -33651,7 +33651,7 @@
       }
     ],
     "net_worth": "$1.8M",
-    "years_in_office": "1992-present",
+    "years_in_office": "1992\u2013present",
     "corruption_score": 22,
     "corruption_reasoning": "Former House Judiciary Committee chair. Led Trump impeachment proceedings. Progressive on civil rights, LGBTQ rights, and justice reform. Generally principled record.",
     "key_votes": [
@@ -33715,7 +33715,7 @@
       }
     ],
     "net_worth": "$5.76M",
-    "years_in_office": "2021-present",
+    "years_in_office": "2017\u2013present",
     "corruption_score": 20,
     "corruption_reasoning": "Former NC ACLU executive director and state legislator. Progressive on civil liberties, tech policy, and healthcare. Minimal corporate ties.",
     "key_votes": [
@@ -33777,7 +33777,7 @@
       }
     ],
     "net_worth": "$0.3M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 50,
     "corruption_reasoning": "Former NC state senator. Young MAGA Republican. Business and real estate ties. Very new member with extreme right-wing positions.",
     "key_votes": [
@@ -33822,7 +33822,7 @@
       }
     ],
     "net_worth": "$8.81M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 48,
     "corruption_reasoning": "Army veteran and firearms manufacturer CEO. Owns gun company while legislating on firearms \u2014 direct conflict. Business and defense ties. Won competitive western NC seat.",
     "key_votes": [
@@ -33874,7 +33874,7 @@
       }
     ],
     "net_worth": "$7.45M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 48,
     "corruption_reasoning": "Former federal prosecutor. Won competitive swing NC seat. Business and real estate ties. MAGA-aligned Republican.",
     "key_votes": [
@@ -33914,7 +33914,7 @@
       }
     ],
     "net_worth": "$7.57M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 44,
     "corruption_reasoning": "Former North Dakota Public Service Commissioner. Energy industry ties in energy-dominant state. Won North Dakota's at-large seat after Kelly Armstrong became governor.",
     "key_votes": [
@@ -33959,7 +33959,7 @@
       }
     ],
     "net_worth": "$382.5K",
-    "years_in_office": "2018-present",
+    "years_in_office": "2018\u2013present",
     "corruption_score": 54,
     "corruption_reasoning": "Former Ohio state senator and businessman. Jan. 6 certification objector. Business and energy industry ties.",
     "key_votes": [
@@ -34018,7 +34018,7 @@
       }
     ],
     "net_worth": "$16.70M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 50,
     "corruption_reasoning": "Former Ohio state representative. Business and energy industry ties. MAGA-aligned Republican. Very new federal member.",
     "key_votes": [
@@ -34057,7 +34057,7 @@
       }
     ],
     "net_worth": "$26.91M",
-    "years_in_office": "2024-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 48,
     "corruption_reasoning": "Businessman and former Ohio Republican Party official. Won competitive Youngstown-area seat. Business and real estate ties. MAGA-aligned.",
     "key_votes": [
@@ -34097,7 +34097,7 @@
       }
     ],
     "net_worth": "$1.74M",
-    "years_in_office": "2023-present",
+    "years_in_office": "2023\u2013present",
     "corruption_score": 18,
     "corruption_reasoning": "Former Oregon state representative and Labor Commissioner. Progressive on labor, healthcare, and rural issues. Limited corporate ties. Strong union background.",
     "key_votes": [
@@ -34159,7 +34159,7 @@
       }
     ],
     "net_worth": "$16.17M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 18,
     "corruption_reasoning": "Former Oregon state representative. Progressive on housing, healthcare, education. Won competitive seat defeating Lori Chavez-DeRemer. Minimal corporate ties. First Black woman to represent Oregon in Congress.",
     "key_votes": [
@@ -34204,7 +34204,7 @@
       }
     ],
     "net_worth": "$730.9K",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 48,
     "corruption_reasoning": "Former Pennsylvania state representative and engineer. Won competitive Lehigh Valley district flipping Democratic seat. Business and manufacturing industry ties.",
     "key_votes": [
@@ -34244,7 +34244,7 @@
       }
     ],
     "net_worth": "$36.92M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 48,
     "corruption_reasoning": "Businessman who won competitive Scranton-area seat flipping it from Democrat. Business and real estate ties. Won Matt Cartwright's seat.",
     "key_votes": [
@@ -34290,7 +34290,7 @@
       }
     ],
     "net_worth": "$15.31M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 52,
     "corruption_reasoning": "Physician and businesswoman. Won competitive SC district. Healthcare and business industry ties. MAGA-aligned Republican. Very new member.",
     "key_votes": [
@@ -34330,7 +34330,7 @@
       }
     ],
     "net_worth": "$0.4M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 50,
     "corruption_reasoning": "Former Tennessee state representative and city official. Moderate-leaning Republican in Chattanooga district. Business industry ties. Won special election.",
     "key_votes": [
@@ -34375,7 +34375,7 @@
       }
     ],
     "net_worth": "$1.79M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 52,
     "corruption_reasoning": "Son-in-law of Dinesh D'Souza \u2014 conservative commentator convicted of campaign finance fraud. Attorney. MAGA Republican. Very new member.",
     "key_votes": [
@@ -34420,7 +34420,7 @@
       }
     ],
     "net_worth": "$25.70M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 50,
     "corruption_reasoning": "Former Texas state representative and attorney. Business and real estate industry ties. Won competitive Dallas-area seat.",
     "key_votes": [
@@ -34465,7 +34465,7 @@
       }
     ],
     "net_worth": "$1.34M",
-    "years_in_office": "2019-present",
+    "years_in_office": "2019\u2013present",
     "corruption_score": 52,
     "corruption_reasoning": "Navy SEAL who lost an eye in Afghanistan. Gained national attention after Pete Davidson mocked his eyepatch. Conservative on most issues. Business and defense ties. Sometimes bipartisan on veterans issues.",
     "key_votes": [
@@ -34530,7 +34530,7 @@
       }
     ],
     "net_worth": "$47.76M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 18,
     "corruption_reasoning": "Former Texas state representative. Progressive on LGBTQ rights, healthcare, and education. First openly lesbian member elected from Texas. Minimal corporate ties.",
     "key_votes": [
@@ -34581,7 +34581,7 @@
       }
     ],
     "net_worth": "$9.74M",
-    "years_in_office": "2021-present",
+    "years_in_office": "2021\u2013present",
     "corruption_score": 48,
     "corruption_reasoning": "Former Commerce Department trade official. Business and finance industry ties. Generally moderate Republican who certified election results.",
     "key_votes": [
@@ -34649,7 +34649,7 @@
       }
     ],
     "net_worth": "$1.45M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 52,
     "corruption_reasoning": "Physician and attorney. Won seat replacing John Curtis who moved to Senate. Business and healthcare ties. MAGA-aligned Republican.",
     "key_votes": [
@@ -34694,7 +34694,7 @@
       }
     ],
     "net_worth": "$2.58M",
-    "years_in_office": "2023-present",
+    "years_in_office": "2023\u2013present",
     "corruption_score": 18,
     "corruption_reasoning": "Former Virginia state senator. Won special election to fill Jim Clyburn's proteg\u00e9 seat. Progressive on civil rights, reproductive rights, and environment. Minimal corporate ties.",
     "key_votes": [
@@ -34756,7 +34756,7 @@
       }
     ],
     "net_worth": "$352.3K",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 14,
     "corruption_reasoning": "Army colonel and twin brother of Alexander Vindman who testified in Trump's first impeachment. Progressive on national security, democracy, and veterans. Won competitive Virginia seat.",
     "key_votes": [
@@ -34808,7 +34808,7 @@
       }
     ],
     "net_worth": "$2.81M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 16,
     "corruption_reasoning": "Former Virginia state delegate and tech policy attorney. First South Asian American elected to Congress from Virginia. Progressive on tech, civil rights, and democracy. Minimal corporate ties.",
     "key_votes": [
@@ -34859,7 +34859,7 @@
       }
     ],
     "net_worth": "$0.3M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 18,
     "corruption_reasoning": "Former Fairfax County Board supervisor. Progressive on housing, transportation, and civil rights. Won competitive Northern Virginia seat. Minimal corporate ties.",
     "key_votes": [
@@ -34899,7 +34899,7 @@
       }
     ],
     "net_worth": "$97.4K",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 16,
     "corruption_reasoning": "Former Washington state senator. Progressive on labor, healthcare, LGBTQ rights. Won competitive Kitsap Peninsula district. Minimal corporate ties. First openly lesbian member from Washington.",
     "key_votes": [
@@ -34950,7 +34950,7 @@
       }
     ],
     "net_worth": "$1.45M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 48,
     "corruption_reasoning": "Former State Department official and Washington state senator. Business and energy ties in Eastern Washington. Won competitive seat previously held by Democrats.",
     "key_votes": [
@@ -34990,7 +34990,7 @@
       }
     ],
     "net_worth": "$632.1K",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 52,
     "corruption_reasoning": "Son of Rep. Carol Miller. Former West Virginia state treasurer. Energy and business industry ties in WV. Won seat replacing David McKinley.",
     "key_votes": [
@@ -35031,7 +35031,7 @@
       }
     ],
     "net_worth": "$9.22M",
-    "years_in_office": "2024-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 48,
     "corruption_reasoning": "Businessman who won competitive Fox Valley district. Business and manufacturing ties. MAGA-aligned Republican. Won competitive seat.",
     "key_votes": [
@@ -35076,7 +35076,7 @@
       }
     ],
     "net_worth": "$549.0K",
-    "years_in_office": "2023-present",
+    "years_in_office": "2023\u2013present",
     "corruption_score": 36,
     "corruption_reasoning": "Former Guam state legislature member and attorney. Republican non-voting delegate from Guam. Business and defense industry ties \u2014 large US military presence in Guam.",
     "key_votes": [
@@ -35132,7 +35132,7 @@
       }
     ],
     "net_worth": "$2.53M",
-    "years_in_office": "1991-present",
+    "years_in_office": "1991\u2013present",
     "corruption_score": 14,
     "corruption_reasoning": "Yale-educated civil rights attorney and DC statehood champion. Former EEOC chair. Non-voting DC delegate for 30+ years. Champion of DC statehood \u2014 denied vote in own Congress. One of most principled members.",
     "key_votes": [
@@ -35195,7 +35195,7 @@
       }
     ],
     "net_worth": "$453.8K",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 16,
     "corruption_reasoning": "Puerto Rico resident commissioner \u2014 non-voting but 4-year term. Former Puerto Rico legislator. Progressive on Puerto Rico status and hurricane recovery. Very new member.",
     "key_votes": [
@@ -35239,7 +35239,7 @@
       }
     ],
     "net_worth": "$425.3K",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 48,
     "corruption_reasoning": "Army veteran and former Michigan state senator. Won competitive Michigan district. Defense and business ties. MAGA-aligned Republican.",
     "key_votes": [
@@ -35284,7 +35284,7 @@
       }
     ],
     "net_worth": "$1.34M",
-    "years_in_office": "2025-present",
+    "years_in_office": "2025\u2013present",
     "corruption_score": 18,
     "corruption_reasoning": "Former Michigan state senator. Won competitive Great Lakes Bay district. Progressive on healthcare and environment. Minimal corporate ties.",
     "key_votes": [
@@ -35318,8 +35318,7 @@
   "Shontel Brown": {
     "net_worth": "$32.0K",
     "corruption_score": 45,
-    "corruption_reasoning": "Limited available data. Score reflects moderate corporate PAC presence and voting record.",
-    "years_in_office": "2021-present"
+    "corruption_reasoning": "Limited available data. Score reflects moderate corporate PAC presence and voting record."
   },
   "Todd Blanche": {
     "education": [
@@ -35335,7 +35334,7 @@
       }
     ],
     "net_worth": "N/A",
-    "years_in_office": "Deputy AG Jan 2025 - Apr 2026 \u00b7 Acting AG April 2026-present",
+    "years_in_office": "Deputy AG Jan 2025 \u2013 Apr 2026 \u00b7 Acting AG April 2026\u2013present",
     "corruption_score": 72,
     "corruption_reasoning": "Acting Attorney General and former Deputy AG. Trump's personal criminal defense attorney in three criminal cases before joining DOJ. Oversaw removal of career DOJ/FBI officials. Issued crypto enforcement rollback while holding $159K+ in crypto assets. Declined to recuse from matters directly involving his former client. Also named acting Librarian of Congress \u2014 appointment disputed as legally invalid.",
     "bio": "Todd Wallace Blanche (born August 6, 1974, Denver, CO) is an American attorney who has served as Acting U.S. Attorney General since April 2026 after Trump fired Pam Bondi. He previously served as Deputy Attorney General from March 2025. Blanche spent over 15 years at the DOJ, including as an AUSA and supervisor at the U.S. Attorney's Office for the Southern District of New York. He later joined Cadwalader, Wickersham & Taft as partner. He became Trump's lead criminal defense attorney in 2023\u201324, representing him in the Manhattan hush-money trial (where Trump was convicted of 34 felonies), the classified documents case, and the January 6 federal conspiracy case. He is described by insiders as one of Trump's most trusted legal advisors \u2014 their bond forged, as one source put it, 'like being in a foxhole during a battle.' He was previously a registered Democrat before switching to Republican in 2024. Trump also appointed him acting Librarian of Congress in May 2025, an appointment disputed by Congress as requiring Senate confirmation.",
@@ -35381,7 +35380,7 @@
       }
     ],
     "net_worth": "$8M (est.)",
-    "years_in_office": "HHS Secretary 2025-present",
+    "years_in_office": "HHS Secretary 2025\u2013present",
     "corruption_score": 55,
     "corruption_reasoning": "Anti-vaccine misinformation; took money from tobacco companies; multiple personal scandals; legal history of fighting corporations but now serving in administration that cuts environmental protections.",
     "donations": {

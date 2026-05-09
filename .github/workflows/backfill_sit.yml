@@ -1,0 +1,54 @@
+name: Backfill Special Interest Total
+
+# Patches data/fec.json so every record has a special_interest_total field
+# (sum of fossil_fuels + pharma + finance + defense + tech). Frontend uses
+# this for the "Corporate total" display. Idempotent — safe to re-run.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Preview changes without writing? (true/false)'
+        required: true
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run backfill
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            echo "=== DRY RUN MODE ==="
+            python3 scripts/backfill_special_interest_total.py --dry-run
+          else
+            echo "=== WRITE MODE ==="
+            python3 scripts/backfill_special_interest_total.py
+          fi
+
+      - name: Commit changes
+        if: ${{ inputs.dry_run == 'false' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fec.json data/fec.json.before_sit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Backfill special_interest_total in fec.json"
+            git push
+          fi

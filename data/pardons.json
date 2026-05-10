@@ -1,0 +1,189 @@
+{
+  "_meta": {
+    "description": "Presidential pardons and commutations, with documented payment or financial connections to the pardoner where applicable. Distinct from Foreign Ties (which tracks money flowing TO the official) — this section tracks the official's exercise of clemency power.",
+    "schema_version": 1,
+    "fields": {
+      "name": "Recipient of pardon/commutation",
+      "date": "Date of pardon (YYYY-MM-DD or 'YYYY-MM') or mass-pardon date",
+      "type": "pardon | commutation | proclamation",
+      "crime": "Federal offense(s) they were charged or convicted of",
+      "sentence": "Sentence wiped (years, restitution, fines)",
+      "payment_connection": "Documented financial relationship to the pardoner",
+      "payment_amount": "Dollar value of payment connection, or 'None documented'",
+      "summary": "1-3 sentence factual description",
+      "source": "Source organization(s)",
+      "source_url": "Direct URL to authoritative source"
+    },
+    "last_updated": "2026-05-10"
+  },
+  "Donald Trump": [
+    {
+      "name": "Trevor Milton",
+      "date": "2025-03-27",
+      "type": "pardon",
+      "crime": "Securities fraud, wire fraud (Nikola electric truck scheme)",
+      "sentence": "4 years prison, $1M fine, ~$680M in pending restitution to defrauded investors",
+      "payment_connection": "Milton and his wife donated to Trump's 2024 reelection effort one month before the election. Total to Trump-aligned vehicles: $3.2M+. Represented by Brad Bondi, brother of Trump AG Pam Bondi.",
+      "payment_amount": "$1.8M direct + $3.2M total",
+      "summary": "Founded Nikola, the EV truck company, then convicted in 2022 of misleading investors about a non-functional prototype that was actually a truck rolling down a hill. Sentenced to 4 years and ~$680M in pending restitution. Trump called Milton personally to inform him of the pardon. Restitution and forfeitures were also wiped, costing defrauded investors hundreds of millions.",
+      "source": "Axios, New York Times, The Hill, AP",
+      "source_url": "https://www.axios.com/local/salt-lake-city/2025/04/01/trump-pardon-nikola-trevor-milton-utah-fraud"
+    },
+    {
+      "name": "Changpeng 'CZ' Zhao",
+      "date": "2025-10-23",
+      "type": "pardon",
+      "crime": "Failing to maintain anti-money laundering program at Binance (Bank Secrecy Act violation)",
+      "sentence": "4 months prison (served), $50M personal fine, $4.3B Binance corporate settlement",
+      "payment_connection": "Binance handled MGX's $2B USD1 stablecoin transaction enriching Trump's World Liberty Financial. WLF earns ~$80M/year from the resulting USD1 reserves Binance holds. Binance later expanded USD1 trading pairs after the deal.",
+      "payment_amount": "Indirect benefit of ~$80M/year",
+      "summary": "Founded Binance, the world's largest crypto exchange. Pleaded guilty in 2023; DOJ called Binance 'a central hub for terrorists, hackers and human traffickers.' Trump pardon came 6 months after Binance handled the $2B UAE-Trump stablecoin deal. Trump told 60 Minutes he didn't know Zhao but he was 'recommended by a lot of people.'",
+      "source": "Wall Street Journal, NBC News, CBS 60 Minutes",
+      "source_url": "https://www.nbcnews.com/tech/crypto/binance-pardon-trump-changpeng-zhao-crypto-rcna239371"
+    },
+    {
+      "name": "Julio Herrera Velutini",
+      "date": "2026-01-16",
+      "type": "pardon",
+      "crime": "Bribery and corruption (paid $300K to former Puerto Rico Gov. Wanda Vázquez to fire her financial regulator, who was investigating Velutini's bank)",
+      "sentence": "Reduced from felony bribery to misdemeanor via plea deal in 2025; pre-sentencing pardon eliminated all consequences",
+      "payment_connection": "Daughter Isabela Herrera donated $3.5M to MAGA Inc. between Dec 2024 and July 2025. Campaign Legal Center filed FEC complaint alleging illegal foreign straw-donor scheme; Isabela self-reported as 'self-employed' from a rented residence. Represented by Christopher Kise, Trump's former personal attorney.",
+      "payment_amount": "$3.5M (alleged straw donations)",
+      "summary": "Venezuelan-Italian billionaire banker who founded Bancredito International Bank. Charged in 2022 with bribing the governor of Puerto Rico in exchange for replacing the regulator investigating his ~$10B in transactions. Pardoned alongside the former governor and her former FBI-agent co-conspirator. Foreign nationals are barred from US political contributions.",
+      "source": "Bloomberg, New York Times, Campaign Legal Center, Forbes",
+      "source_url": "https://campaignlegal.org/update/seeking-pardon-foreign-billionaire-allegedly-funneled-millions-trump-super-pac"
+    },
+    {
+      "name": "Imaad Shah Zuberi",
+      "date": "2025",
+      "type": "pardon (second term, building on first-term commutation)",
+      "crime": "Foreign lobbying violations, tax evasion, campaign finance violations (funneled foreign money into US elections)",
+      "sentence": "12 years prison, $15.7M in fines and restitution",
+      "payment_connection": "Donated $900K to Trump's 2017 inaugural committee. His original sentence had been commuted in Trump's first term in 2021.",
+      "payment_amount": "$900K to inaugural committee",
+      "summary": "Venture capitalist who pleaded guilty to funneling foreign money into US political campaigns. His original 12-year sentence was commuted by Trump in 2021; full pardon followed in the second term.",
+      "source": "NBC News, New York Times",
+      "source_url": "https://pardons.hackingbutlegal.com/"
+    },
+    {
+      "name": "Wanda Vázquez Garced",
+      "date": "2026-01-16",
+      "type": "pardon",
+      "crime": "Bribery (accepted $300K in campaign contributions from Velutini in exchange for firing a financial regulator)",
+      "sentence": "Federal prosecutors had requested 12 months prison",
+      "payment_connection": "Endorsed Trump in 2020 reelection. Defended by Christopher Kise, Trump's former personal attorney. Pardoned as part of the same package as her alleged briber (Velutini).",
+      "payment_amount": "None documented directly",
+      "summary": "Former governor of Puerto Rico, pardoned alongside Julio Herrera Velutini, the billionaire who allegedly bribed her. Pre-sentencing pardon eliminated all consequences. The pardon initially failed to include all of her criminal cases; the White House announced a fix.",
+      "source": "Bloomberg, NBC News",
+      "source_url": "https://news.bloomberglaw.com/us-law-week/trump-to-pardon-venezuelan-banker-ex-puerto-rico-governor-82"
+    },
+    {
+      "name": "Henry Cuellar (sitting US Representative, D-TX)",
+      "date": "2025-12",
+      "type": "pardon",
+      "crime": "Federal bribery and money laundering (indicted 2024 for accepting bribes from Azerbaijan and a Mexican bank)",
+      "sentence": "Pre-trial; pardon ended prosecution",
+      "payment_connection": "None documented financially. Cuellar is a conservative Democrat. Days after the pardon he filed to run for reelection as a Democrat, reportedly angering Trump.",
+      "payment_amount": "None documented",
+      "summary": "First sitting member of Congress pardoned by Trump in his second term. Cuellar was indicted on bribery and conspiracy charges in 2024. The pardon effectively ended the federal case against him and his wife.",
+      "source": "Washington Examiner, Texas Tribune",
+      "source_url": "https://www.washingtonexaminer.com/news/white-house/3924217/trump-most-controversial-pardons-clemency-2025/"
+    },
+    {
+      "name": "Juan Orlando Hernández",
+      "date": "2025-12",
+      "type": "pardon",
+      "crime": "Drug trafficking conspiracy (involved in moving 400+ tons of cocaine into the US)",
+      "sentence": "45 years federal prison (had begun serving)",
+      "payment_connection": "None documented financially. Pardon came amid Trump administration's aggressive Latin American anti-drug-trafficking enforcement.",
+      "payment_amount": "None documented",
+      "summary": "Former president of Honduras (2014-2022). Convicted by US jury in March 2024 of running a drug trafficking operation while in office. The pardon released him just days after Honduras's presidential election. Trump defended the pardon saying Hondurans believed Hernández had been 'set up.'",
+      "source": "Washington Examiner, AP",
+      "source_url": "https://www.washingtonexaminer.com/news/white-house/3924217/trump-most-controversial-pardons-clemency-2025/"
+    },
+    {
+      "name": "Devon Archer",
+      "date": "2025-03",
+      "type": "pardon",
+      "crime": "Wire fraud, securities fraud ($60M scheme defrauding a Native American tribe)",
+      "sentence": "1 year + 1 day prison",
+      "payment_connection": "Became a key congressional witness in the Republican-led inquiry into Hunter Biden, testifying that Hunter sold 'the illusion of access' to his father.",
+      "payment_amount": "None documented financially; political utility documented",
+      "summary": "Former business associate of Hunter Biden, convicted in 2022 of a bond fraud scheme against the Oglala Sioux Tribe. Trump said Archer had been treated 'very unfairly.'",
+      "source": "Newsweek, AP",
+      "source_url": "https://www.newsweek.com/full-list-donald-trump-pardons-second-term-2077874"
+    },
+    {
+      "name": "Ross Ulbricht",
+      "date": "2025-01-21",
+      "type": "pardon",
+      "crime": "Operating Silk Road dark-web drug marketplace, money laundering, computer hacking",
+      "sentence": "2 life sentences + 40 years (had been serving)",
+      "payment_connection": "Trump promised to pardon Ulbricht during May 2024 speech at the Libertarian Party National Convention as part of his courtship of libertarian voters.",
+      "payment_amount": "Political payment (vote courtship), not financial",
+      "summary": "Founder of Silk Road, the underground marketplace for drugs and illegal goods that operated 2011-2013. Trump pardoned him on the first full day of his second term, fulfilling a campaign promise to libertarian voters.",
+      "source": "Washington Examiner, AP",
+      "source_url": "https://www.washingtonexaminer.com/news/white-house/3924217/trump-most-controversial-pardons-clemency-2025/"
+    },
+    {
+      "name": "Rod Blagojevich",
+      "date": "2025-02",
+      "type": "pardon",
+      "crime": "Public corruption, attempted extortion (tried to sell Obama's vacated Senate seat)",
+      "sentence": "14 years (commuted to time served at 8 years in Trump's first term)",
+      "payment_connection": "Vocal Trump supporter and self-described 'Trump-ocrat.' Trump commuted his sentence in his first term; full pardon in second term.",
+      "payment_amount": "Political support",
+      "summary": "Former Democratic governor of Illinois, impeached and convicted in 2011 of trying to sell President Obama's vacated Senate seat. The 2025 pardon erases his criminal record entirely.",
+      "source": "Newsweek",
+      "source_url": "https://www.newsweek.com/full-list-donald-trump-pardons-second-term-2077874"
+    },
+    {
+      "name": "George Santos",
+      "date": "2025-10",
+      "type": "commutation",
+      "crime": "Wire fraud and identity theft",
+      "sentence": "7 years federal prison (commuted)",
+      "payment_connection": "None documented financially. Trump-aligned former Republican Representative who was expelled from the House.",
+      "payment_amount": "None documented",
+      "summary": "Disgraced former US Representative (R-NY) expelled from the House in 2023. Pleaded guilty to wire fraud and identity theft. Trump commuted his sentence in October 2025.",
+      "source": "NPR",
+      "source_url": "https://www.npr.org/2025/11/10/nx-s1-5587875/trump-pardons-insider-political-orbit-second-term"
+    },
+    {
+      "name": "January 6 Capitol attackers (mass pardon)",
+      "date": "2025-01-20",
+      "type": "pardon (proclamation)",
+      "crime": "Various offenses related to the January 6, 2021 Capitol attack including violent assault on police officers, seditious conspiracy",
+      "sentence": "Approximately 1,500 individual sentences wiped; 14 commutations for far-right leaders including Enrique Tarrio (22 yrs, Proud Boys) and Stewart Rhodes (18 yrs, Oath Keepers)",
+      "payment_connection": "Political: fulfillment of campaign promise. Many recipients had organized to support Trump's 2020 election denial.",
+      "payment_amount": "Political (no direct payments tied)",
+      "summary": "Trump's first-day mass clemency for approximately 1,500 people charged in connection with the January 6, 2021 Capitol attack, including those convicted of violent assault on police officers. Pardon Attorney Liz Oyer was fired in March 2025 after refusing to recommend restoration of gun rights for Trump ally Mel Gibson.",
+      "source": "Newsweek, AP, NPR",
+      "source_url": "https://www.newsweek.com/full-list-donald-trump-pardons-second-term-2077874"
+    },
+    {
+      "name": "Fake electors (77 people)",
+      "date": "2025-11-09",
+      "type": "pardon (proclamation 10989)",
+      "crime": "Various offenses related to the 2020 fake electors plot to overturn the presidential election. Recipients included Rudy Giuliani, Mark Meadows, John Eastman, and others.",
+      "sentence": "Preemptive — none facing federal charges at time of pardon. State charges unaffected.",
+      "payment_connection": "Political: protected Trump's own allies and former aides from future federal prosecution related to overturning his election loss.",
+      "payment_amount": "Political",
+      "summary": "Mass preemptive pardon covering 77 people involved in the 2020 fake electors scheme. None faced federal charges at the time. The proclamation's broad language may also apply to others, including the 2025 DNC/RNC pipe bomber suspect according to one former DOJ prosecutor.",
+      "source": "Wikipedia, NPR",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_people_granted_executive_clemency_in_the_second_Trump_presidency"
+    },
+    {
+      "name": "Brian Kelsey",
+      "date": "2025-03",
+      "type": "pardon",
+      "crime": "Illegal campaign finance scheme (pleaded guilty 2022)",
+      "sentence": "21 months federal prison (had begun serving)",
+      "payment_connection": "Former TN State Senator (R). Repeatedly praised Trump on social media. Subsequently went to work as a lawyer for the America First Policy Institute (Trump-aligned).",
+      "payment_amount": "Political support",
+      "summary": "Former Tennessee state senator pardoned after he had begun serving a 21-month sentence for an illegal campaign finance scheme. He had been a vocal Trump supporter.",
+      "source": "Forbes",
+      "source_url": "https://bitcoinethereumnews.com/finance/everyone-pardoned-by-trump-with-political-or-financial-ties-to-white-house/"
+    }
+  ]
+}

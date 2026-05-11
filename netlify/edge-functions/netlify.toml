@@ -1,3 +1,26 @@
 [[edge_functions]]
   function = "og"
   path = "/"
+
+# Canonical: redirect /member/<slug>/ (trailing slash) to /member/<slug> (no slash)
+# Prevents duplicate-URL issues for Google.
+[[redirects]]
+  from = "/member/:slug/"
+  to   = "/member/:slug"
+  status = 301
+  force = true
+
+# Cache headers for the static profile pages.
+# Static profile pages can be cached at the CDN for 5 minutes, with must-revalidate
+# so when GitHub Actions pushes new versions they propagate quickly.
+[[headers]]
+  for = "/member/*"
+  [headers.values]
+    Cache-Control = "public, max-age=300, must-revalidate"
+    X-Robots-Tag  = "index, follow"
+
+# Sitemaps should be revalidated frequently since they're how Google discovers pages.
+[[headers]]
+  for = "/sitemap.xml"
+  [headers.values]
+    Cache-Control = "public, max-age=600, must-revalidate"

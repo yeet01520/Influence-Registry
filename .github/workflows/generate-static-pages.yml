@@ -1,0 +1,95 @@
+name: Generate Static Profile Pages
+
+# Regenerate scores, share cards, /member/ static pages, and sitemap whenever
+# the underlying data changes. Keeps SEO-indexable pages in sync with the live
+# data and produces social-share preview images.
+#
+# Pipeline:
+#   1. compute_scores.py reads data/* and produces data/scores.json
+#   2. cache_photos.py downloads external photos to assets/photos/
+#   3. render_share_cards.js renders 1080x1080 share-card PNGs via Playwright
+#   4. generate_static_pages.py reads everything and produces member/*/index.html + sitemap.xml
+#   5. Commit everything back to the repo
+#
+# Trigger conditions:
+#   * Manual: workflow_dispatch
+#   * Automatic: pushes that touch /data, generator scripts, or workflow itself
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'scripts/generate_static_pages.py'
+      - 'scripts/compute_scores.py'
+      - 'scripts/cache_photos.py'
+      - 'scripts/render_share_cards.js'
+      - 'index.html'
+      - '.github/workflows/generate-static-pages.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-static-pages
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Playwright
+        run: |
+          npm install playwright
+          npx playwright install --with-deps chromium
+
+      - name: Compute scores (single source of truth)
+        run: |
+          python3 scripts/compute_scores.py
+          echo "scores.json: $(wc -c < data/scores.json) bytes"
+
+      - name: Cache external photos locally
+        run: |
+          python3 scripts/cache_photos.py
+          echo "Local photos: $(find assets/photos -type f | wc -l)"
+
+      - name: Render share-card PNGs (Playwright)
+        run: |
+          node scripts/render_share_cards.js
+          echo "Share cards: $(find assets/share-cards -name '*.png' 2>/dev/null | wc -l)"
+
+      - name: Generate profile pages and sitemap
+        run: |
+          python3 scripts/generate_static_pages.py
+          echo "Generated $(find member -name 'index.html' | wc -l) profile pages"
+          echo "Sitemap entries: $(grep -c '<url>' sitemap.xml || echo 0)"
+
+      - name: Commit changes if any
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/scores.json data/photo_overrides.json assets/photos/ assets/share-cards/ member/ sitemap.xml
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Regenerate scores, share cards, static pages, sitemap"
+            git push
+          fi
+
+

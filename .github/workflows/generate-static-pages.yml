@@ -59,6 +59,21 @@ jobs:
           npm install playwright
           npx playwright install --with-deps chromium
 
+      - name: Install Microsoft TrueType fonts (for Impact font in share cards)
+        run: |
+          # drawShareCard renders the title and score in Impact font (a
+          # narrow condensed font). Without it installed, headless Chromium
+          # falls back to a wider sans-serif and the title overflows the
+          # 1080px canvas. ttf-mscorefonts-installer provides Impact along
+          # with other standard MS fonts. EULA is auto-accepted via debconf.
+          echo "ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true" | sudo debconf-set-selections
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ttf-mscorefonts-installer fontconfig
+          fc-cache -f
+          # Verify Impact was installed
+          fc-list | grep -i impact || (echo "ERROR: Impact font not installed"; exit 1)
+          echo "Impact font installed successfully."
+
       - name: Compute scores (single source of truth)
         run: |
           python3 scripts/compute_scores.py

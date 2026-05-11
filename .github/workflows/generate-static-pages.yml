@@ -71,8 +71,23 @@ jobs:
 
       - name: Render share-card PNGs (Playwright)
         run: |
+          # Start a local HTTP server in the background. The SPA loads data
+          # files via fetch(), which doesn't work over file:// in headless
+          # Chrome. We need an HTTP origin for the data fetches to succeed.
+          python3 -m http.server 8080 > /tmp/http-server.log 2>&1 &
+          SERVER_PID=$!
+          echo "Started HTTP server, PID=$SERVER_PID"
+          # Wait briefly for the server to be ready
+          sleep 2
+          # Run the renderer; trap exit so we always clean up the server
+          set +e
           node scripts/render_share_cards.js
+          RENDER_EXIT=$?
+          set -e
+          # Stop the server
+          kill $SERVER_PID 2>/dev/null || true
           echo "Share cards: $(find assets/share-cards -name '*.png' 2>/dev/null | wc -l)"
+          exit $RENDER_EXIT
 
       - name: Generate profile pages and sitemap
         run: |
@@ -91,5 +106,3 @@ jobs:
             git commit -m "Regenerate scores, share cards, static pages, sitemap"
             git push
           fi
-
-

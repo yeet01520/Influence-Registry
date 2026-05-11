@@ -77,13 +77,37 @@ jobs:
           python3 -m http.server 8080 > /tmp/http-server.log 2>&1 &
           SERVER_PID=$!
           echo "Started HTTP server, PID=$SERVER_PID"
-          # Wait briefly for the server to be ready
-          sleep 2
+
+          # Poll for the server to actually accept connections (up to 15 sec).
+          # Sometimes the OS-level bind takes a moment on CI runners.
+          for i in $(seq 1 15); do
+            if curl -s -o /dev/null -w "%{http_code}" http://localhost:8080/ | grep -qE "^(200|301|302|403)$"; then
+              echo "HTTP server ready after ${i}s"
+              break
+            fi
+            if ! kill -0 $SERVER_PID 2>/dev/null; then
+              echo "ERROR: HTTP server died. Log output:"
+              cat /tmp/http-server.log
+              exit 1
+            fi
+            sleep 1
+          done
+
+          # Final sanity check: confirm we can fetch index.html
+          if ! curl -sf -o /dev/null http://localhost:8080/index.html; then
+            echo "ERROR: HTTP server never became ready. Log output:"
+            cat /tmp/http-server.log
+            kill $SERVER_PID 2>/dev/null || true
+            exit 1
+          fi
+          echo "HTTP server is responsive."
+
           # Run the renderer; trap exit so we always clean up the server
           set +e
           node scripts/render_share_cards.js
           RENDER_EXIT=$?
           set -e
+
           # Stop the server
           kill $SERVER_PID 2>/dev/null || true
           echo "Share cards: $(find assets/share-cards -name '*.png' 2>/dev/null | wc -l)"

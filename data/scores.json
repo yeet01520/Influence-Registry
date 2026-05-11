@@ -1,0 +1,9201 @@
+{
+  "_meta": {
+    "generated_at": "2026-05-11T22:11:36.962139+00:00",
+    "schema_version": 1,
+    "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
+  },
+  "Tommy Tuberville": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 29184,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Katie Britt": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 106961,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Lisa Murkowski": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 265262,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Dan Sullivan": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 422656,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mark Kelly": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 492503,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Ruben Gallego": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 83219,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Boozman": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 191516,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tom Cotton": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 875867,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Alex Padilla": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 104055,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Adam Schiff": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 580918,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Michael Bennet": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 357116,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Hickenlooper": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 496146,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Richard Blumenthal": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 262682,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Chris Murphy": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 133605,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Tom Carper": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 398700,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Chris Coons": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 322152,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Marco Rubio": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1013563,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Rick Scott": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 573767,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jon Ossoff": {
+    "pct": 56,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 748908,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Raphael Warnock": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 646629,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Brian Schatz": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 211432,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mazie Hirono": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 32848,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Crapo": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 223977,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "James Risch": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 658269,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Dick Durbin": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 32430,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tammy Duckworth": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 550273,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Todd Young": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 232249,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jim Banks": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 355651,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Chuck Grassley": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 331397,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Joni Ernst": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 589661,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jerry Moran": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 163949,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Roger Marshall": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 262295,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mitch McConnell": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 979146,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Rand Paul": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1000,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bill Cassidy": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 421062,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Kennedy": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 108680,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Susan Collins": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1352418,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Angus King": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 206555,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ben Cardin": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1482300,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Angela Alsobrooks": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 224016,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Elizabeth Warren": {
+    "pct": 18,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Ed Markey": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 54059,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Gary Peters": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 222740,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Elissa Slotkin": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Amy Klobuchar": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 393820,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tina Smith": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 113794,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Roger Wicker": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 533926,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Cindy Hyde-Smith": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 221345,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Josh Hawley": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 273535,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Eric Schmitt": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 37079,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Steve Daines": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 561668,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tim Sheehy": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 79253,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Deb Fischer": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 632220,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Pete Ricketts": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 372552,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jacky Rosen": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 2107243,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Catherine Cortez Masto": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 690749,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jeanne Shaheen": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 385505,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Maggie Hassan": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 760212,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Cory Booker": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 836541,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Andy Kim": {
+    "pct": 15,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Martin Heinrich": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 288857,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ben Ray Luj\u00e1n": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 93499,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Chuck Schumer": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 415730,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Kirsten Gillibrand": {
+    "pct": 56,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 628057,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Thom Tillis": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 405386,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ted Budd": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 80136,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Hoeven": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 314804,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Kevin Cramer": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 364123,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sherrod Brown": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 489210,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bernie Moreno": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 66112,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "James Lankford": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 311655,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Markwayne Mullin": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ron Wyden": {
+    "pct": 16,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Jeff Merkley": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Bob Casey": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Dave McCormick": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 133977,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jack Reed": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 328083,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sheldon Whitehouse": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 408044,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Lindsey Graham": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 898750,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tim Scott": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 249459,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Thune": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 307569,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Rounds": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 274097,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bill Hagerty": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 136097,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Marsha Blackburn": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 449882,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ted Cruz": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1563445,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Cornyn": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 472750,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Lee": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 292124,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Curtis": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 67900,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bernie Sanders": {
+    "pct": 12,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Peter Welch": {
+    "pct": 15,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Mark Warner": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 631921,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tim Kaine": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 442956,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Patty Murray": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 524336,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Maria Cantwell": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 392639,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Shelley Moore Capito": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 325742,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jim Justice": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 11986,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tammy Baldwin": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 762296,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ron Johnson": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 335142,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Barrasso": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 693198,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Cynthia Lummis": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 14795,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Barry Moore": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 30173,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Rogers": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 924925,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Robert Aderholt": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 116458,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Dale Strong": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 37321,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Gary Palmer": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 88019,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Terri Sewell": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 75552,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Nick Begich": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 7599,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "David Schweikert": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 191943,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Eli Crane": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 500,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Yassamin Ansari": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 5000,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Greg Stanton": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 261589,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Andy Biggs": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 39184,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Juan Ciscomani": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1039301,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ra\u00fal Grijalva": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Quentin Fulks": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Paul Gosar": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 18250,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Rick Crawford": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 20387,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "French Hill": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 63057,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Steve Womack": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 131071,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bruce Westerman": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 50627,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Doug LaMalfa": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jared Huffman": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Kevin Kiley": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 86981,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Thompson": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 39235,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tom McClintock": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 44483,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ami Bera": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 269170,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Doris Matsui": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 21305,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Garamendi": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 65867,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Josh Harder": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 382938,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mark DeSaulnier": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 27060,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Nancy Pelosi": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 187554,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Barbara Lee": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Duarte": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Eric Swalwell": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 876540,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Kevin Mullin": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 126185,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Anna Eshoo": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ro Khanna": {
+    "pct": 16,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Zoe Lofgren": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 49388,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jimmy Panetta": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 463176,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Kevin McCarthy": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1234560,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jim Costa": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 346122,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "David Valadao": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 164151,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jay Obernolte": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 31398,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Salud Carbajal": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 50945,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Raul Ruiz": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 197383,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Julia Brownley": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 192077,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Judy Chu": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 29735,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jimmy Gomez": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 293555,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ted Lieu": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 887737,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sydney Kamlager-Dove": {
+    "pct": 15,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Linda S\u00e1nchez": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 125321,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mark Takano": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 85802,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Young Kim": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 536138,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ken Calvert": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1115578,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Robert Garcia": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Maxine Waters": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 4000,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Nanette Barrag\u00e1n": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 94404,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Michelle Steel": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Lou Correa": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 79446,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Katie Porter": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Darrell Issa": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 88644,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Levin": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 479325,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Scott Peters": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 162230,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sara Jacobs": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 70781,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Juan Vargas": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 313255,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jeff Crank": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 7026,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Joe Neguse": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 364661,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jeff Hurd": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 50167,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ken Buck": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jason Crow": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 247334,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Brittany Pettersen": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Yadira Caraveo": {
+    "pct": 20,
+    "lbl": "Low Risk",
+    "vto": false,
+    "col": "#65a30d",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "John Larson": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 41703,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Joe Courtney": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 107527,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Rosa DeLauro": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 164219,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jim Himes": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 76408,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jahana Hayes": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 128447,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sarah McBride": {
+    "pct": 12,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Matt Gaetz": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Neal Dunn": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 55322,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Kat Cammack": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 74179,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Aaron Bean": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 68320,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Rutherford": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 64271,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Michael Waltz": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Cory Mills": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 36573,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bill Posey": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Darren Soto": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 389693,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Maxwell Frost": {
+    "pct": 13,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Daniel Webster": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 80877,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Gus Bilirakis": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 101892,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Anna Paulina Luna": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 27288,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Kathy Castor": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 93259,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Laurel Lee": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 46071,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Vern Buchanan": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 80471,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Greg Steube": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 100711,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Scott Franklin": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 49225,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Byron Donalds": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 77628,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sheila Cherfilus-McCormick": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 342042,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Brian Mast": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 744281,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Lois Frankel": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 789310,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jared Moskowitz": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 727908,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Frederica Wilson": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 44215,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Debbie Wasserman Schultz": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1144010,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mario D\u00edaz-Balart": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 918300,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mar\u00eda Elvira Salazar": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 127411,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Carlos Gim\u00e9nez": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 122359,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Buddy Carter": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 67347,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sanford Bishop": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 86537,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Drew Ferguson": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Hank Johnson": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 68415,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Nikema Williams": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Rich McCormick": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 95127,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Lucy McBath": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 575932,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Austin Scott": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 62218,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Andrew Clyde": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 1000,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Collins": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 20446,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Barry Loudermilk": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 78182,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Rick Allen": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 53621,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "David Scott": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 123721,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Marjorie Taylor Greene": {
+    "pct": 62,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 432100,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Finance",
+      "Defense"
+    ]
+  },
+  "Ed Case": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 48901,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jill Tokuda": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 27000,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Russ Fulcher": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 21509,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Simpson": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 66760,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jonathan Jackson": {
+    "pct": 15,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Robin Kelly": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 62992,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Delia Ramirez": {
+    "pct": 12,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Chuy Garc\u00eda": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Quigley": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 89585,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sean Casten": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 259283,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Danny Davis": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 60360,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Raja Krishnamoorthi": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 266094,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jan Schakowsky": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 376102,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Brad Schneider": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1008976,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bill Foster": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 371029,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Bost": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 127143,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Nikki Budzinski": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Lauren Underwood": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 10950,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mary Miller": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 5051,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Darin LaHood": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 145856,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Eric Sorensen": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Frank Mrvan": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 100707,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Rudy Yakym": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 195793,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Marlin Stutzman": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 28129,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jim Baird": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 20847,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Victoria Spartz": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 80574,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jefferson Shreve": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 14077,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Tech"
+    ]
+  },
+  "Andr\u00e9 Carson": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mark Messmer": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 308630,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Erin Houchin": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 29466,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ashley Hinson": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 145560,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Zach Nunn": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 121323,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Randy Feenstra": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 106694,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mariannette Miller-Meeks": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 150370,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tracey Mann": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 60957,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jake LaTurner": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sharice Davids": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 237895,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ron Estes": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 78678,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "James Comer": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 48283,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Brett Guthrie": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 39556,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Morgan McGarvey": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 108749,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Thomas Massie": {
+    "pct": 16,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Hal Rogers": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 53655,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Andy Barr": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 288426,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Steve Scalise": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 895733,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Clay Higgins": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 19546,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Johnson": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1096051,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Julia Letlow": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 83896,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Garret Graves": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Troy Carter": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 53337,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Chellie Pingree": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 62850,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jared Golden": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1071069,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Andy Harris": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 70208,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Johnny Olszewski": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 61733,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sarah Elfreth": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 20849,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Glenn Ivey": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 890233,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Steny Hoyer": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 957516,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "April McClain Delaney": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 52664,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "David Trone": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jamie Raskin": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Richard Neal": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 138736,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jim McGovern": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 77317,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Lori Trahan": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 51703,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jake Auchincloss": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 866243,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Katherine Clark": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 863530,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Seth Moulton": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 101532,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ayanna Pressley": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Stephen Lynch": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1000,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bill Keating": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 108152,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jack Bergman": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 54719,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Moolenaar": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 36097,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Hillary Scholten": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 396031,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bill Huizenga": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 41306,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tim Walberg": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 134335,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Debbie Dingell": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 29424,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Dan Kildee": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Lisa McClain": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 108918,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John James": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 268355,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Haley Stevens": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1269535,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Rashida Tlaib": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Shri Thanedar": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 194569,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Brad Finstad": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 47246,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Angie Craig": {
+    "pct": 15,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Kelly Morrison": {
+    "pct": 12,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Betty McCollum": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 59108,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ilhan Omar": {
+    "pct": 18,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Tom Emmer": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 784132,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Michelle Fischbach": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 64231,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Pete Stauber": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 61697,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Trent Kelly": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 29709,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bennie Thompson": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 9300,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Michael Guest": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 35755,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Ezell": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 51911,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jason Smith": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 100087,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ann Wagner": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 275405,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Blaine Luetkemeyer": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mark Alford": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 80384,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Emanuel Cleaver": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 95782,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sam Graves": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 80754,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Eric Burlison": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 36922,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Wesley Bell": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 3882993,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ryan Zinke": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 40076,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Matt Rosendale": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Flood": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 48229,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Don Bacon": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1291908,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Adrian Smith": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 29129,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Dina Titus": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 183520,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mark Amodei": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 36207,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Susie Lee": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 725904,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Steven Horsford": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 193815,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Chris Pappas": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 811319,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Annie Kuster": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Donald Norcross": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 302173,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jefferson Van Drew": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 87782,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Herb Conaway": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 26075,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Chris Smith": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 234507,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Josh Gottheimer": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1902122,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Frank Pallone": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 254670,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tom Kean Jr.": {
+    "pct": 56,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 758998,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Rob Menendez": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 460324,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bill Pascrell": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Donald Payne Jr.": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mikie Sherrill": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bonnie Watson Coleman": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Melanie Stansbury": {
+    "pct": 12,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Gabe Vasquez": {
+    "pct": 13,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Teresa Leger Fernandez": {
+    "pct": 12,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Nick LaLota": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 162300,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Andrew Garbarino": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 175524,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tom Suozzi": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 386957,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Anthony D'Esposito": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Gregory Meeks": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 834173,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Grace Meng": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 934755,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Nydia Vel\u00e1zquez": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Hakeem Jeffries": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1494553,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Yvette Clarke": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 125644,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Dan Goldman": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 476135,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Nicole Malliotakis": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 239481,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Adriano Espaillat": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 319814,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Alexandria Ocasio-Cortez": {
+    "pct": 8,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Ritchie Torres": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 1746031,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "George Latimer": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 2904555,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Lawler": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 924539,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Pat Ryan": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Marc Molinaro": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Paul Tonko": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 58890,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Elise Stefanik": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 987650,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Brandon Williams": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Nick Langworthy": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 101035,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Joseph Morelle": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 224256,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tim Kennedy": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 77890,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Don Davis": {
+    "pct": 56,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 1321202,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Greg Murphy": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 100794,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Virginia Foxx": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 276149,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "David Rouzer": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 51571,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tim Moore": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 31071,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mark Harris": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 18303,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Richard Hudson": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 221658,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Patrick McHenry": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Chuck Edwards": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 78580,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Alma Adams": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 25858,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jeff Jackson": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Wiley Nickel": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Valerie Foushee": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Brad Miller": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Kelly Armstrong": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Greg Landsman": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Brad Wenstrup": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Joyce Beatty": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 191676,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jim Jordan": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 219834,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bob Latta": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 75387,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Carey": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 73526,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Max Miller": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 309274,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Warren Davidson": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 3300,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Marcy Kaptur": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 184548,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Michael Turner": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 228038,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Dave Joyce": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 79899,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Emilia Sykes": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "David Joyce": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Anthony Gonzalez": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bill Johnson": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Kevin Hern": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 147563,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Josh Brecheen": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 34630,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Tech"
+    ]
+  },
+  "Frank Lucas": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 11594,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tom Cole": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 549387,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Stephanie Bice": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 74710,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Suzanne Bonamici": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 96209,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Cliff Bentz": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 10786,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Earl Blumenauer": {
+    "pct": 12,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Maxine Dexter": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Lori Chavez-DeRemer": {
+    "pct": 42,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Andrea Salinas": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 293613,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Brian Fitzpatrick": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 831144,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Brendan Boyle": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 458181,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Dwight Evans": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 33749,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Madeleine Dean": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 69819,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mary Gay Scanlon": {
+    "pct": 15,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Chrissy Houlahan": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 90523,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Susan Wild": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Matt Cartwright": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Dan Meuser": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 49696,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Scott Perry": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 97961,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Lloyd Smucker": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 72517,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Summer Lee": {
+    "pct": 15,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "John Joyce": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 431,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Guy Reschenthaler": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 440627,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Glenn Thompson": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Kelly": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 44962,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Chris Deluzio": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Gabe Amo": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Seth Magaziner": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 100131,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Nancy Mace": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 107936,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Joe Wilson": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 360333,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jeff Duncan": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "William Timmons": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 79920,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ralph Norman": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 10211,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "James Clyburn": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 172823,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Russell Fry": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 61492,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Dusty Johnson": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Diana Harshbarger": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 49508,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tim Burchett": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 30561,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Chuck Fleischmann": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Scott DesJarlais": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 25735,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jim Cooper": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Rose": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 52738,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mark Green": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "David Kustoff": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 222727,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Steve Cohen": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 125998,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Nathaniel Moran": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 55469,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bryan Babin": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Keith Self": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 51001,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Pat Fallon": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 81077,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Lance Gooden": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 46250,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jake Ellzey": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 165828,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Lizzie Fletcher": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 183461,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Morgan Luttrell": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 31165,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Al Green": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 27855,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Michael McCaul": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 883348,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "August Pfluger": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 165612,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Kay Granger": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ronny Jackson": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 80165,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Randy Weber": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 107056,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Monica De La Cruz": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 83163,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Veronica Escobar": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 47396,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Pete Sessions": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 56305,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sheila Jackson Lee": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jodey Arrington": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 44730,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Joaquin Castro": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 30401,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Chip Roy": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 17000,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Troy Nehls": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 17282,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tony Gonzales": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Beth Van Duyne": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 85001,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Roger Williams": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 34510,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Michael Burgess": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Michael Cloud": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 36023,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Henry Cuellar": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 523264,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sylvia Garcia": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 97757,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jasmine Crockett": {
+    "pct": 15,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "John Carter": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 61011,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Colin Allred": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Marc Veasey": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 121097,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Vicente Gonzalez": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 291868,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Greg Casar": {
+    "pct": 13,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Brian Babin": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 44544,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Lloyd Doggett": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 67374,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Wesley Hunt": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 139752,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Rob Bishop": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Celeste Maloy": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 80756,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Burgess Owens": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 83693,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Becca Balint": {
+    "pct": 12,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Rob Wittman": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 112386,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jen Kiggans": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 67370,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bob Good": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ben Cline": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 35290,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Abigail Spanberger": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Don Beyer": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 63389,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Morgan Griffith": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 33155,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jennifer Wexton": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Gerry Connolly": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Donald McEachin": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bobby Scott": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 4500,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Suzan DelBene": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 245577,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Rick Larsen": {
+    "pct": 80,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 81661,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Marie Gluesenkamp Perez": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Dan Newhouse": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 135870,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Cathy McMorris Rodgers": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Derek Kilmer": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Pramila Jayapal": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Kim Schrier": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 274533,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Adam Smith": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 457076,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Marilyn Strickland": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 344917,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Carol Miller": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 56458,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Alex Mooney": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Bryan Steil": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 112267,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mark Pocan": {
+    "pct": 13,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Derrick Van Orden": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 83477,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Gwen Moore": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 51935,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Scott Fitzgerald": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 48413,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Glenn Grothman": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 92815,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tom Tiffany": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 53176,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Gallagher": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Harriet Hageman": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Stacey Plaskett": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Gregorio Sablan": {
+    "pct": 59,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Tech"
+    ]
+  },
+  "Michael San Nicolas": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Amata Coleman Radewagen": {
+    "pct": 62,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Tech"
+    ]
+  },
+  "Jenniffer Gonz\u00e1lez-Col\u00f3n": {
+    "pct": 65,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Roberts": {
+    "pct": 62,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Clarence Thomas": {
+    "pct": 95,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Samuel Alito": {
+    "pct": 76,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Sonia Sotomayor": {
+    "pct": 22,
+    "lbl": "Low Risk",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Elena Kagan": {
+    "pct": 14,
+    "lbl": "Low Risk",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Neil Gorsuch": {
+    "pct": 38,
+    "lbl": "Low Risk",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Brett Kavanaugh": {
+    "pct": 10,
+    "lbl": "Low Risk",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Amy Coney Barrett": {
+    "pct": 18,
+    "lbl": "Low Risk",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Ketanji Brown Jackson": {
+    "pct": 16,
+    "lbl": "Low Risk",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Donald Trump": {
+    "pct": 94,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 230473622,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "JD Vance": {
+    "pct": 83,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 167324,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Scott Bessent": {
+    "pct": 58,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Pete Hegseth": {
+    "pct": 72,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Pam Bondi": {
+    "pct": 70,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Doug Burgum": {
+    "pct": 55,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Brooke Rollins": {
+    "pct": 48,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Howard Lutnick": {
+    "pct": 62,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Sean Duffy": {
+    "pct": 44,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Chris Wright": {
+    "pct": 68,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Linda McMahon": {
+    "pct": 58,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Scott Turner": {
+    "pct": 40,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Doug Collins": {
+    "pct": 48,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Kristi Noem": {
+    "pct": 64,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Elon Musk": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Tulsi Gabbard": {
+    "pct": 58,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "John Ratcliffe": {
+    "pct": 62,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Kash Patel": {
+    "pct": 68,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Russell Vought": {
+    "pct": 65,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Jamieson Greer": {
+    "pct": 45,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Mike Waltz": {
+    "pct": 38,
+    "lbl": "Low Risk",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Lisa Blunt Rochester": {
+    "pct": 86,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 62626,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Ashley Moody": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 15027,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Alan Armstrong": {
+    "pct": 50,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": []
+  },
+  "Jon Husted": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 27,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Chris Van Hollen": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "John Fetterman": {
+    "pct": 92,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 257518,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Andy Ogles": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 40642,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Shomari Figures": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 61835,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Adelita Grijalva": {
+    "pct": 18,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Abraham Hamadeh": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 21026,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Adam Gray": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 7251,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Lateefah Simon": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Laura Friedman": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 24341,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Luz Rivas": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 55612,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Derek Tran": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 149368,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Dave Min": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 59036,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "George Whitesides": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 16679,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Norma Torres": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 402474,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Pete Aguilar": {
+    "pct": 56,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 1365352,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Vince Fong": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 16664,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Brad Sherman": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 703836,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sam Liccardo": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 52780,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Lauren Boebert": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 5810,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Gabe Evans": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 15086,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Diana DeGette": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 95230,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Randy Fine": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 465193,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Mike Haridopolos": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 18198,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jimmy Patronis": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 28102,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Brian Jack": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 260781,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Clay Fuller": {
+    "pct": 50,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 0,
+    "any_corporate": true,
+    "reasons": []
+  },
+  "Derek Schmidt": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 41656,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Cleo Fields": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 1500,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Kweisi Mfume": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 117074,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Bob Onder": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 24913,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Troy Downing": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 10025,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Maggie Goodlander": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 125529,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Nellie Pou": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 37666,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "LaMonica McIver": {
+    "pct": 18,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Laura Gillen": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 119823,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Josh Riley": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 119061,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "John Mannion": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 90892,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Claudia Tenney": {
+    "pct": 77,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 122857,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jerrold Nadler": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 237389,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Deborah Ross": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 227734,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Addison McDowell": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 28236,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Pat Harrigan": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 32304,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Brad Knott": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 11000,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Julie Fedorchak": {
+    "pct": 44,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ca8a04",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Troy Balderson": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 68071,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "David Taylor": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 37571,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Michael Rulli": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 38545,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Val Hoyle": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 64611,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Janelle Bynum": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 10500,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Ryan Mackenzie": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 37839,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Robert Bresnahan": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 30878,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Sheri Biggs": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 10551,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Matt Van Epps": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 12778,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Brandon Gill": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 32410,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Craig Goldman": {
+    "pct": 71,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 126557,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Dan Crenshaw": {
+    "pct": 89,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 187531,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Julie Johnson": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 42963,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Blake Moore": {
+    "pct": 74,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 94688,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Mike Kennedy": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 15250,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Jennifer McClellan": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 88697,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Eugene Vindman": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 11108,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Suhas Subramanyam": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 36443,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "James Walkinshaw": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 8700,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Emily Randall": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 13330,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Michael Baumgartner": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 56876,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Riley Moore": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 35530,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Tony Wied": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 12000,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "James Moylan": {
+    "pct": 36,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ca8a04",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Eleanor Holmes Norton": {
+    "pct": 14,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Pablo Hern\u00e1ndez": {
+    "pct": 16,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Tom Barrett": {
+    "pct": 68,
+    "lbl": "Moderate Risk",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 12177,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ]
+  },
+  "Kristen McDonald Rivet": {
+    "pct": 53,
+    "lbl": "Some Corporate",
+    "vto": false,
+    "col": "#d97706",
+    "super_pac_total": 268333,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
+  },
+  "Shontel Brown": {
+    "pct": 45,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ca8a04",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Todd Blanche": {
+    "pct": 72,
+    "lbl": "High Risk",
+    "vto": false,
+    "col": "#b91c1c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  },
+  "Robert F. Kennedy Jr.": {
+    "pct": 55,
+    "lbl": "Moderate",
+    "vto": false,
+    "col": "#ea580c",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": []
+  }
+}

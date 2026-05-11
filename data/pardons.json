@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "description": "Presidential pardons and commutations, with documented payment or financial connections to the pardoner where applicable. Distinct from Foreign Ties (which tracks money flowing TO the official) — this section tracks the official's exercise of clemency power.",
+    "description": "Presidential pardons and commutations, with documented payment or financial connections to the pardoner where applicable. Distinct from Foreign Ties (which tracks money flowing TO the official); this section tracks the official's exercise of clemency power.",
     "schema_version": 1,
     "fields": {
       "name": "Recipient of pardon/commutation",
@@ -166,7 +166,7 @@
       "date": "2025-11-09",
       "type": "pardon (proclamation 10989)",
       "crime": "Various offenses related to the 2020 fake electors plot to overturn the presidential election. Recipients included Rudy Giuliani, Mark Meadows, John Eastman, and others.",
-      "sentence": "Preemptive — none facing federal charges at time of pardon. State charges unaffected.",
+      "sentence": "Preemptive (none facing federal charges at time of pardon). State charges unaffected.",
       "payment_connection": "Political: protected Trump's own allies and former aides from future federal prosecution related to overturning his election loss.",
       "payment_amount": "Political",
       "summary": "Mass preemptive pardon covering 77 people involved in the 2020 fake electors scheme. None faced federal charges at the time. The proclamation's broad language may also apply to others, including the 2025 DNC/RNC pipe bomber suspect according to one former DOJ prosecutor.",

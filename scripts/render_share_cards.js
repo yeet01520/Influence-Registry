@@ -56,6 +56,10 @@ const ONLY_NAME     = getArg('--only', null);
 const LIMIT         = parseInt(getArg('--limit', '0'), 10);
 const VERBOSE       = hasFlag('--verbose');
 const DRY_RUN       = hasFlag('--dry-run');
+// SPA URL: by default, we expect a local HTTP server serving the repo root
+// at port 8080. The browser blocks file:// fetch() so file:// doesn't work
+// for SPAs that load data via fetch(). The workflow starts a python http.server.
+const SPA_URL       = getArg('--url', 'http://localhost:8080/');
 
 // ─── Helpers ────────────────────────────────────────────────────────────────
 function slugify(name) {
@@ -88,8 +92,16 @@ async function main() {
     page.on('pageerror', err => console.error(`  [browser ERROR] ${err.message}`));
   }
 
-  log(`Loading ${INDEX_HTML} ...`);
-  await page.goto(`file://${INDEX_HTML}`);
+  log(`Loading ${SPA_URL} ...`);
+  try {
+    await page.goto(SPA_URL, { waitUntil: 'load', timeout: 30000 });
+  } catch (e) {
+    console.error(`ERROR: failed to load ${SPA_URL}: ${e.message}`);
+    console.error(`Make sure a local HTTP server is running at that URL.`);
+    console.error(`For example: python3 -m http.server 8080`);
+    await browser.close();
+    process.exit(1);
+  }
 
   // Wait for SPA data to populate. We added window.PROFILES_DATA in the recent
   // index.html updates so this is reliable.
@@ -106,11 +118,6 @@ async function main() {
     process.exit(1);
   }
   log('SPA data loaded.');
-
-  // Set a global on the page that maps "/assets/..." to file:// URLs so the
-  // photo loader inside page.evaluate can resolve local cached photos.
-  const repoBaseUrl = `file://${REPO_ROOT}/`;
-  await page.evaluate((base) => { window.__REPO_BASE__ = base; }, repoBaseUrl);
 
   // Build the list of all profiles by combining the four people-list files
   const allPeople = await page.evaluate(() => {
@@ -171,12 +178,9 @@ async function main() {
         if (!data) throw new Error('buildShareData returned null');
 
         // Determine the photo URL using the same logic as the SPA's avHTML().
-        // For Playwright running against file://index.html, we need absolute
-        // file:// URLs since the browser can't resolve site-root paths like
-        // /assets/photos/... when the document is loaded via file://.
+        // Over HTTP these resolve correctly against the page origin.
         const overrides = window.WIKI_PHOTO_OVERRIDES || {};
         const bioguide  = window.BIOGUIDE || {};
-        // slugify must match the Python version exactly
         const slugify = (n) => (n || '').toLowerCase()
           .replace(/['\u2018\u2019]/g, '')
           .replace(/[^a-z0-9]+/g, '-')
@@ -191,26 +195,14 @@ async function main() {
           photoUrl = `/assets/photos/${slugify(person.name)}.jpg`;
         }
 
-        // Convert absolute /assets/ paths to repo-relative URLs that file://
-        // can resolve. window.__REPO_BASE__ is the file:// URL of the repo root
-        // that we set from the Node side before iterating.
-        if (photoUrl && photoUrl.startsWith('/assets/')) {
-          photoUrl = window.__REPO_BASE__ + photoUrl.slice(1);
-        }
-
         // Load the photo, then call drawShareCard
         const imgEl = await new Promise((resolve, reject) => {
           if (!photoUrl) {
-            // No photo source: drawShareCard handles this with initials fallback
             resolve(null);
             return;
           }
           const img = new Image();
-          // No crossOrigin needed for file:// URLs and they break Chromium's
-          // file-protocol policy in headless mode.
-          if (!photoUrl.startsWith('file://')) {
-            img.crossOrigin = 'anonymous';
-          }
+          img.crossOrigin = 'anonymous';
           img.onload = () => resolve(img);
           img.onerror = () => resolve(null); // graceful: fall through to initials
           img.src = photoUrl;

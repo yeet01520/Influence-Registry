@@ -1,0 +1,32 @@
+name: Fix FEC Consistency
+on:
+  workflow_dispatch:
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run fix_fec_consistency.py
+        run: python3 scripts/fix_fec_consistency.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fec.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit — fec.json was already consistent."
+          else
+            git commit -m "Fix FEC consistency math (aipac and SIT invariants)"
+            git push
+          fi

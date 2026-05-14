@@ -8,7 +8,6 @@
   from = "/member/:slug/"
   to   = "/member/:slug"
   status = 301
-  force = true
 
 # Cache headers for the static profile pages.
 # Static profile pages can be cached at the CDN for 5 minutes, with must-revalidate

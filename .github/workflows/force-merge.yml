@@ -1,0 +1,90 @@
+name: Force Merge FEC Data
+
+# One-shot workflow: takes whatever's currently in data/raw/all_fec_data.json
+# and merges it into data/fec.json, regardless of completion status. Use this
+# when you've decided the partial result is good enough to ship and want to
+# bypass the automatic merge-only-on-complete logic in refresh-fec-all.yml.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  force-merge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Merge into data/fec.json
+        run: |
+          python3 << 'PY'
+          import json
+          from pathlib import Path
+
+          repo = Path('.').resolve()
+          all_new  = repo / 'data' / 'raw' / 'all_fec_data.json'
+          fec_main = repo / 'data' / 'fec.json'
+
+          if not all_new.exists():
+              raise SystemExit(f"ERROR: {all_new} not found")
+
+          new_data = json.loads(all_new.read_text())
+          meta = new_data.pop('_meta', {})
+          print(f"Loaded {len(new_data)} members from all_fec_data.json")
+          print(f"  Status: {meta.get('members_done', '?')}/{meta.get('members_total', '?')} "
+                f"({'complete' if meta.get('complete') else 'partial'})")
+          if meta.get('missing'):
+              print(f"  Missing from this batch: {meta['missing']}")
+
+          # Preserve any entries in fec.json that aren't in the new data:
+          # 1. Cabinet members (Rubio, Vance) from cabinet workflow
+          # 2. The 9 members that failed to fetch this run (Ben Ray Luján,
+          #    Linda Sánchez, etc. with accented characters) — they'll keep
+          #    their existing data until the fetcher's character handling
+          #    is fixed.
+          if fec_main.exists():
+              existing = json.loads(fec_main.read_text())
+              preserved = [k for k in existing if k not in new_data]
+              if preserved:
+                  print(f"\nPreserving {len(preserved)} entries not in new data:")
+                  for k in preserved:
+                      print(f"  - {k}")
+                      new_data[k] = existing[k]
+
+          fec_main.write_text(json.dumps(new_data, indent=2))
+          print(f"\nWrote {len(new_data)} entries to {fec_main}")
+          PY
+
+      - name: Commit data/fec.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fec.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Force-merge partial FEC refresh into data/fec.json"
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          if [ -f data/fec.json ]; then
+            COUNT=$(python3 -c "import json; print(len(json.load(open('data/fec.json'))))")
+            echo "## Force-merge complete" >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "- data/fec.json now has **$COUNT** entries" >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "Next step: regenerate index.html applyFECData() block with this data." >> "$GITHUB_STEP_SUMMARY"
+          fi

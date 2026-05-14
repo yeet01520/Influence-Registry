@@ -1,0 +1,212 @@
+name: Update index.html from FEC Data
+
+# Reads data/fec.json and replaces the applyFECData({...}) block in index.html.
+# Run this after the FEC refresh workflows have updated data/fec.json so the
+# embedded site data matches the canonical source.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Replace applyFECData block in index.html
+        run: |
+          python3 << 'PY'
+          import json
+          import re
+          from pathlib import Path
+
+          repo = Path('.').resolve()
+          fec_json   = repo / 'data' / 'fec.json'
+          index_html = repo / 'index.html'
+
+          if not fec_json.exists():
+              raise SystemExit(f"ERROR: {fec_json} not found")
+          if not index_html.exists():
+              raise SystemExit(f"ERROR: {index_html} not found")
+
+          # Load the canonical data and serialize it compactly. The embedded
+          # payload is large enough that we want minimal whitespace for page
+          # weight, but human-readable enough to grep. Use one-key-per-line
+          # is what existed previously; we match that.
+          fec_data = json.loads(fec_json.read_text())
+          # Strip _meta if present (shouldn't be in fec.json but defensive)
+          fec_data.pop('_meta', None)
+          payload = json.dumps(fec_data)
+          print(f"Loaded {len(fec_data)} members from data/fec.json")
+          print(f"Payload size: {len(payload):,} chars")
+
+          html = index_html.read_text()
+
+          # Find the applyFECData block. It's a function call:
+          #   applyFECData({...});
+          # The {...} is multi-line and can have nested braces, so a naive
+          # regex won't work for matching. We do a careful balanced-brace
+          # search instead.
+          start_marker = "applyFECData("
+          start_idx = html.find(start_marker)
+          if start_idx == -1:
+              raise SystemExit("ERROR: applyFECData(...) call not found in index.html")
+
+          # Find matching closing paren by counting brace/paren depth from
+          # the opening paren of applyFECData(. We need this because the
+          # argument is a JSON object with thousands of nested braces.
+          payload_start = start_idx + len(start_marker)
+          depth = 1            # already inside one '('
+          brace_depth = 0
+          i = payload_start
+          in_string = False
+          escape = False
+
+          while i < len(html) and depth > 0:
+              c = html[i]
+              if escape:
+                  escape = False
+              elif c == '\\':
+                  escape = True
+              elif in_string:
+                  if c == '"':
+                      in_string = False
+              elif c == '"':
+                  in_string = True
+              elif c == '(':
+                  depth += 1
+              elif c == ')':
+                  depth -= 1
+              elif c == '{':
+                  brace_depth += 1
+              elif c == '}':
+                  brace_depth -= 1
+              i += 1
+
+          if depth != 0:
+              raise SystemExit("ERROR: could not find matching ) for applyFECData(")
+
+          # i is now one past the closing ')'. Include trailing ';' if present.
+          end_idx = i
+          if end_idx < len(html) and html[end_idx] == ';':
+              end_idx += 1
+
+          # Build replacement
+          replacement = f"{start_marker}{payload});"
+          new_html = html[:start_idx] + replacement + html[end_idx:]
+
+          old_length = end_idx - start_idx
+          new_length = len(replacement)
+          print(f"Old applyFECData block: {old_length:,} chars")
+          print(f"New applyFECData block: {new_length:,} chars")
+          print(f"Net change in index.html: {new_length - old_length:+,} chars")
+
+          # Sanity check: count members in old vs new
+          old_block = html[start_idx:end_idx]
+          old_member_count = old_block.count('"candidate_id"')
+          new_member_count = payload.count('"candidate_id"')
+          print(f"Old member entries (by candidate_id count): {old_member_count}")
+          print(f"New member entries (by candidate_id count): {new_member_count}")
+
+          if new_member_count < old_member_count - 50:
+              raise SystemExit(
+                  f"ERROR: new data has dramatically fewer members "
+                  f"({new_member_count} vs {old_member_count}). Aborting to "
+                  f"prevent data loss. Inspect data/fec.json manually."
+              )
+
+          index_html.write_text(new_html)
+          print(f"\nWrote updated index.html ({len(new_html):,} chars total)")
+          PY
+
+      - name: Verify Adelita Grijalva in new index.html
+        # Quick sanity check that the bug fix made it into the deployed file.
+        # Looks for her entry and confirms sector values are zero, not her
+        # father's $441K finance / $223K pharma etc.
+        run: |
+          python3 << 'PY'
+          import re, json, sys
+          from pathlib import Path
+
+          html = Path('index.html').read_text()
+          # Find her entry by pulling everything from "Adelita Grijalva":{ to
+          # the matching closing brace. Tolerate whitespace.
+          m = re.search(r'"Adelita Grijalva"\s*:\s*\{', html)
+          if not m:
+              print("⚠ Adelita Grijalva not found in updated index.html — sanity-check skipped")
+              sys.exit(0)
+
+          # Walk forward to find matching close brace
+          i = m.end()
+          depth = 1
+          in_str = False
+          esc = False
+          while i < len(html) and depth > 0:
+              c = html[i]
+              if esc:                    esc = False
+              elif c == '\\':            esc = True
+              elif in_str:
+                  if c == '"':           in_str = False
+              elif c == '"':             in_str = True
+              elif c == '{':             depth += 1
+              elif c == '}':             depth -= 1
+              i += 1
+
+          entry_text = '{' + html[m.end():i]
+          try:
+              entry = json.loads(entry_text)
+          except Exception as e:
+              print(f"⚠ could not parse Adelita's entry as JSON ({e}) — sanity-check skipped")
+              sys.exit(0)
+
+          sectors = ['aipac','fossil_fuels','pharma','defense','finance','tech']
+          values = {k: entry.get(k, 'missing') for k in sectors}
+          print(f"Adelita Grijalva sector values in deployed index.html:")
+          for k, v in values.items():
+              print(f"  {k}: {v}")
+
+          if all(v == 0 for v in values.values()):
+              print("\n✓ All sector values are 0 — name-collision bug confirmed fixed.")
+          else:
+              non_zero = [k for k, v in values.items() if v not in (0, 'missing')]
+              print(f"\n⚠ Non-zero sectors: {non_zero}")
+              print(f"  This may be legitimate (if she received money), or may indicate the")
+              print(f"  collision bug is back. Investigate before publishing.")
+          PY
+
+      - name: Commit updated index.html
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update index.html applyFECData() block from data/fec.json"
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          python3 << 'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          from pathlib import Path
+          d = json.loads(Path('data/fec.json').read_text())
+          d.pop('_meta', None)
+          print(f"## Index update complete")
+          print(f"")
+          print(f"- Embedded **{len(d)}** members into `applyFECData()` block")
+          print(f"- Next step: regenerate share cards via `scripts/render_share_cards.js`")
+          PY

@@ -13850,20 +13850,209 @@
     "special_interest_total": 2712632,
     "grassroots": 0
   },
+  "Ben Ray Luj\u00e1n": {
+    "candidate_id": "S0NM00058",
+    "all_candidate_ids": [
+      "S0NM00058",
+      "H8NM03196"
+    ],
+    "committees": [
+      "C00443689"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 767491,
+    "aipac": 639893,
+    "aipac_pacs": 93499,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 546394,
+    "aipac_sources": "DMFI, JAC, JSTREET, MDACC, NATPAC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 639893,
+    "grassroots": 68044
+  },
+  "Linda S\u00e1nchez": {
+    "candidate_id": "H2CA39078",
+    "all_candidate_ids": [
+      "H2CA39078",
+      "S6CA00691"
+    ],
+    "committees": [
+      "C00369363",
+      "C00384057",
+      "C00578344"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1787248,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 121334
+  },
+  "Nanette Barrag\u00e1n": {
+    "candidate_id": "H6CA44103",
+    "all_candidate_ids": [
+      "H6CA44103"
+    ],
+    "committees": [
+      "C00577353"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 377201,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 55588
+  },
+  "Mario D\u00edaz-Balart": {
+    "candidate_id": "H2FL25018",
+    "all_candidate_ids": [
+      "H2FL25018"
+    ],
+    "committees": [
+      "C00376087"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1872433,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 5500,
+    "special_interest_total": 5500,
+    "grassroots": 9847
+  },
+  "Carlos Gim\u00e9nez": {
+    "candidate_id": "H0FL26036",
+    "all_candidate_ids": [
+      "H0FL26036"
+    ],
+    "committees": [
+      "C00735985",
+      "C00702530"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 737169,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 49365
+  },
+  "Chuy Garc\u00eda": {
+    "candidate_id": "H8IL04134",
+    "all_candidate_ids": [
+      "H8IL04134"
+    ],
+    "committees": [
+      "C00661777"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 360722,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 63400
+  },
+  "Nydia Vel\u00e1zquez": {
+    "candidate_id": "H2NY00010",
+    "all_candidate_ids": [
+      "H2NY00010"
+    ],
+    "committees": [
+      "C00271312"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1313774,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 147485
+  },
+  "Pablo Hern\u00e1ndez": {
+    "candidate_id": "H4PR01010",
+    "all_candidate_ids": [
+      "H4PR01010"
+    ],
+    "committees": [
+      "C00831487"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 72512,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 14222
+  },
   "_meta": {
     "complete": false,
-    "members_done": 526,
+    "members_done": 534,
     "members_total": 536,
     "missing": [
-      "Amata Coleman Radewagen",
-      "Ben Ray Luj\u00e1n",
-      "Carlos Gim\u00e9nez",
-      "Chuy Garc\u00eda",
-      "Linda S\u00e1nchez",
-      "Mario D\u00edaz-Balart",
-      "Nanette Barrag\u00e1n",
-      "Nydia Vel\u00e1zquez",
-      "Pablo Hern\u00e1ndez"
+      "Amata Coleman Radewagen"
     ],
     "status": "running"
   }

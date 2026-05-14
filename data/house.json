@@ -117,6 +117,15 @@
     "district": "AZ-06"
   },
   {
+    "id": 415,
+    "name": "Adelita Grijalva",
+    "party": "D",
+    "state": "AZ",
+    "chamber": "House",
+    "role": "Representative",
+    "district": "AZ-07",
+  },
+  {
     "id": 417,
     "name": "Paul Gosar",
     "party": "R",

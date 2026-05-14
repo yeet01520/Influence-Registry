@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-05-14T06:43:40.144616+00:00",
+    "generated_at": "2026-05-14T15:16:45.592400+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -9,7 +9,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 29184,
+    "super_pac_total": 237976,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -25,7 +25,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 106961,
+    "super_pac_total": 408384,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -41,7 +41,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 265262,
+    "super_pac_total": 1047757,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -53,11 +53,11 @@
     ]
   },
   "Dan Sullivan": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 422656,
+    "super_pac_total": 1399667,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -69,11 +69,11 @@
     ]
   },
   "Mark Kelly": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 59,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 492503,
+    "col": "#ea580c",
+    "super_pac_total": 4461823,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -84,7 +84,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 83219,
+    "super_pac_total": 1769097,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -96,11 +96,11 @@
     ]
   },
   "John Boozman": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 191516,
+    "super_pac_total": 712913,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -112,11 +112,11 @@
     ]
   },
   "Tom Cotton": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 875867,
+    "super_pac_total": 2963774,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -128,11 +128,11 @@
     ]
   },
   "Alex Padilla": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 104055,
+    "super_pac_total": 856179,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -148,7 +148,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 580918,
+    "super_pac_total": 9550120,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -164,7 +164,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 357116,
+    "super_pac_total": 3176314,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -176,11 +176,11 @@
     ]
   },
   "John Hickenlooper": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 496146,
+    "super_pac_total": 2491132,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -192,11 +192,11 @@
     ]
   },
   "Richard Blumenthal": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 262682,
+    "super_pac_total": 1673548,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -208,11 +208,11 @@
     ]
   },
   "Chris Murphy": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 133605,
+    "col": "#ea580c",
+    "super_pac_total": 1247085,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -234,11 +234,11 @@
     ]
   },
   "Chris Coons": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 322152,
+    "super_pac_total": 1722613,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -266,11 +266,11 @@
     ]
   },
   "Rick Scott": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 573767,
+    "super_pac_total": 2047002,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -282,11 +282,11 @@
     ]
   },
   "Jon Ossoff": {
-    "pct": 56,
+    "pct": 59,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 748908,
+    "super_pac_total": 5280917,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -297,7 +297,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 646629,
+    "super_pac_total": 6121706,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -309,11 +309,11 @@
     ]
   },
   "Brian Schatz": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 211432,
+    "super_pac_total": 716215,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -329,7 +329,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 32848,
+    "super_pac_total": 231363,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -341,11 +341,11 @@
     ]
   },
   "Mike Crapo": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 223977,
+    "super_pac_total": 807474,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -361,7 +361,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 658269,
+    "super_pac_total": 1549867,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -373,11 +373,11 @@
     ]
   },
   "Dick Durbin": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 32430,
+    "super_pac_total": 2737130,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -389,11 +389,11 @@
     ]
   },
   "Tammy Duckworth": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 550273,
+    "super_pac_total": 2639142,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -405,11 +405,11 @@
     ]
   },
   "Todd Young": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 232249,
+    "super_pac_total": 1701904,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -421,11 +421,11 @@
     ]
   },
   "Jim Banks": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 355651,
+    "super_pac_total": 926321,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -437,11 +437,11 @@
     ]
   },
   "Chuck Grassley": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 331397,
+    "super_pac_total": 1310549,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -453,11 +453,11 @@
     ]
   },
   "Joni Ernst": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 589661,
+    "super_pac_total": 2446900,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -469,11 +469,11 @@
     ]
   },
   "Jerry Moran": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 163949,
+    "super_pac_total": 732374,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -485,11 +485,11 @@
     ]
   },
   "Roger Marshall": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 262295,
+    "super_pac_total": 691149,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -505,7 +505,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 979146,
+    "super_pac_total": 3888598,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -521,7 +521,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1000,
+    "super_pac_total": 201753,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -533,11 +533,11 @@
     ]
   },
   "Bill Cassidy": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 421062,
+    "super_pac_total": 2037247,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -549,11 +549,11 @@
     ]
   },
   "John Kennedy": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 108680,
+    "super_pac_total": 896118,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -569,7 +569,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1352418,
+    "super_pac_total": 3941019,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -581,11 +581,11 @@
     ]
   },
   "Angus King": {
-    "pct": 80,
+    "pct": 83,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 206555,
+    "super_pac_total": 608694,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -612,11 +612,11 @@
     ]
   },
   "Angela Alsobrooks": {
-    "pct": 83,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 224016,
+    "super_pac_total": 1509536,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -637,11 +637,11 @@
     "reasons": []
   },
   "Ed Markey": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 54059,
+    "super_pac_total": 1897285,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -657,7 +657,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 222740,
+    "super_pac_total": 3386784,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -678,11 +678,11 @@
     "reasons": []
   },
   "Amy Klobuchar": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 393820,
+    "super_pac_total": 3074868,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -694,11 +694,11 @@
     ]
   },
   "Tina Smith": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 113794,
+    "super_pac_total": 923735,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -714,7 +714,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 533926,
+    "super_pac_total": 1463291,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -726,11 +726,11 @@
     ]
   },
   "Cindy Hyde-Smith": {
-    "pct": 71,
+    "pct": 74,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 221345,
+    "super_pac_total": 814281,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -742,11 +742,11 @@
     ]
   },
   "Josh Hawley": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 273535,
+    "super_pac_total": 983446,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -762,7 +762,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 37079,
+    "super_pac_total": 251452,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -774,11 +774,11 @@
     ]
   },
   "Steve Daines": {
-    "pct": 92,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 561668,
+    "super_pac_total": 1829026,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -790,11 +790,11 @@
     ]
   },
   "Tim Sheehy": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 79253,
+    "super_pac_total": 641337,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -810,7 +810,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 632220,
+    "super_pac_total": 1594052,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -822,11 +822,11 @@
     ]
   },
   "Pete Ricketts": {
-    "pct": 71,
+    "pct": 74,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 372552,
+    "super_pac_total": 860783,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -842,7 +842,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 2107243,
+    "super_pac_total": 7602864,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -874,7 +874,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 385505,
+    "super_pac_total": 1781761,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -890,7 +890,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 760212,
+    "super_pac_total": 3363137,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -906,7 +906,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 836541,
+    "super_pac_total": 5818073,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -927,11 +927,11 @@
     "reasons": []
   },
   "Martin Heinrich": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 288857,
+    "super_pac_total": 901358,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -958,7 +958,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 415730,
+    "super_pac_total": 6534797,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -970,22 +970,22 @@
     ]
   },
   "Kirsten Gillibrand": {
-    "pct": 56,
+    "pct": 59,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 628057,
+    "super_pac_total": 3290289,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Thom Tillis": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 405386,
+    "super_pac_total": 1682234,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -997,11 +997,11 @@
     ]
   },
   "Ted Budd": {
-    "pct": 83,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 80136,
+    "super_pac_total": 689546,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1013,11 +1013,11 @@
     ]
   },
   "John Hoeven": {
-    "pct": 83,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 314804,
+    "super_pac_total": 744276,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1029,11 +1029,11 @@
     ]
   },
   "Kevin Cramer": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 364123,
+    "super_pac_total": 969170,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1060,11 +1060,11 @@
     ]
   },
   "Bernie Moreno": {
-    "pct": 83,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 66112,
+    "super_pac_total": 1137218,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1076,11 +1076,11 @@
     ]
   },
   "James Lankford": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 311655,
+    "super_pac_total": 880737,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1138,11 +1138,11 @@
     ]
   },
   "Dave McCormick": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 133977,
+    "super_pac_total": 1054468,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1217,7 +1217,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 307569,
+    "super_pac_total": 1081083,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1229,11 +1229,11 @@
     ]
   },
   "Mike Rounds": {
-    "pct": 83,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 274097,
+    "super_pac_total": 967059,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1245,11 +1245,11 @@
     ]
   },
   "Bill Hagerty": {
-    "pct": 83,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 136097,
+    "super_pac_total": 666725,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1265,7 +1265,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 449882,
+    "super_pac_total": 1430020,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1281,7 +1281,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1563445,
+    "super_pac_total": 6117698,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1297,7 +1297,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 472750,
+    "super_pac_total": 2086416,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1309,11 +1309,11 @@
     ]
   },
   "Mike Lee": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 292124,
+    "super_pac_total": 1419745,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1329,7 +1329,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 67900,
+    "super_pac_total": 434091,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1363,7 +1363,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 631921,
+    "super_pac_total": 3050177,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1379,7 +1379,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 442956,
+    "super_pac_total": 2068098,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1395,7 +1395,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 524336,
+    "super_pac_total": 2242581,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1407,22 +1407,22 @@
     ]
   },
   "Maria Cantwell": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 59,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 392639,
+    "col": "#ea580c",
+    "super_pac_total": 2165780,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Shelley Moore Capito": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 325742,
+    "super_pac_total": 1059420,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1438,7 +1438,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 11986,
+    "super_pac_total": 229000,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1454,7 +1454,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 762296,
+    "super_pac_total": 2907105,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1466,11 +1466,11 @@
     ]
   },
   "Ron Johnson": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 335142,
+    "super_pac_total": 1611834,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1486,7 +1486,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 693198,
+    "super_pac_total": 1891392,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1502,7 +1502,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 14795,
+    "super_pac_total": 118274,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1518,7 +1518,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 30173,
+    "super_pac_total": 75849,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1530,11 +1530,11 @@
     ]
   },
   "Mike Rogers": {
-    "pct": 89,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 924925,
+    "super_pac_total": 1933918,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1550,7 +1550,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 116458,
+    "super_pac_total": 251955,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1566,7 +1566,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 37321,
+    "super_pac_total": 75745,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1582,7 +1582,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 88019,
+    "super_pac_total": 257757,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1598,7 +1598,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 75552,
+    "super_pac_total": 251301,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1626,11 +1626,11 @@
     ]
   },
   "David Schweikert": {
-    "pct": 83,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 191943,
+    "super_pac_total": 752634,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1646,7 +1646,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 500,
+    "super_pac_total": 108978,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1658,11 +1658,11 @@
     ]
   },
   "Yassamin Ansari": {
-    "pct": 68,
-    "lbl": "Moderate Risk",
+    "pct": 71,
+    "lbl": "High Risk",
     "vto": false,
-    "col": "#ea580c",
-    "super_pac_total": 5000,
+    "col": "#b91c1c",
+    "super_pac_total": 806788,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1674,11 +1674,11 @@
     ]
   },
   "Greg Stanton": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 261589,
+    "super_pac_total": 748256,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1694,7 +1694,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 39184,
+    "super_pac_total": 162057,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1706,11 +1706,11 @@
     ]
   },
   "Juan Ciscomani": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1039301,
+    "super_pac_total": 2198703,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1754,7 +1754,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 18250,
+    "super_pac_total": 116561,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1770,7 +1770,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 20387,
+    "super_pac_total": 97153,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1786,7 +1786,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 63057,
+    "super_pac_total": 451148,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1802,7 +1802,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 131071,
+    "super_pac_total": 327686,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1818,7 +1818,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 50627,
+    "super_pac_total": 179638,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1858,7 +1858,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 86981,
+    "super_pac_total": 279667,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1874,7 +1874,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 39235,
+    "super_pac_total": 129865,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1890,7 +1890,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 44483,
+    "super_pac_total": 278611,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1902,11 +1902,11 @@
     ]
   },
   "Ami Bera": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 269170,
+    "super_pac_total": 1096013,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1922,7 +1922,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 21305,
+    "super_pac_total": 232127,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1938,7 +1938,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 65867,
+    "super_pac_total": 321027,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1950,11 +1950,11 @@
     ]
   },
   "Josh Harder": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 382938,
+    "super_pac_total": 1777395,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1970,7 +1970,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 27060,
+    "super_pac_total": 64545,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2041,11 +2041,11 @@
     ]
   },
   "Kevin Mullin": {
-    "pct": 68,
-    "lbl": "Moderate Risk",
+    "pct": 71,
+    "lbl": "High Risk",
     "vto": false,
-    "col": "#ea580c",
-    "super_pac_total": 126185,
+    "col": "#b91c1c",
+    "super_pac_total": 862323,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2084,7 +2084,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 49388,
+    "super_pac_total": 344466,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2096,11 +2096,11 @@
     ]
   },
   "Jimmy Panetta": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 463176,
+    "super_pac_total": 1024567,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2128,11 +2128,11 @@
     ]
   },
   "Jim Costa": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 346122,
+    "super_pac_total": 919414,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2144,11 +2144,11 @@
     ]
   },
   "David Valadao": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 164151,
+    "super_pac_total": 724428,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2164,7 +2164,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 31398,
+    "super_pac_total": 64376,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2180,7 +2180,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 50945,
+    "super_pac_total": 337476,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2192,11 +2192,11 @@
     ]
   },
   "Raul Ruiz": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 197383,
+    "super_pac_total": 889935,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2208,11 +2208,11 @@
     ]
   },
   "Julia Brownley": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 192077,
+    "super_pac_total": 842456,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2228,7 +2228,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 29735,
+    "super_pac_total": 165193,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2240,11 +2240,11 @@
     ]
   },
   "Jimmy Gomez": {
-    "pct": 80,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 293555,
+    "super_pac_total": 3399391,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2256,11 +2256,11 @@
     ]
   },
   "Ted Lieu": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 887737,
+    "super_pac_total": 2416584,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2301,7 +2301,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 85802,
+    "super_pac_total": 392030,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2317,7 +2317,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 536138,
+    "super_pac_total": 1582322,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2333,7 +2333,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1115578,
+    "super_pac_total": 2496416,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2358,7 +2358,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 4000,
+    "super_pac_total": 110534,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2404,7 +2404,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 79446,
+    "super_pac_total": 237311,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2429,7 +2429,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 88644,
+    "super_pac_total": 238853,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2441,11 +2441,11 @@
     ]
   },
   "Mike Levin": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 479325,
+    "super_pac_total": 1962671,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2457,11 +2457,11 @@
     ]
   },
   "Scott Peters": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 162230,
+    "super_pac_total": 825171,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2477,7 +2477,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 70781,
+    "super_pac_total": 289190,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2489,11 +2489,11 @@
     ]
   },
   "Juan Vargas": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 313255,
+    "super_pac_total": 949493,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2509,7 +2509,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 7026,
+    "super_pac_total": 57238,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2521,11 +2521,11 @@
     ]
   },
   "Joe Neguse": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 364661,
+    "super_pac_total": 1105324,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2541,7 +2541,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 50167,
+    "super_pac_total": 267170,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2567,11 +2567,11 @@
     ]
   },
   "Jason Crow": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 247334,
+    "super_pac_total": 1254627,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2605,7 +2605,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 41703,
+    "super_pac_total": 152378,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2621,7 +2621,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 107527,
+    "super_pac_total": 418598,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2633,11 +2633,11 @@
     ]
   },
   "Rosa DeLauro": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 164219,
+    "super_pac_total": 573343,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2649,11 +2649,11 @@
     ]
   },
   "Jim Himes": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 76408,
+    "super_pac_total": 508763,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2665,11 +2665,11 @@
     ]
   },
   "Jahana Hayes": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 128447,
+    "super_pac_total": 670414,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2708,7 +2708,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 55322,
+    "super_pac_total": 89420,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2724,7 +2724,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 74179,
+    "super_pac_total": 170049,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2740,7 +2740,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 68320,
+    "super_pac_total": 132953,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2756,7 +2756,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 64271,
+    "super_pac_total": 115173,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2786,7 +2786,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 36573,
+    "super_pac_total": 106732,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2812,11 +2812,11 @@
     ]
   },
   "Darren Soto": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 389693,
+    "super_pac_total": 874118,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2841,7 +2841,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 80877,
+    "super_pac_total": 193215,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2857,7 +2857,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 101892,
+    "super_pac_total": 280369,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2873,7 +2873,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 27288,
+    "super_pac_total": 244182,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2889,7 +2889,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 93259,
+    "super_pac_total": 279346,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2905,7 +2905,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 46071,
+    "super_pac_total": 161530,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2917,11 +2917,11 @@
     ]
   },
   "Vern Buchanan": {
-    "pct": 89,
+    "pct": 83,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 80471,
+    "super_pac_total": 368633,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2937,7 +2937,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 100711,
+    "super_pac_total": 239470,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2953,7 +2953,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 49225,
+    "super_pac_total": 106305,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2969,7 +2969,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 77628,
+    "super_pac_total": 368726,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2981,11 +2981,11 @@
     ]
   },
   "Sheila Cherfilus-McCormick": {
-    "pct": 65,
+    "pct": 68,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 342042,
+    "super_pac_total": 555603,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2996,11 +2996,11 @@
     ]
   },
   "Brian Mast": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 744281,
+    "super_pac_total": 2246400,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3012,11 +3012,11 @@
     ]
   },
   "Lois Frankel": {
-    "pct": 83,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 789310,
+    "super_pac_total": 2093531,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3032,7 +3032,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 727908,
+    "super_pac_total": 1546752,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3048,7 +3048,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 44215,
+    "super_pac_total": 97967,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3092,11 +3092,11 @@
     ]
   },
   "Mar\u00eda Elvira Salazar": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 127411,
+    "super_pac_total": 783549,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3128,7 +3128,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 67347,
+    "super_pac_total": 216590,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3144,7 +3144,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 86537,
+    "super_pac_total": 290306,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3174,7 +3174,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 68415,
+    "super_pac_total": 147730,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3199,7 +3199,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 95127,
+    "super_pac_total": 364606,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3215,7 +3215,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 575932,
+    "super_pac_total": 1974629,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3231,7 +3231,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 62218,
+    "super_pac_total": 149839,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3247,7 +3247,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 1000,
+    "super_pac_total": 10900,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3263,7 +3263,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 20446,
+    "super_pac_total": 63706,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3279,7 +3279,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 78182,
+    "super_pac_total": 238832,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3295,7 +3295,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 53621,
+    "super_pac_total": 161621,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3311,7 +3311,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 123721,
+    "super_pac_total": 327786,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3341,7 +3341,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 48901,
+    "super_pac_total": 138401,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3357,7 +3357,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 27000,
+    "super_pac_total": 62883,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3373,7 +3373,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 21509,
+    "super_pac_total": 42059,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3389,7 +3389,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 66760,
+    "super_pac_total": 124660,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3414,7 +3414,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 62992,
+    "super_pac_total": 368860,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3450,11 +3450,11 @@
     ]
   },
   "Mike Quigley": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 89585,
+    "super_pac_total": 634873,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3466,11 +3466,11 @@
     ]
   },
   "Sean Casten": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 259283,
+    "super_pac_total": 1493042,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3486,7 +3486,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 60360,
+    "super_pac_total": 110160,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3498,11 +3498,11 @@
     ]
   },
   "Raja Krishnamoorthi": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 266094,
+    "super_pac_total": 1739283,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3514,11 +3514,11 @@
     ]
   },
   "Jan Schakowsky": {
-    "pct": 83,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 376102,
+    "super_pac_total": 2516441,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3530,11 +3530,11 @@
     ]
   },
   "Brad Schneider": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1008976,
+    "super_pac_total": 6670540,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3546,11 +3546,11 @@
     ]
   },
   "Bill Foster": {
-    "pct": 86,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 371029,
+    "super_pac_total": 2054410,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3566,7 +3566,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 127143,
+    "super_pac_total": 425247,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3587,11 +3587,11 @@
     "reasons": []
   },
   "Lauren Underwood": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 10950,
+    "super_pac_total": 1370152,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3607,7 +3607,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 5051,
+    "super_pac_total": 32030,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3623,7 +3623,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 145856,
+    "super_pac_total": 420511,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3648,7 +3648,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 100707,
+    "super_pac_total": 395275,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3664,7 +3664,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 195793,
+    "super_pac_total": 356500,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3680,7 +3680,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 28129,
+    "super_pac_total": 180720,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3696,7 +3696,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 20847,
+    "super_pac_total": 38265,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3712,7 +3712,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 80574,
+    "super_pac_total": 255765,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3728,7 +3728,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 14077,
+    "super_pac_total": 34127,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3754,11 +3754,11 @@
     ]
   },
   "Mark Messmer": {
-    "pct": 68,
-    "lbl": "Moderate Risk",
+    "pct": 74,
+    "lbl": "High Risk",
     "vto": false,
-    "col": "#ea580c",
-    "super_pac_total": 308630,
+    "col": "#b91c1c",
+    "super_pac_total": 3291220,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3774,7 +3774,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 29466,
+    "super_pac_total": 71232,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3786,11 +3786,11 @@
     ]
   },
   "Ashley Hinson": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 145560,
+    "super_pac_total": 670799,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3806,7 +3806,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 121323,
+    "super_pac_total": 479727,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3822,7 +3822,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 106694,
+    "super_pac_total": 288565,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3834,11 +3834,11 @@
     ]
   },
   "Mariannette Miller-Meeks": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 150370,
+    "super_pac_total": 603108,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3854,7 +3854,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 60957,
+    "super_pac_total": 129615,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3880,11 +3880,11 @@
     ]
   },
   "Sharice Davids": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 237895,
+    "super_pac_total": 1158888,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3900,7 +3900,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 78678,
+    "super_pac_total": 239682,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3916,7 +3916,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 48283,
+    "super_pac_total": 201003,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3932,7 +3932,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 39556,
+    "super_pac_total": 108156,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3948,7 +3948,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 108749,
+    "super_pac_total": 362036,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3973,7 +3973,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 53655,
+    "super_pac_total": 143585,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3985,11 +3985,11 @@
     ]
   },
   "Andy Barr": {
-    "pct": 83,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 288426,
+    "super_pac_total": 1320117,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4005,7 +4005,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 895733,
+    "super_pac_total": 2675542,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4021,7 +4021,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 19546,
+    "super_pac_total": 26846,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4033,11 +4033,11 @@
     ]
   },
   "Mike Johnson": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1096051,
+    "super_pac_total": 3110639,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4053,7 +4053,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 83896,
+    "super_pac_total": 212146,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4083,7 +4083,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 53337,
+    "super_pac_total": 181387,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4099,7 +4099,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 62850,
+    "super_pac_total": 288291,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4111,11 +4111,11 @@
     ]
   },
   "Jared Golden": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1071069,
+    "super_pac_total": 3449465,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4131,7 +4131,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 70208,
+    "super_pac_total": 332193,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4147,7 +4147,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 61733,
+    "super_pac_total": 199025,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4158,11 +4158,11 @@
     ]
   },
   "Sarah Elfreth": {
-    "pct": 74,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 20849,
+    "super_pac_total": 4980286,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4174,11 +4174,11 @@
     ]
   },
   "Glenn Ivey": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 890233,
+    "super_pac_total": 8186424,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4194,7 +4194,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 957516,
+    "super_pac_total": 3546127,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4210,7 +4210,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 52664,
+    "super_pac_total": 259182,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4248,7 +4248,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 138736,
+    "super_pac_total": 358386,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4264,7 +4264,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 77317,
+    "super_pac_total": 297633,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4280,7 +4280,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 51703,
+    "super_pac_total": 374119,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4292,11 +4292,11 @@
     ]
   },
   "Jake Auchincloss": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 866243,
+    "super_pac_total": 2671386,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4308,11 +4308,11 @@
     ]
   },
   "Katherine Clark": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 863530,
+    "super_pac_total": 2249598,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4324,11 +4324,11 @@
     ]
   },
   "Seth Moulton": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 101532,
+    "super_pac_total": 784934,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4353,7 +4353,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1000,
+    "super_pac_total": 85550,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4369,7 +4369,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 108152,
+    "super_pac_total": 367128,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4385,7 +4385,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 54719,
+    "super_pac_total": 310988,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4401,7 +4401,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 36097,
+    "super_pac_total": 207981,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4413,11 +4413,11 @@
     ]
   },
   "Hillary Scholten": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 396031,
+    "super_pac_total": 1324019,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4433,7 +4433,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 41306,
+    "super_pac_total": 264585,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4445,11 +4445,11 @@
     ]
   },
   "Tim Walberg": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 134335,
+    "super_pac_total": 585914,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4465,7 +4465,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 29424,
+    "super_pac_total": 265158,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4495,7 +4495,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 108918,
+    "super_pac_total": 271330,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4507,11 +4507,11 @@
     ]
   },
   "John James": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 268355,
+    "super_pac_total": 1592822,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4523,11 +4523,11 @@
     ]
   },
   "Haley Stevens": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1269535,
+    "super_pac_total": 9094690,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4548,11 +4548,11 @@
     "reasons": []
   },
   "Shri Thanedar": {
-    "pct": 68,
-    "lbl": "Moderate Risk",
+    "pct": 71,
+    "lbl": "High Risk",
     "vto": false,
-    "col": "#ea580c",
-    "super_pac_total": 194569,
+    "col": "#b91c1c",
+    "super_pac_total": 740370,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4568,7 +4568,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 47246,
+    "super_pac_total": 94913,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4602,7 +4602,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 59108,
+    "super_pac_total": 203877,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4627,7 +4627,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 784132,
+    "super_pac_total": 1984488,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4643,7 +4643,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 64231,
+    "super_pac_total": 221288,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4659,7 +4659,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 61697,
+    "super_pac_total": 254846,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4675,7 +4675,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 29709,
+    "super_pac_total": 87033,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4691,7 +4691,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 9300,
+    "super_pac_total": 55468,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4707,7 +4707,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 35755,
+    "super_pac_total": 66755,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4723,7 +4723,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 51911,
+    "super_pac_total": 78922,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4739,7 +4739,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 100087,
+    "super_pac_total": 379737,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4751,11 +4751,11 @@
     ]
   },
   "Ann Wagner": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 275405,
+    "super_pac_total": 766417,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4785,7 +4785,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 80384,
+    "super_pac_total": 131728,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4801,7 +4801,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 95782,
+    "super_pac_total": 268566,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4817,7 +4817,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 80754,
+    "super_pac_total": 164296,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4833,7 +4833,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 36922,
+    "super_pac_total": 62811,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4845,7 +4845,7 @@
     ]
   },
   "Wesley Bell": {
-    "pct": 83,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -4865,7 +4865,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 40076,
+    "super_pac_total": 292838,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4895,7 +4895,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 48229,
+    "super_pac_total": 92736,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4907,11 +4907,11 @@
     ]
   },
   "Don Bacon": {
-    "pct": 92,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1291908,
+    "super_pac_total": 2967090,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4927,7 +4927,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 29129,
+    "super_pac_total": 70575,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4939,11 +4939,11 @@
     ]
   },
   "Dina Titus": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 183520,
+    "super_pac_total": 630114,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4959,7 +4959,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 36207,
+    "super_pac_total": 149389,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4971,11 +4971,11 @@
     ]
   },
   "Susie Lee": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 725904,
+    "super_pac_total": 2506290,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4987,11 +4987,11 @@
     ]
   },
   "Steven Horsford": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 193815,
+    "super_pac_total": 939139,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5003,11 +5003,11 @@
     ]
   },
   "Chris Pappas": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 811319,
+    "super_pac_total": 2709473,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5033,11 +5033,11 @@
     ]
   },
   "Donald Norcross": {
-    "pct": 80,
+    "pct": 83,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 302173,
+    "super_pac_total": 804333,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5053,7 +5053,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 87782,
+    "super_pac_total": 429267,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5069,7 +5069,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 26075,
+    "super_pac_total": 74550,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5080,11 +5080,11 @@
     ]
   },
   "Chris Smith": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 234507,
+    "super_pac_total": 571918,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5096,11 +5096,11 @@
     ]
   },
   "Josh Gottheimer": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1902122,
+    "super_pac_total": 6745156,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5112,11 +5112,11 @@
     ]
   },
   "Frank Pallone": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 254670,
+    "super_pac_total": 845023,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5128,22 +5128,22 @@
     ]
   },
   "Tom Kean Jr.": {
-    "pct": 56,
+    "pct": 59,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 758998,
+    "super_pac_total": 2489504,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Rob Menendez": {
-    "pct": 71,
+    "pct": 74,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 460324,
+    "super_pac_total": 1035064,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5198,13 +5198,14 @@
     ]
   },
   "Bonnie Watson Coleman": {
-    "pct": 68,
-    "lbl": "Moderate Risk",
+    "pct": 74,
+    "lbl": "High Risk",
     "vto": false,
-    "col": "#ea580c",
-    "super_pac_total": 0,
+    "col": "#b91c1c",
+    "super_pac_total": 901358,
     "any_corporate": true,
     "reasons": [
+      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -5240,11 +5241,11 @@
     "reasons": []
   },
   "Nick LaLota": {
-    "pct": 71,
+    "pct": 74,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 162300,
+    "super_pac_total": 638058,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5256,11 +5257,11 @@
     ]
   },
   "Andrew Garbarino": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 175524,
+    "super_pac_total": 679627,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5272,11 +5273,11 @@
     ]
   },
   "Tom Suozzi": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 386957,
+    "super_pac_total": 1908212,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5302,11 +5303,11 @@
     ]
   },
   "Gregory Meeks": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 834173,
+    "super_pac_total": 2239471,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5318,14 +5319,13 @@
     ]
   },
   "Grace Meng": {
-    "pct": 83,
+    "pct": 71,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 934755,
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -5349,11 +5349,11 @@
     ]
   },
   "Hakeem Jeffries": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1494553,
+    "super_pac_total": 5524449,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5369,7 +5369,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 125644,
+    "super_pac_total": 322673,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5381,11 +5381,11 @@
     ]
   },
   "Dan Goldman": {
-    "pct": 71,
+    "pct": 74,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 476135,
+    "super_pac_total": 1765333,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5397,11 +5397,11 @@
     ]
   },
   "Nicole Malliotakis": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 239481,
+    "super_pac_total": 976214,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5413,11 +5413,11 @@
     ]
   },
   "Adriano Espaillat": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 319814,
+    "super_pac_total": 780675,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5438,11 +5438,11 @@
     "reasons": []
   },
   "Ritchie Torres": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1746031,
+    "super_pac_total": 6776001,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5458,7 +5458,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 2904555,
+    "super_pac_total": 22673131,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5470,11 +5470,11 @@
     ]
   },
   "Mike Lawler": {
-    "pct": 83,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 924539,
+    "super_pac_total": 2679471,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5513,7 +5513,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 58890,
+    "super_pac_total": 155239,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5558,7 +5558,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 101035,
+    "super_pac_total": 289432,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5570,11 +5570,11 @@
     ]
   },
   "Joseph Morelle": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 224256,
+    "super_pac_total": 550763,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5590,7 +5590,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 77890,
+    "super_pac_total": 201935,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5602,11 +5602,11 @@
     ]
   },
   "Don Davis": {
-    "pct": 56,
+    "pct": 59,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 1321202,
+    "super_pac_total": 5596890,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -5617,7 +5617,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 100794,
+    "super_pac_total": 218267,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5629,11 +5629,11 @@
     ]
   },
   "Virginia Foxx": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 276149,
+    "super_pac_total": 798513,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5649,7 +5649,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 51571,
+    "super_pac_total": 147300,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5665,7 +5665,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 31071,
+    "super_pac_total": 69057,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5681,7 +5681,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 18303,
+    "super_pac_total": 35753,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5693,11 +5693,11 @@
     ]
   },
   "Richard Hudson": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 221658,
+    "super_pac_total": 550362,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5727,7 +5727,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 78580,
+    "super_pac_total": 155538,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5743,7 +5743,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 25858,
+    "super_pac_total": 97437,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5847,7 +5847,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 191676,
+    "super_pac_total": 431314,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5859,11 +5859,11 @@
     ]
   },
   "Jim Jordan": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 219834,
+    "super_pac_total": 711711,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5879,7 +5879,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 75387,
+    "super_pac_total": 247788,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5895,7 +5895,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 73526,
+    "super_pac_total": 181351,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5907,11 +5907,11 @@
     ]
   },
   "Max Miller": {
-    "pct": 71,
+    "pct": 74,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 309274,
+    "super_pac_total": 964930,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5927,7 +5927,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 3300,
+    "super_pac_total": 62078,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5939,11 +5939,11 @@
     ]
   },
   "Marcy Kaptur": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 184548,
+    "super_pac_total": 857037,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5955,11 +5955,11 @@
     ]
   },
   "Michael Turner": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 228038,
+    "super_pac_total": 611931,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5971,11 +5971,11 @@
     ]
   },
   "Dave Joyce": {
-    "pct": 83,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 79899,
+    "super_pac_total": 438057,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6042,7 +6042,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 147563,
+    "super_pac_total": 204904,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6058,7 +6058,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 34630,
+    "super_pac_total": 49630,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6073,7 +6073,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 11594,
+    "super_pac_total": 19594,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6089,7 +6089,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 549387,
+    "super_pac_total": 1191029,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6105,7 +6105,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 74710,
+    "super_pac_total": 230159,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6121,7 +6121,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 96209,
+    "super_pac_total": 302305,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6137,7 +6137,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 10786,
+    "super_pac_total": 27236,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6158,13 +6158,14 @@
     "reasons": []
   },
   "Maxine Dexter": {
-    "pct": 65,
-    "lbl": "Moderate Risk",
+    "pct": 74,
+    "lbl": "High Risk",
     "vto": false,
-    "col": "#ea580c",
-    "super_pac_total": 0,
+    "col": "#b91c1c",
+    "super_pac_total": 3190373,
     "any_corporate": true,
     "reasons": [
+      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -6182,11 +6183,11 @@
     "reasons": []
   },
   "Andrea Salinas": {
-    "pct": 71,
+    "pct": 74,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 293613,
+    "super_pac_total": 776642,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6198,11 +6199,11 @@
     ]
   },
   "Brian Fitzpatrick": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 831144,
+    "super_pac_total": 2412780,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6214,11 +6215,11 @@
     ]
   },
   "Brendan Boyle": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 458181,
+    "super_pac_total": 1318299,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6234,7 +6235,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 33749,
+    "super_pac_total": 157219,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6250,7 +6251,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 69819,
+    "super_pac_total": 354947,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6271,11 +6272,11 @@
     "reasons": []
   },
   "Chrissy Houlahan": {
-    "pct": 86,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 90523,
+    "super_pac_total": 846553,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6319,7 +6320,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 49696,
+    "super_pac_total": 132289,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6331,11 +6332,11 @@
     ]
   },
   "Scott Perry": {
-    "pct": 71,
+    "pct": 74,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 97961,
+    "super_pac_total": 544344,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6351,7 +6352,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 72517,
+    "super_pac_total": 231758,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6376,7 +6377,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 431,
+    "super_pac_total": 21181,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6388,11 +6389,11 @@
     ]
   },
   "Guy Reschenthaler": {
-    "pct": 71,
+    "pct": 74,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 440627,
+    "super_pac_total": 872522,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6423,7 +6424,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 44962,
+    "super_pac_total": 154591,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6464,14 +6465,13 @@
     ]
   },
   "Nancy Mace": {
-    "pct": 71,
-    "lbl": "High Risk",
+    "pct": 68,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 107936,
+    "col": "#ea580c",
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -6480,7 +6480,7 @@
     ]
   },
   "Joe Wilson": {
-    "pct": 83,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -6510,14 +6510,13 @@
     ]
   },
   "William Timmons": {
-    "pct": 71,
-    "lbl": "High Risk",
+    "pct": 68,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 79920,
+    "col": "#ea580c",
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -6526,14 +6525,13 @@
     ]
   },
   "Ralph Norman": {
-    "pct": 71,
-    "lbl": "High Risk",
+    "pct": 68,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 10211,
+    "col": "#ea580c",
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -6542,14 +6540,13 @@
     ]
   },
   "James Clyburn": {
-    "pct": 94,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 172823,
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -6558,14 +6555,13 @@
     ]
   },
   "Russell Fry": {
-    "pct": 68,
+    "pct": 65,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 61492,
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -6593,7 +6589,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 49508,
+    "super_pac_total": 95474,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6609,7 +6605,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 30561,
+    "super_pac_total": 81055,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6640,7 +6636,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 25735,
+    "super_pac_total": 78085,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6670,7 +6666,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 52738,
+    "super_pac_total": 98125,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6696,11 +6692,11 @@
     ]
   },
   "David Kustoff": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 222727,
+    "super_pac_total": 657518,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6716,7 +6712,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 125998,
+    "super_pac_total": 329196,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6732,7 +6728,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 55469,
+    "super_pac_total": 111319,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6762,7 +6758,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 51001,
+    "super_pac_total": 87500,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6778,7 +6774,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 81077,
+    "super_pac_total": 138288,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6794,7 +6790,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 46250,
+    "super_pac_total": 188685,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6810,7 +6806,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 165828,
+    "super_pac_total": 365649,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6822,11 +6818,11 @@
     ]
   },
   "Lizzie Fletcher": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 183461,
+    "super_pac_total": 1037331,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6842,7 +6838,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 31165,
+    "super_pac_total": 104886,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6858,7 +6854,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 27855,
+    "super_pac_total": 56055,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6874,7 +6870,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 883348,
+    "super_pac_total": 2468040,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6890,7 +6886,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 165612,
+    "super_pac_total": 401275,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6921,7 +6917,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 80165,
+    "super_pac_total": 307005,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6937,7 +6933,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 107056,
+    "super_pac_total": 296177,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6953,7 +6949,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 83163,
+    "super_pac_total": 431016,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6969,7 +6965,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 47396,
+    "super_pac_total": 200234,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6985,7 +6981,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 56305,
+    "super_pac_total": 485444,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7015,7 +7011,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 44730,
+    "super_pac_total": 129731,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7031,7 +7027,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 30401,
+    "super_pac_total": 115638,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7047,7 +7043,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 17000,
+    "super_pac_total": 312912,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7063,7 +7059,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 17282,
+    "super_pac_total": 76282,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7094,7 +7090,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 85001,
+    "super_pac_total": 484616,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7110,7 +7106,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 34510,
+    "super_pac_total": 195452,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7141,7 +7137,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 36023,
+    "super_pac_total": 76248,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7157,7 +7153,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 523264,
+    "super_pac_total": 3239485,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7173,7 +7169,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 97757,
+    "super_pac_total": 224407,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7198,7 +7194,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 61011,
+    "super_pac_total": 309810,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7228,7 +7224,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 121097,
+    "super_pac_total": 413271,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7240,11 +7236,11 @@
     ]
   },
   "Vicente Gonzalez": {
-    "pct": 80,
+    "pct": 83,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 291868,
+    "super_pac_total": 857702,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7269,7 +7265,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 44544,
+    "super_pac_total": 154742,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7285,7 +7281,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 67374,
+    "super_pac_total": 254582,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7297,11 +7293,11 @@
     ]
   },
   "Wesley Hunt": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 139752,
+    "super_pac_total": 502870,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7331,7 +7327,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 80756,
+    "super_pac_total": 165181,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7347,7 +7343,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 83693,
+    "super_pac_total": 335518,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7372,7 +7368,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 112386,
+    "super_pac_total": 408035,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7388,7 +7384,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 67370,
+    "super_pac_total": 439777,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7419,7 +7415,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 35290,
+    "super_pac_total": 85291,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7449,7 +7445,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 63389,
+    "super_pac_total": 447047,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7465,7 +7461,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 33155,
+    "super_pac_total": 84405,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7523,7 +7519,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 4500,
+    "super_pac_total": 111925,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7535,11 +7531,11 @@
     ]
   },
   "Suzan DelBene": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 245577,
+    "super_pac_total": 686855,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7555,7 +7551,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 81661,
+    "super_pac_total": 344485,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7580,7 +7576,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 135870,
+    "super_pac_total": 380825,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7629,11 +7625,11 @@
     "reasons": []
   },
   "Kim Schrier": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 274533,
+    "super_pac_total": 1402935,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7645,11 +7641,11 @@
     ]
   },
   "Adam Smith": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 457076,
+    "super_pac_total": 1335151,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7661,11 +7657,11 @@
     ]
   },
   "Marilyn Strickland": {
-    "pct": 71,
+    "pct": 74,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 344917,
+    "super_pac_total": 761436,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7681,7 +7677,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 56458,
+    "super_pac_total": 128758,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7707,11 +7703,11 @@
     ]
   },
   "Bryan Steil": {
-    "pct": 83,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 112267,
+    "super_pac_total": 611837,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7736,7 +7732,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 83477,
+    "super_pac_total": 483718,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7752,7 +7748,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 51935,
+    "super_pac_total": 196423,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7768,7 +7764,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 48413,
+    "super_pac_total": 108213,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7784,7 +7780,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 92815,
+    "super_pac_total": 348728,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7800,7 +7796,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 53176,
+    "super_pac_total": 161245,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8194,7 +8190,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 62626,
+    "super_pac_total": 424800,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8210,7 +8206,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 15027,
+    "super_pac_total": 172593,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8230,7 +8226,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 27,
+    "super_pac_total": 194627,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8252,11 +8248,11 @@
     ]
   },
   "John Fetterman": {
-    "pct": 92,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 257518,
+    "super_pac_total": 1898963,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8272,7 +8268,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 40642,
+    "super_pac_total": 74629,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8288,33 +8284,27 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 61835,
+    "super_pac_total": 181458,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Adelita Grijalva": {
-    "pct": 65,
-    "lbl": "Moderate Risk",
+    "pct": 18,
+    "lbl": "Clean",
     "vto": false,
-    "col": "#ea580c",
+    "col": "#16a34a",
     "super_pac_total": 0,
-    "any_corporate": true,
-    "reasons": [
-      "Oil/Gas",
-      "Pharma",
-      "Finance",
-      "Defense",
-      "Tech"
-    ]
+    "any_corporate": false,
+    "reasons": []
   },
   "Abraham Hamadeh": {
     "pct": 68,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 21026,
+    "super_pac_total": 55970,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8330,7 +8320,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 7251,
+    "super_pac_total": 470328,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8350,7 +8340,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 24341,
+    "super_pac_total": 118670,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8361,18 +8351,18 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 55612,
+    "super_pac_total": 205187,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Derek Tran": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 149368,
+    "col": "#ea580c",
+    "super_pac_total": 619779,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8383,40 +8373,40 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 59036,
+    "super_pac_total": 414326,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "George Whitesides": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 16679,
+    "col": "#ea580c",
+    "super_pac_total": 611825,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Norma Torres": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 402474,
+    "col": "#ea580c",
+    "super_pac_total": 835569,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Pete Aguilar": {
-    "pct": 56,
+    "pct": 59,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 1365352,
+    "super_pac_total": 3095438,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8427,7 +8417,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 16664,
+    "super_pac_total": 78514,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8439,11 +8429,11 @@
     ]
   },
   "Brad Sherman": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 703836,
+    "super_pac_total": 4139278,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8459,7 +8449,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 52780,
+    "super_pac_total": 333790,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8470,7 +8460,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 5810,
+    "super_pac_total": 149802,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8482,11 +8472,11 @@
     ]
   },
   "Gabe Evans": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 15086,
+    "col": "#ea580c",
+    "super_pac_total": 910177,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8497,18 +8487,18 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 95230,
+    "super_pac_total": 457637,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Randy Fine": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 465193,
+    "col": "#ea580c",
+    "super_pac_total": 1041401,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8519,7 +8509,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 18198,
+    "super_pac_total": 101846,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8535,18 +8525,18 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 28102,
+    "super_pac_total": 61163,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Brian Jack": {
-    "pct": 68,
-    "lbl": "Moderate Risk",
+    "pct": 71,
+    "lbl": "High Risk",
     "vto": false,
-    "col": "#ea580c",
-    "super_pac_total": 260781,
+    "col": "#b91c1c",
+    "super_pac_total": 505916,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8558,20 +8548,22 @@
     ]
   },
   "Clay Fuller": {
-    "pct": 50,
+    "pct": 53,
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 0,
+    "super_pac_total": 283242,
     "any_corporate": true,
-    "reasons": []
+    "reasons": [
+      "AIPAC"
+    ]
   },
   "Derek Schmidt": {
     "pct": 68,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 41656,
+    "super_pac_total": 104414,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8587,7 +8579,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 1500,
+    "super_pac_total": 13167,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8598,7 +8590,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 117074,
+    "super_pac_total": 391677,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8609,7 +8601,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 24913,
+    "super_pac_total": 35263,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8625,7 +8617,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 10025,
+    "super_pac_total": 30825,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8637,11 +8629,11 @@
     ]
   },
   "Maggie Goodlander": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 125529,
+    "col": "#ea580c",
+    "super_pac_total": 754504,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8652,7 +8644,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 37666,
+    "super_pac_total": 156890,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8668,22 +8660,22 @@
     "reasons": []
   },
   "Laura Gillen": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 119823,
+    "col": "#ea580c",
+    "super_pac_total": 962453,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Josh Riley": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 119061,
+    "col": "#ea580c",
+    "super_pac_total": 882674,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8694,18 +8686,18 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 90892,
+    "super_pac_total": 400907,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Claudia Tenney": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 122857,
+    "super_pac_total": 784341,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8717,22 +8709,22 @@
     ]
   },
   "Jerrold Nadler": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 237389,
+    "col": "#ea580c",
+    "super_pac_total": 1787185,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Deborah Ross": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 227734,
+    "col": "#ea580c",
+    "super_pac_total": 1203265,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8743,7 +8735,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 28236,
+    "super_pac_total": 54527,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8759,7 +8751,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 32304,
+    "super_pac_total": 126511,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8775,7 +8767,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 11000,
+    "super_pac_total": 25050,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8800,7 +8792,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 68071,
+    "super_pac_total": 264697,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8816,7 +8808,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 37571,
+    "super_pac_total": 68121,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8832,7 +8824,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 38545,
+    "super_pac_total": 75405,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8848,18 +8840,18 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 64611,
+    "super_pac_total": 246499,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Janelle Bynum": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 10500,
+    "col": "#ea580c",
+    "super_pac_total": 1812897,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8870,7 +8862,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 37839,
+    "super_pac_total": 201577,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8886,7 +8878,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 30878,
+    "super_pac_total": 251022,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8902,7 +8894,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 10551,
+    "super_pac_total": 39184,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8918,7 +8910,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 12778,
+    "super_pac_total": 46033,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8929,7 +8921,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 32410,
+    "super_pac_total": 73578,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8945,7 +8937,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 126557,
+    "super_pac_total": 321707,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8957,11 +8949,11 @@
     ]
   },
   "Dan Crenshaw": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 187531,
+    "super_pac_total": 871815,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8977,7 +8969,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 42963,
+    "super_pac_total": 189665,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8988,7 +8980,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 94688,
+    "super_pac_total": 210688,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9004,7 +8996,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 15250,
+    "super_pac_total": 24291,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9020,18 +9012,18 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 88697,
+    "super_pac_total": 210086,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
     ]
   },
   "Eugene Vindman": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 11108,
+    "col": "#ea580c",
+    "super_pac_total": 514560,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -9042,7 +9034,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 36443,
+    "super_pac_total": 112035,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -9053,7 +9045,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 8700,
+    "super_pac_total": 61940,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -9064,7 +9056,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 13330,
+    "super_pac_total": 99841,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -9075,7 +9067,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 56876,
+    "super_pac_total": 91926,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9091,7 +9083,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 35530,
+    "super_pac_total": 103130,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9107,7 +9099,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 12000,
+    "super_pac_total": 29371,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9146,11 +9138,11 @@
     "reasons": []
   },
   "Tom Barrett": {
-    "pct": 68,
-    "lbl": "Moderate Risk",
+    "pct": 71,
+    "lbl": "High Risk",
     "vto": false,
-    "col": "#ea580c",
-    "super_pac_total": 12177,
+    "col": "#b91c1c",
+    "super_pac_total": 305198,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9162,11 +9154,11 @@
     ]
   },
   "Kristen McDonald Rivet": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 268333,
+    "col": "#ea580c",
+    "super_pac_total": 894731,
     "any_corporate": true,
     "reasons": [
       "AIPAC"

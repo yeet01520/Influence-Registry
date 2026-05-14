@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-05-13T19:29:57.305753+00:00",
+    "generated_at": "2026-05-14T06:43:40.144616+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -8008,19 +8008,14 @@
     ]
   },
   "JD Vance": {
-    "pct": 83,
-    "lbl": "High Risk",
+    "pct": 56,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 167324,
+    "col": "#ea580c",
+    "super_pac_total": 1592822,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
-      "Oil/Gas",
-      "Pharma",
-      "Finance",
-      "Defense",
-      "Tech"
+      "AIPAC"
     ]
   },
   "Scott Bessent": {

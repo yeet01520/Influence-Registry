@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-05-14T23:16:05.929850+00:00",
+    "generated_at": "2026-05-16T20:33:36.983319+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -858,7 +858,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 690749,
+    "super_pac_total": 3180044,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1614,7 +1614,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 7599,
+    "super_pac_total": 144598,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2281,7 +2281,7 @@
     "reasons": []
   },
   "Linda S\u00e1nchez": {
-    "pct": 86,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -2370,11 +2370,11 @@
     ]
   },
   "Nanette Barrag\u00e1n": {
-    "pct": 77,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 94404,
+    "super_pac_total": 509303,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3060,11 +3060,11 @@
     ]
   },
   "Debbie Wasserman Schultz": {
-    "pct": 89,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1144010,
+    "super_pac_total": 3459067,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3076,7 +3076,7 @@
     ]
   },
   "Mario D\u00edaz-Balart": {
-    "pct": 94,
+    "pct": 89,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -3739,13 +3739,14 @@
     ]
   },
   "Andr\u00e9 Carson": {
-    "pct": 71,
+    "pct": 74,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 0,
+    "super_pac_total": 68105,
     "any_corporate": true,
     "reasons": [
+      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -4845,11 +4846,11 @@
     ]
   },
   "Wesley Bell": {
-    "pct": 77,
+    "pct": 83,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 3882993,
+    "super_pac_total": 16931015,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5443,7 +5444,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 6773001,
+    "super_pac_total": 6776001,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6576,13 +6577,14 @@
     ]
   },
   "Dusty Johnson": {
-    "pct": 74,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 0,
+    "super_pac_total": 323198,
     "any_corporate": true,
     "reasons": [
+      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -7713,7 +7715,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 545117,
+    "super_pac_total": 611837,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7828,13 +7830,14 @@
     ]
   },
   "Harriet Hageman": {
-    "pct": 68,
-    "lbl": "Moderate Risk",
+    "pct": 71,
+    "lbl": "High Risk",
     "vto": false,
-    "col": "#ea580c",
-    "super_pac_total": 0,
+    "col": "#b91c1c",
+    "super_pac_total": 145981,
     "any_corporate": true,
     "reasons": [
+      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -8554,13 +8557,15 @@
     ]
   },
   "Clay Fuller": {
-    "pct": 52,
-    "lbl": "Moderate",
+    "pct": 53,
+    "lbl": "Some Corporate",
     "vto": false,
-    "col": "#ca8a04",
-    "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": []
+    "col": "#d97706",
+    "super_pac_total": 283242,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
   },
   "Derek Schmidt": {
     "pct": 68,

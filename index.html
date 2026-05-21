@@ -223,7 +223,33 @@
 .share-item:hover { background: var(--s2); }
 .share-item svg { flex-shrink: 0; }
 
-#pane-corporate.on{display:block!important}</style>
+#pane-corporate.on{display:block!important}
+/* AIPAC inline breakdown */
+.irow.aipac-row { align-items: flex-start; padding-bottom: 14px; }
+.aipac-bar {
+  display: flex; height: 5px; border-radius: 3px; overflow: hidden;
+  background: #f3e8d2; margin: 10px 0 8px;
+}
+.aipac-seg { height: 100%; }
+.aipac-seg.seg-pacs  { background: #b45309; }
+.aipac-seg.seg-ie    { background: #7c3aed; }
+.aipac-seg.seg-lobby { background: #0369a1; }
+.aipac-legend {
+  display: flex; flex-wrap: wrap; gap: 4px 14px;
+  font-size: 11px; color: var(--t2, #6b6b75);
+}
+.aipac-leg { display: inline-flex; align-items: center; gap: 5px; line-height: 1.4; }
+.aipac-dot { width: 8px; height: 8px; border-radius: 2px; flex-shrink: 0; }
+.aipac-dot.dot-pacs  { background: #b45309; }
+.aipac-dot.dot-ie    { background: #7c3aed; }
+.aipac-dot.dot-lobby { background: #0369a1; }
+.aipac-amt { color: var(--t1, #1a1a1a); font-weight: 600; font-variant-numeric: tabular-nums; }
+.aipac-note {
+  margin-top: 8px; padding-top: 7px;
+  border-top: 1px solid rgba(180,83,9,0.18);
+  font-size: 11px; color: var(--t2, #6b6b75); line-height: 1.45;
+}
+</style>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
   <link rel="sitemap" type="application/xml" href="/sitemap.xml">
@@ -1758,15 +1784,72 @@ function renderMBody(){
       <div class="sb"><div class="sl">Net worth</div><div class="sv">${prof.net_worth||'—'}</div></div>
     </div>
     <div class="stitle">Special interest contributions</div>
-    ${[['✡️ AIPAC / Pro-Israel',aipac?fmt(aipac):d.aipac,'TrackAIPAC.com'],
-       ['⛽ Oil & Gas / Fossil fuels',fossil?fmt(fossil):d.oil_gas,'OpenSecrets'],
-       ['💊 Pharma / Healthcare',d.pharma,'OpenSecrets'],
-       ['🏦 Wall Street / Finance',d.wall_street,'OpenSecrets'],
-       ['🎖 Defense / MIC',d.defense,'OpenSecrets'],
-       ['💻 Big Tech',d.tech,'OpenSecrets']].map(([l,v,src])=>{
-      const has=v&&v!=='None'&&v!=='N/A'&&v!=='null'&&v!=='0'&&v!=='$0';
-      return `<div class="irow"><div><div class="il">${l}</div><div class="isrc">${src}</div></div><span class="iv${has?'':' none'}">${has?v:'None on record'}</span></div>`;
-    }).join('')}
+    ${(()=>{
+      // Build sector rows. AIPAC row gets an inline breakdown (PACs / IE /
+      // Lobby Donors) from FEC_V8_DATA, which mirrors what TrackAIPAC publishes
+      // per member. Other sectors render flat as before. Additive: members
+      // without a FEC_V8_DATA record (cabinet, justices) fall through to the
+      // unchanged flat row automatically.
+      const rows = [
+        ['✡️ AIPAC / Pro-Israel', aipac?fmt(aipac):d.aipac, 'TrackAIPAC.com', 'aipac'],
+        ['⛽ Oil & Gas / Fossil fuels', fossil?fmt(fossil):d.oil_gas, 'OpenSecrets', null],
+        ['💊 Pharma / Healthcare', d.pharma, 'OpenSecrets', null],
+        ['🏦 Wall Street / Finance', d.wall_street, 'OpenSecrets', null],
+        ['🎖 Defense / MIC', d.defense, 'OpenSecrets', null],
+        ['💻 Big Tech', d.tech, 'OpenSecrets', null]
+      ];
+      const fecRec = (typeof FEC_V8_DATA !== 'undefined' && FEC_V8_DATA && curModal && curModal.person) ? FEC_V8_DATA[curModal.person.name] : null;
+      return rows.map(row => {
+        const l = row[0], v = row[1], src = row[2], kind = row[3];
+        const has = v && v !== 'None' && v !== 'N/A' && v !== 'null' && v !== '0' && v !== '$0';
+        const flat = '<div class="irow"><div><div class="il">'+l+'</div><div class="isrc">'+src+'</div></div><span class="iv'+(has?'':' none')+'">'+(has?v:'None on record')+'</span></div>';
+        if (kind !== 'aipac' || !has || !fecRec) return flat;
+        const total = Number(fecRec.aipac||0);
+        const pacs  = Number(fecRec.aipac_pacs||0);
+        const ie    = Number(fecRec.aipac_ie||0);
+        const lobby = Number(fecRec.aipac_lobby_donors||0);
+        if (total <= 0 || (pacs+ie+lobby) <= 0) return flat;
+        const fmtAmt = n => {
+          if (n >= 1000000) return '$' + (n/1000000).toFixed(n>=10000000?1:2).replace(/\.?0+$/,'') + 'M';
+          if (n >= 1000)    return '$' + Math.round(n/1000) + 'K';
+          return '$' + Math.round(n).toLocaleString();
+        };
+        const pP = Math.max(0, pacs/total*100);
+        const iP = Math.max(0, ie/total*100);
+        const lP = Math.max(0, lobby/total*100);
+        let note = '';
+        const parts = [['PACs',pacs,pP],['independent expenditures',ie,iP],['lobby donor contributions',lobby,lP]];
+        const top = parts.slice().sort((a,b) => b[1]-a[1])[0];
+        if (top[2] >= 90) {
+          note = (top[0]==='PACs') ? 'Nearly all direct PAC contributions.' : 'Nearly all '+top[0]+'.';
+        } else if (top[2] >= 45) {
+          note = Math.round(top[2])+'% '+top[0]+'.';
+        }
+        if (ie > 0 && top[0]==='independent expenditures') {
+          note += ' Outside spending in support of the candidate, not received by their campaign.';
+        }
+        return ''
+          + '<div class="irow aipac-row">'
+            + '<div style="width:100%">'
+              + '<div style="display:flex;justify-content:space-between;align-items:baseline;gap:12px">'
+                + '<div><div class="il">'+l+'</div><div class="isrc">'+src+'</div></div>'
+                + '<span class="iv">'+v+'</span>'
+              + '</div>'
+              + '<div class="aipac-bar" aria-hidden="true">'
+                + '<div class="aipac-seg seg-pacs"  style="width:'+pP+'%"></div>'
+                + '<div class="aipac-seg seg-ie"    style="width:'+iP+'%"></div>'
+                + '<div class="aipac-seg seg-lobby" style="width:'+lP+'%"></div>'
+              + '</div>'
+              + '<div class="aipac-legend">'
+                + '<div class="aipac-leg"><span class="aipac-dot dot-pacs"></span>PACs <span class="aipac-amt">'+fmtAmt(pacs)+'</span></div>'
+                + '<div class="aipac-leg"><span class="aipac-dot dot-ie"></span>IE <span class="aipac-amt">'+fmtAmt(ie)+'</span></div>'
+                + '<div class="aipac-leg"><span class="aipac-dot dot-lobby"></span>Lobby donors <span class="aipac-amt">'+fmtAmt(lobby)+'</span></div>'
+              + '</div>'
+              + (note ? '<div class="aipac-note">'+note+'</div>' : '')
+            + '</div>'
+          + '</div>';
+      }).join('');
+    })()}
     <div class="stitle">Full donor records</div>
     <div style="background:var(--c2);border:1px solid var(--bdr);border-radius:8px;padding:14px 16px;margin-top:4px"><div style="font-size:13px;color:var(--t2);line-height:1.6">Sector totals above are sourced from <strong>OpenSecrets</strong> and the <strong>FEC</strong>. For a full itemised breakdown of every individual donor, PAC, and Super PAC contribution, visit:</div><a href="https://www.opensecrets.org/members-of-congress" target="_blank" rel="noopener" style="display:inline-block;margin-top:10px;padding:8px 16px;background:#1a7f5a;color:#fff;border-radius:6px;font-size:13px;font-weight:600;text-decoration:none">🔍 View full donor profile on OpenSecrets</a><div style="font-size:11px;color:var(--t3);margin-top:10px">Note: Sector totals reflect direct contributions to campaign committees only and do not include Super PAC or dark money spending made independently on a member's behalf.</div></div>`
     + (function(){
@@ -2868,9 +2951,27 @@ function buildShareData(explicitPerson) {
   function expandVal(v) {
     if(!v) return v;
     var s = String(v).trim();
-    // Parse number from string like "$1.2M", "$650K", "$1,234,567"
-    var m = s.match(/\$?([\d,\.]+)\s*([KkMmBb]?)/);
-    if(!m) return s;
+    s = s.replace(/^\$/, '');
+    // Range like "$1-4M" or "$800K-$2M": lower-bound suffix may be implicit
+    // (shared from upper bound). Always parse to the lower bound dollar value.
+    if (s.indexOf('-') !== -1) {
+      var parts = s.split('-');
+      var lower = parts[0].trim();
+      var upper = parts.slice(1).join('-').replace(/^\$/, '').trim();
+      var upperM = upper.match(/^([\d,\.]+)\s*([KkMmBb]?)/);
+      var upperSuf = (upperM && upperM[2]) ? upperM[2].toUpperCase() : '';
+      var lowerM = lower.match(/^([\d,\.]+)\s*([KkMmBb]?)/);
+      if (!lowerM) return v;
+      var n = parseFloat(lowerM[1].replace(/,/g, ''));
+      var suf = (lowerM[2] ? lowerM[2].toUpperCase() : '') || upperSuf;
+      if (suf === 'B') n *= 1e9;
+      else if (suf === 'M') n *= 1e6;
+      else if (suf === 'K') n *= 1e3;
+      return '$' + Math.round(n).toLocaleString('en-US');
+    }
+    // Single value like "$1.2M", "$650K", "$1,234,567"
+    var m = s.match(/^([\d,\.]+)\s*([KkMmBb]?)/);
+    if(!m) return v;
     var n = parseFloat(m[1].replace(/,/g,''));
     var suf = m[2].toUpperCase();
     if(suf === 'B') n *= 1e9;

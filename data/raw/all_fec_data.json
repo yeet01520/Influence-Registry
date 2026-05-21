@@ -14047,10 +14047,60 @@
     "special_interest_total": 0,
     "grassroots": 14222
   },
+  "Shontel Brown": {
+    "candidate_id": "H2OH11169",
+    "all_candidate_ids": [
+      "H2OH11169",
+      "S6OH00163"
+    ],
+    "committees": [
+      "C00764381",
+      "C00916288"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 281593,
+    "aipac": 6639385,
+    "aipac_pacs": 1520814,
+    "aipac_ie": 3182118,
+    "aipac_lobby_donors": 1936453,
+    "aipac_sources": "AIPAC, AUSD, COPAC, DMFI, HEARTLAND, JAC, LAFAS, MDACC, NORPAC, PIA, TPOH",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 6639385,
+    "grassroots": 87320
+  },
+  "Elise Stefanik": {
+    "candidate_id": "H4NY21079",
+    "all_candidate_ids": [
+      "H4NY21079"
+    ],
+    "committees": [
+      "C00547893"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 579944,
+    "aipac": 2985287,
+    "aipac_pacs": 683429,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2301858,
+    "aipac_sources": "AIPAC, AMP, NORPAC, PHXED, PIA, RJC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 2000,
+    "special_interest_total": 2987287,
+    "grassroots": 21166
+  },
   "_meta": {
     "complete": false,
-    "members_done": 534,
-    "members_total": 536,
+    "members_done": 536,
+    "members_total": 538,
     "missing": [],
     "status": "running"
   }

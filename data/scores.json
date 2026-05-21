@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-05-16T20:56:18.147334+00:00",
+    "generated_at": "2026-05-21T03:59:12.593364+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -2281,7 +2281,7 @@
     "reasons": []
   },
   "Linda S\u00e1nchez": {
-    "pct": 80,
+    "pct": 86,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -4846,7 +4846,7 @@
     ]
   },
   "Wesley Bell": {
-    "pct": 83,
+    "pct": 77,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -5320,7 +5320,7 @@
     ]
   },
   "Grace Meng": {
-    "pct": 86,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -5527,11 +5527,11 @@
     ]
   },
   "Elise Stefanik": {
-    "pct": 71,
+    "pct": 74,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 987650,
+    "super_pac_total": 2985287,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6483,7 +6483,7 @@
     ]
   },
   "Joe Wilson": {
-    "pct": 86,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -8903,7 +8903,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 19351,
+    "super_pac_total": 39184,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9174,13 +9174,15 @@
     ]
   },
   "Shontel Brown": {
-    "pct": 45,
-    "lbl": "Moderate",
+    "pct": 65,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#ca8a04",
-    "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": []
+    "col": "#ea580c",
+    "super_pac_total": 6639385,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC"
+    ]
   },
   "Todd Blanche": {
     "pct": 72,

@@ -27787,5 +27787,52 @@
       }
     ],
     "fetched_at": "2026-05-21T06:54:47.582979+00:00"
+  },
+  "Shontel Brown": {
+    "candidate_ids_used": [
+      "H2OH11169"
+    ],
+    "total_supporting": 27014624,
+    "total_opposing": 374990,
+    "cycles": [
+      2021,
+      2022,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00801514",
+        "committee_name": "PROTECT OUR FUTURE PAC",
+        "amount": 15155780
+      },
+      {
+        "committee_id": "C00710848",
+        "committee_name": "DMFI PAC",
+        "amount": 9876965
+      },
+      {
+        "committee_id": "C00799031",
+        "committee_name": "UNITED DEMOCRACY PROJECT (UDP)",
+        "amount": 1217253
+      },
+      {
+        "committee_id": "C00409730",
+        "committee_name": "NEW DEMOCRAT COALITION ACTION FUND",
+        "amount": 499765
+      },
+      {
+        "committee_id": "C00684969",
+        "committee_name": "JDCA PAC",
+        "amount": 151034
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00802660",
+        "committee_name": "JUSTICE FOR ALL OF US ACTION FUND",
+        "amount": 374990
+      }
+    ],
+    "fetched_at": "2026-05-21T07:20:42.136383+00:00"
   }
 }

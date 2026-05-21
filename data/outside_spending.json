@@ -27716,5 +27716,146 @@
     "fetched_at": "2026-05-08T16:02:42.016548+00:00",
     "source": "FEC schedule_e (is_notice=false, processed) aggregated client-side",
     "_pages_fetched": 6
+  },
+  "Shontel Brown": {
+    "candidate_ids_used": [
+      "H2OH11169",
+      "S6OH00163"
+    ],
+    "total_supporting": 148942116,
+    "total_opposing": 685003012,
+    "cycles": [
+      2021,
+      2022,
+      2024,
+      2025,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00625533",
+        "committee_name": "NEW AMERICAN JOBS FUND",
+        "amount": 31650802
+      },
+      {
+        "committee_id": "C00620971",
+        "committee_name": "FOR OUR FUTURE",
+        "amount": 25982540
+      },
+      {
+        "committee_id": "C00865444",
+        "committee_name": "WINSENATE",
+        "amount": 20492000
+      },
+      {
+        "committee_id": "C00801514",
+        "committee_name": "PROTECT OUR FUTURE PAC",
+        "amount": 15155780
+      },
+      {
+        "committee_id": "C90021726",
+        "committee_name": "OHIO CITIZEN ACTION",
+        "amount": 12400480
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 284116880
+      },
+      {
+        "committee_id": "C00912865",
+        "committee_name": "OHIO FLYER PAC",
+        "amount": 248728348
+      },
+      {
+        "committee_id": "C00571703",
+        "committee_name": "SLF PAC",
+        "amount": 137129117
+      },
+      {
+        "committee_id": "C00811166",
+        "committee_name": "THE SENTINEL ACTION FUND",
+        "amount": 7235450
+      },
+      {
+        "committee_id": "C00530766",
+        "committee_name": "WOMEN SPEAK OUT PAC",
+        "amount": 4743330
+      }
+    ],
+    "fetched_at": "2026-05-21T06:54:42.741972+00:00"
+  },
+  "Elise Stefanik": {
+    "candidate_ids_used": [
+      "H4NY21079"
+    ],
+    "total_supporting": 2083490,
+    "total_opposing": 1033649,
+    "cycles": [
+      2016,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C90014838",
+        "committee_name": "CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.",
+        "amount": 970086
+      },
+      {
+        "committee_id": "C00760124",
+        "committee_name": "NATIONAL VICTORY ACTION FUND",
+        "amount": 540000
+      },
+      {
+        "committee_id": "C00608943",
+        "committee_name": "CLEARPATH ACTION FUND, INC.",
+        "amount": 250960
+      },
+      {
+        "committee_id": "C90014895",
+        "committee_name": "ENVIRONMENTAL DEFENSE ACTION FUND",
+        "amount": 179610
+      },
+      {
+        "committee_id": "C00523589",
+        "committee_name": "AMERICAN UNITY PAC INC",
+        "amount": 90000
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00725820",
+        "committee_name": "THE LINCOLN PROJECT",
+        "amount": 801699
+      },
+      {
+        "committee_id": "C00647966",
+        "committee_name": "RURAL FREEDOM NETWORK",
+        "amount": 120000
+      },
+      {
+        "committee_id": "C00746073",
+        "committee_name": "MEIDASTOUCH",
+        "amount": 59138
+      },
+      {
+        "committee_id": "C90012071",
+        "committee_name": "PEOPLE FOR THE AMERICAN WAY",
+        "amount": 30000
+      },
+      {
+        "committee_id": "C00749143",
+        "committee_name": "DEFEAT BY TWEET",
+        "amount": 18900
+      }
+    ],
+    "fetched_at": "2026-05-21T06:54:47.582979+00:00"
   }
 }

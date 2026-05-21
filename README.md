@@ -4,7 +4,7 @@ A free, open-source, public-data tool for tracking corporate money in U.S. gover
 
 🌐 **Live site:** [keep-dc-honest.com](https://keep-dc-honest.com)
 
-The Influence Registry profiles every member of Congress, the Cabinet, and the Supreme Court using publicly available campaign finance and ethics data. It's built so anyone can decide for themselves whether their representatives are working for them.
+The Influence Registry profiles every member of Congress, the Cabinet, and the Supreme Court using publicly available campaign finance and ethics data. It's built so anyone can decide for themselves whether their representatives are working for them. 
 
 ---
 

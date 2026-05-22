@@ -9,8 +9,8 @@
       "C00701672"
     ],
     "source": "FEC_v7",
-    "total_raised": 13599025,
-    "aipac": 29184,
+    "total_raised": 245030,
+    "aipac": 237976,
     "aipac_pacs": 29184,
     "aipac_ie": 0,
     "aipac_lobby_donors": 208792,
@@ -37,8 +37,8 @@
       "C00909168"
     ],
     "source": "FEC_v7",
-    "total_raised": 17879053,
-    "aipac": 106961,
+    "total_raised": 483624,
+    "aipac": 408384,
     "aipac_pacs": 106961,
     "aipac_ie": 0,
     "aipac_lobby_donors": 301423,
@@ -61,8 +61,8 @@
       "C00384529"
     ],
     "source": "FEC_v7",
-    "total_raised": 29621690,
-    "aipac": 265262,
+    "total_raised": 1215353,
+    "aipac": 1047757,
     "aipac_pacs": 265262,
     "aipac_ie": 0,
     "aipac_lobby_donors": 782495,
@@ -91,8 +91,8 @@
       "C00831370"
     ],
     "source": "FEC_v7",
-    "total_raised": 27774342,
-    "aipac": 422656,
+    "total_raised": 710205,
+    "aipac": 1399667,
     "aipac_pacs": 422656,
     "aipac_ie": 0,
     "aipac_lobby_donors": 977011,
@@ -117,8 +117,8 @@
       "C00670547"
     ],
     "source": "FEC_v7",
-    "total_raised": 246124079,
-    "aipac": 492503,
+    "total_raised": 767915,
+    "aipac": 4461823,
     "aipac_pacs": 492503,
     "aipac_ie": 0,
     "aipac_lobby_donors": 3969320,
@@ -136,14 +136,15 @@
     "candidate_id": "S4AZ00139",
     "all_candidate_ids": [
       "S4AZ00139",
-      "H6AZ01348"
+      "H4AZ07043",
+      "P80008261"
     ],
     "committees": [
       "C00558627"
     ],
     "source": "FEC_v7",
-    "total_raised": 76301224,
-    "aipac": 83219,
+    "total_raised": 316629,
+    "aipac": 1769097,
     "aipac_pacs": 83219,
     "aipac_ie": 1608,
     "aipac_lobby_donors": 1684270,
@@ -168,8 +169,8 @@
       "C00367979"
     ],
     "source": "FEC_v7",
-    "total_raised": 20158609,
-    "aipac": 191516,
+    "total_raised": 1444439,
+    "aipac": 712913,
     "aipac_pacs": 191516,
     "aipac_ie": 0,
     "aipac_lobby_donors": 521397,
@@ -195,8 +196,8 @@
       "C00480624"
     ],
     "source": "FEC_v7",
-    "total_raised": 41889291,
-    "aipac": 875867,
+    "total_raised": 610345,
+    "aipac": 2963774,
     "aipac_pacs": 875867,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2087907,
@@ -221,8 +222,8 @@
       "C00654046"
     ],
     "source": "FEC_v7",
-    "total_raised": 14075405,
-    "aipac": 104055,
+    "total_raised": 305694,
+    "aipac": 856179,
     "aipac_pacs": 104055,
     "aipac_ie": 0,
     "aipac_lobby_donors": 752124,
@@ -246,8 +247,8 @@
       "C00343871"
     ],
     "source": "FEC_v7",
-    "total_raised": 121589850,
-    "aipac": 580918,
+    "total_raised": 1038530,
+    "aipac": 9550120,
     "aipac_pacs": 580918,
     "aipac_ie": 5000000,
     "aipac_lobby_donors": 3969202,
@@ -274,8 +275,8 @@
       "C00722108"
     ],
     "source": "FEC_v7",
-    "total_raised": 62671498,
-    "aipac": 357116,
+    "total_raised": 935731,
+    "aipac": 3176314,
     "aipac_pacs": 357116,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2819198,
@@ -287,7 +288,7 @@
     "tech": 3893922,
     "nra": 0,
     "special_interest_total": 22958811,
-    "grassroots": 64453
+    "grassroots": 64853
   },
   "John Hickenlooper": {
     "candidate_id": "S0CO00575",
@@ -300,8 +301,8 @@
       "C00698258"
     ],
     "source": "FEC_v7",
-    "total_raised": 56739893,
-    "aipac": 496146,
+    "total_raised": 133853,
+    "aipac": 2491132,
     "aipac_pacs": 496146,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1994986,
@@ -328,8 +329,8 @@
       "C00486548"
     ],
     "source": "FEC_v7",
-    "total_raised": 28345238,
-    "aipac": 262682,
+    "total_raised": 1619136,
+    "aipac": 1673548,
     "aipac_pacs": 262682,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1410866,
@@ -347,26 +348,29 @@
     "candidate_id": "S2CT00132",
     "all_candidate_ids": [
       "S2CT00132",
-      "H6CT05124"
+      "H6CT05124",
+      "P00011486"
     ],
     "committees": [
       "C00492645",
-      "C00411660"
+      "C00411660",
+      "C00703249",
+      "C00708826"
     ],
     "source": "FEC_v7",
-    "total_raised": 63783987,
-    "aipac": 133605,
+    "total_raised": 729525,
+    "aipac": 1247085,
     "aipac_pacs": 133605,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1113480,
     "aipac_sources": "FIPAC, JAC, JSTREET, MOPAC, NACPAC, NORPAC",
-    "fossil_fuels": 102157,
-    "pharma": 2992345,
-    "defense": 238457,
-    "finance": 7056505,
-    "tech": 2362750,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 13999299,
+    "special_interest_total": 1247085,
     "grassroots": 28459
   },
   "Chris Coons": {
@@ -379,8 +383,8 @@
       "C00475392"
     ],
     "source": "FEC_v7",
-    "total_raised": 23035630,
-    "aipac": 322152,
+    "total_raised": 777510,
+    "aipac": 1722613,
     "aipac_pacs": 322152,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1400461,
@@ -398,14 +402,17 @@
     "candidate_id": "S8FL00273",
     "all_candidate_ids": [
       "S8FL00273",
-      "H6FL22115"
+      "H4MI02120",
+      "P40015224"
     ],
     "committees": [
-      "C00676965"
+      "C00676965",
+      "C00884734",
+      "C00849604"
     ],
     "source": "FEC_v7",
-    "total_raised": 133261080,
-    "aipac": 573767,
+    "total_raised": 213612,
+    "aipac": 2047002,
     "aipac_pacs": 573767,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1473235,
@@ -430,8 +437,8 @@
       "C00630426"
     ],
     "source": "FEC_v7",
-    "total_raised": 266247516,
-    "aipac": 748908,
+    "total_raised": 637284,
+    "aipac": 5280917,
     "aipac_pacs": 748908,
     "aipac_ie": 102269,
     "aipac_lobby_donors": 4429740,
@@ -454,8 +461,8 @@
       "C00736876"
     ],
     "source": "FEC_v7",
-    "total_raised": 338722630,
-    "aipac": 646629,
+    "total_raised": 55257,
+    "aipac": 6121706,
     "aipac_pacs": 646629,
     "aipac_ie": 193607,
     "aipac_lobby_donors": 5281470,
@@ -481,8 +488,8 @@
       "C00420463"
     ],
     "source": "FEC_v7",
-    "total_raised": 16695416,
-    "aipac": 211432,
+    "total_raised": 769014,
+    "aipac": 716215,
     "aipac_pacs": 211432,
     "aipac_ie": 0,
     "aipac_lobby_donors": 504783,
@@ -506,8 +513,8 @@
       "C00420760"
     ],
     "source": "FEC_v7",
-    "total_raised": 19660944,
-    "aipac": 32848,
+    "total_raised": 853659,
+    "aipac": 231363,
     "aipac_pacs": 32848,
     "aipac_ie": 0,
     "aipac_lobby_donors": 198515,
@@ -532,8 +539,8 @@
       "C00254094"
     ],
     "source": "FEC_v7",
-    "total_raised": 26953284,
-    "aipac": 223977,
+    "total_raised": 1853607,
+    "aipac": 807474,
     "aipac_pacs": 223977,
     "aipac_ie": 0,
     "aipac_lobby_donors": 583497,
@@ -557,8 +564,8 @@
       "C00705855"
     ],
     "source": "FEC_v7",
-    "total_raised": 13674360,
-    "aipac": 658269,
+    "total_raised": 1018803,
+    "aipac": 1549867,
     "aipac_pacs": 658269,
     "aipac_ie": 0,
     "aipac_lobby_donors": 891598,
@@ -583,8 +590,8 @@
       "C00148999"
     ],
     "source": "FEC_v7",
-    "total_raised": 50840084,
-    "aipac": 32430,
+    "total_raised": 962168,
+    "aipac": 2737130,
     "aipac_pacs": 32430,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2704700,
@@ -610,8 +617,8 @@
       "C00418525"
     ],
     "source": "FEC_v7",
-    "total_raised": 60093678,
-    "aipac": 550273,
+    "total_raised": 639624,
+    "aipac": 2639142,
     "aipac_pacs": 550273,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2088869,
@@ -636,8 +643,8 @@
       "C00459255"
     ],
     "source": "FEC_v7",
-    "total_raised": 37188528,
-    "aipac": 232249,
+    "total_raised": 1353341,
+    "aipac": 1701904,
     "aipac_pacs": 232249,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1469655,
@@ -655,15 +662,17 @@
     "candidate_id": "S4IN00196",
     "all_candidate_ids": [
       "S4IN00196",
-      "H6IN03229"
+      "H0SC03044",
+      "P80004815"
     ],
     "committees": [
       "C00829416",
-      "C00577999"
+      "C00577999",
+      "C00439091"
     ],
     "source": "FEC_v7",
-    "total_raised": 15834137,
-    "aipac": 355651,
+    "total_raised": 633785,
+    "aipac": 926321,
     "aipac_pacs": 355651,
     "aipac_ie": 0,
     "aipac_lobby_donors": 570670,
@@ -689,8 +698,8 @@
       "C00047852"
     ],
     "source": "FEC_v7",
-    "total_raised": 49786120,
-    "aipac": 331397,
+    "total_raised": 2439915,
+    "aipac": 1310549,
     "aipac_pacs": 331397,
     "aipac_ie": 0,
     "aipac_lobby_donors": 979152,
@@ -718,8 +727,8 @@
       "C00433623"
     ],
     "source": "FEC_v7",
-    "total_raised": 49546190,
-    "aipac": 589661,
+    "total_raised": 613360,
+    "aipac": 2446900,
     "aipac_pacs": 589661,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1857239,
@@ -745,8 +754,8 @@
       "C00312090"
     ],
     "source": "FEC_v7",
-    "total_raised": 29166534,
-    "aipac": 163949,
+    "total_raised": 3895553,
+    "aipac": 732374,
     "aipac_pacs": 163949,
     "aipac_ie": 0,
     "aipac_lobby_donors": 568425,
@@ -771,8 +780,8 @@
       "C00108878"
     ],
     "source": "FEC_v7",
-    "total_raised": 15286755,
-    "aipac": 262295,
+    "total_raised": 716409,
+    "aipac": 691149,
     "aipac_pacs": 262295,
     "aipac_ie": 0,
     "aipac_lobby_donors": 428854,
@@ -800,8 +809,8 @@
       "C00426130"
     ],
     "source": "FEC_v7",
-    "total_raised": 154114122,
-    "aipac": 979146,
+    "total_raised": 1756409,
+    "aipac": 3888598,
     "aipac_pacs": 979146,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2909452,
@@ -829,8 +838,8 @@
       "C00606830"
     ],
     "source": "FEC_v7",
-    "total_raised": 59212095,
-    "aipac": 1000,
+    "total_raised": 774221,
+    "aipac": 201753,
     "aipac_pacs": 1000,
     "aipac_ie": 0,
     "aipac_lobby_donors": 200753,
@@ -857,8 +866,8 @@
       "C00247072"
     ],
     "source": "FEC_v7",
-    "total_raised": 40350758,
-    "aipac": 421062,
+    "total_raised": 809504,
+    "aipac": 2037247,
     "aipac_pacs": 421062,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1616185,
@@ -885,8 +894,8 @@
       "C00439091"
     ],
     "source": "FEC_v7",
-    "total_raised": 78802619,
-    "aipac": 108680,
+    "total_raised": 978548,
+    "aipac": 896118,
     "aipac_pacs": 108680,
     "aipac_ie": 0,
     "aipac_lobby_donors": 787438,
@@ -914,8 +923,8 @@
       "C00875310"
     ],
     "source": "FEC_v7",
-    "total_raised": 64542417,
-    "aipac": 1352418,
+    "total_raised": 1328461,
+    "aipac": 3941019,
     "aipac_pacs": 1352418,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2588601,
@@ -933,15 +942,16 @@
     "candidate_id": "S2ME00109",
     "all_candidate_ids": [
       "S2ME00109",
-      "H2ME02048"
+      "P60023470",
+      "H4GA05014"
     ],
     "committees": [
       "C00516047",
-      "C00262436"
+      "C00183582"
     ],
     "source": "FEC_v7",
-    "total_raised": 14378373,
-    "aipac": 206555,
+    "total_raised": 919788,
+    "aipac": 608694,
     "aipac_pacs": 206555,
     "aipac_ie": 0,
     "aipac_lobby_donors": 402139,
@@ -953,7 +963,7 @@
     "tech": 779800,
     "nra": 0,
     "special_interest_total": 4704584,
-    "grassroots": 20442
+    "grassroots": 20242
   },
   "Angela Alsobrooks": {
     "candidate_id": "S4MD00327",
@@ -964,8 +974,8 @@
       "C00840017"
     ],
     "source": "FEC_v7",
-    "total_raised": 32592389,
-    "aipac": 224016,
+    "total_raised": 0,
+    "aipac": 1509536,
     "aipac_pacs": 224016,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1285520,
@@ -983,15 +993,18 @@
     "candidate_id": "S2MA00170",
     "all_candidate_ids": [
       "S2MA00170",
-      "H8MA08055"
+      "H4MI03185",
+      "P00003715"
     ],
     "committees": [
       "C00500843",
-      "C00329268"
+      "C00345454",
+      "C00423640",
+      "C00576843"
     ],
     "source": "FEC_v7",
-    "total_raised": 102571983,
-    "aipac": 30454,
+    "total_raised": 139495,
+    "aipac": 1385014,
     "aipac_pacs": 30454,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1354560,
@@ -1003,7 +1016,7 @@
     "tech": 12148933,
     "nra": 0,
     "special_interest_total": 31573926,
-    "grassroots": 21833
+    "grassroots": 25149
   },
   "Ed Markey": {
     "candidate_id": "S4MA00028",
@@ -1017,8 +1030,8 @@
       "C00049148"
     ],
     "source": "FEC_v7",
-    "total_raised": 49284807,
-    "aipac": 54059,
+    "total_raised": 1246266,
+    "aipac": 1897285,
     "aipac_pacs": 54059,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1843226,
@@ -1043,8 +1056,8 @@
       "C00437889"
     ],
     "source": "FEC_v7",
-    "total_raised": 78402353,
-    "aipac": 222740,
+    "total_raised": 878146,
+    "aipac": 3386784,
     "aipac_pacs": 222740,
     "aipac_ie": 182211,
     "aipac_lobby_donors": 2981833,
@@ -1069,8 +1082,8 @@
       "C00650150"
     ],
     "source": "FEC_v7",
-    "total_raised": 83601348,
-    "aipac": 390092,
+    "total_raised": 400670,
+    "aipac": 4517023,
     "aipac_pacs": 390092,
     "aipac_ie": 101097,
     "aipac_lobby_donors": 4025834,
@@ -1096,8 +1109,8 @@
       "C00696419"
     ],
     "source": "FEC_v7",
-    "total_raised": 109513442,
-    "aipac": 393820,
+    "total_raised": 1227953,
+    "aipac": 3074868,
     "aipac_pacs": 393820,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2681048,
@@ -1124,8 +1137,8 @@
       "C00638684"
     ],
     "source": "FEC_v7",
-    "total_raised": 29249014,
-    "aipac": 113794,
+    "total_raised": 321512,
+    "aipac": 923735,
     "aipac_pacs": 113794,
     "aipac_ie": 0,
     "aipac_lobby_donors": 809941,
@@ -1143,7 +1156,8 @@
     "candidate_id": "S8MS00196",
     "all_candidate_ids": [
       "S8MS00196",
-      "H4MS01078"
+      "H4MS01078",
+      "P60008828"
     ],
     "committees": [
       "C00443218",
@@ -1154,8 +1168,8 @@
       "C00342485"
     ],
     "source": "FEC_v7",
-    "total_raised": 32592675,
-    "aipac": 533926,
+    "total_raised": 2921862,
+    "aipac": 1463291,
     "aipac_pacs": 533926,
     "aipac_ie": 0,
     "aipac_lobby_donors": 929365,
@@ -1179,8 +1193,8 @@
       "C00705731"
     ],
     "source": "FEC_v7",
-    "total_raised": 13980063,
-    "aipac": 221345,
+    "total_raised": 348194,
+    "aipac": 814281,
     "aipac_pacs": 221345,
     "aipac_ie": 0,
     "aipac_lobby_donors": 592936,
@@ -1204,8 +1218,8 @@
       "C00652727"
     ],
     "source": "FEC_v7",
-    "total_raised": 40933270,
-    "aipac": 273535,
+    "total_raised": 366005,
+    "aipac": 983446,
     "aipac_pacs": 273535,
     "aipac_ie": 0,
     "aipac_lobby_donors": 709911,
@@ -1232,8 +1246,8 @@
       "C00774984"
     ],
     "source": "FEC_v7",
-    "total_raised": 13322127,
-    "aipac": 37079,
+    "total_raised": 1012553,
+    "aipac": 251452,
     "aipac_pacs": 37079,
     "aipac_ie": 0,
     "aipac_lobby_donors": 214373,
@@ -1258,19 +1272,19 @@
       "C00491357"
     ],
     "source": "FEC_v7",
-    "total_raised": 51237455,
-    "aipac": 561668,
+    "total_raised": 793869,
+    "aipac": 1829026,
     "aipac_pacs": 561668,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1267358,
     "aipac_sources": "AIPAC, AMP, AUSD, COPAC, FIPAC, GCSC, LAFAS, MDACC, NACPAC, NORPAC, NWPAC, PIA, RJC, SUNPAC, TPOH, USI",
-    "fossil_fuels": 1363661,
-    "pharma": 1956558,
-    "defense": 238026,
-    "finance": 6673776,
-    "tech": 1249438,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 8000,
-    "special_interest_total": 13318485,
+    "special_interest_total": 1837026,
     "grassroots": 20862
   },
   "Tim Sheehy": {
@@ -1285,8 +1299,8 @@
       "C00118034"
     ],
     "source": "FEC_v7",
-    "total_raised": 31444030,
-    "aipac": 79253,
+    "total_raised": 229888,
+    "aipac": 641337,
     "aipac_pacs": 79253,
     "aipac_ie": 0,
     "aipac_lobby_donors": 562084,
@@ -1298,7 +1312,7 @@
     "tech": 322251,
     "nra": 0,
     "special_interest_total": 6582157,
-    "grassroots": 39387
+    "grassroots": 38875
   },
   "Deb Fischer": {
     "candidate_id": "S2NE00094",
@@ -1313,8 +1327,8 @@
       "C00467175"
     ],
     "source": "FEC_v7",
-    "total_raised": 21115627,
-    "aipac": 632220,
+    "total_raised": 536972,
+    "aipac": 1594052,
     "aipac_pacs": 632220,
     "aipac_ie": 0,
     "aipac_lobby_donors": 961832,
@@ -1342,8 +1356,8 @@
       "C00416768"
     ],
     "source": "FEC_v7",
-    "total_raised": 24359463,
-    "aipac": 372552,
+    "total_raised": 703341,
+    "aipac": 860783,
     "aipac_pacs": 372552,
     "aipac_ie": 0,
     "aipac_lobby_donors": 488231,
@@ -1361,14 +1375,17 @@
     "candidate_id": "S8NV00156",
     "all_candidate_ids": [
       "S8NV00156",
-      "H6NV02230"
+      "P80004641",
+      "H6NV03139"
     ],
     "committees": [
-      "C00606939"
+      "C00606939",
+      "C00438218",
+      "C00582874"
     ],
     "source": "FEC_v7",
-    "total_raised": 81366674,
-    "aipac": 2107243,
+    "total_raised": 274230,
+    "aipac": 7602864,
     "aipac_pacs": 2107243,
     "aipac_ie": 203150,
     "aipac_lobby_donors": 5292471,
@@ -1393,8 +1410,8 @@
       "C00093039"
     ],
     "source": "FEC_v7",
-    "total_raised": 92243731,
-    "aipac": 690749,
+    "total_raised": 144270,
+    "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
     "aipac_lobby_donors": 0,
@@ -1405,7 +1422,7 @@
     "finance": 6369500,
     "tech": 3474963,
     "nra": 0,
-    "special_interest_total": 14442551,
+    "special_interest_total": 13751802,
     "grassroots": 71725
   },
   "Jeanne Shaheen": {
@@ -1420,8 +1437,8 @@
       "C00368506"
     ],
     "source": "FEC_v7",
-    "total_raised": 53245313,
-    "aipac": 385505,
+    "total_raised": 596592,
+    "aipac": 1781761,
     "aipac_pacs": 385505,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1396256,
@@ -1447,8 +1464,8 @@
       "C00420836"
     ],
     "source": "FEC_v7",
-    "total_raised": 65816697,
-    "aipac": 760212,
+    "total_raised": 188497,
+    "aipac": 3363137,
     "aipac_pacs": 760212,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2602925,
@@ -1460,7 +1477,7 @@
     "tech": 2950176,
     "nra": 0,
     "special_interest_total": 15660890,
-    "grassroots": 60289
+    "grassroots": 56874
   },
   "Cory Booker": {
     "candidate_id": "S4NJ00185",
@@ -1474,8 +1491,8 @@
       "C00695510"
     ],
     "source": "FEC_v7",
-    "total_raised": 93349603,
-    "aipac": 836541,
+    "total_raised": 1400585,
+    "aipac": 5818073,
     "aipac_pacs": 836541,
     "aipac_ie": 0,
     "aipac_lobby_donors": 4981532,
@@ -1500,8 +1517,8 @@
       "C00648220"
     ],
     "source": "FEC_v7",
-    "total_raised": 34741479,
-    "aipac": 512969,
+    "total_raised": 149830,
+    "aipac": 2098021,
     "aipac_pacs": 512969,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1585052,
@@ -1525,8 +1542,8 @@
       "C00434563"
     ],
     "source": "FEC_v7",
-    "total_raised": 35063857,
-    "aipac": 288857,
+    "total_raised": 456590,
+    "aipac": 901358,
     "aipac_pacs": 288857,
     "aipac_ie": 0,
     "aipac_lobby_donors": 612501,
@@ -1552,19 +1569,19 @@
       "C00126219"
     ],
     "source": "FEC_v7",
-    "total_raised": 142427660,
-    "aipac": 415730,
+    "total_raised": 3696125,
+    "aipac": 6534797,
     "aipac_pacs": 415730,
     "aipac_ie": 0,
     "aipac_lobby_donors": 6119067,
     "aipac_sources": "AIPAC, AGG, AUSD, BICPAC, COPAC, CITYPAC, FIPAC, GCSC, HEARTLAND, JAC, LAFAS, MDACC, MMPAC, NACPAC, NATPAC, NORPAC, PIA, SUNPAC, TPOH, USI, WAPAC, WPIN, WAFI",
-    "fossil_fuels": 483734,
-    "pharma": 7790391,
-    "defense": 812992,
-    "finance": 38788107,
-    "tech": 8393743,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 62803764,
+    "special_interest_total": 6534797,
     "grassroots": 37139
   },
   "Kirsten Gillibrand": {
@@ -1579,8 +1596,8 @@
       "C00694018"
     ],
     "source": "FEC_v7",
-    "total_raised": 91236520,
-    "aipac": 628057,
+    "total_raised": 1233683,
+    "aipac": 3290289,
     "aipac_pacs": 628057,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2662232,
@@ -1606,8 +1623,8 @@
       "C00762492"
     ],
     "source": "FEC_v7",
-    "total_raised": 45832500,
-    "aipac": 405386,
+    "total_raised": 585515,
+    "aipac": 1682234,
     "aipac_pacs": 405386,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1276848,
@@ -1633,8 +1650,8 @@
       "C00614776"
     ],
     "source": "FEC_v7",
-    "total_raised": 23493602,
-    "aipac": 80136,
+    "total_raised": 864522,
+    "aipac": 689546,
     "aipac_pacs": 80136,
     "aipac_ie": 0,
     "aipac_lobby_donors": 609410,
@@ -1657,8 +1674,8 @@
       "C00473371"
     ],
     "source": "FEC_v7",
-    "total_raised": 12719087,
-    "aipac": 314804,
+    "total_raised": 1092666,
+    "aipac": 744276,
     "aipac_pacs": 314804,
     "aipac_ie": 0,
     "aipac_lobby_donors": 429472,
@@ -1685,8 +1702,8 @@
       "C00337287"
     ],
     "source": "FEC_v7",
-    "total_raised": 18584660,
-    "aipac": 364123,
+    "total_raised": 1027008,
+    "aipac": 969170,
     "aipac_pacs": 364123,
     "aipac_ie": 0,
     "aipac_lobby_donors": 605047,
@@ -1712,8 +1729,8 @@
       "C00829499"
     ],
     "source": "FEC_v7",
-    "total_raised": 36062992,
-    "aipac": 66112,
+    "total_raised": 917548,
+    "aipac": 1137218,
     "aipac_pacs": 66112,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1071106,
@@ -1739,8 +1756,8 @@
       "C00671792"
     ],
     "source": "FEC_v7",
-    "total_raised": 18744118,
-    "aipac": 311655,
+    "total_raised": 838617,
+    "aipac": 880737,
     "aipac_pacs": 311655,
     "aipac_ie": 0,
     "aipac_lobby_donors": 569082,
@@ -1766,8 +1783,8 @@
       "C00113530"
     ],
     "source": "FEC_v7",
-    "total_raised": 52371132,
-    "aipac": 474393,
+    "total_raised": 1832523,
+    "aipac": 3240227,
     "aipac_pacs": 474393,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2765834,
@@ -1790,7 +1807,7 @@
       "C00437277"
     ],
     "source": "FEC_v7",
-    "total_raised": 37136425,
+    "total_raised": 543830,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -1819,8 +1836,8 @@
       "C00677492"
     ],
     "source": "FEC_v7",
-    "total_raised": 68624920,
-    "aipac": 133977,
+    "total_raised": 5667812,
+    "aipac": 1054468,
     "aipac_pacs": 133977,
     "aipac_ie": 0,
     "aipac_lobby_donors": 920491,
@@ -1832,7 +1849,7 @@
     "tech": 710036,
     "nra": 0,
     "special_interest_total": 10680360,
-    "grassroots": 70156
+    "grassroots": 72875
   },
   "Jack Reed": {
     "candidate_id": "S6RI00163",
@@ -1846,8 +1863,8 @@
       "C00708248"
     ],
     "source": "FEC_v7",
-    "total_raised": 25272135,
-    "aipac": 328083,
+    "total_raised": 1076461,
+    "aipac": 1034684,
     "aipac_pacs": 328083,
     "aipac_ie": 0,
     "aipac_lobby_donors": 706601,
@@ -1870,8 +1887,8 @@
       "C00410803"
     ],
     "source": "FEC_v7",
-    "total_raised": 25463032,
-    "aipac": 408044,
+    "total_raised": 1178209,
+    "aipac": 1539762,
     "aipac_pacs": 408044,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1131718,
@@ -1900,8 +1917,8 @@
       "C00385344"
     ],
     "source": "FEC_v7",
-    "total_raised": 173194442,
-    "aipac": 898750,
+    "total_raised": 4480572,
+    "aipac": 4609193,
     "aipac_pacs": 898750,
     "aipac_ie": 0,
     "aipac_lobby_donors": 3710443,
@@ -1928,8 +1945,8 @@
       "C00849604"
     ],
     "source": "FEC_v7",
-    "total_raised": 93209644,
-    "aipac": 249459,
+    "total_raised": 1184206,
+    "aipac": 2135718,
     "aipac_pacs": 249459,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1886259,
@@ -1955,8 +1972,8 @@
       "C00395228"
     ],
     "source": "FEC_v7",
-    "total_raised": 68565897,
-    "aipac": 307569,
+    "total_raised": 2826129,
+    "aipac": 1081083,
     "aipac_pacs": 307569,
     "aipac_ie": 0,
     "aipac_lobby_donors": 773514,
@@ -1980,8 +1997,8 @@
       "C00532465"
     ],
     "source": "FEC_v7",
-    "total_raised": 13877067,
-    "aipac": 274097,
+    "total_raised": 883553,
+    "aipac": 967059,
     "aipac_pacs": 274097,
     "aipac_ie": 0,
     "aipac_lobby_donors": 692962,
@@ -2008,8 +2025,8 @@
       "C00608968"
     ],
     "source": "FEC_v7",
-    "total_raised": 30644162,
-    "aipac": 136097,
+    "total_raised": 404972,
+    "aipac": 666725,
     "aipac_pacs": 136097,
     "aipac_ie": 0,
     "aipac_lobby_donors": 530628,
@@ -2034,8 +2051,8 @@
       "C00270454"
     ],
     "source": "FEC_v7",
-    "total_raised": 48027195,
-    "aipac": 449882,
+    "total_raised": 968138,
+    "aipac": 1430020,
     "aipac_pacs": 449882,
     "aipac_ie": 0,
     "aipac_lobby_donors": 980138,
@@ -2062,8 +2079,8 @@
       "C00574624"
     ],
     "source": "FEC_v7",
-    "total_raised": 270815313,
-    "aipac": 1563445,
+    "total_raised": 776293,
+    "aipac": 6117698,
     "aipac_pacs": 1563445,
     "aipac_ie": 0,
     "aipac_lobby_donors": 4554253,
@@ -2087,8 +2104,8 @@
       "C00369033"
     ],
     "source": "FEC_v7",
-    "total_raised": 92130588,
-    "aipac": 472750,
+    "total_raised": 1324192,
+    "aipac": 2086416,
     "aipac_pacs": 472750,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1613666,
@@ -2114,8 +2131,8 @@
       "C00563940"
     ],
     "source": "FEC_v7",
-    "total_raised": 30380700,
-    "aipac": 292124,
+    "total_raised": 1039688,
+    "aipac": 1419745,
     "aipac_pacs": 292124,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1127621,
@@ -2141,8 +2158,8 @@
       "C00903666"
     ],
     "source": "FEC_v7",
-    "total_raised": 11062175,
-    "aipac": 67900,
+    "total_raised": 758063,
+    "aipac": 434091,
     "aipac_pacs": 67900,
     "aipac_ie": 0,
     "aipac_lobby_donors": 366191,
@@ -2170,7 +2187,7 @@
       "C00129114"
     ],
     "source": "FEC_v7",
-    "total_raised": 86320393,
+    "total_raised": 455485,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -2196,7 +2213,7 @@
       "C00413179"
     ],
     "source": "FEC_v7",
-    "total_raised": 15064940,
+    "total_raised": 884008,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -2224,8 +2241,8 @@
       "C00370866"
     ],
     "source": "FEC_v7",
-    "total_raised": 82479033,
-    "aipac": 631921,
+    "total_raised": 1868924,
+    "aipac": 3050177,
     "aipac_pacs": 631921,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2418256,
@@ -2242,14 +2259,17 @@
   "Tim Kaine": {
     "candidate_id": "S2VA00142",
     "all_candidate_ids": [
-      "S2VA00142"
+      "S2VA00142",
+      "P00003392"
     ],
     "committees": [
-      "C00495358"
+      "C00495358",
+      "C00431569",
+      "C00575795"
     ],
     "source": "FEC_v7",
-    "total_raised": 62683493,
-    "aipac": 442956,
+    "total_raised": 1950046,
+    "aipac": 2068098,
     "aipac_pacs": 442956,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1625142,
@@ -2261,7 +2281,7 @@
     "tech": 3317108,
     "nra": 0,
     "special_interest_total": 18341832,
-    "grassroots": 95459
+    "grassroots": 107734
   },
   "Patty Murray": {
     "candidate_id": "S2WA00189",
@@ -2276,8 +2296,8 @@
       "C00673376"
     ],
     "source": "FEC_v7",
-    "total_raised": 76811751,
-    "aipac": 524336,
+    "total_raised": 754838,
+    "aipac": 2242581,
     "aipac_pacs": 524336,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1718245,
@@ -2289,7 +2309,7 @@
     "tech": 3542765,
     "nra": 0,
     "special_interest_total": 17402057,
-    "grassroots": 44704
+    "grassroots": 46010
   },
   "Maria Cantwell": {
     "candidate_id": "S8WA00194",
@@ -2303,8 +2323,8 @@
       "C00260869"
     ],
     "source": "FEC_v7",
-    "total_raised": 74769902,
-    "aipac": 392639,
+    "total_raised": 1459456,
+    "aipac": 2165780,
     "aipac_pacs": 392639,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1773141,
@@ -2330,8 +2350,8 @@
       "C00347849"
     ],
     "source": "FEC_v7",
-    "total_raised": 35250921,
-    "aipac": 325742,
+    "total_raised": 3276024,
+    "aipac": 1059420,
     "aipac_pacs": 325742,
     "aipac_ie": 0,
     "aipac_lobby_donors": 733678,
@@ -2348,15 +2368,19 @@
   "Jim Justice": {
     "candidate_id": "S4WV00332",
     "all_candidate_ids": [
-      "S4WV00332"
+      "S4WV00332",
+      "H0NY16085",
+      "P60005261"
     ],
     "committees": [
       "C00839100",
-      "C00780833"
+      "C00780833",
+      "C00576728",
+      "C00732867"
     ],
     "source": "FEC_v7",
-    "total_raised": 4658141,
-    "aipac": 11986,
+    "total_raised": 422991,
+    "aipac": 229000,
     "aipac_pacs": 11986,
     "aipac_ie": 0,
     "aipac_lobby_donors": 217014,
@@ -2382,8 +2406,8 @@
       "C00449637"
     ],
     "source": "FEC_v7",
-    "total_raised": 118965316,
-    "aipac": 762296,
+    "total_raised": 408824,
+    "aipac": 2907105,
     "aipac_pacs": 762296,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2144809,
@@ -2410,8 +2434,8 @@
       "C00433748"
     ],
     "source": "FEC_v7",
-    "total_raised": 79732423,
-    "aipac": 335142,
+    "total_raised": 2141712,
+    "aipac": 1611834,
     "aipac_pacs": 335142,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1276692,
@@ -2435,8 +2459,8 @@
       "C00436386"
     ],
     "source": "FEC_v7",
-    "total_raised": 27199980,
-    "aipac": 693198,
+    "total_raised": 1332267,
+    "aipac": 1891392,
     "aipac_pacs": 693198,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1198194,
@@ -2463,8 +2487,8 @@
       "C00451245"
     ],
     "source": "FEC_v7",
-    "total_raised": 9307623,
-    "aipac": 14795,
+    "total_raised": 909070,
+    "aipac": 118274,
     "aipac_pacs": 14795,
     "aipac_ie": 0,
     "aipac_lobby_donors": 103479,
@@ -2489,8 +2513,8 @@
       "C00590778"
     ],
     "source": "FEC_v7",
-    "total_raised": 19774748,
-    "aipac": 62626,
+    "total_raised": 549447,
+    "aipac": 424800,
     "aipac_pacs": 62626,
     "aipac_ie": 0,
     "aipac_lobby_donors": 362174,
@@ -2516,8 +2540,8 @@
       "C00120683"
     ],
     "source": "FEC_v7",
-    "total_raised": 19461489,
-    "aipac": 15027,
+    "total_raised": 1234892,
+    "aipac": 172593,
     "aipac_pacs": 15027,
     "aipac_ie": 0,
     "aipac_lobby_donors": 157566,
@@ -2569,8 +2593,8 @@
       "C00908475"
     ],
     "source": "FEC_v7",
-    "total_raised": 10524424,
-    "aipac": 27,
+    "total_raised": 0,
+    "aipac": 194627,
     "aipac_pacs": 27,
     "aipac_ie": 0,
     "aipac_lobby_donors": 194600,
@@ -2584,6 +2608,57 @@
     "special_interest_total": 194627,
     "grassroots": 0
   },
+  "Chris Van Hollen": {
+    "candidate_id": "S6MD03441",
+    "all_candidate_ids": [
+      "S6MD03441",
+      "H2MD08126"
+    ],
+    "committees": [
+      "C00573758",
+      "C00366096"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1167910,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 108926,
+    "pharma": 2734715,
+    "defense": 615233,
+    "finance": 5330468,
+    "tech": 1600398,
+    "nra": 0,
+    "special_interest_total": 10389740,
+    "grassroots": 44952
+  },
+  "John Fetterman": {
+    "candidate_id": "S6PA00274",
+    "all_candidate_ids": [
+      "S6PA00274"
+    ],
+    "committees": [
+      "C00765800",
+      "C00586578"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 76280,
+    "aipac": 1898963,
+    "aipac_pacs": 257518,
+    "aipac_ie": 99600,
+    "aipac_lobby_donors": 1541845,
+    "aipac_sources": "DMFI, JAC, JSTREET, MDACC, NORPAC, SUNPAC",
+    "fossil_fuels": 60096,
+    "pharma": 2473097,
+    "defense": 107514,
+    "finance": 2868936,
+    "tech": 2367852,
+    "nra": 0,
+    "special_interest_total": 9776458,
+    "grassroots": 6094
+  },
   "Barry Moore": {
     "candidate_id": "H8AL02171",
     "all_candidate_ids": [
@@ -2596,8 +2671,8 @@
       "C00720375"
     ],
     "source": "FEC_v7",
-    "total_raised": 5188181,
-    "aipac": 30173,
+    "total_raised": 702856,
+    "aipac": 75849,
     "aipac_pacs": 30173,
     "aipac_ie": 0,
     "aipac_lobby_donors": 45676,
@@ -2626,18 +2701,18 @@
     ],
     "source": "FEC_v7",
     "total_raised": 600,
-    "aipac": 924925,
+    "aipac": 1933918,
     "aipac_pacs": 924925,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1008993,
     "aipac_sources": "AIPAC, AGG, CITYPAC, FIPAC, GCSC, MDACC, NACPAC, NATPAC, NORPAC, WAPAC, YJL",
-    "fossil_fuels": 198900,
-    "pharma": 1331097,
-    "defense": 439311,
-    "finance": 2577314,
-    "tech": 742334,
+    "fossil_fuels": 693234,
+    "pharma": 2090913,
+    "defense": 2708923,
+    "finance": 4020830,
+    "tech": 1093298,
     "nra": 0,
-    "special_interest_total": 7222874,
+    "special_interest_total": 12541116,
     "grassroots": 100
   },
   "Robert Aderholt": {
@@ -2649,8 +2724,8 @@
       "C00313247"
     ],
     "source": "FEC_v7",
-    "total_raised": 18371757,
-    "aipac": 116458,
+    "total_raised": 1681950,
+    "aipac": 251955,
     "aipac_pacs": 116458,
     "aipac_ie": 0,
     "aipac_lobby_donors": 135497,
@@ -2675,8 +2750,8 @@
       "C00774281"
     ],
     "source": "FEC_v7",
-    "total_raised": 4528641,
-    "aipac": 37321,
+    "total_raised": 475075,
+    "aipac": 75745,
     "aipac_pacs": 37321,
     "aipac_ie": 0,
     "aipac_lobby_donors": 38424,
@@ -2701,8 +2776,8 @@
       "C00551374"
     ],
     "source": "FEC_v7",
-    "total_raised": 8964959,
-    "aipac": 88019,
+    "total_raised": 1122322,
+    "aipac": 257757,
     "aipac_pacs": 88019,
     "aipac_ie": 0,
     "aipac_lobby_donors": 169738,
@@ -2726,8 +2801,8 @@
       "C00458976"
     ],
     "source": "FEC_v7",
-    "total_raised": 17016621,
-    "aipac": 75552,
+    "total_raised": 955356,
+    "aipac": 251301,
     "aipac_pacs": 75552,
     "aipac_ie": 0,
     "aipac_lobby_donors": 175749,
@@ -2742,17 +2817,20 @@
     "grassroots": 60640
   },
   "Nick Begich": {
-    "candidate_id": "H2AK01083",
+    "candidate_id": "H4AK00024",
     "all_candidate_ids": [
-      "H2AK01083"
+      "H4AK00024",
+      "S8AK00090"
     ],
     "committees": [
-      "C00792341",
-      "C00856617"
+      "C00203075",
+      "C00182758",
+      "C00446260",
+      "C00458059"
     ],
     "source": "FEC_v7",
-    "total_raised": 8757851,
-    "aipac": 7599,
+    "total_raised": 422196,
+    "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
     "aipac_lobby_donors": 0,
@@ -2763,8 +2841,8 @@
     "finance": 432543,
     "tech": 58234,
     "nra": 0,
-    "special_interest_total": 740488,
-    "grassroots": 33505
+    "special_interest_total": 732889,
+    "grassroots": 19437
   },
   "David Schweikert": {
     "candidate_id": "H4AZ06045",
@@ -2780,8 +2858,8 @@
       "C00492413"
     ],
     "source": "FEC_v7",
-    "total_raised": 19322379,
-    "aipac": 191943,
+    "total_raised": 2436447,
+    "aipac": 752634,
     "aipac_pacs": 191943,
     "aipac_ie": 0,
     "aipac_lobby_donors": 560691,
@@ -2810,8 +2888,8 @@
       "C00100834"
     ],
     "source": "FEC_v7",
-    "total_raised": 24711347,
-    "aipac": 500,
+    "total_raised": 456258,
+    "aipac": 108978,
     "aipac_pacs": 500,
     "aipac_ie": 0,
     "aipac_lobby_donors": 108478,
@@ -2834,8 +2912,8 @@
       "C00836767"
     ],
     "source": "FEC_v7",
-    "total_raised": 4094645,
-    "aipac": 5000,
+    "total_raised": 174425,
+    "aipac": 806788,
     "aipac_pacs": 5000,
     "aipac_ie": 645688,
     "aipac_lobby_donors": 156100,
@@ -2861,8 +2939,8 @@
       "C00426635"
     ],
     "source": "FEC_v7",
-    "total_raised": 13316599,
-    "aipac": 261589,
+    "total_raised": 258068,
+    "aipac": 748256,
     "aipac_pacs": 261589,
     "aipac_ie": 0,
     "aipac_lobby_donors": 486667,
@@ -2886,8 +2964,8 @@
       "C00610451"
     ],
     "source": "FEC_v7",
-    "total_raised": 7016836,
-    "aipac": 39184,
+    "total_raised": 732387,
+    "aipac": 162057,
     "aipac_pacs": 39184,
     "aipac_ie": 0,
     "aipac_lobby_donors": 122873,
@@ -2911,8 +2989,8 @@
       "C00786194"
     ],
     "source": "FEC_v7",
-    "total_raised": 15518176,
-    "aipac": 1039301,
+    "total_raised": 712096,
+    "aipac": 2198703,
     "aipac_pacs": 1039301,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1159402,
@@ -2935,8 +3013,8 @@
       "C00461806"
     ],
     "source": "FEC_v7",
-    "total_raised": 6546841,
-    "aipac": 18250,
+    "total_raised": 1145840,
+    "aipac": 116561,
     "aipac_pacs": 18250,
     "aipac_ie": 0,
     "aipac_lobby_donors": 98311,
@@ -2953,14 +3031,17 @@
   "Rick Crawford": {
     "candidate_id": "H0AR01083",
     "all_candidate_ids": [
-      "H0AR01083"
+      "H0AR01083",
+      "S6LA00383",
+      "P60022100"
     ],
     "committees": [
-      "C00462374"
+      "C00462374",
+      "C00622522"
     ],
     "source": "FEC_v7",
-    "total_raised": 9191791,
-    "aipac": 20387,
+    "total_raised": 763504,
+    "aipac": 97153,
     "aipac_pacs": 20387,
     "aipac_ie": 0,
     "aipac_lobby_donors": 76766,
@@ -2988,8 +3069,8 @@
       "C00346544"
     ],
     "source": "FEC_v7",
-    "total_raised": 122919327,
-    "aipac": 63057,
+    "total_raised": 14209851,
+    "aipac": 451148,
     "aipac_pacs": 63057,
     "aipac_ie": 0,
     "aipac_lobby_donors": 388091,
@@ -3013,8 +3094,8 @@
       "C00477745"
     ],
     "source": "FEC_v7",
-    "total_raised": 11579276,
-    "aipac": 131071,
+    "total_raised": 1047040,
+    "aipac": 327686,
     "aipac_pacs": 131071,
     "aipac_ie": 0,
     "aipac_lobby_donors": 196615,
@@ -3037,8 +3118,8 @@
       "C00548180"
     ],
     "source": "FEC_v7",
-    "total_raised": 11695684,
-    "aipac": 50627,
+    "total_raised": 537168,
+    "aipac": 179638,
     "aipac_pacs": 50627,
     "aipac_ie": 0,
     "aipac_lobby_donors": 129011,
@@ -3061,7 +3142,7 @@
       "C00509422"
     ],
     "source": "FEC_v7",
-    "total_raised": 7427361,
+    "total_raised": 1080697,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -3088,8 +3169,8 @@
       "C00491746"
     ],
     "source": "FEC_v7",
-    "total_raised": 8033358,
-    "aipac": 42006,
+    "total_raised": 594809,
+    "aipac": 122968,
     "aipac_pacs": 42006,
     "aipac_ie": 0,
     "aipac_lobby_donors": 80962,
@@ -3115,8 +3196,8 @@
       "C00671461"
     ],
     "source": "FEC_v7",
-    "total_raised": 11183716,
-    "aipac": 86981,
+    "total_raised": 1356519,
+    "aipac": 279667,
     "aipac_pacs": 86981,
     "aipac_ie": 0,
     "aipac_lobby_donors": 192686,
@@ -3142,8 +3223,8 @@
       "C00403865"
     ],
     "source": "FEC_v7",
-    "total_raised": 27707038,
-    "aipac": 39235,
+    "total_raised": 1095486,
+    "aipac": 129865,
     "aipac_pacs": 39235,
     "aipac_ie": 0,
     "aipac_lobby_donors": 90630,
@@ -3166,8 +3247,8 @@
       "C00446815"
     ],
     "source": "FEC_v7",
-    "total_raised": 16785135,
-    "aipac": 44483,
+    "total_raised": 774641,
+    "aipac": 278611,
     "aipac_pacs": 44483,
     "aipac_ie": 0,
     "aipac_lobby_donors": 234128,
@@ -3190,8 +3271,8 @@
       "C00461061"
     ],
     "source": "FEC_v7",
-    "total_raised": 23656699,
-    "aipac": 269170,
+    "total_raised": 658491,
+    "aipac": 1096013,
     "aipac_pacs": 269170,
     "aipac_ie": 0,
     "aipac_lobby_donors": 826843,
@@ -3216,8 +3297,8 @@
       "C00250282"
     ],
     "source": "FEC_v7",
-    "total_raised": 13822135,
-    "aipac": 21305,
+    "total_raised": 1291138,
+    "aipac": 232127,
     "aipac_pacs": 21305,
     "aipac_ie": 0,
     "aipac_lobby_donors": 210822,
@@ -3231,6 +3312,30 @@
     "special_interest_total": 5299469,
     "grassroots": 112380
   },
+  "Adelita Grijalva": {
+    "candidate_id": "H6AZ07121",
+    "all_candidate_ids": [
+      "H6AZ07121"
+    ],
+    "committees": [
+      "C00901116"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 0,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 0
+  },
   "John Garamendi": {
     "candidate_id": "H0CA10149",
     "all_candidate_ids": [
@@ -3240,8 +3345,8 @@
       "C00462697"
     ],
     "source": "FEC_v7",
-    "total_raised": 11352365,
-    "aipac": 65867,
+    "total_raised": 965036,
+    "aipac": 321027,
     "aipac_pacs": 65867,
     "aipac_ie": 0,
     "aipac_lobby_donors": 255160,
@@ -3258,14 +3363,16 @@
   "Josh Harder": {
     "candidate_id": "H8CA10126",
     "all_candidate_ids": [
-      "H8CA10126"
+      "H8CA10126",
+      "P80009152"
     ],
     "committees": [
-      "C00639146"
+      "C00639146",
+      "C00943183"
     ],
     "source": "FEC_v7",
-    "total_raised": 31114914,
-    "aipac": 382938,
+    "total_raised": 470907,
+    "aipac": 1777395,
     "aipac_pacs": 382938,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1394457,
@@ -3289,8 +3396,8 @@
       "C00554709"
     ],
     "source": "FEC_v7",
-    "total_raised": 4716305,
-    "aipac": 27060,
+    "total_raised": 610068,
+    "aipac": 64545,
     "aipac_pacs": 27060,
     "aipac_ie": 0,
     "aipac_lobby_donors": 37485,
@@ -3303,30 +3410,6 @@
     "nra": 0,
     "special_interest_total": 757735,
     "grassroots": 135491
-  },
-  "Nancy Pelosi": {
-    "candidate_id": "H8CA05035",
-    "all_candidate_ids": [
-      "H8CA05035"
-    ],
-    "committees": [
-      "C00213512"
-    ],
-    "source": "FEC_v7",
-    "total_raised": 94814798,
-    "aipac": 187554,
-    "aipac_pacs": 187554,
-    "aipac_ie": 0,
-    "aipac_lobby_donors": 2186471,
-    "aipac_sources": "AIPAC, AGG, AUSD, BIC, BICOUNTY, CITYPAC, HEARTLAND, HVPAC, JAC, JSTREET, LAFAS, MDACC, MMPAC, MOPAC, NACPAC, NATPAC, NORPAC, PHXED, DESERT, TPOH, USI, WAPAC, WPI, WAFI",
-    "fossil_fuels": 185359,
-    "pharma": 5788610,
-    "defense": 510829,
-    "finance": 8118469,
-    "tech": 4417556,
-    "nra": 0,
-    "special_interest_total": 21394848,
-    "grassroots": 34113
   },
   "Kevin Mullin": {
     "candidate_id": "H2CA14162",
@@ -3341,8 +3424,8 @@
       "C00584045"
     ],
     "source": "FEC_v7",
-    "total_raised": 3684481,
-    "aipac": 126185,
+    "total_raised": 150224,
+    "aipac": 862323,
     "aipac_pacs": 126185,
     "aipac_ie": 603681,
     "aipac_lobby_donors": 132457,
@@ -3367,8 +3450,8 @@
       "C00503185"
     ],
     "source": "FEC_v7",
-    "total_raised": 43366028,
-    "aipac": 146998,
+    "total_raised": 1493632,
+    "aipac": 1523736,
     "aipac_pacs": 146998,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1376738,
@@ -3391,8 +3474,8 @@
       "C00289603"
     ],
     "source": "FEC_v7",
-    "total_raised": 17862863,
-    "aipac": 49388,
+    "total_raised": 1289373,
+    "aipac": 344466,
     "aipac_pacs": 49388,
     "aipac_ie": 0,
     "aipac_lobby_donors": 295078,
@@ -3415,8 +3498,8 @@
       "C00592154"
     ],
     "source": "FEC_v7",
-    "total_raised": 12876328,
-    "aipac": 463176,
+    "total_raised": 658827,
+    "aipac": 1024567,
     "aipac_pacs": 463176,
     "aipac_ie": 0,
     "aipac_lobby_donors": 561391,
@@ -3441,8 +3524,8 @@
       "C00689570"
     ],
     "source": "FEC_v7",
-    "total_raised": 19376070,
-    "aipac": 346122,
+    "total_raised": 1535389,
+    "aipac": 919414,
     "aipac_pacs": 346122,
     "aipac_ie": 0,
     "aipac_lobby_donors": 573292,
@@ -3466,8 +3549,8 @@
       "C00499392"
     ],
     "source": "FEC_v7",
-    "total_raised": 26967440,
-    "aipac": 164151,
+    "total_raised": 1123886,
+    "aipac": 724428,
     "aipac_pacs": 164151,
     "aipac_ie": 0,
     "aipac_lobby_donors": 560277,
@@ -3490,8 +3573,8 @@
       "C00720078"
     ],
     "source": "FEC_v7",
-    "total_raised": 5694008,
-    "aipac": 31398,
+    "total_raised": 809136,
+    "aipac": 64376,
     "aipac_pacs": 31398,
     "aipac_ie": 0,
     "aipac_lobby_donors": 32978,
@@ -3514,8 +3597,8 @@
       "C00576041"
     ],
     "source": "FEC_v7",
-    "total_raised": 13700825,
-    "aipac": 50945,
+    "total_raised": 1048898,
+    "aipac": 337476,
     "aipac_pacs": 50945,
     "aipac_ie": 0,
     "aipac_lobby_donors": 286531,
@@ -3540,8 +3623,8 @@
       "C00718387"
     ],
     "source": "FEC_v7",
-    "total_raised": 14044,
-    "aipac": 197383,
+    "total_raised": 6055,
+    "aipac": 889935,
     "aipac_pacs": 197383,
     "aipac_ie": 0,
     "aipac_lobby_donors": 692552,
@@ -3564,8 +3647,8 @@
       "C00513077"
     ],
     "source": "FEC_v7",
-    "total_raised": 18375363,
-    "aipac": 192077,
+    "total_raised": 330274,
+    "aipac": 842456,
     "aipac_pacs": 192077,
     "aipac_ie": 0,
     "aipac_lobby_donors": 650379,
@@ -3592,8 +3675,8 @@
       "C00872390"
     ],
     "source": "FEC_v7",
-    "total_raised": 13709828,
-    "aipac": 29735,
+    "total_raised": 1574526,
+    "aipac": 165193,
     "aipac_pacs": 29735,
     "aipac_ie": 0,
     "aipac_lobby_donors": 135458,
@@ -3619,8 +3702,8 @@
       "C00541540"
     ],
     "source": "FEC_v7",
-    "total_raised": 13084132,
-    "aipac": 293555,
+    "total_raised": 1082876,
+    "aipac": 3399391,
     "aipac_pacs": 293555,
     "aipac_ie": 2300443,
     "aipac_lobby_donors": 805393,
@@ -3643,8 +3726,8 @@
       "C00556506"
     ],
     "source": "FEC_v7",
-    "total_raised": 13470787,
-    "aipac": 887737,
+    "total_raised": 725738,
+    "aipac": 2416584,
     "aipac_pacs": 887737,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1528847,
@@ -3667,8 +3750,8 @@
       "C00795823"
     ],
     "source": "FEC_v7",
-    "total_raised": 2903972,
-    "aipac": 60617,
+    "total_raised": 322063,
+    "aipac": 227804,
     "aipac_pacs": 60617,
     "aipac_ie": 0,
     "aipac_lobby_donors": 167187,
@@ -3693,8 +3776,8 @@
       "C00263616"
     ],
     "source": "FEC_v7",
-    "total_raised": 9993014,
-    "aipac": 85802,
+    "total_raised": 675487,
+    "aipac": 392030,
     "aipac_pacs": 85802,
     "aipac_ie": 0,
     "aipac_lobby_donors": 306228,
@@ -3721,8 +3804,8 @@
       "C00893099"
     ],
     "source": "FEC_v7",
-    "total_raised": 35742271,
-    "aipac": 536138,
+    "total_raised": 706234,
+    "aipac": 1582322,
     "aipac_pacs": 536138,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1046184,
@@ -3746,8 +3829,8 @@
       "C00257337"
     ],
     "source": "FEC_v7",
-    "total_raised": 31842874,
-    "aipac": 1115578,
+    "total_raised": 1650375,
+    "aipac": 2496416,
     "aipac_pacs": 1115578,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1380838,
@@ -3764,25 +3847,28 @@
   "Robert Garcia": {
     "candidate_id": "H2CA47188",
     "all_candidate_ids": [
-      "H2CA47188"
+      "H2CA47188",
+      "P00005645",
+      "S0TX00381"
     ],
     "committees": [
-      "C00797795"
+      "C00797795",
+      "C00729475"
     ],
     "source": "FEC_v7",
-    "total_raised": 5025830,
-    "aipac": 104357,
+    "total_raised": 197910,
+    "aipac": 227339,
     "aipac_pacs": 104357,
     "aipac_ie": 0,
     "aipac_lobby_donors": 122982,
     "aipac_sources": "",
     "fossil_fuels": 2045,
-    "pharma": 5200,
+    "pharma": 79370,
     "defense": 1504,
-    "finance": 15800,
-    "tech": 4750,
+    "finance": 398476,
+    "tech": 85910,
     "nra": 0,
-    "special_interest_total": 256638,
+    "special_interest_total": 794644,
     "grassroots": 45588
   },
   "Maxine Waters": {
@@ -3796,8 +3882,8 @@
       "C00167585"
     ],
     "source": "FEC_v7",
-    "total_raised": 14479847,
-    "aipac": 4000,
+    "total_raised": 2033653,
+    "aipac": 110534,
     "aipac_pacs": 4000,
     "aipac_ie": 0,
     "aipac_lobby_donors": 106534,
@@ -3811,41 +3897,19 @@
     "special_interest_total": 4799081,
     "grassroots": 78557
   },
-  "Nanette Barrag\u00e1n": {
-    "candidate_id": "H6CA44103",
-    "all_candidate_ids": [
-      "H6CA44103"
-    ],
-    "committees": [
-      "C00577353"
-    ],
-    "source": "FEC_v7",
-    "total_raised": 7769419,
-    "aipac": 94404,
-    "aipac_pacs": 0,
-    "aipac_ie": 0,
-    "aipac_lobby_donors": 0,
-    "aipac_sources": "",
-    "fossil_fuels": 9987,
-    "pharma": 844526,
-    "defense": 47337,
-    "finance": 833661,
-    "tech": 530815,
-    "nra": 0,
-    "special_interest_total": 2360730,
-    "grassroots": 55588
-  },
   "Lou Correa": {
     "candidate_id": "H6CA46116",
     "all_candidate_ids": [
-      "H6CA46116"
+      "H6CA46116",
+      "P00005975"
     ],
     "committees": [
-      "C00578302"
+      "C00578302",
+      "C00641258"
     ],
     "source": "FEC_v7",
-    "total_raised": 6983971,
-    "aipac": 79446,
+    "total_raised": 619688,
+    "aipac": 237311,
     "aipac_pacs": 79446,
     "aipac_ie": 0,
     "aipac_lobby_donors": 157865,
@@ -3862,15 +3926,17 @@
   "Darrell Issa": {
     "candidate_id": "H0CA48024",
     "all_candidate_ids": [
-      "H0CA48024"
+      "H0CA48024",
+      "S8CA00135"
     ],
     "committees": [
       "C00721332",
-      "C00350520"
+      "C00350520",
+      "C00327007"
     ],
     "source": "FEC_v7",
-    "total_raised": 42271653,
-    "aipac": 88644,
+    "total_raised": 2124379,
+    "aipac": 238853,
     "aipac_pacs": 88644,
     "aipac_ie": 0,
     "aipac_lobby_donors": 150209,
@@ -3897,8 +3963,8 @@
       "C00088484"
     ],
     "source": "FEC_v7",
-    "total_raised": 54630116,
-    "aipac": 479325,
+    "total_raised": 734511,
+    "aipac": 1962671,
     "aipac_pacs": 479325,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1483346,
@@ -3924,8 +3990,8 @@
       "C00650556"
     ],
     "source": "FEC_v7",
-    "total_raised": 24023423,
-    "aipac": 162230,
+    "total_raised": 504064,
+    "aipac": 825171,
     "aipac_pacs": 162230,
     "aipac_ie": 0,
     "aipac_lobby_donors": 662941,
@@ -3951,8 +4017,8 @@
       "C00225631"
     ],
     "source": "FEC_v7",
-    "total_raised": 15605555,
-    "aipac": 70781,
+    "total_raised": 625746,
+    "aipac": 289190,
     "aipac_pacs": 70781,
     "aipac_ie": 0,
     "aipac_lobby_donors": 218409,
@@ -3978,8 +4044,8 @@
       "C00307256"
     ],
     "source": "FEC_v7",
-    "total_raised": 8328108,
-    "aipac": 313255,
+    "total_raised": 1528308,
+    "aipac": 949493,
     "aipac_pacs": 313255,
     "aipac_ie": 0,
     "aipac_lobby_donors": 636238,
@@ -4003,19 +4069,19 @@
       "C00865592"
     ],
     "source": "FEC_v7",
-    "total_raised": 3715015,
-    "aipac": 7026,
+    "total_raised": 248238,
+    "aipac": 57238,
     "aipac_pacs": 7026,
     "aipac_ie": 0,
     "aipac_lobby_donors": 50212,
     "aipac_sources": "",
-    "fossil_fuels": 49605,
-    "pharma": 52642,
-    "defense": 26074,
-    "finance": 342884,
-    "tech": 47505,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 575948,
+    "special_interest_total": 57238,
     "grassroots": 28585
   },
   "Joe Neguse": {
@@ -4027,19 +4093,19 @@
       "C00648253"
     ],
     "source": "FEC_v7",
-    "total_raised": 9671010,
-    "aipac": 364661,
+    "total_raised": 573317,
+    "aipac": 1105324,
     "aipac_pacs": 364661,
     "aipac_ie": 0,
     "aipac_lobby_donors": 740663,
     "aipac_sources": "AIPAC, JSTREET",
-    "fossil_fuels": 11900,
-    "pharma": 284210,
-    "defense": 74426,
-    "finance": 1271432,
-    "tech": 501126,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 3248418,
+    "special_interest_total": 1105324,
     "grassroots": 241675
   },
   "Jeff Hurd": {
@@ -4052,19 +4118,19 @@
       "C00848333"
     ],
     "source": "FEC_v7",
-    "total_raised": 5765848,
-    "aipac": 50167,
+    "total_raised": 179176,
+    "aipac": 267170,
     "aipac_pacs": 50167,
     "aipac_ie": 0,
     "aipac_lobby_donors": 217003,
     "aipac_sources": "AIPAC, RJC",
-    "fossil_fuels": 98100,
-    "pharma": 55502,
-    "defense": 5060,
-    "finance": 398525,
-    "tech": 37501,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 861858,
+    "special_interest_total": 267170,
     "grassroots": 25
   },
   "Jason Crow": {
@@ -4080,8 +4146,8 @@
       "C00905810"
     ],
     "source": "FEC_v7",
-    "total_raised": 17505870,
-    "aipac": 247334,
+    "total_raised": 305419,
+    "aipac": 1254627,
     "aipac_pacs": 247334,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1007293,
@@ -4104,8 +4170,8 @@
       "C00637215"
     ],
     "source": "FEC_v7",
-    "total_raised": 6974908,
-    "aipac": 140362,
+    "total_raised": 191169,
+    "aipac": 508376,
     "aipac_pacs": 140362,
     "aipac_ie": 0,
     "aipac_lobby_donors": 368014,
@@ -4131,8 +4197,8 @@
       "C00119610"
     ],
     "source": "FEC_v7",
-    "total_raised": 22216098,
-    "aipac": 41703,
+    "total_raised": 1332627,
+    "aipac": 152378,
     "aipac_pacs": 41703,
     "aipac_ie": 0,
     "aipac_lobby_donors": 110675,
@@ -4147,17 +4213,18 @@
     "grassroots": 32305
   },
   "Joe Courtney": {
-    "candidate_id": "H2CT02112",
+    "candidate_id": "H2NC13185",
     "all_candidate_ids": [
-      "H2CT02112"
+      "H2NC13185",
+      "P00011817",
+      "S4GA11368"
     ],
     "committees": [
-      "C00369199",
-      "C00410233"
+      "C00790329"
     ],
     "source": "FEC_v7",
-    "total_raised": 18003362,
-    "aipac": 107527,
+    "total_raised": 39195,
+    "aipac": 418598,
     "aipac_pacs": 107527,
     "aipac_ie": 0,
     "aipac_lobby_donors": 311071,
@@ -4169,7 +4236,7 @@
     "tech": 346957,
     "nra": 0,
     "special_interest_total": 5146032,
-    "grassroots": 26981
+    "grassroots": 8100
   },
   "Rosa DeLauro": {
     "candidate_id": "H0CT03072",
@@ -4180,8 +4247,8 @@
       "C00238865"
     ],
     "source": "FEC_v7",
-    "total_raised": 20643309,
-    "aipac": 164219,
+    "total_raised": 1136733,
+    "aipac": 573343,
     "aipac_pacs": 164219,
     "aipac_ie": 0,
     "aipac_lobby_donors": 409124,
@@ -4204,8 +4271,8 @@
       "C00434191"
     ],
     "source": "FEC_v7",
-    "total_raised": 24040656,
-    "aipac": 76408,
+    "total_raised": 1047644,
+    "aipac": 508763,
     "aipac_pacs": 76408,
     "aipac_ie": 0,
     "aipac_lobby_donors": 432355,
@@ -4222,14 +4289,17 @@
   "Jahana Hayes": {
     "candidate_id": "H8CT05245",
     "all_candidate_ids": [
-      "H8CT05245"
+      "H8CT05245",
+      "P20003471",
+      "S8ME00049"
     ],
     "committees": [
-      "C00677898"
+      "C00677898",
+      "C00094102"
     ],
     "source": "FEC_v7",
-    "total_raised": 12043540,
-    "aipac": 128447,
+    "total_raised": 305915,
+    "aipac": 670414,
     "aipac_pacs": 128447,
     "aipac_ie": 0,
     "aipac_lobby_donors": 541967,
@@ -4246,9 +4316,7 @@
   "Sarah McBride": {
     "candidate_id": "H4DE00045",
     "all_candidate_ids": [
-      "H4DE00045",
-      "P40008781",
-      "S8AL00472"
+      "H4DE00045"
     ],
     "committees": [
       "C00843763",
@@ -4256,19 +4324,19 @@
       "C00655977"
     ],
     "source": "FEC_v7",
-    "total_raised": 8012559,
-    "aipac": 71466,
-    "aipac_pacs": 0,
+    "total_raised": 166136,
+    "aipac": 332491,
+    "aipac_pacs": 71466,
     "aipac_ie": 0,
-    "aipac_lobby_donors": 0,
-    "aipac_sources": "",
+    "aipac_lobby_donors": 261025,
+    "aipac_sources": "AIPAC, DMFI, JAC, JSTREET",
     "fossil_fuels": 2323,
     "pharma": 264057,
     "defense": 2175,
     "finance": 338102,
     "tech": 318049,
     "nra": 0,
-    "special_interest_total": 996172,
+    "special_interest_total": 1257197,
     "grassroots": 8818
   },
   "Neal Dunn": {
@@ -4284,8 +4352,8 @@
       "C00678490"
     ],
     "source": "FEC_v7",
-    "total_raised": 8416182,
-    "aipac": 55322,
+    "total_raised": 689543,
+    "aipac": 89420,
     "aipac_pacs": 55322,
     "aipac_ie": 0,
     "aipac_lobby_donors": 34098,
@@ -4308,8 +4376,8 @@
       "C00730895"
     ],
     "source": "FEC_v7",
-    "total_raised": 7627005,
-    "aipac": 74179,
+    "total_raised": 433549,
+    "aipac": 170049,
     "aipac_pacs": 74179,
     "aipac_ie": 0,
     "aipac_lobby_donors": 95870,
@@ -4335,8 +4403,8 @@
       "C00470971"
     ],
     "source": "FEC_v7",
-    "total_raised": 4456084,
-    "aipac": 68320,
+    "total_raised": 386208,
+    "aipac": 132953,
     "aipac_pacs": 68320,
     "aipac_ie": 0,
     "aipac_lobby_donors": 64633,
@@ -4362,8 +4430,8 @@
       "C00479444"
     ],
     "source": "FEC_v7",
-    "total_raised": 4944593,
-    "aipac": 64271,
+    "total_raised": 924950,
+    "aipac": 115173,
     "aipac_pacs": 64271,
     "aipac_ie": 0,
     "aipac_lobby_donors": 50902,
@@ -4390,8 +4458,8 @@
       "C00661975"
     ],
     "source": "FEC_v7",
-    "total_raised": 5069080,
-    "aipac": 36573,
+    "total_raised": 389166,
+    "aipac": 106732,
     "aipac_pacs": 36573,
     "aipac_ie": 0,
     "aipac_lobby_donors": 70159,
@@ -4416,8 +4484,8 @@
       "C00138412"
     ],
     "source": "FEC_v7",
-    "total_raised": 8585321,
-    "aipac": 389693,
+    "total_raised": 562987,
+    "aipac": 874118,
     "aipac_pacs": 389693,
     "aipac_ie": 0,
     "aipac_lobby_donors": 484425,
@@ -4443,7 +4511,7 @@
       "C00679738"
     ],
     "source": "FEC_v7",
-    "total_raised": 9899045,
+    "total_raised": 57134,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -4461,14 +4529,17 @@
   "Daniel Webster": {
     "candidate_id": "H0FL08208",
     "all_candidate_ids": [
-      "H0FL08208"
+      "H0FL08208",
+      "S4FL00256",
+      "P60008356"
     ],
     "committees": [
-      "C00481911"
+      "C00481911",
+      "C00390120"
     ],
     "source": "FEC_v7",
-    "total_raised": 8702377,
-    "aipac": 80877,
+    "total_raised": 1113407,
+    "aipac": 193215,
     "aipac_pacs": 80877,
     "aipac_ie": 0,
     "aipac_lobby_donors": 112338,
@@ -4480,7 +4551,7 @@
     "tech": 204069,
     "nra": 2000,
     "special_interest_total": 2602630,
-    "grassroots": 47010
+    "grassroots": 47410
   },
   "Gus Bilirakis": {
     "candidate_id": "H6FL09070",
@@ -4491,8 +4562,8 @@
       "C00408534"
     ],
     "source": "FEC_v7",
-    "total_raised": 16941415,
-    "aipac": 101892,
+    "total_raised": 1222289,
+    "aipac": 280369,
     "aipac_pacs": 101892,
     "aipac_ie": 0,
     "aipac_lobby_donors": 178477,
@@ -4520,8 +4591,8 @@
       "C00844340"
     ],
     "source": "FEC_v7",
-    "total_raised": 12718782,
-    "aipac": 27288,
+    "total_raised": 380437,
+    "aipac": 244182,
     "aipac_pacs": 27288,
     "aipac_ie": 0,
     "aipac_lobby_donors": 216894,
@@ -4545,8 +4616,8 @@
       "C00410761"
     ],
     "source": "FEC_v7",
-    "total_raised": 10611619,
-    "aipac": 93259,
+    "total_raised": 688963,
+    "aipac": 279346,
     "aipac_pacs": 93259,
     "aipac_ie": 0,
     "aipac_lobby_donors": 186087,
@@ -4572,8 +4643,8 @@
       "C00818880"
     ],
     "source": "FEC_v7",
-    "total_raised": 5626641,
-    "aipac": 46071,
+    "total_raised": 650755,
+    "aipac": 161530,
     "aipac_pacs": 46071,
     "aipac_ie": 0,
     "aipac_lobby_donors": 115459,
@@ -4600,19 +4671,19 @@
       "C00118042"
     ],
     "source": "FEC_v7",
-    "total_raised": 36022759,
-    "aipac": 80471,
+    "total_raised": 3300811,
+    "aipac": 368633,
     "aipac_pacs": 80471,
     "aipac_ie": 0,
     "aipac_lobby_donors": 288162,
     "aipac_sources": "AIPAC, NACPAC, RJC",
-    "fossil_fuels": 213191,
-    "pharma": 3965203,
-    "defense": 105182,
-    "finance": 5662153,
-    "tech": 694157,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 2450,
-    "special_interest_total": 11010969,
+    "special_interest_total": 371083,
     "grassroots": 1314449
   },
   "Greg Steube": {
@@ -4624,8 +4695,8 @@
       "C00671891"
     ],
     "source": "FEC_v7",
-    "total_raised": 5988931,
-    "aipac": 100711,
+    "total_raised": 607571,
+    "aipac": 239470,
     "aipac_pacs": 100711,
     "aipac_ie": 0,
     "aipac_lobby_donors": 138759,
@@ -4652,8 +4723,8 @@
       "C00556589"
     ],
     "source": "FEC_v7",
-    "total_raised": 4820192,
-    "aipac": 49225,
+    "total_raised": 767713,
+    "aipac": 106305,
     "aipac_pacs": 49225,
     "aipac_ie": 0,
     "aipac_lobby_donors": 57080,
@@ -4678,8 +4749,8 @@
       "C00509877"
     ],
     "source": "FEC_v7",
-    "total_raised": 16407494,
-    "aipac": 77628,
+    "total_raised": 231429,
+    "aipac": 368726,
     "aipac_pacs": 77628,
     "aipac_ie": 0,
     "aipac_lobby_donors": 291098,
@@ -4702,8 +4773,8 @@
       "C00677492"
     ],
     "source": "FEC_v7",
-    "total_raised": 7884560,
-    "aipac": 342042,
+    "total_raised": 599660,
+    "aipac": 555603,
     "aipac_pacs": 342042,
     "aipac_ie": 0,
     "aipac_lobby_donors": 213561,
@@ -4730,8 +4801,8 @@
       "C00575548"
     ],
     "source": "FEC_v7",
-    "total_raised": 120969537,
-    "aipac": 744281,
+    "total_raised": 489622,
+    "aipac": 2246400,
     "aipac_pacs": 744281,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1502119,
@@ -4755,8 +4826,8 @@
       "C00252767"
     ],
     "source": "FEC_v7",
-    "total_raised": 14963437,
-    "aipac": 789310,
+    "total_raised": 763688,
+    "aipac": 2093531,
     "aipac_pacs": 789310,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1304221,
@@ -4780,8 +4851,8 @@
       "C00807628"
     ],
     "source": "FEC_v7",
-    "total_raised": 5821353,
-    "aipac": 727908,
+    "total_raised": 351872,
+    "aipac": 1546752,
     "aipac_pacs": 727908,
     "aipac_ie": 0,
     "aipac_lobby_donors": 818844,
@@ -4808,8 +4879,8 @@
       "C00415794"
     ],
     "source": "FEC_v7",
-    "total_raised": 4576991,
-    "aipac": 44215,
+    "total_raised": 1033583,
+    "aipac": 97967,
     "aipac_pacs": 44215,
     "aipac_ie": 0,
     "aipac_lobby_donors": 53752,
@@ -4827,15 +4898,16 @@
     "candidate_id": "H4FL20023",
     "all_candidate_ids": [
       "H4FL20023",
-      "S8NE00240",
+      "S6NE00178",
       "P60015450"
     ],
     "committees": [
-      "C00385773"
+      "C00385773",
+      "C00948760"
     ],
     "source": "FEC_v7",
-    "total_raised": 28390468,
-    "aipac": 1144010,
+    "total_raised": 1446200,
+    "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
     "aipac_lobby_donors": 0,
@@ -4846,7 +4918,7 @@
     "finance": 3831078,
     "tech": 1280221,
     "nra": 0,
-    "special_interest_total": 8350506,
+    "special_interest_total": 7206496,
     "grassroots": 183156
   },
   "Mar\u00eda Elvira Salazar": {
@@ -4862,19 +4934,19 @@
       "C00702548"
     ],
     "source": "FEC_v7",
-    "total_raised": 16011547,
-    "aipac": 127411,
+    "total_raised": 779276,
+    "aipac": 783549,
     "aipac_pacs": 127411,
     "aipac_ie": 0,
     "aipac_lobby_donors": 656138,
     "aipac_sources": "AIPAC, AMP, RJC, SUNPAC, USI",
-    "fossil_fuels": 136247,
-    "pharma": 714756,
-    "defense": 18264,
-    "finance": 2685570,
-    "tech": 340043,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 4678429,
+    "special_interest_total": 783549,
     "grassroots": 136104
   },
   "Buddy Carter": {
@@ -4889,8 +4961,8 @@
       "C00613935"
     ],
     "source": "FEC_v7",
-    "total_raised": 19360084,
-    "aipac": 67347,
+    "total_raised": 736987,
+    "aipac": 216590,
     "aipac_pacs": 67347,
     "aipac_ie": 0,
     "aipac_lobby_donors": 149243,
@@ -4907,14 +4979,18 @@
   "Sanford Bishop": {
     "candidate_id": "H2GA02031",
     "all_candidate_ids": [
-      "H2GA02031"
+      "H2GA02031",
+      "S8GA00057",
+      "P80004211"
     ],
     "committees": [
-      "C00266940"
+      "C00266940",
+      "C00100883",
+      "C00434316"
     ],
     "source": "FEC_v7",
-    "total_raised": 20037864,
-    "aipac": 86537,
+    "total_raised": 1560747,
+    "aipac": 290306,
     "aipac_pacs": 86537,
     "aipac_ie": 0,
     "aipac_lobby_donors": 203769,
@@ -4931,14 +5007,18 @@
   "Hank Johnson": {
     "candidate_id": "H6GA04129",
     "all_candidate_ids": [
-      "H6GA04129"
+      "H6GA04129",
+      "S2IN00018",
+      "P80004138"
     ],
     "committees": [
-      "C00418293"
+      "C00418293",
+      "C00147025",
+      "C00433748"
     ],
     "source": "FEC_v7",
-    "total_raised": 6004934,
-    "aipac": 68415,
+    "total_raised": 1221745,
+    "aipac": 147730,
     "aipac_pacs": 68415,
     "aipac_ie": 0,
     "aipac_lobby_donors": 79315,
@@ -4966,8 +5046,8 @@
       "C00921445"
     ],
     "source": "FEC_v7",
-    "total_raised": 3178712,
-    "aipac": 121615,
+    "total_raised": 209108,
+    "aipac": 343447,
     "aipac_pacs": 121615,
     "aipac_ie": 0,
     "aipac_lobby_donors": 221832,
@@ -4994,19 +5074,19 @@
       "C00358689"
     ],
     "source": "FEC_v7",
-    "total_raised": 10986726,
-    "aipac": 95127,
+    "total_raised": 993496,
+    "aipac": 364606,
     "aipac_pacs": 95127,
     "aipac_ie": 0,
     "aipac_lobby_donors": 269479,
     "aipac_sources": "AIPAC, AMP, RJC, USI",
-    "fossil_fuels": 109671,
-    "pharma": 757481,
-    "defense": 42033,
-    "finance": 1197450,
-    "tech": 193893,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 2665134,
+    "special_interest_total": 364606,
     "grassroots": 36949
   },
   "Lucy McBath": {
@@ -5018,8 +5098,8 @@
       "C00672295"
     ],
     "source": "FEC_v7",
-    "total_raised": 20143060,
-    "aipac": 575932,
+    "total_raised": 171351,
+    "aipac": 1974629,
     "aipac_pacs": 575932,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1398697,
@@ -5045,8 +5125,8 @@
       "C00849604"
     ],
     "source": "FEC_v7",
-    "total_raised": 8731156,
-    "aipac": 62218,
+    "total_raised": 1089708,
+    "aipac": 149839,
     "aipac_pacs": 62218,
     "aipac_ie": 0,
     "aipac_lobby_donors": 87621,
@@ -5073,8 +5153,8 @@
       "C00194480"
     ],
     "source": "FEC_v7",
-    "total_raised": 4317168,
-    "aipac": 1000,
+    "total_raised": 1223735,
+    "aipac": 10900,
     "aipac_pacs": 1000,
     "aipac_ie": 0,
     "aipac_lobby_donors": 9900,
@@ -5103,8 +5183,8 @@
       "C00875310"
     ],
     "source": "FEC_v7",
-    "total_raised": 7561794,
-    "aipac": 20446,
+    "total_raised": 395633,
+    "aipac": 63706,
     "aipac_pacs": 20446,
     "aipac_ie": 0,
     "aipac_lobby_donors": 43260,
@@ -5127,8 +5207,8 @@
       "C00543892"
     ],
     "source": "FEC_v7",
-    "total_raised": 5629142,
-    "aipac": 78182,
+    "total_raised": 693407,
+    "aipac": 238832,
     "aipac_pacs": 78182,
     "aipac_ie": 0,
     "aipac_lobby_donors": 160650,
@@ -5143,28 +5223,32 @@
     "grassroots": 2134
   },
   "Rick Allen": {
-    "candidate_id": "H2GA12121",
+    "candidate_id": "H0GA02241",
     "all_candidate_ids": [
-      "H2GA12121"
+      "H0GA02241",
+      "P60004520",
+      "S2TX00403"
     ],
     "committees": [
-      "C00504019"
+      "C00481101",
+      "C00506790",
+      "C00509323"
     ],
     "source": "FEC_v7",
-    "total_raised": 10323143,
-    "aipac": 53621,
+    "total_raised": 33531,
+    "aipac": 161621,
     "aipac_pacs": 53621,
     "aipac_ie": 0,
     "aipac_lobby_donors": 108000,
     "aipac_sources": "AIPAC, AMP, NACPAC, RJC",
-    "fossil_fuels": 131600,
-    "pharma": 660669,
-    "defense": 66050,
-    "finance": 1221770,
-    "tech": 200850,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 2442560,
-    "grassroots": 28600
+    "special_interest_total": 161621,
+    "grassroots": 9463
   },
   "David Scott": {
     "candidate_id": "H2GA13012",
@@ -5179,8 +5263,8 @@
       "C00849604"
     ],
     "source": "FEC_v7",
-    "total_raised": 15461502,
-    "aipac": 123721,
+    "total_raised": 2189914,
+    "aipac": 327786,
     "aipac_pacs": 123721,
     "aipac_ie": 0,
     "aipac_lobby_donors": 204065,
@@ -5208,8 +5292,8 @@
       "C00419150"
     ],
     "source": "FEC_v7",
-    "total_raised": 7935712,
-    "aipac": 48901,
+    "total_raised": 1297280,
+    "aipac": 138401,
     "aipac_pacs": 48901,
     "aipac_ie": 0,
     "aipac_lobby_donors": 89500,
@@ -5232,8 +5316,8 @@
       "C00813758"
     ],
     "source": "FEC_v7",
-    "total_raised": 2687908,
-    "aipac": 27000,
+    "total_raised": 203905,
+    "aipac": 62883,
     "aipac_pacs": 27000,
     "aipac_ie": 0,
     "aipac_lobby_donors": 35883,
@@ -5250,14 +5334,16 @@
   "Russ Fulcher": {
     "candidate_id": "H8ID01124",
     "all_candidate_ids": [
-      "H8ID01124"
+      "H8ID01124",
+      "S4AZ00238"
     ],
     "committees": [
-      "C00648295"
+      "C00648295",
+      "C00858696"
     ],
     "source": "FEC_v7",
-    "total_raised": 3219006,
-    "aipac": 21509,
+    "total_raised": 436029,
+    "aipac": 42059,
     "aipac_pacs": 21509,
     "aipac_ie": 0,
     "aipac_lobby_donors": 20550,
@@ -5285,8 +5371,8 @@
       "C00692152"
     ],
     "source": "FEC_v7",
-    "total_raised": 3186523,
-    "aipac": 66760,
+    "total_raised": 0,
+    "aipac": 124660,
     "aipac_pacs": 66760,
     "aipac_ie": 0,
     "aipac_lobby_donors": 57900,
@@ -5312,8 +5398,8 @@
       "C00206540"
     ],
     "source": "FEC_v7",
-    "total_raised": 1867344,
-    "aipac": 18000,
+    "total_raised": 258725,
+    "aipac": 27983,
     "aipac_pacs": 18000,
     "aipac_ie": 0,
     "aipac_lobby_donors": 9983,
@@ -5338,8 +5424,8 @@
       "C00904300"
     ],
     "source": "FEC_v7",
-    "total_raised": 12896567,
-    "aipac": 62992,
+    "total_raised": 507492,
+    "aipac": 368860,
     "aipac_pacs": 62992,
     "aipac_ie": 0,
     "aipac_lobby_donors": 305868,
@@ -5364,7 +5450,7 @@
       "C00796672"
     ],
     "source": "FEC_v7",
-    "total_raised": 3418597,
+    "total_raised": 111052,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -5382,14 +5468,16 @@
   "Mike Quigley": {
     "candidate_id": "H0IL05096",
     "all_candidate_ids": [
-      "H0IL05096"
+      "H0IL05096",
+      "P40016222"
     ],
     "committees": [
-      "C00457556"
+      "C00457556",
+      "C00855254"
     ],
     "source": "FEC_v7",
-    "total_raised": 9372712,
-    "aipac": 89585,
+    "total_raised": 990848,
+    "aipac": 634873,
     "aipac_pacs": 89585,
     "aipac_ie": 0,
     "aipac_lobby_donors": 545288,
@@ -5413,8 +5501,8 @@
       "C00648493"
     ],
     "source": "FEC_v7",
-    "total_raised": 22646769,
-    "aipac": 259283,
+    "total_raised": 215437,
+    "aipac": 1493042,
     "aipac_pacs": 259283,
     "aipac_ie": 37492,
     "aipac_lobby_donors": 1196267,
@@ -5442,8 +5530,8 @@
       "C00394924"
     ],
     "source": "FEC_v7",
-    "total_raised": 7859918,
-    "aipac": 60360,
+    "total_raised": 1611439,
+    "aipac": 110160,
     "aipac_pacs": 60360,
     "aipac_ie": 0,
     "aipac_lobby_donors": 49800,
@@ -5468,8 +5556,8 @@
       "C00904466"
     ],
     "source": "FEC_v7",
-    "total_raised": 70002044,
-    "aipac": 266094,
+    "total_raised": 699667,
+    "aipac": 1739283,
     "aipac_pacs": 266094,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1473189,
@@ -5492,8 +5580,8 @@
       "C00327023"
     ],
     "source": "FEC_v7",
-    "total_raised": 19338468,
-    "aipac": 376102,
+    "total_raised": 1333121,
+    "aipac": 2516441,
     "aipac_pacs": 376102,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2140339,
@@ -5510,14 +5598,16 @@
   "Brad Schneider": {
     "candidate_id": "H2IL10068",
     "all_candidate_ids": [
-      "H2IL10068"
+      "H2IL10068",
+      "S0RI00018"
     ],
     "committees": [
-      "C00495952"
+      "C00495952",
+      "C00118315"
     ],
     "source": "FEC_v7",
-    "total_raised": 31597595,
-    "aipac": 1008976,
+    "total_raised": 646087,
+    "aipac": 6670540,
     "aipac_pacs": 1008976,
     "aipac_ie": 0,
     "aipac_lobby_donors": 5661564,
@@ -5534,14 +5624,18 @@
   "Bill Foster": {
     "candidate_id": "H8IL14067",
     "all_candidate_ids": [
-      "H8IL14067"
+      "H8IL14067",
+      "S6LA00359",
+      "P80000755"
     ],
     "committees": [
-      "C00435099"
+      "C00435099",
+      "C00611988",
+      "C00213785"
     ],
     "source": "FEC_v7",
-    "total_raised": 31827495,
-    "aipac": 371029,
+    "total_raised": 1543268,
+    "aipac": 2054410,
     "aipac_pacs": 371029,
     "aipac_ie": 40851,
     "aipac_lobby_donors": 1642530,
@@ -5553,7 +5647,7 @@
     "tech": 885732,
     "nra": 0,
     "special_interest_total": 9785672,
-    "grassroots": 110852
+    "grassroots": 121752
   },
   "Mike Bost": {
     "candidate_id": "H4IL12060",
@@ -5568,8 +5662,8 @@
       "C00318782"
     ],
     "source": "FEC_v7",
-    "total_raised": 14400660,
-    "aipac": 127143,
+    "total_raised": 856083,
+    "aipac": 425247,
     "aipac_pacs": 127143,
     "aipac_ie": 0,
     "aipac_lobby_donors": 298104,
@@ -5592,8 +5686,8 @@
       "C00787812"
     ],
     "source": "FEC_v7",
-    "total_raised": 10729363,
-    "aipac": 253919,
+    "total_raised": 245050,
+    "aipac": 879942,
     "aipac_pacs": 253919,
     "aipac_ie": 2800,
     "aipac_lobby_donors": 623223,
@@ -5618,8 +5712,8 @@
       "C00652719"
     ],
     "source": "FEC_v7",
-    "total_raised": 25798157,
-    "aipac": 10950,
+    "total_raised": 70387,
+    "aipac": 1370152,
     "aipac_pacs": 10950,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1359202,
@@ -5636,14 +5730,18 @@
   "Mary Miller": {
     "candidate_id": "H0IL15129",
     "all_candidate_ids": [
-      "H0IL15129"
+      "H0IL15129",
+      "S4OK00117",
+      "P20003042"
     ],
     "committees": [
-      "C00723916"
+      "C00723916",
+      "C00297390",
+      "C00499194"
     ],
     "source": "FEC_v7",
-    "total_raised": 5420501,
-    "aipac": 5051,
+    "total_raised": 351850,
+    "aipac": 32030,
     "aipac_pacs": 5051,
     "aipac_ie": 0,
     "aipac_lobby_donors": 26979,
@@ -5655,7 +5753,7 @@
     "tech": 20994,
     "nra": 0,
     "special_interest_total": 355484,
-    "grassroots": 17890
+    "grassroots": 17945
   },
   "Darin LaHood": {
     "candidate_id": "H6IL18088",
@@ -5666,8 +5764,8 @@
       "C00575050"
     ],
     "source": "FEC_v7",
-    "total_raised": 19097228,
-    "aipac": 145856,
+    "total_raised": 902960,
+    "aipac": 420511,
     "aipac_pacs": 145856,
     "aipac_ie": 0,
     "aipac_lobby_donors": 274655,
@@ -5690,8 +5788,8 @@
       "C00793935"
     ],
     "source": "FEC_v7",
-    "total_raised": 10017505,
-    "aipac": 278473,
+    "total_raised": 98786,
+    "aipac": 1030989,
     "aipac_pacs": 278473,
     "aipac_ie": 0,
     "aipac_lobby_donors": 752516,
@@ -5714,8 +5812,8 @@
       "C00727529"
     ],
     "source": "FEC_v7",
-    "total_raised": 8143803,
-    "aipac": 100707,
+    "total_raised": 144546,
+    "aipac": 395275,
     "aipac_pacs": 100707,
     "aipac_ie": 0,
     "aipac_lobby_donors": 294568,
@@ -5738,8 +5836,8 @@
       "C00822767"
     ],
     "source": "FEC_v7",
-    "total_raised": 8904577,
-    "aipac": 195793,
+    "total_raised": 423340,
+    "aipac": 356500,
     "aipac_pacs": 195793,
     "aipac_ie": 0,
     "aipac_lobby_donors": 160707,
@@ -5765,8 +5863,8 @@
       "C00463190"
     ],
     "source": "FEC_v7",
-    "total_raised": 8167636,
-    "aipac": 28129,
+    "total_raised": 654291,
+    "aipac": 180720,
     "aipac_pacs": 28129,
     "aipac_ie": 0,
     "aipac_lobby_donors": 152591,
@@ -5791,8 +5889,8 @@
       "C00582932"
     ],
     "source": "FEC_v7",
-    "total_raised": 2274125,
-    "aipac": 20847,
+    "total_raised": 763007,
+    "aipac": 38265,
     "aipac_pacs": 20847,
     "aipac_ie": 0,
     "aipac_lobby_donors": 17418,
@@ -5815,8 +5913,8 @@
       "C00737767"
     ],
     "source": "FEC_v7",
-    "total_raised": 10494552,
-    "aipac": 80574,
+    "total_raised": 1010135,
+    "aipac": 255765,
     "aipac_pacs": 80574,
     "aipac_ie": 0,
     "aipac_lobby_donors": 175191,
@@ -5841,8 +5939,8 @@
       "C00121327"
     ],
     "source": "FEC_v7",
-    "total_raised": 8589878,
-    "aipac": 14077,
+    "total_raised": 6119037,
+    "aipac": 34127,
     "aipac_pacs": 14077,
     "aipac_ie": 0,
     "aipac_lobby_donors": 20050,
@@ -5859,25 +5957,28 @@
   "Andr\u00e9 Carson": {
     "candidate_id": "H8IN07184",
     "all_candidate_ids": [
-      "H8IN07184"
+      "H8IN07184",
+      "P60005915",
+      "S4OK00133"
     ],
     "committees": [
-      "C00442921"
+      "C00442921",
+      "C00391854"
     ],
     "source": "FEC_v7",
-    "total_raised": 10505972,
+    "total_raised": 1172642,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
     "aipac_lobby_donors": 0,
     "aipac_sources": "",
-    "fossil_fuels": 25550,
-    "pharma": 1107725,
-    "defense": 260834,
-    "finance": 1172384,
-    "tech": 228584,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 2795077,
+    "special_interest_total": 0,
     "grassroots": 63098
   },
   "Mark Messmer": {
@@ -5889,8 +5990,8 @@
       "C00867218"
     ],
     "source": "FEC_v7",
-    "total_raised": 2488467,
-    "aipac": 308630,
+    "total_raised": 177875,
+    "aipac": 3291220,
     "aipac_pacs": 308630,
     "aipac_ie": 2522844,
     "aipac_lobby_donors": 459746,
@@ -5914,8 +6015,8 @@
       "C00800649"
     ],
     "source": "FEC_v7",
-    "total_raised": 5086997,
-    "aipac": 29466,
+    "total_raised": 360994,
+    "aipac": 71232,
     "aipac_pacs": 29466,
     "aipac_ie": 0,
     "aipac_lobby_donors": 41766,
@@ -5942,8 +6043,8 @@
       "C00579987"
     ],
     "source": "FEC_v7",
-    "total_raised": 25238533,
-    "aipac": 145560,
+    "total_raised": 308103,
+    "aipac": 670799,
     "aipac_pacs": 145560,
     "aipac_ie": 0,
     "aipac_lobby_donors": 525239,
@@ -5971,8 +6072,8 @@
       "C00547414"
     ],
     "source": "FEC_v7",
-    "total_raised": 28496247,
-    "aipac": 121323,
+    "total_raised": 494954,
+    "aipac": 479727,
     "aipac_pacs": 121323,
     "aipac_ie": 0,
     "aipac_lobby_donors": 358404,
@@ -5995,8 +6096,8 @@
       "C00693663"
     ],
     "source": "FEC_v7",
-    "total_raised": 10211872,
-    "aipac": 106694,
+    "total_raised": 462459,
+    "aipac": 288565,
     "aipac_pacs": 106694,
     "aipac_ie": 0,
     "aipac_lobby_donors": 181871,
@@ -6021,8 +6122,8 @@
       "C00558825"
     ],
     "source": "FEC_v7",
-    "total_raised": 21182955,
-    "aipac": 150370,
+    "total_raised": 622881,
+    "aipac": 603108,
     "aipac_pacs": 150370,
     "aipac_ie": 0,
     "aipac_lobby_donors": 452738,
@@ -6047,8 +6148,8 @@
       "C00460659"
     ],
     "source": "FEC_v7",
-    "total_raised": 6328655,
-    "aipac": 60957,
+    "total_raised": 675310,
+    "aipac": 129615,
     "aipac_pacs": 60957,
     "aipac_ie": 0,
     "aipac_lobby_donors": 68658,
@@ -6073,8 +6174,8 @@
       "C00670034"
     ],
     "source": "FEC_v7",
-    "total_raised": 27461373,
-    "aipac": 237895,
+    "total_raised": 96723,
+    "aipac": 1158888,
     "aipac_pacs": 237895,
     "aipac_ie": 0,
     "aipac_lobby_donors": 920993,
@@ -6086,7 +6187,7 @@
     "tech": 1382218,
     "nra": 0,
     "special_interest_total": 6621575,
-    "grassroots": 43495
+    "grassroots": 42444
   },
   "Ron Estes": {
     "candidate_id": "H8KS04112",
@@ -6098,8 +6199,8 @@
       "C00632067"
     ],
     "source": "FEC_v7",
-    "total_raised": 9512669,
-    "aipac": 78678,
+    "total_raised": 640919,
+    "aipac": 239682,
     "aipac_pacs": 78678,
     "aipac_ie": 0,
     "aipac_lobby_donors": 161004,
@@ -6123,8 +6224,8 @@
       "C00588764"
     ],
     "source": "FEC_v7",
-    "total_raised": 13336709,
-    "aipac": 48283,
+    "total_raised": 546583,
+    "aipac": 201003,
     "aipac_pacs": 48283,
     "aipac_ie": 0,
     "aipac_lobby_donors": 152720,
@@ -6150,8 +6251,8 @@
       "C00426031"
     ],
     "source": "FEC_v7",
-    "total_raised": 22412926,
-    "aipac": 39556,
+    "total_raised": 2684218,
+    "aipac": 108156,
     "aipac_pacs": 39556,
     "aipac_ie": 0,
     "aipac_lobby_donors": 68600,
@@ -6174,8 +6275,8 @@
       "C00791392"
     ],
     "source": "FEC_v7",
-    "total_raised": 6641734,
-    "aipac": 108749,
+    "total_raised": 206897,
+    "aipac": 362036,
     "aipac_pacs": 108749,
     "aipac_ie": 52141,
     "aipac_lobby_donors": 201146,
@@ -6200,8 +6301,8 @@
       "C00492561"
     ],
     "source": "FEC_v7",
-    "total_raised": 11675048,
-    "aipac": 0,
+    "total_raised": 1131523,
+    "aipac": 14650,
     "aipac_pacs": 0,
     "aipac_ie": 0,
     "aipac_lobby_donors": 14650,
@@ -6229,8 +6330,8 @@
       "C00363457"
     ],
     "source": "FEC_v7",
-    "total_raised": 16499848,
-    "aipac": 53655,
+    "total_raised": 1437112,
+    "aipac": 143585,
     "aipac_pacs": 53655,
     "aipac_ie": 0,
     "aipac_lobby_donors": 89930,
@@ -6256,8 +6357,8 @@
       "C00450841"
     ],
     "source": "FEC_v7",
-    "total_raised": 37363960,
-    "aipac": 288426,
+    "total_raised": 1313524,
+    "aipac": 1320117,
     "aipac_pacs": 288426,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1031691,
@@ -6281,8 +6382,8 @@
       "C00394957"
     ],
     "source": "FEC_v7",
-    "total_raised": 105450108,
-    "aipac": 895733,
+    "total_raised": 1426683,
+    "aipac": 2675542,
     "aipac_pacs": 895733,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1779809,
@@ -6307,8 +6408,8 @@
       "C00617662"
     ],
     "source": "FEC_v7",
-    "total_raised": 4825516,
-    "aipac": 19546,
+    "total_raised": 818680,
+    "aipac": 26846,
     "aipac_pacs": 19546,
     "aipac_ie": 0,
     "aipac_lobby_donors": 7300,
@@ -6335,8 +6436,8 @@
       "C00433748"
     ],
     "source": "FEC_v7",
-    "total_raised": 21762,
-    "aipac": 1096051,
+    "total_raised": 0,
+    "aipac": 3110639,
     "aipac_pacs": 1096051,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2014588,
@@ -6361,8 +6462,8 @@
       "C00935411"
     ],
     "source": "FEC_v7",
-    "total_raised": 11939981,
-    "aipac": 83896,
+    "total_raised": 382311,
+    "aipac": 212146,
     "aipac_pacs": 83896,
     "aipac_ie": 0,
     "aipac_lobby_donors": 128250,
@@ -6388,8 +6489,8 @@
       "C00613935"
     ],
     "source": "FEC_v7",
-    "total_raised": 7030675,
-    "aipac": 53337,
+    "total_raised": 524685,
+    "aipac": 181387,
     "aipac_pacs": 53337,
     "aipac_ie": 0,
     "aipac_lobby_donors": 128050,
@@ -6414,8 +6515,8 @@
       "C00366393"
     ],
     "source": "FEC_v7",
-    "total_raised": 12338324,
-    "aipac": 62850,
+    "total_raised": 672069,
+    "aipac": 288291,
     "aipac_pacs": 62850,
     "aipac_ie": 0,
     "aipac_lobby_donors": 225441,
@@ -6439,8 +6540,8 @@
       "C00653816"
     ],
     "source": "FEC_v7",
-    "total_raised": 27754086,
-    "aipac": 1071069,
+    "total_raised": 169589,
+    "aipac": 3449465,
     "aipac_pacs": 1071069,
     "aipac_ie": 0,
     "aipac_lobby_donors": 2378396,
@@ -6467,7 +6568,7 @@
     ],
     "source": "FEC_v7",
     "total_raised": 0,
-    "aipac": 70208,
+    "aipac": 332193,
     "aipac_pacs": 70208,
     "aipac_ie": 0,
     "aipac_lobby_donors": 261985,
@@ -6492,19 +6593,19 @@
       "C00639476"
     ],
     "source": "FEC_v7",
-    "total_raised": 2714126,
-    "aipac": 61733,
+    "total_raised": 423648,
+    "aipac": 199025,
     "aipac_pacs": 61733,
     "aipac_ie": 0,
     "aipac_lobby_donors": 137292,
     "aipac_sources": "AIPAC, COPAC, DMFI, JAC, JSTREET, MMPAC, SUNPAC, TPOH",
     "fossil_fuels": 0,
-    "pharma": 85787,
-    "defense": 6819,
-    "finance": 311652,
-    "tech": 14350,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 617633,
+    "special_interest_total": 199025,
     "grassroots": 100
   },
   "Sarah Elfreth": {
@@ -6516,8 +6617,8 @@
       "C00855353"
     ],
     "source": "FEC_v7",
-    "total_raised": 3231926,
-    "aipac": 20849,
+    "total_raised": 64660,
+    "aipac": 4980286,
     "aipac_pacs": 20849,
     "aipac_ie": 4220199,
     "aipac_lobby_donors": 739238,
@@ -6541,8 +6642,8 @@
       "C00505065"
     ],
     "source": "FEC_v7",
-    "total_raised": 4632796,
-    "aipac": 890233,
+    "total_raised": 377308,
+    "aipac": 8186424,
     "aipac_pacs": 890233,
     "aipac_ie": 6421398,
     "aipac_lobby_donors": 874793,
@@ -6569,8 +6670,8 @@
       "C00508416"
     ],
     "source": "FEC_v7",
-    "total_raised": 47754069,
-    "aipac": 52664,
+    "total_raised": 2258971,
+    "aipac": 259182,
     "aipac_pacs": 52664,
     "aipac_ie": 0,
     "aipac_lobby_donors": 206518,
@@ -6593,8 +6694,8 @@
       "C00575126"
     ],
     "source": "FEC_v7",
-    "total_raised": 21130512,
-    "aipac": 168416,
+    "total_raised": 284567,
+    "aipac": 1238058,
     "aipac_pacs": 168416,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1069642,
@@ -6620,8 +6721,8 @@
       "C00677336"
     ],
     "source": "FEC_v7",
-    "total_raised": 31644419,
-    "aipac": 138736,
+    "total_raised": 1346649,
+    "aipac": 358386,
     "aipac_pacs": 138736,
     "aipac_ie": 0,
     "aipac_lobby_donors": 219650,
@@ -6651,19 +6752,19 @@
       "C00030429"
     ],
     "source": "FEC_v7",
-    "total_raised": 21572150,
-    "aipac": 77317,
+    "total_raised": 717453,
+    "aipac": 297633,
     "aipac_pacs": 77317,
     "aipac_ie": 0,
     "aipac_lobby_donors": 220316,
     "aipac_sources": "JSTREET, NACPAC, PHXED",
-    "fossil_fuels": 55678,
-    "pharma": 1279494,
-    "defense": 183883,
-    "finance": 1316938,
-    "tech": 376458,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 3510084,
+    "special_interest_total": 297633,
     "grassroots": 67546
   },
   "Lori Trahan": {
@@ -6677,8 +6778,8 @@
       "C00699652"
     ],
     "source": "FEC_v7",
-    "total_raised": 9485598,
-    "aipac": 51703,
+    "total_raised": 306454,
+    "aipac": 374119,
     "aipac_pacs": 51703,
     "aipac_ie": 0,
     "aipac_lobby_donors": 322416,
@@ -6702,8 +6803,8 @@
       "C00721449"
     ],
     "source": "FEC_v7",
-    "total_raised": 12373949,
-    "aipac": 866243,
+    "total_raised": 451265,
+    "aipac": 2671386,
     "aipac_pacs": 866243,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1805143,
@@ -6730,8 +6831,8 @@
       "C00436030"
     ],
     "source": "FEC_v7",
-    "total_raised": 17606227,
-    "aipac": 863530,
+    "total_raised": 644366,
+    "aipac": 2249598,
     "aipac_pacs": 863530,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1386068,
@@ -6757,8 +6858,8 @@
       "C00704510"
     ],
     "source": "FEC_v7",
-    "total_raised": 21553932,
-    "aipac": 101532,
+    "total_raised": 1440640,
+    "aipac": 784934,
     "aipac_pacs": 101532,
     "aipac_ie": 0,
     "aipac_lobby_donors": 683402,
@@ -6783,7 +6884,7 @@
       "C00564930"
     ],
     "source": "FEC_v7",
-    "total_raised": 7495525,
+    "total_raised": 215420,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -6812,8 +6913,8 @@
       "C00541185"
     ],
     "source": "FEC_v7",
-    "total_raised": 16465464,
-    "aipac": 1000,
+    "total_raised": 1668778,
+    "aipac": 85550,
     "aipac_pacs": 1000,
     "aipac_ie": 0,
     "aipac_lobby_donors": 84550,
@@ -6838,8 +6939,8 @@
       "C00273839"
     ],
     "source": "FEC_v7",
-    "total_raised": 8582534,
-    "aipac": 108152,
+    "total_raised": 745243,
+    "aipac": 367128,
     "aipac_pacs": 108152,
     "aipac_ie": 0,
     "aipac_lobby_donors": 258976,
@@ -6864,19 +6965,19 @@
       "C00466714"
     ],
     "source": "FEC_v7",
-    "total_raised": 12494560,
-    "aipac": 54719,
+    "total_raised": 1056732,
+    "aipac": 310988,
     "aipac_pacs": 54719,
     "aipac_ie": 0,
     "aipac_lobby_donors": 256269,
     "aipac_sources": "AIPAC, AMP, LAFAS, RJC",
-    "fossil_fuels": 219144,
-    "pharma": 572662,
-    "defense": 445471,
-    "finance": 934463,
-    "tech": 240771,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 2723499,
+    "special_interest_total": 310988,
     "grassroots": 14978
   },
   "John Moolenaar": {
@@ -6888,8 +6989,8 @@
       "C00561530"
     ],
     "source": "FEC_v7",
-    "total_raised": 10528803,
-    "aipac": 36097,
+    "total_raised": 743718,
+    "aipac": 207981,
     "aipac_pacs": 36097,
     "aipac_ie": 0,
     "aipac_lobby_donors": 171884,
@@ -6917,8 +7018,8 @@
       "C00697086"
     ],
     "source": "FEC_v7",
-    "total_raised": 15161404,
-    "aipac": 396031,
+    "total_raised": 425341,
+    "aipac": 1324019,
     "aipac_pacs": 396031,
     "aipac_ie": 0,
     "aipac_lobby_donors": 927988,
@@ -6941,8 +7042,8 @@
       "C00459297"
     ],
     "source": "FEC_v7",
-    "total_raised": 17815871,
-    "aipac": 41306,
+    "total_raised": 1227551,
+    "aipac": 264585,
     "aipac_pacs": 41306,
     "aipac_ie": 0,
     "aipac_lobby_donors": 223279,
@@ -6965,8 +7066,8 @@
       "C00390724"
     ],
     "source": "FEC_v7",
-    "total_raised": 20038578,
-    "aipac": 134335,
+    "total_raised": 1212546,
+    "aipac": 585914,
     "aipac_pacs": 134335,
     "aipac_ie": 0,
     "aipac_lobby_donors": 451579,
@@ -6989,8 +7090,8 @@
       "C00558213"
     ],
     "source": "FEC_v7",
-    "total_raised": 9749741,
-    "aipac": 29424,
+    "total_raised": 424429,
+    "aipac": 265158,
     "aipac_pacs": 29424,
     "aipac_ie": 0,
     "aipac_lobby_donors": 235734,
@@ -7015,8 +7116,8 @@
       "C00726042"
     ],
     "source": "FEC_v7",
-    "total_raised": 10015012,
-    "aipac": 108918,
+    "total_raised": 725941,
+    "aipac": 271330,
     "aipac_pacs": 108918,
     "aipac_ie": 0,
     "aipac_lobby_donors": 162412,
@@ -7043,8 +7144,8 @@
       "C00705756"
     ],
     "source": "FEC_v7",
-    "total_raised": 61875785,
-    "aipac": 268355,
+    "total_raised": 428466,
+    "aipac": 1592822,
     "aipac_pacs": 268355,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1324467,
@@ -7070,8 +7171,8 @@
       "C00903039"
     ],
     "source": "FEC_v7",
-    "total_raised": 28756014,
-    "aipac": 1269535,
+    "total_raised": 256054,
+    "aipac": 9094690,
     "aipac_pacs": 1269535,
     "aipac_ie": 4221722,
     "aipac_lobby_donors": 3603433,
@@ -7094,7 +7195,7 @@
       "C00668608"
     ],
     "source": "FEC_v7",
-    "total_raised": 19845724,
+    "total_raised": 99062,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -7118,8 +7219,8 @@
       "C00798132"
     ],
     "source": "FEC_v7",
-    "total_raised": 17360919,
-    "aipac": 194569,
+    "total_raised": 9433233,
+    "aipac": 740370,
     "aipac_pacs": 194569,
     "aipac_ie": 0,
     "aipac_lobby_donors": 545801,
@@ -7142,8 +7243,8 @@
       "C00807743"
     ],
     "source": "FEC_v7",
-    "total_raised": 4847733,
-    "aipac": 47246,
+    "total_raised": 302622,
+    "aipac": 94913,
     "aipac_pacs": 47246,
     "aipac_ie": 0,
     "aipac_lobby_donors": 47667,
@@ -7170,8 +7271,8 @@
       "C00586420"
     ],
     "source": "FEC_v7",
-    "total_raised": 42896278,
-    "aipac": 655825,
+    "total_raised": 438643,
+    "aipac": 3270151,
     "aipac_pacs": 655825,
     "aipac_ie": 1060,
     "aipac_lobby_donors": 2613266,
@@ -7198,8 +7299,8 @@
       "C00478396"
     ],
     "source": "FEC_v7",
-    "total_raised": 3310079,
-    "aipac": 0,
+    "total_raised": 153950,
+    "aipac": 35438,
     "aipac_pacs": 0,
     "aipac_ie": 0,
     "aipac_lobby_donors": 35438,
@@ -7227,8 +7328,8 @@
       "C00699504"
     ],
     "source": "FEC_v7",
-    "total_raised": 31418183,
-    "aipac": 59108,
+    "total_raised": 1354669,
+    "aipac": 203877,
     "aipac_pacs": 59108,
     "aipac_ie": 0,
     "aipac_lobby_donors": 144769,
@@ -7253,7 +7354,7 @@
       "C00680934"
     ],
     "source": "FEC_v7",
-    "total_raised": 23433802,
+    "total_raised": 130906,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -7277,8 +7378,8 @@
       "C00545749"
     ],
     "source": "FEC_v7",
-    "total_raised": 29898618,
-    "aipac": 784132,
+    "total_raised": 626826,
+    "aipac": 1984488,
     "aipac_pacs": 784132,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1200356,
@@ -7302,8 +7403,8 @@
       "C00702688"
     ],
     "source": "FEC_v7",
-    "total_raised": 7327263,
-    "aipac": 64231,
+    "total_raised": 343685,
+    "aipac": 221288,
     "aipac_pacs": 64231,
     "aipac_ie": 0,
     "aipac_lobby_donors": 157057,
@@ -7326,8 +7427,8 @@
       "C00650697"
     ],
     "source": "FEC_v7",
-    "total_raised": 10611213,
-    "aipac": 61697,
+    "total_raised": 654265,
+    "aipac": 254846,
     "aipac_pacs": 61697,
     "aipac_ie": 0,
     "aipac_lobby_donors": 193149,
@@ -7352,8 +7453,8 @@
       "C00464297"
     ],
     "source": "FEC_v7",
-    "total_raised": 27985761,
-    "aipac": 29709,
+    "total_raised": 1123753,
+    "aipac": 87033,
     "aipac_pacs": 29709,
     "aipac_ie": 0,
     "aipac_lobby_donors": 57324,
@@ -7370,17 +7471,20 @@
   "Bennie Thompson": {
     "candidate_id": "H4MS02068",
     "all_candidate_ids": [
-      "H4MS02068"
+      "H4MS02068",
+      "P40003451",
+      "S6OR00391"
     ],
     "committees": [
       "C00280859",
       "C00281287",
       "C00279851",
-      "C00280867"
+      "C00280867",
+      "C00403865"
     ],
     "source": "FEC_v7",
-    "total_raised": 18144962,
-    "aipac": 9300,
+    "total_raised": 1762807,
+    "aipac": 55468,
     "aipac_pacs": 9300,
     "aipac_ie": 0,
     "aipac_lobby_donors": 46168,
@@ -7397,14 +7501,19 @@
   "Michael Guest": {
     "candidate_id": "H8MS03125",
     "all_candidate_ids": [
-      "H8MS03125"
+      "H8MS03125",
+      "S2VT00011",
+      "P00010447"
     ],
     "committees": [
-      "C00665752"
+      "C00665752",
+      "C00153841",
+      "C00159236",
+      "C00697938"
     ],
     "source": "FEC_v7",
-    "total_raised": 4831001,
-    "aipac": 35755,
+    "total_raised": 469018,
+    "aipac": 66755,
     "aipac_pacs": 35755,
     "aipac_ie": 0,
     "aipac_lobby_donors": 31000,
@@ -7431,8 +7540,8 @@
       "C00344424"
     ],
     "source": "FEC_v7",
-    "total_raised": 3179900,
-    "aipac": 51911,
+    "total_raised": 276262,
+    "aipac": 78922,
     "aipac_pacs": 51911,
     "aipac_ie": 0,
     "aipac_lobby_donors": 27011,
@@ -7449,14 +7558,18 @@
   "Jason Smith": {
     "candidate_id": "H4MO08162",
     "all_candidate_ids": [
-      "H4MO08162"
+      "H4MO08162",
+      "S8FL00216",
+      "P00005819"
     ],
     "committees": [
-      "C00541862"
+      "C00541862",
+      "C00348953",
+      "C00638684"
     ],
     "source": "FEC_v7",
-    "total_raised": 21523865,
-    "aipac": 100087,
+    "total_raised": 938605,
+    "aipac": 379737,
     "aipac_pacs": 100087,
     "aipac_ie": 0,
     "aipac_lobby_donors": 279650,
@@ -7473,14 +7586,15 @@
   "Ann Wagner": {
     "candidate_id": "H2MO02102",
     "all_candidate_ids": [
-      "H2MO02102"
+      "H2MO02102",
+      "P60010451"
     ],
     "committees": [
       "C00495846"
     ],
     "source": "FEC_v7",
-    "total_raised": 28169761,
-    "aipac": 275405,
+    "total_raised": 1157606,
+    "aipac": 766417,
     "aipac_pacs": 275405,
     "aipac_ie": 0,
     "aipac_lobby_donors": 491012,
@@ -7497,14 +7611,19 @@
   "Mark Alford": {
     "candidate_id": "H2MO04207",
     "all_candidate_ids": [
-      "H2MO04207"
+      "H2MO04207",
+      "P60003563",
+      "S0GA00286"
     ],
     "committees": [
-      "C00792598"
+      "C00792598",
+      "C00303081",
+      "C00327940",
+      "C00363457"
     ],
     "source": "FEC_v7",
-    "total_raised": 3448026,
-    "aipac": 80384,
+    "total_raised": 380848,
+    "aipac": 131728,
     "aipac_pacs": 80384,
     "aipac_ie": 0,
     "aipac_lobby_donors": 51344,
@@ -7521,14 +7640,17 @@
   "Emanuel Cleaver": {
     "candidate_id": "H4MO05234",
     "all_candidate_ids": [
-      "H4MO05234"
+      "H4MO05234",
+      "S2TX00387",
+      "P40000960"
     ],
     "committees": [
-      "C00395848"
+      "C00395848",
+      "C00500702"
     ],
     "source": "FEC_v7",
-    "total_raised": 12827848,
-    "aipac": 95782,
+    "total_raised": 1388639,
+    "aipac": 268566,
     "aipac_pacs": 95782,
     "aipac_ie": 0,
     "aipac_lobby_donors": 172784,
@@ -7540,19 +7662,23 @@
     "tech": 673211,
     "nra": 0,
     "special_interest_total": 5400698,
-    "grassroots": 38234
+    "grassroots": 39970
   },
   "Sam Graves": {
     "candidate_id": "H0MO06073",
     "all_candidate_ids": [
-      "H0MO06073"
+      "H0MO06073",
+      "S4OK00075",
+      "P40000622"
     ],
     "committees": [
-      "C00359034"
+      "C00359034",
+      "C00294843",
+      "C00168146"
     ],
     "source": "FEC_v7",
-    "total_raised": 23889013,
-    "aipac": 80754,
+    "total_raised": 1767784,
+    "aipac": 164296,
     "aipac_pacs": 80754,
     "aipac_ie": 0,
     "aipac_lobby_donors": 83542,
@@ -7569,14 +7695,16 @@
   "Eric Burlison": {
     "candidate_id": "H2MO07143",
     "all_candidate_ids": [
-      "H2MO07143"
+      "H2MO07143",
+      "P40015273"
     ],
     "committees": [
-      "C00788414"
+      "C00788414",
+      "C00847681"
     ],
     "source": "FEC_v7",
-    "total_raised": 3115971,
-    "aipac": 36922,
+    "total_raised": 263014,
+    "aipac": 62811,
     "aipac_pacs": 36922,
     "aipac_ie": 0,
     "aipac_lobby_donors": 25889,
@@ -7593,25 +7721,27 @@
   "Wesley Bell": {
     "candidate_id": "H4MO01134",
     "all_candidate_ids": [
-      "H4MO01134"
+      "H4MO01134",
+      "S4MO00250",
+      "P60023579"
     ],
     "committees": [
       "C00842336"
     ],
     "source": "FEC_v7",
-    "total_raised": 7289957,
-    "aipac": 3882993,
-    "aipac_pacs": 3882993,
+    "total_raised": 145720,
+    "aipac": 0,
+    "aipac_pacs": 0,
     "aipac_ie": 0,
     "aipac_lobby_donors": 0,
     "aipac_sources": "",
-    "fossil_fuels": 21350,
-    "pharma": 263786,
-    "defense": 15255,
-    "finance": 1113736,
-    "tech": 72636,
+    "fossil_fuels": 3020,
+    "pharma": 152128,
+    "defense": 2156,
+    "finance": 551563,
+    "tech": 69591,
     "nra": 0,
-    "special_interest_total": 5369756,
+    "special_interest_total": 778458,
     "grassroots": 69870
   },
   "Ryan Zinke": {
@@ -7624,8 +7754,8 @@
       "C00798454"
     ],
     "source": "FEC_v7",
-    "total_raised": 10578260,
-    "aipac": 40076,
+    "total_raised": 455141,
+    "aipac": 292838,
     "aipac_pacs": 40076,
     "aipac_ie": 0,
     "aipac_lobby_donors": 252762,
@@ -7648,8 +7778,8 @@
       "C00801241"
     ],
     "source": "FEC_v7",
-    "total_raised": 6189374,
-    "aipac": 48229,
+    "total_raised": 368700,
+    "aipac": 92736,
     "aipac_pacs": 48229,
     "aipac_ie": 0,
     "aipac_lobby_donors": 44507,
@@ -7674,32 +7804,36 @@
       "C00440784"
     ],
     "source": "FEC_v7",
-    "total_raised": 19767681,
-    "aipac": 1291908,
+    "total_raised": 652496,
+    "aipac": 2967090,
     "aipac_pacs": 1291908,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1675182,
     "aipac_sources": "AIPAC, AMP, COPAC, CITYPAC, GCSC, HEARTLAND, LAFAS, NACPAC, NORPAC, PHXED, PIA, RJC, DESERT, TPOH, USI",
-    "fossil_fuels": 259223,
-    "pharma": 707777,
-    "defense": 501383,
-    "finance": 3066064,
-    "tech": 531250,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 8032787,
+    "special_interest_total": 2967090,
     "grassroots": 30261
   },
   "Adrian Smith": {
     "candidate_id": "H6NE03115",
     "all_candidate_ids": [
-      "H6NE03115"
+      "H6NE03115",
+      "S8FL00216",
+      "P00005819"
     ],
     "committees": [
-      "C00412890"
+      "C00412890",
+      "C00348953",
+      "C00638684"
     ],
     "source": "FEC_v7",
-    "total_raised": 14251620,
-    "aipac": 29129,
+    "total_raised": 1054853,
+    "aipac": 70575,
     "aipac_pacs": 29129,
     "aipac_ie": 0,
     "aipac_lobby_donors": 41446,
@@ -7716,14 +7850,18 @@
   "Dina Titus": {
     "candidate_id": "H8NV03036",
     "all_candidate_ids": [
-      "H8NV03036"
+      "H8NV03036",
+      "P80007016",
+      "S0NV00153"
     ],
     "committees": [
-      "C00499467"
+      "C00499467",
+      "C00894154",
+      "C00461608"
     ],
     "source": "FEC_v7",
-    "total_raised": 11759711,
-    "aipac": 183520,
+    "total_raised": 730351,
+    "aipac": 630114,
     "aipac_pacs": 183520,
     "aipac_ie": 0,
     "aipac_lobby_donors": 446594,
@@ -7735,7 +7873,7 @@
     "tech": 650422,
     "nra": 0,
     "special_interest_total": 3666423,
-    "grassroots": 60682
+    "grassroots": 61483
   },
   "Mark Amodei": {
     "candidate_id": "H2NV02395",
@@ -7748,8 +7886,8 @@
       "C00467365"
     ],
     "source": "FEC_v7",
-    "total_raised": 8353677,
-    "aipac": 36207,
+    "total_raised": 905455,
+    "aipac": 149389,
     "aipac_pacs": 36207,
     "aipac_ie": 0,
     "aipac_lobby_donors": 113182,
@@ -7766,15 +7904,17 @@
   "Susie Lee": {
     "candidate_id": "H6NV04020",
     "all_candidate_ids": [
-      "H6NV04020"
+      "H6NV04020",
+      "S4OR00073",
+      "P00008979"
     ],
     "committees": [
       "C00655613",
       "C00578476"
     ],
     "source": "FEC_v7",
-    "total_raised": 27444504,
-    "aipac": 725904,
+    "total_raised": 622062,
+    "aipac": 2506290,
     "aipac_pacs": 725904,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1780386,
@@ -7798,8 +7938,8 @@
       "C00668228"
     ],
     "source": "FEC_v7",
-    "total_raised": 22431431,
-    "aipac": 193815,
+    "total_raised": 500037,
+    "aipac": 939139,
     "aipac_pacs": 193815,
     "aipac_ie": 0,
     "aipac_lobby_donors": 745324,
@@ -7824,8 +7964,8 @@
       "C00660464"
     ],
     "source": "FEC_v7",
-    "total_raised": 24534934,
-    "aipac": 811319,
+    "total_raised": 171411,
+    "aipac": 2709473,
     "aipac_pacs": 811319,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1898154,
@@ -7851,32 +7991,35 @@
       "C00044446"
     ],
     "source": "FEC_v7",
-    "total_raised": 14711877,
-    "aipac": 302173,
+    "total_raised": 958916,
+    "aipac": 804333,
     "aipac_pacs": 302173,
     "aipac_ie": 0,
     "aipac_lobby_donors": 502160,
     "aipac_sources": "AIPAC, BICPAC, DMFI, HEARTLAND, MDACC, NACPAC, NATPAC, NORPAC, PACCH, PIA",
-    "fossil_fuels": 105000,
-    "pharma": 726060,
-    "defense": 638955,
-    "finance": 2311759,
-    "tech": 297704,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 4883811,
+    "special_interest_total": 804333,
     "grassroots": 70375
   },
   "Jefferson Van Drew": {
     "candidate_id": "H8NJ02166",
     "all_candidate_ids": [
-      "H8NJ02166"
+      "H8NJ02166",
+      "P80001498",
+      "S8UT00119"
     ],
     "committees": [
-      "C00661868"
+      "C00661868",
+      "C00633461"
     ],
     "source": "FEC_v7",
-    "total_raised": 14106409,
-    "aipac": 87782,
+    "total_raised": 415875,
+    "aipac": 429267,
     "aipac_pacs": 87782,
     "aipac_ie": 0,
     "aipac_lobby_donors": 341485,
@@ -7900,8 +8043,8 @@
       "C00859496"
     ],
     "source": "FEC_v7",
-    "total_raised": 2181749,
-    "aipac": 26075,
+    "total_raised": 212400,
+    "aipac": 74550,
     "aipac_pacs": 26075,
     "aipac_ie": 0,
     "aipac_lobby_donors": 48475,
@@ -7928,8 +8071,8 @@
       "C00638684"
     ],
     "source": "FEC_v7",
-    "total_raised": 14357839,
-    "aipac": 234507,
+    "total_raised": 1188117,
+    "aipac": 571918,
     "aipac_pacs": 234507,
     "aipac_ie": 0,
     "aipac_lobby_donors": 337411,
@@ -7952,8 +8095,8 @@
       "C00573949"
     ],
     "source": "FEC_v7",
-    "total_raised": 41598865,
-    "aipac": 1902122,
+    "total_raised": 698898,
+    "aipac": 6745156,
     "aipac_pacs": 1902122,
     "aipac_ie": 0,
     "aipac_lobby_donors": 4843034,
@@ -7980,8 +8123,8 @@
       "C00545905"
     ],
     "source": "FEC_v7",
-    "total_raised": 41636412,
-    "aipac": 254670,
+    "total_raised": 3010617,
+    "aipac": 845023,
     "aipac_pacs": 254670,
     "aipac_ie": 0,
     "aipac_lobby_donors": 590353,
@@ -8008,8 +8151,8 @@
       "C00405480"
     ],
     "source": "FEC_v7",
-    "total_raised": 717446,
-    "aipac": 758998,
+    "total_raised": 145755,
+    "aipac": 2489504,
     "aipac_pacs": 758998,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1730506,
@@ -8034,8 +8177,8 @@
       "C00264564"
     ],
     "source": "FEC_v7",
-    "total_raised": 70363613,
-    "aipac": 460324,
+    "total_raised": 1796732,
+    "aipac": 1035064,
     "aipac_pacs": 460324,
     "aipac_ie": 0,
     "aipac_lobby_donors": 574740,
@@ -8058,7 +8201,7 @@
       "C00640003"
     ],
     "source": "FEC_v7",
-    "total_raised": 26012387,
+    "total_raised": 80567,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -8086,9 +8229,9 @@
       "C00838045"
     ],
     "source": "FEC_v7",
-    "total_raised": 6422714,
-    "aipac": 0,
-    "aipac_pacs": 0,
+    "total_raised": 387798,
+    "aipac": 901358,
+    "aipac_pacs": 901358,
     "aipac_ie": 0,
     "aipac_lobby_donors": 0,
     "aipac_sources": "",
@@ -8098,7 +8241,7 @@
     "finance": 458419,
     "tech": 172412,
     "nra": 0,
-    "special_interest_total": 1460398,
+    "special_interest_total": 2361756,
     "grassroots": 73142
   },
   "Melanie Stansbury": {
@@ -8110,8 +8253,8 @@
       "C00765099"
     ],
     "source": "FEC_v7",
-    "total_raised": 6015494,
-    "aipac": 54993,
+    "total_raised": 113133,
+    "aipac": 171723,
     "aipac_pacs": 54993,
     "aipac_ie": 0,
     "aipac_lobby_donors": 116730,
@@ -8137,8 +8280,8 @@
       "C00699975"
     ],
     "source": "FEC_v7",
-    "total_raised": 13611542,
-    "aipac": 192648,
+    "total_raised": 57697,
+    "aipac": 754125,
     "aipac_pacs": 192648,
     "aipac_ie": 0,
     "aipac_lobby_donors": 561477,
@@ -8167,8 +8310,8 @@
       "C00084152"
     ],
     "source": "FEC_v7",
-    "total_raised": 9184329,
-    "aipac": 89898,
+    "total_raised": 206448,
+    "aipac": 421271,
     "aipac_pacs": 89898,
     "aipac_ie": 0,
     "aipac_lobby_donors": 331373,
@@ -8192,8 +8335,8 @@
       "C00818930"
     ],
     "source": "FEC_v7",
-    "total_raised": 8968168,
-    "aipac": 162300,
+    "total_raised": 324682,
+    "aipac": 638058,
     "aipac_pacs": 162300,
     "aipac_ie": 0,
     "aipac_lobby_donors": 475758,
@@ -8216,8 +8359,8 @@
       "C00729954"
     ],
     "source": "FEC_v7",
-    "total_raised": 11699601,
-    "aipac": 175524,
+    "total_raised": 548983,
+    "aipac": 679627,
     "aipac_pacs": 175524,
     "aipac_ie": 0,
     "aipac_lobby_donors": 504103,
@@ -8240,8 +8383,8 @@
       "C00607200"
     ],
     "source": "FEC_v7",
-    "total_raised": 23843334,
-    "aipac": 386957,
+    "total_raised": 526504,
+    "aipac": 1908212,
     "aipac_pacs": 386957,
     "aipac_ie": 89560,
     "aipac_lobby_donors": 1431695,
@@ -8267,8 +8410,8 @@
       "C00749119"
     ],
     "source": "FEC_v7",
-    "total_raised": 17994690,
-    "aipac": 834173,
+    "total_raised": 1686091,
+    "aipac": 2239471,
     "aipac_pacs": 834173,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1405298,
@@ -8294,8 +8437,8 @@
       "C00145847"
     ],
     "source": "FEC_v7",
-    "total_raised": 13625317,
-    "aipac": 934755,
+    "total_raised": 625572,
+    "aipac": 2240540,
     "aipac_pacs": 934755,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1305785,
@@ -8309,30 +8452,6 @@
     "special_interest_total": 5300752,
     "grassroots": 104470
   },
-  "Nydia Vel\u00e1zquez": {
-    "candidate_id": "H2NY00010",
-    "all_candidate_ids": [
-      "H2NY00010"
-    ],
-    "committees": [
-      "C00271312"
-    ],
-    "source": "FEC_v7",
-    "total_raised": 11413459,
-    "aipac": 0,
-    "aipac_pacs": 0,
-    "aipac_ie": 0,
-    "aipac_lobby_donors": 0,
-    "aipac_sources": "",
-    "fossil_fuels": 41298,
-    "pharma": 643184,
-    "defense": 25757,
-    "finance": 2900487,
-    "tech": 320280,
-    "nra": 0,
-    "special_interest_total": 3931006,
-    "grassroots": 147485
-  },
   "Hakeem Jeffries": {
     "candidate_id": "H2NY10092",
     "all_candidate_ids": [
@@ -8344,8 +8463,8 @@
       "C00775924"
     ],
     "source": "FEC_v7",
-    "total_raised": 51209891,
-    "aipac": 1494553,
+    "total_raised": 690405,
+    "aipac": 5524449,
     "aipac_pacs": 1494553,
     "aipac_ie": 0,
     "aipac_lobby_donors": 4029896,
@@ -8371,8 +8490,8 @@
       "C00322370"
     ],
     "source": "FEC_v7",
-    "total_raised": 9169408,
-    "aipac": 125644,
+    "total_raised": 1008840,
+    "aipac": 322673,
     "aipac_pacs": 125644,
     "aipac_ie": 0,
     "aipac_lobby_donors": 197029,
@@ -8396,8 +8515,8 @@
       "C00816660"
     ],
     "source": "FEC_v7",
-    "total_raised": 15076107,
-    "aipac": 476135,
+    "total_raised": 310280,
+    "aipac": 1765333,
     "aipac_pacs": 476135,
     "aipac_ie": 101699,
     "aipac_lobby_donors": 1187499,
@@ -8421,8 +8540,8 @@
       "C00694778"
     ],
     "source": "FEC_v7",
-    "total_raised": 13833530,
-    "aipac": 239481,
+    "total_raised": 362052,
+    "aipac": 976214,
     "aipac_pacs": 239481,
     "aipac_ie": 0,
     "aipac_lobby_donors": 736733,
@@ -8448,8 +8567,8 @@
       "C00635722"
     ],
     "source": "FEC_v7",
-    "total_raised": 7934250,
-    "aipac": 319814,
+    "total_raised": 1170932,
+    "aipac": 780675,
     "aipac_pacs": 319814,
     "aipac_ie": 0,
     "aipac_lobby_donors": 460861,
@@ -8472,7 +8591,7 @@
       "C00639591"
     ],
     "source": "FEC_v7",
-    "total_raised": 78817994,
+    "total_raised": 56420,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -8490,14 +8609,18 @@
   "Ritchie Torres": {
     "candidate_id": "H0NY15160",
     "all_candidate_ids": [
-      "H0NY15160"
+      "H0NY15160",
+      "P80009426",
+      "S0WA00324"
     ],
     "committees": [
-      "C00699744"
+      "C00699744",
+      "C00948372",
+      "C00483933"
     ],
     "source": "FEC_v7",
-    "total_raised": 21844495,
-    "aipac": 1746031,
+    "total_raised": 333638,
+    "aipac": 6773001,
     "aipac_pacs": 1746031,
     "aipac_ie": 54952,
     "aipac_lobby_donors": 4972018,
@@ -8514,14 +8637,15 @@
   "George Latimer": {
     "candidate_id": "H4NY16087",
     "all_candidate_ids": [
-      "H4NY16087"
+      "H4NY16087",
+      "S2TX00205"
     ],
     "committees": [
       "C00859041"
     ],
     "source": "FEC_v7",
-    "total_raised": 7118863,
-    "aipac": 2904555,
+    "total_raised": 155820,
+    "aipac": 22673131,
     "aipac_pacs": 2904555,
     "aipac_ie": 16200140,
     "aipac_lobby_donors": 3568436,
@@ -8538,15 +8662,18 @@
   "Mike Lawler": {
     "candidate_id": "H2NY17162",
     "all_candidate_ids": [
-      "H2NY17162"
+      "H2NY17162",
+      "P00005462",
+      "S4IN00030"
     ],
     "committees": [
       "C00815415",
-      "C00818955"
+      "C00818955",
+      "C00285015"
     ],
     "source": "FEC_v7",
-    "total_raised": 16672956,
-    "aipac": 924539,
+    "total_raised": 606585,
+    "aipac": 2679471,
     "aipac_pacs": 924539,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1754932,
@@ -8563,15 +8690,19 @@
   "Pat Ryan": {
     "candidate_id": "H8NY19223",
     "all_candidate_ids": [
-      "H8NY19223"
+      "H8NY19223",
+      "P00014241",
+      "S4MA00010"
     ],
     "committees": [
       "C00647115",
-      "C00815290"
+      "C00815290",
+      "C00726448",
+      "C00166025"
     ],
     "source": "FEC_v7",
-    "total_raised": 18812811,
-    "aipac": 391057,
+    "total_raised": 550209,
+    "aipac": 1617773,
     "aipac_pacs": 391057,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1226716,
@@ -8594,8 +8725,8 @@
       "C00450049"
     ],
     "source": "FEC_v7",
-    "total_raised": 11790204,
-    "aipac": 58890,
+    "total_raised": 552802,
+    "aipac": 155239,
     "aipac_pacs": 58890,
     "aipac_ie": 0,
     "aipac_lobby_donors": 96349,
@@ -8618,8 +8749,8 @@
       "C00817932"
     ],
     "source": "FEC_v7",
-    "total_raised": 4552729,
-    "aipac": 101035,
+    "total_raised": 413225,
+    "aipac": 289432,
     "aipac_pacs": 101035,
     "aipac_ie": 0,
     "aipac_lobby_donors": 188397,
@@ -8642,8 +8773,8 @@
       "C00675108"
     ],
     "source": "FEC_v7",
-    "total_raised": 9041761,
-    "aipac": 224256,
+    "total_raised": 523080,
+    "aipac": 550763,
     "aipac_pacs": 224256,
     "aipac_ie": 0,
     "aipac_lobby_donors": 326507,
@@ -8670,19 +8801,19 @@
       "C00473405"
     ],
     "source": "FEC_v7",
-    "total_raised": 4519188,
-    "aipac": 77890,
+    "total_raised": 221650,
+    "aipac": 201935,
     "aipac_pacs": 77890,
     "aipac_ie": 0,
     "aipac_lobby_donors": 124045,
     "aipac_sources": "AIPAC, DMFI",
-    "fossil_fuels": 9600,
-    "pharma": 196387,
-    "defense": 1000,
-    "finance": 571137,
-    "tech": 48593,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 1028652,
+    "special_interest_total": 201935,
     "grassroots": 89850
   },
   "Don Davis": {
@@ -8698,8 +8829,8 @@
       "C00394924"
     ],
     "source": "FEC_v7",
-    "total_raised": 11255843,
-    "aipac": 1321202,
+    "total_raised": 456231,
+    "aipac": 5596890,
     "aipac_pacs": 1321202,
     "aipac_ie": 2569344,
     "aipac_lobby_donors": 1706344,
@@ -8727,8 +8858,8 @@
       "C00708826"
     ],
     "source": "FEC_v7",
-    "total_raised": 7978748,
-    "aipac": 100794,
+    "total_raised": 616379,
+    "aipac": 218267,
     "aipac_pacs": 100794,
     "aipac_ie": 0,
     "aipac_lobby_donors": 117473,
@@ -8753,8 +8884,8 @@
       "C00585729"
     ],
     "source": "FEC_v7",
-    "total_raised": 18667716,
-    "aipac": 276149,
+    "total_raised": 1221178,
+    "aipac": 798513,
     "aipac_pacs": 276149,
     "aipac_ie": 0,
     "aipac_lobby_donors": 522364,
@@ -8777,8 +8908,8 @@
       "C00501643"
     ],
     "source": "FEC_v7",
-    "total_raised": 12406605,
-    "aipac": 51571,
+    "total_raised": 865379,
+    "aipac": 147300,
     "aipac_pacs": 51571,
     "aipac_ie": 0,
     "aipac_lobby_donors": 95729,
@@ -8803,8 +8934,8 @@
       "C00856005"
     ],
     "source": "FEC_v7",
-    "total_raised": 3832902,
-    "aipac": 31071,
+    "total_raised": 275601,
+    "aipac": 69057,
     "aipac_pacs": 31071,
     "aipac_ie": 0,
     "aipac_lobby_donors": 37986,
@@ -8830,8 +8961,8 @@
       "C00545434"
     ],
     "source": "FEC_v7",
-    "total_raised": 2492528,
-    "aipac": 18303,
+    "total_raised": 286515,
+    "aipac": 35753,
     "aipac_pacs": 18303,
     "aipac_ie": 0,
     "aipac_lobby_donors": 17450,
@@ -8858,8 +8989,8 @@
       "C00115477"
     ],
     "source": "FEC_v7",
-    "total_raised": 21799664,
-    "aipac": 221658,
+    "total_raised": 1021077,
+    "aipac": 550362,
     "aipac_pacs": 221658,
     "aipac_ie": 0,
     "aipac_lobby_donors": 328704,
@@ -8885,8 +9016,8 @@
       "C00843169"
     ],
     "source": "FEC_v7",
-    "total_raised": 3811938,
-    "aipac": 78580,
+    "total_raised": 644199,
+    "aipac": 155538,
     "aipac_pacs": 78580,
     "aipac_ie": 0,
     "aipac_lobby_donors": 76958,
@@ -8913,8 +9044,8 @@
       "C00218537"
     ],
     "source": "FEC_v7",
-    "total_raised": 5141168,
-    "aipac": 25858,
+    "total_raised": 586238,
+    "aipac": 97437,
     "aipac_pacs": 25858,
     "aipac_ie": 0,
     "aipac_lobby_donors": 71579,
@@ -8937,8 +9068,8 @@
       "C00794727"
     ],
     "source": "FEC_v7",
-    "total_raised": 2771532,
-    "aipac": 483998,
+    "total_raised": 151435,
+    "aipac": 3362373,
     "aipac_pacs": 483998,
     "aipac_ie": 2395347,
     "aipac_lobby_donors": 483028,
@@ -8961,8 +9092,8 @@
       "C00800276"
     ],
     "source": "FEC_v7",
-    "total_raised": 10133158,
-    "aipac": 732093,
+    "total_raised": 229710,
+    "aipac": 1733305,
     "aipac_pacs": 732093,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1001212,
@@ -8989,8 +9120,8 @@
       "C00613109"
     ],
     "source": "FEC_v7",
-    "total_raised": 13418092,
-    "aipac": 191676,
+    "total_raised": 676248,
+    "aipac": 431314,
     "aipac_pacs": 191676,
     "aipac_ie": 0,
     "aipac_lobby_donors": 239638,
@@ -9015,8 +9146,8 @@
       "C00886713"
     ],
     "source": "FEC_v7",
-    "total_raised": 8594,
-    "aipac": 219834,
+    "total_raised": 7976,
+    "aipac": 711711,
     "aipac_pacs": 219834,
     "aipac_ie": 0,
     "aipac_lobby_donors": 491877,
@@ -9039,8 +9170,8 @@
       "C00000554"
     ],
     "source": "FEC_v7",
-    "total_raised": 818116,
-    "aipac": 75387,
+    "total_raised": 0,
+    "aipac": 247788,
     "aipac_pacs": 75387,
     "aipac_ie": 0,
     "aipac_lobby_donors": 172401,
@@ -9065,8 +9196,8 @@
       "C00779603"
     ],
     "source": "FEC_v7",
-    "total_raised": 7630314,
-    "aipac": 73526,
+    "total_raised": 299693,
+    "aipac": 181351,
     "aipac_pacs": 73526,
     "aipac_ie": 0,
     "aipac_lobby_donors": 107825,
@@ -9093,8 +9224,8 @@
       "C00499194"
     ],
     "source": "FEC_v7",
-    "total_raised": 6764122,
-    "aipac": 309274,
+    "total_raised": 405680,
+    "aipac": 964930,
     "aipac_pacs": 309274,
     "aipac_ie": 0,
     "aipac_lobby_donors": 655656,
@@ -9119,8 +9250,8 @@
       "C00600718"
     ],
     "source": "FEC_v7",
-    "total_raised": 5422548,
-    "aipac": 3300,
+    "total_raised": 940883,
+    "aipac": 62078,
     "aipac_pacs": 3300,
     "aipac_ie": 0,
     "aipac_lobby_donors": 58778,
@@ -9145,8 +9276,8 @@
       "C00298422"
     ],
     "source": "FEC_v7",
-    "total_raised": 22969370,
-    "aipac": 184548,
+    "total_raised": 1491452,
+    "aipac": 857037,
     "aipac_pacs": 184548,
     "aipac_ie": 0,
     "aipac_lobby_donors": 672489,
@@ -9171,8 +9302,8 @@
       "C00373001"
     ],
     "source": "FEC_v7",
-    "total_raised": 15317494,
-    "aipac": 228038,
+    "total_raised": 1712695,
+    "aipac": 611931,
     "aipac_pacs": 228038,
     "aipac_ie": 0,
     "aipac_lobby_donors": 383893,
@@ -9200,19 +9331,19 @@
       "C00823328"
     ],
     "source": "FEC_v7",
-    "total_raised": 11266863,
-    "aipac": 79899,
+    "total_raised": 628019,
+    "aipac": 438057,
     "aipac_pacs": 79899,
     "aipac_ie": 0,
     "aipac_lobby_donors": 358158,
     "aipac_sources": "AIPAC, AMP, HEARTLAND, PIA, RJC, USI",
-    "fossil_fuels": 325154,
-    "pharma": 1125010,
-    "defense": 324953,
-    "finance": 2515182,
-    "tech": 474232,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 5202588,
+    "special_interest_total": 438057,
     "grassroots": 72271
   },
   "Emilia Sykes": {
@@ -9229,8 +9360,8 @@
       "C00729061"
     ],
     "source": "FEC_v7",
-    "total_raised": 10506934,
-    "aipac": 347272,
+    "total_raised": 271472,
+    "aipac": 1061993,
     "aipac_pacs": 347272,
     "aipac_ie": 0,
     "aipac_lobby_donors": 714721,
@@ -9256,8 +9387,8 @@
       "C00943142"
     ],
     "source": "FEC_v7",
-    "total_raised": 19552017,
-    "aipac": 147563,
+    "total_raised": 546140,
+    "aipac": 204904,
     "aipac_pacs": 147563,
     "aipac_ie": 0,
     "aipac_lobby_donors": 57341,
@@ -9280,8 +9411,8 @@
       "C00812974"
     ],
     "source": "FEC_v7",
-    "total_raised": 1150395,
-    "aipac": 34630,
+    "total_raised": 265471,
+    "aipac": 49630,
     "aipac_pacs": 34630,
     "aipac_ie": 0,
     "aipac_lobby_donors": 15000,
@@ -9308,8 +9439,8 @@
       "C00220749"
     ],
     "source": "FEC_v7",
-    "total_raised": 15441654,
-    "aipac": 11594,
+    "total_raised": 1726735,
+    "aipac": 19594,
     "aipac_pacs": 11594,
     "aipac_ie": 0,
     "aipac_lobby_donors": 8000,
@@ -9326,14 +9457,17 @@
   "Tom Cole": {
     "candidate_id": "H2OK04055",
     "all_candidate_ids": [
-      "H2OK04055"
+      "H2OK04055",
+      "P60004785",
+      "S8NC00296"
     ],
     "committees": [
-      "C00379735"
+      "C00379735",
+      "C00466086"
     ],
     "source": "FEC_v7",
-    "total_raised": 24460690,
-    "aipac": 549387,
+    "total_raised": 1464631,
+    "aipac": 1191029,
     "aipac_pacs": 549387,
     "aipac_ie": 0,
     "aipac_lobby_donors": 641642,
@@ -9357,8 +9491,8 @@
       "C00702829"
     ],
     "source": "FEC_v7",
-    "total_raised": 9914422,
-    "aipac": 74710,
+    "total_raised": 194297,
+    "aipac": 230159,
     "aipac_pacs": 74710,
     "aipac_ie": 0,
     "aipac_lobby_donors": 155449,
@@ -9382,8 +9516,8 @@
       "C00504746"
     ],
     "source": "FEC_v7",
-    "total_raised": 9016950,
-    "aipac": 96209,
+    "total_raised": 679150,
+    "aipac": 302305,
     "aipac_pacs": 96209,
     "aipac_ie": 0,
     "aipac_lobby_donors": 206096,
@@ -9406,8 +9540,8 @@
       "C00725465"
     ],
     "source": "FEC_v7",
-    "total_raised": 4535568,
-    "aipac": 10786,
+    "total_raised": 442090,
+    "aipac": 27236,
     "aipac_pacs": 10786,
     "aipac_ie": 0,
     "aipac_lobby_donors": 16450,
@@ -9434,8 +9568,8 @@
       "C00677856"
     ],
     "source": "FEC_v7",
-    "total_raised": 2665908,
-    "aipac": 0,
+    "total_raised": 72790,
+    "aipac": 3190373,
     "aipac_pacs": 0,
     "aipac_ie": 2212990,
     "aipac_lobby_donors": 977383,
@@ -9461,8 +9595,8 @@
       "C00766436"
     ],
     "source": "FEC_v7",
-    "total_raised": 10218916,
-    "aipac": 293613,
+    "total_raised": 207415,
+    "aipac": 776642,
     "aipac_pacs": 293613,
     "aipac_ie": 0,
     "aipac_lobby_donors": 483029,
@@ -9479,14 +9613,17 @@
   "Brian Fitzpatrick": {
     "candidate_id": "H6PA08277",
     "all_candidate_ids": [
-      "H6PA08277"
+      "H6PA08277",
+      "P00004010",
+      "S8OR00132"
     ],
     "committees": [
-      "C00607416"
+      "C00607416",
+      "C00362160"
     ],
     "source": "FEC_v7",
-    "total_raised": 26321025,
-    "aipac": 831144,
+    "total_raised": 779532,
+    "aipac": 2412780,
     "aipac_pacs": 831144,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1581636,
@@ -9503,14 +9640,18 @@
   "Brendan Boyle": {
     "candidate_id": "H4PA13199",
     "all_candidate_ids": [
-      "H4PA13199"
+      "H4PA13199",
+      "S2WA00171",
+      "P00011676"
     ],
     "committees": [
-      "C00543363"
+      "C00543363",
+      "C00256305",
+      "C00704353"
     ],
     "source": "FEC_v7",
-    "total_raised": 11007195,
-    "aipac": 458181,
+    "total_raised": 692927,
+    "aipac": 1318299,
     "aipac_pacs": 458181,
     "aipac_ie": 0,
     "aipac_lobby_donors": 860118,
@@ -9527,14 +9668,18 @@
   "Dwight Evans": {
     "candidate_id": "H6PA02171",
     "all_candidate_ids": [
-      "H6PA02171"
+      "H6PA02171",
+      "S8NJ00376",
+      "P80000821"
     ],
     "committees": [
-      "C00591065"
+      "C00591065",
+      "C00440438",
+      "C00214163"
     ],
     "source": "FEC_v7",
-    "total_raised": 5959510,
-    "aipac": 33749,
+    "total_raised": 2293809,
+    "aipac": 157219,
     "aipac_pacs": 33749,
     "aipac_ie": 0,
     "aipac_lobby_donors": 123470,
@@ -9546,7 +9691,7 @@
     "tech": 222262,
     "nra": 0,
     "special_interest_total": 1970905,
-    "grassroots": 89908
+    "grassroots": 90108
   },
   "Madeleine Dean": {
     "candidate_id": "H8PA04116",
@@ -9561,8 +9706,8 @@
       "C00192989"
     ],
     "source": "FEC_v7",
-    "total_raised": 7859743,
-    "aipac": 69819,
+    "total_raised": 425265,
+    "aipac": 354947,
     "aipac_pacs": 69819,
     "aipac_ie": 0,
     "aipac_lobby_donors": 285128,
@@ -9588,8 +9733,8 @@
       "C00913442"
     ],
     "source": "FEC_v7",
-    "total_raised": 7304379,
-    "aipac": 74025,
+    "total_raised": 312236,
+    "aipac": 359861,
     "aipac_pacs": 74025,
     "aipac_ie": 0,
     "aipac_lobby_donors": 285836,
@@ -9612,8 +9757,8 @@
       "C00637371"
     ],
     "source": "FEC_v7",
-    "total_raised": 16576957,
-    "aipac": 90523,
+    "total_raised": 468068,
+    "aipac": 846553,
     "aipac_pacs": 90523,
     "aipac_ie": 0,
     "aipac_lobby_donors": 756030,
@@ -9639,8 +9784,8 @@
       "C00785733"
     ],
     "source": "FEC_v7",
-    "total_raised": 11443317,
-    "aipac": 49696,
+    "total_raised": 1351178,
+    "aipac": 132289,
     "aipac_pacs": 49696,
     "aipac_ie": 0,
     "aipac_lobby_donors": 82593,
@@ -9657,14 +9802,17 @@
   "Scott Perry": {
     "candidate_id": "H2PA04135",
     "all_candidate_ids": [
-      "H2PA04135"
+      "H2PA04135",
+      "P60005592",
+      "S0AZ00483"
     ],
     "committees": [
-      "C00510164"
+      "C00510164",
+      "C00570358"
     ],
     "source": "FEC_v7",
-    "total_raised": 18936873,
-    "aipac": 97961,
+    "total_raised": 746555,
+    "aipac": 544344,
     "aipac_pacs": 97961,
     "aipac_ie": 0,
     "aipac_lobby_donors": 446383,
@@ -9687,8 +9835,8 @@
       "C00599464"
     ],
     "source": "FEC_v7",
-    "total_raised": 9613370,
-    "aipac": 72517,
+    "total_raised": 994664,
+    "aipac": 231758,
     "aipac_pacs": 72517,
     "aipac_ie": 0,
     "aipac_lobby_donors": 159241,
@@ -9713,7 +9861,7 @@
       "C00791780"
     ],
     "source": "FEC_v7",
-    "total_raised": 6116208,
+    "total_raised": 111385,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -9742,8 +9890,8 @@
       "C00823328"
     ],
     "source": "FEC_v7",
-    "total_raised": 8501448,
-    "aipac": 431,
+    "total_raised": 1396394,
+    "aipac": 21181,
     "aipac_pacs": 431,
     "aipac_ie": 0,
     "aipac_lobby_donors": 20750,
@@ -9766,8 +9914,8 @@
       "C00657833"
     ],
     "source": "FEC_v7",
-    "total_raised": 13185049,
-    "aipac": 440627,
+    "total_raised": 414181,
+    "aipac": 872522,
     "aipac_pacs": 440627,
     "aipac_ie": 0,
     "aipac_lobby_donors": 431895,
@@ -9784,13 +9932,16 @@
   "Glenn Thompson": {
     "candidate_id": "H8PA05071",
     "all_candidate_ids": [
-      "H8PA05071"
+      "H8PA05071",
+      "P40003451",
+      "S6OR00391"
     ],
     "committees": [
-      "C00444620"
+      "C00444620",
+      "C00403865"
     ],
     "source": "FEC_v7",
-    "total_raised": 15567344,
+    "total_raised": 1319529,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -9815,8 +9966,8 @@
       "C00464297"
     ],
     "source": "FEC_v7",
-    "total_raised": 21799862,
-    "aipac": 44962,
+    "total_raised": 612072,
+    "aipac": 154591,
     "aipac_pacs": 44962,
     "aipac_ie": 0,
     "aipac_lobby_donors": 109629,
@@ -9839,19 +9990,19 @@
       "C00787648"
     ],
     "source": "FEC_v7",
-    "total_raised": 10527438,
-    "aipac": 302699,
+    "total_raised": 171393,
+    "aipac": 1092933,
     "aipac_pacs": 302699,
     "aipac_ie": 0,
     "aipac_lobby_donors": 790234,
     "aipac_sources": "AIPAC, DMFI, JAC, JSTREET",
-    "fossil_fuels": 18880,
-    "pharma": 313905,
-    "defense": 38500,
-    "finance": 1098764,
-    "tech": 339483,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 2902465,
+    "special_interest_total": 1092933,
     "grassroots": 24627
   },
   "Gabe Amo": {
@@ -9868,8 +10019,8 @@
       "C00629261"
     ],
     "source": "FEC_v7",
-    "total_raised": 3821732,
-    "aipac": 98934,
+    "total_raised": 159506,
+    "aipac": 240735,
     "aipac_pacs": 98934,
     "aipac_ie": 0,
     "aipac_lobby_donors": 141801,
@@ -9892,8 +10043,8 @@
       "C00802504"
     ],
     "source": "FEC_v7",
-    "total_raised": 6980740,
-    "aipac": 100131,
+    "total_raised": 281900,
+    "aipac": 260557,
     "aipac_pacs": 100131,
     "aipac_ie": 0,
     "aipac_lobby_donors": 160426,
@@ -9921,8 +10072,8 @@
       "C00549295"
     ],
     "source": "FEC_v7",
-    "total_raised": 16450611,
-    "aipac": 107936,
+    "total_raised": 348199,
+    "aipac": 457576,
     "aipac_pacs": 107936,
     "aipac_ie": 0,
     "aipac_lobby_donors": 349640,
@@ -9949,8 +10100,8 @@
       "C00415794"
     ],
     "source": "FEC_v7",
-    "total_raised": 18753505,
-    "aipac": 360333,
+    "total_raised": 1432681,
+    "aipac": 864733,
     "aipac_pacs": 360333,
     "aipac_ie": 0,
     "aipac_lobby_donors": 504400,
@@ -9973,8 +10124,8 @@
       "C00668491"
     ],
     "source": "FEC_v7",
-    "total_raised": 8040881,
-    "aipac": 79920,
+    "total_raised": 1433225,
+    "aipac": 161192,
     "aipac_pacs": 79920,
     "aipac_ie": 0,
     "aipac_lobby_donors": 81272,
@@ -10001,8 +10152,8 @@
       "C00867051"
     ],
     "source": "FEC_v7",
-    "total_raised": 5062853,
-    "aipac": 10211,
+    "total_raised": 457288,
+    "aipac": 59361,
     "aipac_pacs": 10211,
     "aipac_ie": 0,
     "aipac_lobby_donors": 49150,
@@ -10026,8 +10177,8 @@
       "C00335992"
     ],
     "source": "FEC_v7",
-    "total_raised": 29521025,
-    "aipac": 172823,
+    "total_raised": 1621073,
+    "aipac": 382148,
     "aipac_pacs": 172823,
     "aipac_ie": 0,
     "aipac_lobby_donors": 209325,
@@ -10044,14 +10195,16 @@
   "Russell Fry": {
     "candidate_id": "H2SC07280",
     "all_candidate_ids": [
-      "H2SC07280"
+      "H2SC07280",
+      "S4MD00368"
     ],
     "committees": [
-      "C00786657"
+      "C00786657",
+      "C00848234"
     ],
     "source": "FEC_v7",
-    "total_raised": 4378604,
-    "aipac": 61492,
+    "total_raised": 271186,
+    "aipac": 119906,
     "aipac_pacs": 61492,
     "aipac_ie": 0,
     "aipac_lobby_donors": 58414,
@@ -10078,7 +10231,7 @@
       "C00433748"
     ],
     "source": "FEC_v7",
-    "total_raised": 12125876,
+    "total_raised": 499307,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -10102,8 +10255,8 @@
       "C00741090"
     ],
     "source": "FEC_v7",
-    "total_raised": 7005685,
-    "aipac": 49508,
+    "total_raised": 512076,
+    "aipac": 95474,
     "aipac_pacs": 49508,
     "aipac_ie": 0,
     "aipac_lobby_donors": 45966,
@@ -10126,8 +10279,8 @@
       "C00652149"
     ],
     "source": "FEC_v7",
-    "total_raised": 6268490,
-    "aipac": 30561,
+    "total_raised": 430230,
+    "aipac": 81055,
     "aipac_pacs": 30561,
     "aipac_ie": 0,
     "aipac_lobby_donors": 50494,
@@ -10150,7 +10303,7 @@
       "C00461822"
     ],
     "source": "FEC_v7",
-    "total_raised": 13211944,
+    "total_raised": 1383383,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -10174,8 +10327,8 @@
       "C00464073"
     ],
     "source": "FEC_v7",
-    "total_raised": 5238912,
-    "aipac": 25735,
+    "total_raised": 1317571,
+    "aipac": 78085,
     "aipac_pacs": 25735,
     "aipac_ie": 0,
     "aipac_lobby_donors": 52350,
@@ -10201,8 +10354,8 @@
       "C00844654"
     ],
     "source": "FEC_v7",
-    "total_raised": 10826023,
-    "aipac": 52738,
+    "total_raised": 590119,
+    "aipac": 98125,
     "aipac_pacs": 52738,
     "aipac_ie": 0,
     "aipac_lobby_donors": 45387,
@@ -10226,8 +10379,8 @@
       "C00376244"
     ],
     "source": "FEC_v7",
-    "total_raised": 11756547,
-    "aipac": 222727,
+    "total_raised": 1321149,
+    "aipac": 657518,
     "aipac_pacs": 222727,
     "aipac_ie": 0,
     "aipac_lobby_donors": 434791,
@@ -10255,8 +10408,8 @@
       "C00845313"
     ],
     "source": "FEC_v7",
-    "total_raised": 9582648,
-    "aipac": 125998,
+    "total_raised": 1717322,
+    "aipac": 329196,
     "aipac_pacs": 125998,
     "aipac_ie": 0,
     "aipac_lobby_donors": 203198,
@@ -10281,8 +10434,8 @@
       "C00796086"
     ],
     "source": "FEC_v7",
-    "total_raised": 3520717,
-    "aipac": 55469,
+    "total_raised": 387763,
+    "aipac": 111319,
     "aipac_pacs": 55469,
     "aipac_ie": 0,
     "aipac_lobby_donors": 55850,
@@ -10306,8 +10459,8 @@
       "C00791293"
     ],
     "source": "FEC_v7",
-    "total_raised": 1900534,
-    "aipac": 51001,
+    "total_raised": 303922,
+    "aipac": 87500,
     "aipac_pacs": 51001,
     "aipac_ie": 0,
     "aipac_lobby_donors": 36499,
@@ -10330,19 +10483,19 @@
       "C00750307"
     ],
     "source": "FEC_v7",
-    "total_raised": 2751982,
-    "aipac": 81077,
+    "total_raised": 602289,
+    "aipac": 138288,
     "aipac_pacs": 81077,
     "aipac_ie": 0,
     "aipac_lobby_donors": 57211,
     "aipac_sources": "AIPAC, RJC",
-    "fossil_fuels": 57105,
-    "pharma": 72043,
-    "defense": 54125,
-    "finance": 372229,
-    "tech": 66502,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 1000,
-    "special_interest_total": 761292,
+    "special_interest_total": 139288,
     "grassroots": 4816
   },
   "Lance Gooden": {
@@ -10356,8 +10509,8 @@
       "C00455998"
     ],
     "source": "FEC_v7",
-    "total_raised": 6001484,
-    "aipac": 46250,
+    "total_raised": 876704,
+    "aipac": 188685,
     "aipac_pacs": 46250,
     "aipac_ie": 0,
     "aipac_lobby_donors": 142435,
@@ -10381,8 +10534,8 @@
       "C00662932"
     ],
     "source": "FEC_v7",
-    "total_raised": 18100802,
-    "aipac": 165828,
+    "total_raised": 432762,
+    "aipac": 365649,
     "aipac_pacs": 165828,
     "aipac_ie": 0,
     "aipac_lobby_donors": 199821,
@@ -10410,8 +10563,8 @@
       "C00487504"
     ],
     "source": "FEC_v7",
-    "total_raised": 22951,
-    "aipac": 183461,
+    "total_raised": 14185,
+    "aipac": 1037331,
     "aipac_pacs": 183461,
     "aipac_ie": 0,
     "aipac_lobby_donors": 853870,
@@ -10435,8 +10588,8 @@
       "C00781112"
     ],
     "source": "FEC_v7",
-    "total_raised": 6952288,
-    "aipac": 31165,
+    "total_raised": 282382,
+    "aipac": 104886,
     "aipac_pacs": 31165,
     "aipac_ie": 0,
     "aipac_lobby_donors": 73721,
@@ -10463,8 +10616,8 @@
       "C00216432"
     ],
     "source": "FEC_v7",
-    "total_raised": 6794812,
-    "aipac": 27855,
+    "total_raised": 1768457,
+    "aipac": 56055,
     "aipac_pacs": 27855,
     "aipac_ie": 0,
     "aipac_lobby_donors": 28200,
@@ -10487,8 +10640,8 @@
       "C00392688"
     ],
     "source": "FEC_v7",
-    "total_raised": 24561289,
-    "aipac": 883348,
+    "total_raised": 1541211,
+    "aipac": 2468040,
     "aipac_pacs": 883348,
     "aipac_ie": 7258,
     "aipac_lobby_donors": 1577434,
@@ -10511,8 +10664,8 @@
       "C00719294"
     ],
     "source": "FEC_v7",
-    "total_raised": 11860719,
-    "aipac": 165612,
+    "total_raised": 406517,
+    "aipac": 401275,
     "aipac_pacs": 165612,
     "aipac_ie": 0,
     "aipac_lobby_donors": 235663,
@@ -10538,8 +10691,8 @@
       "C00206540"
     ],
     "source": "FEC_v7",
-    "total_raised": 16778364,
-    "aipac": 80165,
+    "total_raised": 149524,
+    "aipac": 307005,
     "aipac_pacs": 80165,
     "aipac_ie": 0,
     "aipac_lobby_donors": 226840,
@@ -10565,8 +10718,8 @@
       "C00350645"
     ],
     "source": "FEC_v7",
-    "total_raised": 7603393,
-    "aipac": 107056,
+    "total_raised": 924641,
+    "aipac": 296177,
     "aipac_pacs": 107056,
     "aipac_ie": 0,
     "aipac_lobby_donors": 189121,
@@ -10596,8 +10749,8 @@
       "C00574624"
     ],
     "source": "FEC_v7",
-    "total_raised": 288103688,
-    "aipac": 83163,
+    "total_raised": 1374810,
+    "aipac": 431016,
     "aipac_pacs": 83163,
     "aipac_ie": 0,
     "aipac_lobby_donors": 347853,
@@ -10620,8 +10773,8 @@
       "C00653923"
     ],
     "source": "FEC_v7",
-    "total_raised": 5951147,
-    "aipac": 47396,
+    "total_raised": 420909,
+    "aipac": 200234,
     "aipac_pacs": 47396,
     "aipac_ie": 0,
     "aipac_lobby_donors": 152838,
@@ -10649,8 +10802,8 @@
       "C00306704"
     ],
     "source": "FEC_v7",
-    "total_raised": 53456721,
-    "aipac": 56305,
+    "total_raised": 2786992,
+    "aipac": 485444,
     "aipac_pacs": 56305,
     "aipac_ie": 0,
     "aipac_lobby_donors": 429139,
@@ -10677,8 +10830,8 @@
       "C00465922"
     ],
     "source": "FEC_v7",
-    "total_raised": 12551992,
-    "aipac": 44730,
+    "total_raised": 786211,
+    "aipac": 129731,
     "aipac_pacs": 44730,
     "aipac_ie": 0,
     "aipac_lobby_donors": 85001,
@@ -10705,8 +10858,8 @@
       "C00728097"
     ],
     "source": "FEC_v7",
-    "total_raised": 9112702,
-    "aipac": 30401,
+    "total_raised": 523060,
+    "aipac": 115638,
     "aipac_pacs": 30401,
     "aipac_ie": 0,
     "aipac_lobby_donors": 85237,
@@ -10733,8 +10886,8 @@
       "C00841999"
     ],
     "source": "FEC_v7",
-    "total_raised": 13019790,
-    "aipac": 17000,
+    "total_raised": 391238,
+    "aipac": 312912,
     "aipac_pacs": 17000,
     "aipac_ie": 0,
     "aipac_lobby_donors": 295912,
@@ -10758,8 +10911,8 @@
       "C00717777"
     ],
     "source": "FEC_v7",
-    "total_raised": 4515873,
-    "aipac": 17282,
+    "total_raised": 458340,
+    "aipac": 76282,
     "aipac_pacs": 17282,
     "aipac_ie": 0,
     "aipac_lobby_donors": 59000,
@@ -10786,7 +10939,7 @@
       "C00929794"
     ],
     "source": "FEC_v7",
-    "total_raised": 15854399,
+    "total_raised": 371613,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -10811,8 +10964,8 @@
       "C00718957"
     ],
     "source": "FEC_v7",
-    "total_raised": 12564851,
-    "aipac": 85001,
+    "total_raised": 517513,
+    "aipac": 484616,
     "aipac_pacs": 85001,
     "aipac_ie": 0,
     "aipac_lobby_donors": 399615,
@@ -10840,8 +10993,8 @@
       "C00457846"
     ],
     "source": "FEC_v7",
-    "total_raised": 18943576,
-    "aipac": 34510,
+    "total_raised": 1427972,
+    "aipac": 195452,
     "aipac_pacs": 34510,
     "aipac_ie": 0,
     "aipac_lobby_donors": 160942,
@@ -10868,8 +11021,8 @@
       "C00367763"
     ],
     "source": "FEC_v7",
-    "total_raised": 4753943,
-    "aipac": 36023,
+    "total_raised": 492190,
+    "aipac": 76248,
     "aipac_pacs": 36023,
     "aipac_ie": 0,
     "aipac_lobby_donors": 40225,
@@ -10892,8 +11045,8 @@
       "C00371302"
     ],
     "source": "FEC_v7",
-    "total_raised": 25168619,
-    "aipac": 523264,
+    "total_raised": 1445867,
+    "aipac": 3239485,
     "aipac_pacs": 523264,
     "aipac_ie": 1835630,
     "aipac_lobby_donors": 880591,
@@ -10920,8 +11073,8 @@
       "C00729475"
     ],
     "source": "FEC_v7",
-    "total_raised": 5184036,
-    "aipac": 97757,
+    "total_raised": 812542,
+    "aipac": 224407,
     "aipac_pacs": 97757,
     "aipac_ie": 0,
     "aipac_lobby_donors": 126650,
@@ -10947,8 +11100,8 @@
       "C00929901"
     ],
     "source": "FEC_v7",
-    "total_raised": 23084202,
-    "aipac": 0,
+    "total_raised": 243688,
+    "aipac": 104054,
     "aipac_pacs": 0,
     "aipac_ie": 0,
     "aipac_lobby_donors": 104054,
@@ -10974,8 +11127,8 @@
       "C00416446"
     ],
     "source": "FEC_v7",
-    "total_raised": 17830592,
-    "aipac": 61011,
+    "total_raised": 1641944,
+    "aipac": 309810,
     "aipac_pacs": 61011,
     "aipac_ie": 0,
     "aipac_lobby_donors": 248799,
@@ -10998,8 +11151,8 @@
       "C00506832"
     ],
     "source": "FEC_v7",
-    "total_raised": 11670153,
-    "aipac": 121097,
+    "total_raised": 947507,
+    "aipac": 413271,
     "aipac_pacs": 121097,
     "aipac_ie": 0,
     "aipac_lobby_donors": 292174,
@@ -11026,8 +11179,8 @@
       "C00904672"
     ],
     "source": "FEC_v7",
-    "total_raised": 14209748,
-    "aipac": 291868,
+    "total_raised": 3597585,
+    "aipac": 857702,
     "aipac_pacs": 291868,
     "aipac_ie": 0,
     "aipac_lobby_donors": 565834,
@@ -11050,7 +11203,7 @@
       "C00791897"
     ],
     "source": "FEC_v7",
-    "total_raised": 3931113,
+    "total_raised": 169880,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -11075,8 +11228,8 @@
       "C00553859"
     ],
     "source": "FEC_v7",
-    "total_raised": 8849394,
-    "aipac": 44544,
+    "total_raised": 731372,
+    "aipac": 154742,
     "aipac_pacs": 44544,
     "aipac_ie": 0,
     "aipac_lobby_donors": 110198,
@@ -11093,14 +11246,24 @@
   "Lloyd Doggett": {
     "candidate_id": "H4TX10028",
     "all_candidate_ids": [
-      "H4TX10028"
+      "H4TX10028",
+      "S4TX00011"
     ],
     "committees": [
-      "C00286500"
+      "C00286500",
+      "C00182071",
+      "C00176008",
+      "C00187542",
+      "C00168930",
+      "C00191551",
+      "C00168948",
+      "C00176024",
+      "C00188938",
+      "C00176016"
     ],
     "source": "FEC_v7",
-    "total_raised": 18427699,
-    "aipac": 67374,
+    "total_raised": 1486920,
+    "aipac": 254582,
     "aipac_pacs": 67374,
     "aipac_ie": 0,
     "aipac_lobby_donors": 187208,
@@ -11127,8 +11290,8 @@
       "C00798306"
     ],
     "source": "FEC_v7",
-    "total_raised": 18292954,
-    "aipac": 139752,
+    "total_raised": 643758,
+    "aipac": 502870,
     "aipac_pacs": 139752,
     "aipac_ie": 0,
     "aipac_lobby_donors": 363118,
@@ -11151,8 +11314,8 @@
       "C00842765"
     ],
     "source": "FEC_v7",
-    "total_raised": 2791921,
-    "aipac": 80756,
+    "total_raised": 101409,
+    "aipac": 165181,
     "aipac_pacs": 80756,
     "aipac_ie": 0,
     "aipac_lobby_donors": 84425,
@@ -11179,8 +11342,8 @@
       "C00220509"
     ],
     "source": "FEC_v7",
-    "total_raised": 11044504,
-    "aipac": 83693,
+    "total_raised": 245033,
+    "aipac": 335518,
     "aipac_pacs": 83693,
     "aipac_ie": 0,
     "aipac_lobby_donors": 251825,
@@ -11203,7 +11366,7 @@
       "C00797175"
     ],
     "source": "FEC_v7",
-    "total_raised": 4032427,
+    "total_raised": 82028,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -11227,8 +11390,8 @@
       "C00441014"
     ],
     "source": "FEC_v7",
-    "total_raised": 17522713,
-    "aipac": 112386,
+    "total_raised": 1124406,
+    "aipac": 408035,
     "aipac_pacs": 112386,
     "aipac_ie": 0,
     "aipac_lobby_donors": 295649,
@@ -11252,8 +11415,8 @@
       "C00775890"
     ],
     "source": "FEC_v7",
-    "total_raised": 14713061,
-    "aipac": 67370,
+    "total_raised": 505064,
+    "aipac": 439777,
     "aipac_pacs": 67370,
     "aipac_ie": 0,
     "aipac_lobby_donors": 372407,
@@ -11268,15 +11431,19 @@
     "grassroots": 98811
   },
   "Bob Good": {
-    "candidate_id": "H0VA05160",
+    "candidate_id": "H6VA05068",
     "all_candidate_ids": [
-      "H0VA05160"
+      "H6VA05068",
+      "S0MT00181",
+      "P40010936"
     ],
     "committees": [
-      "C00721308"
+      "C00315986",
+      "C00744854",
+      "C00833194"
     ],
     "source": "FEC_v7",
-    "total_raised": 4017381,
+    "total_raised": 442110,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -11287,9 +11454,9 @@
     "defense": 16153,
     "finance": 516264,
     "tech": 77540,
-    "nra": 0,
-    "special_interest_total": 690219,
-    "grassroots": 2260
+    "nra": 3000,
+    "special_interest_total": 693219,
+    "grassroots": 275
   },
   "Ben Cline": {
     "candidate_id": "H8VA06104",
@@ -11303,8 +11470,8 @@
       "C00485607"
     ],
     "source": "FEC_v7",
-    "total_raised": 4948674,
-    "aipac": 35290,
+    "total_raised": 448335,
+    "aipac": 85291,
     "aipac_pacs": 35290,
     "aipac_ie": 0,
     "aipac_lobby_donors": 50001,
@@ -11329,8 +11496,8 @@
       "C00790501"
     ],
     "source": "FEC_v7",
-    "total_raised": 14577325,
-    "aipac": 63389,
+    "total_raised": 971336,
+    "aipac": 447047,
     "aipac_pacs": 63389,
     "aipac_ie": 0,
     "aipac_lobby_donors": 383658,
@@ -11361,8 +11528,8 @@
       "C00772558"
     ],
     "source": "FEC_v7",
-    "total_raised": 9559703,
-    "aipac": 33155,
+    "total_raised": 1320134,
+    "aipac": 84405,
     "aipac_pacs": 33155,
     "aipac_ie": 0,
     "aipac_lobby_donors": 51250,
@@ -11388,8 +11555,8 @@
       "C00849604"
     ],
     "source": "FEC_v7",
-    "total_raised": 2693,
-    "aipac": 4500,
+    "total_raised": 0,
+    "aipac": 111925,
     "aipac_pacs": 4500,
     "aipac_ie": 0,
     "aipac_lobby_donors": 107425,
@@ -11412,8 +11579,8 @@
       "C00459099"
     ],
     "source": "FEC_v7",
-    "total_raised": 26252721,
-    "aipac": 245577,
+    "total_raised": 843586,
+    "aipac": 686855,
     "aipac_pacs": 245577,
     "aipac_ie": 0,
     "aipac_lobby_donors": 441278,
@@ -11440,8 +11607,8 @@
       "C00209775"
     ],
     "source": "FEC_v7",
-    "total_raised": 21351373,
-    "aipac": 81661,
+    "total_raised": 1468935,
+    "aipac": 344485,
     "aipac_pacs": 81661,
     "aipac_ie": 0,
     "aipac_lobby_donors": 262824,
@@ -11458,14 +11625,17 @@
   "Marie Gluesenkamp Perez": {
     "candidate_id": "H2WA03217",
     "all_candidate_ids": [
-      "H2WA03217"
+      "H2WA03217",
+      "S4FL00132",
+      "P80007719"
     ],
     "committees": [
-      "C00806174"
+      "C00806174",
+      "C00291617"
     ],
     "source": "FEC_v7",
-    "total_raised": 20328857,
-    "aipac": 378265,
+    "total_raised": 105808,
+    "aipac": 1250848,
     "aipac_pacs": 378265,
     "aipac_ie": 0,
     "aipac_lobby_donors": 872583,
@@ -11488,8 +11658,8 @@
       "C00559393"
     ],
     "source": "FEC_v7",
-    "total_raised": 10000278,
-    "aipac": 135870,
+    "total_raised": 638006,
+    "aipac": 380825,
     "aipac_pacs": 135870,
     "aipac_ie": 0,
     "aipac_lobby_donors": 244955,
@@ -11512,7 +11682,7 @@
       "C00605592"
     ],
     "source": "FEC_v7",
-    "total_raised": 15488658,
+    "total_raised": 302028,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -11536,8 +11706,8 @@
       "C00652628"
     ],
     "source": "FEC_v7",
-    "total_raised": 32217654,
-    "aipac": 274533,
+    "total_raised": 190329,
+    "aipac": 1402935,
     "aipac_pacs": 274533,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1128402,
@@ -11554,14 +11724,17 @@
   "Adam Smith": {
     "candidate_id": "H6WA09025",
     "all_candidate_ids": [
-      "H6WA09025"
+      "H6WA09025",
+      "S0KS00216",
+      "P00005819"
     ],
     "committees": [
-      "C00304709"
+      "C00304709",
+      "C00638684"
     ],
     "source": "FEC_v7",
-    "total_raised": 16640565,
-    "aipac": 457076,
+    "total_raised": 1369290,
+    "aipac": 1335151,
     "aipac_pacs": 457076,
     "aipac_ie": 0,
     "aipac_lobby_donors": 878075,
@@ -11587,8 +11760,8 @@
       "C00573212"
     ],
     "source": "FEC_v7",
-    "total_raised": 17753250,
-    "aipac": 344917,
+    "total_raised": 390792,
+    "aipac": 761436,
     "aipac_pacs": 344917,
     "aipac_ie": 0,
     "aipac_lobby_donors": 416519,
@@ -11605,14 +11778,18 @@
   "Carol Miller": {
     "candidate_id": "H8WV03097",
     "all_candidate_ids": [
-      "H8WV03097"
+      "H8WV03097",
+      "S4OK00117",
+      "P20003042"
     ],
     "committees": [
-      "C00653220"
+      "C00653220",
+      "C00297390",
+      "C00499194"
     ],
     "source": "FEC_v7",
-    "total_raised": 7275144,
-    "aipac": 56458,
+    "total_raised": 615868,
+    "aipac": 128758,
     "aipac_pacs": 56458,
     "aipac_ie": 0,
     "aipac_lobby_donors": 72300,
@@ -11624,7 +11801,7 @@
     "tech": 91198,
     "nra": 1000,
     "special_interest_total": 1660602,
-    "grassroots": 46141
+    "grassroots": 46196
   },
   "Bryan Steil": {
     "candidate_id": "H8WI01156",
@@ -11635,8 +11812,8 @@
       "C00677286"
     ],
     "source": "FEC_v7",
-    "total_raised": 19447348,
-    "aipac": 112267,
+    "total_raised": 720350,
+    "aipac": 545117,
     "aipac_pacs": 112267,
     "aipac_ie": 0,
     "aipac_lobby_donors": 432850,
@@ -11659,7 +11836,7 @@
       "C00502179"
     ],
     "source": "FEC_v7",
-    "total_raised": 8480992,
+    "total_raised": 401944,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -11677,16 +11854,18 @@
   "Derrick Van Orden": {
     "candidate_id": "H0WI03175",
     "all_candidate_ids": [
-      "H0WI03175"
+      "H0WI03175",
+      "P60010642"
     ],
     "committees": [
       "C00742007",
       "C00702951",
-      "C00775940"
+      "C00775940",
+      "C00583948"
     ],
     "source": "FEC_v7",
-    "total_raised": 21816995,
-    "aipac": 83477,
+    "total_raised": 648810,
+    "aipac": 483718,
     "aipac_pacs": 83477,
     "aipac_ie": 0,
     "aipac_lobby_donors": 400241,
@@ -11711,8 +11890,8 @@
       "C00397505"
     ],
     "source": "FEC_v7",
-    "total_raised": 11338503,
-    "aipac": 51935,
+    "total_raised": 1191927,
+    "aipac": 196423,
     "aipac_pacs": 51935,
     "aipac_ie": 0,
     "aipac_lobby_donors": 144488,
@@ -11738,8 +11917,8 @@
       "C00836130"
     ],
     "source": "FEC_v7",
-    "total_raised": 4542031,
-    "aipac": 48413,
+    "total_raised": 338580,
+    "aipac": 108213,
     "aipac_pacs": 48413,
     "aipac_ie": 0,
     "aipac_lobby_donors": 59800,
@@ -11762,8 +11941,8 @@
       "C00561597"
     ],
     "source": "FEC_v7",
-    "total_raised": 9005201,
-    "aipac": 92815,
+    "total_raised": 539624,
+    "aipac": 348728,
     "aipac_pacs": 92815,
     "aipac_ie": 0,
     "aipac_lobby_donors": 255913,
@@ -11788,8 +11967,8 @@
       "C00718635"
     ],
     "source": "FEC_v7",
-    "total_raised": 5252856,
-    "aipac": 53176,
+    "total_raised": 348034,
+    "aipac": 161245,
     "aipac_pacs": 53176,
     "aipac_ie": 0,
     "aipac_lobby_donors": 108069,
@@ -11813,7 +11992,7 @@
       "C00788943"
     ],
     "source": "FEC_v7",
-    "total_raised": 10362646,
+    "total_raised": 377320,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -11837,7 +12016,7 @@
       "C00528182"
     ],
     "source": "FEC_v7",
-    "total_raised": 3800907,
+    "total_raised": 783697,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -11862,7 +12041,7 @@
       "C00469882"
     ],
     "source": "FEC_v7",
-    "total_raised": 588735,
+    "total_raised": 418977,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -11877,30 +12056,6 @@
     "special_interest_total": 70852,
     "grassroots": 8343
   },
-  "Adelita Grijalva": {
-    "candidate_id": "H6AZ07121",
-    "all_candidate_ids": [
-      "H6AZ07121"
-    ],
-    "committees": [
-      "C00901116"
-    ],
-    "source": "FEC_v7",
-    "total_raised": 2094207,
-    "aipac": 0,
-    "aipac_pacs": 0,
-    "aipac_ie": 0,
-    "aipac_lobby_donors": 0,
-    "aipac_sources": "",
-    "fossil_fuels": 12380,
-    "pharma": 223225,
-    "defense": 50606,
-    "finance": 441109,
-    "tech": 144218,
-    "nra": 0,
-    "special_interest_total": 871538,
-    "grassroots": 0
-  },
   "Abraham Hamadeh": {
     "candidate_id": "H4AZ08108",
     "all_candidate_ids": [
@@ -11910,8 +12065,8 @@
       "C00853986"
     ],
     "source": "FEC_v7",
-    "total_raised": 3007095,
-    "aipac": 21026,
+    "total_raised": 145090,
+    "aipac": 55970,
     "aipac_pacs": 21026,
     "aipac_ie": 0,
     "aipac_lobby_donors": 34944,
@@ -11940,8 +12095,8 @@
       "C00585240"
     ],
     "source": "FEC_v7",
-    "total_raised": 15693511,
-    "aipac": 7251,
+    "total_raised": 338051,
+    "aipac": 470328,
     "aipac_pacs": 7251,
     "aipac_ie": 0,
     "aipac_lobby_donors": 463077,
@@ -11967,7 +12122,7 @@
       "C00840835"
     ],
     "source": "FEC_v7",
-    "total_raised": 3423542,
+    "total_raised": 126027,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -11985,14 +12140,18 @@
   "Laura Friedman": {
     "candidate_id": "H4CA30149",
     "all_candidate_ids": [
-      "H4CA30149"
+      "H4CA30149",
+      "S2PA00158",
+      "P80000623"
     ],
     "committees": [
-      "C00831321"
+      "C00831321",
+      "C00259440",
+      "C00212563"
     ],
     "source": "FEC_v7",
-    "total_raised": 2476116,
-    "aipac": 24341,
+    "total_raised": 72340,
+    "aipac": 118670,
     "aipac_pacs": 24341,
     "aipac_ie": 0,
     "aipac_lobby_donors": 94329,
@@ -12015,8 +12174,8 @@
       "C00857417"
     ],
     "source": "FEC_v7",
-    "total_raised": 1500698,
-    "aipac": 55612,
+    "total_raised": 82500,
+    "aipac": 205187,
     "aipac_pacs": 55612,
     "aipac_ie": 0,
     "aipac_lobby_donors": 149575,
@@ -12043,8 +12202,8 @@
       "C00425801"
     ],
     "source": "FEC_v7",
-    "total_raised": 10415271,
-    "aipac": 149368,
+    "total_raised": 149895,
+    "aipac": 619779,
     "aipac_pacs": 149368,
     "aipac_ie": 0,
     "aipac_lobby_donors": 470411,
@@ -12070,8 +12229,8 @@
       "C00669903"
     ],
     "source": "FEC_v7",
-    "total_raised": 9805851,
-    "aipac": 59036,
+    "total_raised": 124419,
+    "aipac": 414326,
     "aipac_pacs": 59036,
     "aipac_ie": 0,
     "aipac_lobby_donors": 355290,
@@ -12094,8 +12253,8 @@
       "C00834028"
     ],
     "source": "FEC_v7",
-    "total_raised": 14002790,
-    "aipac": 16679,
+    "total_raised": 243367,
+    "aipac": 611825,
     "aipac_pacs": 16679,
     "aipac_ie": 0,
     "aipac_lobby_donors": 595146,
@@ -12113,16 +12272,17 @@
     "candidate_id": "H4CA35031",
     "all_candidate_ids": [
       "H4CA35031",
-      "P00004952",
+      "P80009426",
       "S0WA00324"
     ],
     "committees": [
       "C00557652",
+      "C00948372",
       "C00483933"
     ],
     "source": "FEC_v7",
-    "total_raised": 4649198,
-    "aipac": 402474,
+    "total_raised": 733824,
+    "aipac": 835569,
     "aipac_pacs": 402474,
     "aipac_ie": 0,
     "aipac_lobby_donors": 433095,
@@ -12139,14 +12299,15 @@
   "Pete Aguilar": {
     "candidate_id": "H2CA31125",
     "all_candidate_ids": [
-      "H2CA31125"
+      "H2CA31125",
+      "P60008182"
     ],
     "committees": [
       "C00510461"
     ],
     "source": "FEC_v7",
-    "total_raised": 23965543,
-    "aipac": 1365352,
+    "total_raised": 483447,
+    "aipac": 3095438,
     "aipac_pacs": 1365352,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1730086,
@@ -12172,8 +12333,8 @@
       "C00213595"
     ],
     "source": "FEC_v7",
-    "total_raised": 4009515,
-    "aipac": 16664,
+    "total_raised": 239950,
+    "aipac": 78514,
     "aipac_pacs": 16664,
     "aipac_ie": 0,
     "aipac_lobby_donors": 61850,
@@ -12196,8 +12357,8 @@
       "C00728238"
     ],
     "source": "FEC_v7",
-    "total_raised": 16480012,
-    "aipac": 5810,
+    "total_raised": 131935,
+    "aipac": 149802,
     "aipac_pacs": 5810,
     "aipac_ie": 0,
     "aipac_lobby_donors": 143992,
@@ -12224,8 +12385,8 @@
       "C00214163"
     ],
     "source": "FEC_v7",
-    "total_raised": 1981020,
-    "aipac": 15086,
+    "total_raised": 1815239,
+    "aipac": 910177,
     "aipac_pacs": 15086,
     "aipac_ie": 668153,
     "aipac_lobby_donors": 226938,
@@ -12248,8 +12409,8 @@
       "C00311639"
     ],
     "source": "FEC_v7",
-    "total_raised": 15112299,
-    "aipac": 95230,
+    "total_raised": 1306975,
+    "aipac": 457637,
     "aipac_pacs": 95230,
     "aipac_ie": 0,
     "aipac_lobby_donors": 362407,
@@ -12274,8 +12435,8 @@
       "C00176974"
     ],
     "source": "FEC_v7",
-    "total_raised": 3719022,
-    "aipac": 465193,
+    "total_raised": 0,
+    "aipac": 1041401,
     "aipac_pacs": 465193,
     "aipac_ie": 0,
     "aipac_lobby_donors": 576208,
@@ -12292,14 +12453,16 @@
   "Mike Haridopolos": {
     "candidate_id": "H4FL08168",
     "all_candidate_ids": [
-      "H4FL08168"
+      "H4FL08168",
+      "S2FL00193"
     ],
     "committees": [
-      "C00877324"
+      "C00877324",
+      "C00492231"
     ],
     "source": "FEC_v7",
-    "total_raised": 3010273,
-    "aipac": 18198,
+    "total_raised": 483259,
+    "aipac": 101846,
     "aipac_pacs": 18198,
     "aipac_ie": 0,
     "aipac_lobby_donors": 83648,
@@ -12311,7 +12474,7 @@
     "tech": 62015,
     "nra": 0,
     "special_interest_total": 1478954,
-    "grassroots": 75664
+    "grassroots": 82229
   },
   "Jimmy Patronis": {
     "candidate_id": "H6FL01390",
@@ -12322,8 +12485,8 @@
       "C00893594"
     ],
     "source": "FEC_v7",
-    "total_raised": 3132077,
-    "aipac": 28102,
+    "total_raised": 0,
+    "aipac": 61163,
     "aipac_pacs": 28102,
     "aipac_ie": 0,
     "aipac_lobby_donors": 33061,
@@ -12350,8 +12513,8 @@
       "C00206540"
     ],
     "source": "FEC_v7",
-    "total_raised": 3915898,
-    "aipac": 260781,
+    "total_raised": 173018,
+    "aipac": 505916,
     "aipac_pacs": 260781,
     "aipac_ie": 0,
     "aipac_lobby_donors": 245135,
@@ -12379,8 +12542,8 @@
       "C00745612"
     ],
     "source": "FEC_v7",
-    "total_raised": 1798577,
-    "aipac": 0,
+    "total_raised": 332880,
+    "aipac": 283242,
     "aipac_pacs": 0,
     "aipac_ie": 0,
     "aipac_lobby_donors": 283242,
@@ -12407,8 +12570,8 @@
       "C00287359"
     ],
     "source": "FEC_v7",
-    "total_raised": 2255740,
-    "aipac": 41656,
+    "total_raised": 162084,
+    "aipac": 104414,
     "aipac_pacs": 41656,
     "aipac_ie": 0,
     "aipac_lobby_donors": 62758,
@@ -12436,8 +12599,8 @@
       "C00923003"
     ],
     "source": "FEC_v7",
-    "total_raised": 1118294,
-    "aipac": 1500,
+    "total_raised": 0,
+    "aipac": 13167,
     "aipac_pacs": 1500,
     "aipac_ie": 0,
     "aipac_lobby_donors": 11667,
@@ -12464,19 +12627,19 @@
       "C00701094"
     ],
     "source": "FEC_v7",
-    "total_raised": 13007974,
-    "aipac": 12177,
+    "total_raised": 529029,
+    "aipac": 305198,
     "aipac_pacs": 12177,
     "aipac_ie": 0,
     "aipac_lobby_donors": 293021,
     "aipac_sources": "",
-    "fossil_fuels": 5800,
-    "pharma": 130958,
-    "defense": 3500,
-    "finance": 248083,
-    "tech": 56509,
+    "fossil_fuels": 91603,
+    "pharma": 137124,
+    "defense": 44148,
+    "finance": 948134,
+    "tech": 62635,
     "nra": 0,
-    "special_interest_total": 750048,
+    "special_interest_total": 1588842,
     "grassroots": 67200
   },
   "Kristen McDonald Rivet": {
@@ -12488,8 +12651,8 @@
       "C00864207"
     ],
     "source": "FEC_v7",
-    "total_raised": 10452004,
-    "aipac": 268333,
+    "total_raised": 142195,
+    "aipac": 894731,
     "aipac_pacs": 268333,
     "aipac_ie": 0,
     "aipac_lobby_donors": 626398,
@@ -12513,19 +12676,19 @@
       "C00870238"
     ],
     "source": "FEC_v7",
-    "total_raised": 3160230,
-    "aipac": 24913,
+    "total_raised": 1113761,
+    "aipac": 35263,
     "aipac_pacs": 24913,
     "aipac_ie": 0,
     "aipac_lobby_donors": 10350,
     "aipac_sources": "AIPAC, AMP, TPOH",
-    "fossil_fuels": 4291,
-    "pharma": 148648,
-    "defense": 7100,
-    "finance": 106295,
-    "tech": 6543,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 308140,
+    "special_interest_total": 35263,
     "grassroots": 42619
   },
   "Troy Downing": {
@@ -12539,8 +12702,8 @@
       "C00640052"
     ],
     "source": "FEC_v7",
-    "total_raised": 6094713,
-    "aipac": 10025,
+    "total_raised": 1119502,
+    "aipac": 30825,
     "aipac_pacs": 10025,
     "aipac_ie": 0,
     "aipac_lobby_donors": 20800,
@@ -12563,8 +12726,8 @@
       "C00878454"
     ],
     "source": "FEC_v7",
-    "total_raised": 7331320,
-    "aipac": 125529,
+    "total_raised": 208311,
+    "aipac": 754504,
     "aipac_pacs": 125529,
     "aipac_ie": 0,
     "aipac_lobby_donors": 628975,
@@ -12590,19 +12753,19 @@
       "C00376137"
     ],
     "source": "FEC_v7",
-    "total_raised": 2887588,
-    "aipac": 37666,
+    "total_raised": 117085,
+    "aipac": 156890,
     "aipac_pacs": 37666,
     "aipac_ie": 0,
     "aipac_lobby_donors": 119224,
     "aipac_sources": "AIPAC, DMFI",
-    "fossil_fuels": 500,
-    "pharma": 46700,
-    "defense": 1000,
-    "finance": 59300,
-    "tech": 7250,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 271640,
+    "special_interest_total": 156890,
     "grassroots": 34951
   },
   "LaMonica McIver": {
@@ -12614,7 +12777,7 @@
       "C00878603"
     ],
     "source": "FEC_v7",
-    "total_raised": 2241830,
+    "total_raised": 82125,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -12640,8 +12803,8 @@
       "C00840165"
     ],
     "source": "FEC_v7",
-    "total_raised": 12843529,
-    "aipac": 119823,
+    "total_raised": 290168,
+    "aipac": 962453,
     "aipac_pacs": 119823,
     "aipac_ie": 66598,
     "aipac_lobby_donors": 776032,
@@ -12667,8 +12830,8 @@
       "C00813139"
     ],
     "source": "FEC_v7",
-    "total_raised": 17998352,
-    "aipac": 119061,
+    "total_raised": 399614,
+    "aipac": 882674,
     "aipac_pacs": 119061,
     "aipac_ie": 0,
     "aipac_lobby_donors": 763613,
@@ -12691,8 +12854,8 @@
       "C00845461"
     ],
     "source": "FEC_v7",
-    "total_raised": 6326746,
-    "aipac": 90892,
+    "total_raised": 51709,
+    "aipac": 400907,
     "aipac_pacs": 90892,
     "aipac_ie": 0,
     "aipac_lobby_donors": 310015,
@@ -12717,8 +12880,8 @@
       "C00702811"
     ],
     "source": "FEC_v7",
-    "total_raised": 16261438,
-    "aipac": 122857,
+    "total_raised": 950942,
+    "aipac": 784341,
     "aipac_pacs": 122857,
     "aipac_ie": 0,
     "aipac_lobby_donors": 661484,
@@ -12743,8 +12906,8 @@
       "C00276725"
     ],
     "source": "FEC_v7",
-    "total_raised": 19089184,
-    "aipac": 237389,
+    "total_raised": 1181900,
+    "aipac": 1787185,
     "aipac_pacs": 237389,
     "aipac_ie": 70000,
     "aipac_lobby_donors": 1479796,
@@ -12771,8 +12934,8 @@
       "C00589820"
     ],
     "source": "FEC_v7",
-    "total_raised": 22407571,
-    "aipac": 227734,
+    "total_raised": 463222,
+    "aipac": 1203265,
     "aipac_pacs": 227734,
     "aipac_ie": 0,
     "aipac_lobby_donors": 975531,
@@ -12784,7 +12947,7 @@
     "tech": 939724,
     "nra": 0,
     "special_interest_total": 4917161,
-    "grassroots": 120775
+    "grassroots": 170377
   },
   "Addison McDowell": {
     "candidate_id": "H4NC06177",
@@ -12798,8 +12961,8 @@
       "C00606913"
     ],
     "source": "FEC_v7",
-    "total_raised": 1939156,
-    "aipac": 28236,
+    "total_raised": 125072,
+    "aipac": 54527,
     "aipac_pacs": 28236,
     "aipac_ie": 0,
     "aipac_lobby_donors": 26291,
@@ -12822,8 +12985,8 @@
       "C00802298"
     ],
     "source": "FEC_v7",
-    "total_raised": 3765860,
-    "aipac": 32304,
+    "total_raised": 422270,
+    "aipac": 126511,
     "aipac_pacs": 32304,
     "aipac_ie": 0,
     "aipac_lobby_donors": 94207,
@@ -12846,8 +13009,8 @@
       "C00855361"
     ],
     "source": "FEC_v7",
-    "total_raised": 3556736,
-    "aipac": 11000,
+    "total_raised": 331365,
+    "aipac": 25050,
     "aipac_pacs": 11000,
     "aipac_ie": 0,
     "aipac_lobby_donors": 14050,
@@ -12870,7 +13033,7 @@
       "C00869370"
     ],
     "source": "FEC_v7",
-    "total_raised": 3359414,
+    "total_raised": 229742,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -12894,8 +13057,8 @@
       "C00662650"
     ],
     "source": "FEC_v7",
-    "total_raised": 10011164,
-    "aipac": 68071,
+    "total_raised": 710417,
+    "aipac": 264697,
     "aipac_pacs": 68071,
     "aipac_ie": 0,
     "aipac_lobby_donors": 196626,
@@ -12920,8 +13083,8 @@
       "C00860213"
     ],
     "source": "FEC_v7",
-    "total_raised": 3188980,
-    "aipac": 37571,
+    "total_raised": 1321506,
+    "aipac": 68121,
     "aipac_pacs": 37571,
     "aipac_ie": 0,
     "aipac_lobby_donors": 30550,
@@ -12944,8 +13107,8 @@
       "C00858415"
     ],
     "source": "FEC_v7",
-    "total_raised": 2044518,
-    "aipac": 38545,
+    "total_raised": 254816,
+    "aipac": 75405,
     "aipac_pacs": 38545,
     "aipac_ie": 0,
     "aipac_lobby_donors": 36860,
@@ -12968,8 +13131,8 @@
       "C00796144"
     ],
     "source": "FEC_v7",
-    "total_raised": 6274743,
-    "aipac": 64611,
+    "total_raised": 262540,
+    "aipac": 246499,
     "aipac_pacs": 64611,
     "aipac_ie": 0,
     "aipac_lobby_donors": 181888,
@@ -12994,8 +13157,8 @@
       "C00114199"
     ],
     "source": "FEC_v7",
-    "total_raised": 10561355,
-    "aipac": 10500,
+    "total_raised": 84058,
+    "aipac": 1812897,
     "aipac_pacs": 10500,
     "aipac_ie": 1428765,
     "aipac_lobby_donors": 373632,
@@ -13023,8 +13186,8 @@
       "C00222141"
     ],
     "source": "FEC_v7",
-    "total_raised": 5570315,
-    "aipac": 37839,
+    "total_raised": 345771,
+    "aipac": 201577,
     "aipac_pacs": 37839,
     "aipac_ie": 0,
     "aipac_lobby_donors": 163738,
@@ -13047,19 +13210,19 @@
       "C00852137"
     ],
     "source": "FEC_v7",
-    "total_raised": 8744979,
-    "aipac": 30878,
+    "total_raised": 178244,
+    "aipac": 251022,
     "aipac_pacs": 30878,
     "aipac_ie": 0,
     "aipac_lobby_donors": 220144,
     "aipac_sources": "AIPAC, RJC",
-    "fossil_fuels": 85313,
-    "pharma": 93339,
-    "defense": 8717,
-    "finance": 510812,
-    "tech": 55224,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 1004427,
+    "special_interest_total": 251022,
     "grassroots": 16698
   },
   "Sheri Biggs": {
@@ -13072,8 +13235,8 @@
       "C00866426"
     ],
     "source": "FEC_v7",
-    "total_raised": 1477339,
-    "aipac": 10551,
+    "total_raised": 260696,
+    "aipac": 19351,
     "aipac_pacs": 10551,
     "aipac_ie": 0,
     "aipac_lobby_donors": 8800,
@@ -13098,8 +13261,8 @@
       "C00729822"
     ],
     "source": "FEC_v7",
-    "total_raised": 1982057,
-    "aipac": 12778,
+    "total_raised": 0,
+    "aipac": 46033,
     "aipac_pacs": 12778,
     "aipac_ie": 0,
     "aipac_lobby_donors": 33255,
@@ -13125,8 +13288,8 @@
       "C00767756"
     ],
     "source": "FEC_v7",
-    "total_raised": 5279785,
-    "aipac": 32410,
+    "total_raised": 362996,
+    "aipac": 73578,
     "aipac_pacs": 32410,
     "aipac_ie": 0,
     "aipac_lobby_donors": 41168,
@@ -13150,8 +13313,8 @@
       "C00855528"
     ],
     "source": "FEC_v7",
-    "total_raised": 4713349,
-    "aipac": 126557,
+    "total_raised": 166700,
+    "aipac": 321707,
     "aipac_pacs": 126557,
     "aipac_ie": 0,
     "aipac_lobby_donors": 195150,
@@ -13168,14 +13331,16 @@
   "Dan Crenshaw": {
     "candidate_id": "H8TX02166",
     "all_candidate_ids": [
-      "H8TX02166"
+      "H8TX02166",
+      "S0FL00114"
     ],
     "committees": [
-      "C00660795"
+      "C00660795",
+      "C00129239"
     ],
     "source": "FEC_v7",
-    "total_raised": 44077536,
-    "aipac": 187531,
+    "total_raised": 398017,
+    "aipac": 871815,
     "aipac_pacs": 187531,
     "aipac_ie": 0,
     "aipac_lobby_donors": 684284,
@@ -13202,8 +13367,8 @@
       "C00433748"
     ],
     "source": "FEC_v7",
-    "total_raised": 4168725,
-    "aipac": 42963,
+    "total_raised": 227240,
+    "aipac": 189665,
     "aipac_pacs": 42963,
     "aipac_ie": 0,
     "aipac_lobby_donors": 146702,
@@ -13228,8 +13393,8 @@
       "C00738872"
     ],
     "source": "FEC_v7",
-    "total_raised": 7309762,
-    "aipac": 94688,
+    "total_raised": 577922,
+    "aipac": 210688,
     "aipac_pacs": 94688,
     "aipac_ie": 0,
     "aipac_lobby_donors": 116000,
@@ -13256,8 +13421,8 @@
       "C00674358"
     ],
     "source": "FEC_v7",
-    "total_raised": 2587379,
-    "aipac": 15250,
+    "total_raised": 566208,
+    "aipac": 24291,
     "aipac_pacs": 15250,
     "aipac_ie": 0,
     "aipac_lobby_donors": 9041,
@@ -13283,8 +13448,8 @@
       "C00458455"
     ],
     "source": "FEC_v7",
-    "total_raised": 3678514,
-    "aipac": 88697,
+    "total_raised": 61125,
+    "aipac": 210086,
     "aipac_pacs": 88697,
     "aipac_ie": 0,
     "aipac_lobby_donors": 121389,
@@ -13301,14 +13466,16 @@
   "Eugene Vindman": {
     "candidate_id": "H4VA07234",
     "all_candidate_ids": [
-      "H4VA07234"
+      "H4VA07234",
+      "S6FL00855"
     ],
     "committees": [
-      "C00856955"
+      "C00856955",
+      "C00936559"
     ],
     "source": "FEC_v7",
-    "total_raised": 27769812,
-    "aipac": 11108,
+    "total_raised": 0,
+    "aipac": 514560,
     "aipac_pacs": 11108,
     "aipac_ie": 0,
     "aipac_lobby_donors": 503452,
@@ -13331,8 +13498,8 @@
       "C00856963"
     ],
     "source": "FEC_v7",
-    "total_raised": 3921270,
-    "aipac": 36443,
+    "total_raised": 151502,
+    "aipac": 112035,
     "aipac_pacs": 36443,
     "aipac_ie": 0,
     "aipac_lobby_donors": 75592,
@@ -13355,8 +13522,8 @@
       "C00904367"
     ],
     "source": "FEC_v7",
-    "total_raised": 2279096,
-    "aipac": 8700,
+    "total_raised": 0,
+    "aipac": 61940,
     "aipac_pacs": 8700,
     "aipac_ie": 0,
     "aipac_lobby_donors": 53240,
@@ -13383,8 +13550,8 @@
       "C00116889"
     ],
     "source": "FEC_v7",
-    "total_raised": 2971399,
-    "aipac": 13330,
+    "total_raised": 77567,
+    "aipac": 99841,
     "aipac_pacs": 13330,
     "aipac_ie": 0,
     "aipac_lobby_donors": 86511,
@@ -13410,8 +13577,8 @@
       "C00503961"
     ],
     "source": "FEC_v7",
-    "total_raised": 3956585,
-    "aipac": 56876,
+    "total_raised": 233280,
+    "aipac": 91926,
     "aipac_pacs": 56876,
     "aipac_ie": 0,
     "aipac_lobby_donors": 35050,
@@ -13436,8 +13603,8 @@
       "C00828947"
     ],
     "source": "FEC_v7",
-    "total_raised": 2714319,
-    "aipac": 35530,
+    "total_raised": 293899,
+    "aipac": 103130,
     "aipac_pacs": 35530,
     "aipac_ie": 0,
     "aipac_lobby_donors": 67600,
@@ -13460,8 +13627,8 @@
       "C00875518"
     ],
     "source": "FEC_v7",
-    "total_raised": 2428812,
-    "aipac": 12000,
+    "total_raised": 646044,
+    "aipac": 29371,
     "aipac_pacs": 12000,
     "aipac_ie": 0,
     "aipac_lobby_donors": 17371,
@@ -13489,7 +13656,7 @@
       "C00255299"
     ],
     "source": "FEC_v7",
-    "total_raised": 6296521,
+    "total_raised": 1757281,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -13513,7 +13680,7 @@
       "C00809343"
     ],
     "source": "FEC_v7",
-    "total_raised": 494550,
+    "total_raised": 144805,
     "aipac": 0,
     "aipac_pacs": 0,
     "aipac_ie": 0,
@@ -13528,17 +13695,171 @@
     "special_interest_total": 89950,
     "grassroots": 100
   },
+  "Shomari Figures": {
+    "candidate_id": "H4AL02170",
+    "all_candidate_ids": [
+      "H4AL02170",
+      "S8AL00282"
+    ],
+    "committees": [
+      "C00856237",
+      "C00438846"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 169245,
+    "aipac": 181458,
+    "aipac_pacs": 61835,
+    "aipac_ie": 1400,
+    "aipac_lobby_donors": 118223,
+    "aipac_sources": "AIPAC, COPAC, DMFI, MDACC, TPOH",
+    "fossil_fuels": 2250,
+    "pharma": 129442,
+    "defense": 2543,
+    "finance": 265415,
+    "tech": 77539,
+    "nra": 0,
+    "special_interest_total": 658647,
+    "grassroots": 42645
+  },
+  "Steny Hoyer": {
+    "candidate_id": "H2MD05155",
+    "all_candidate_ids": [
+      "H2MD05155"
+    ],
+    "committees": [
+      "C00140715"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 2294395,
+    "aipac": 3546127,
+    "aipac_pacs": 957516,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2588611,
+    "aipac_sources": "AIPAC, AGG, AUSD, BICPAC, BICOUNTY, COPAC, CITYPAC, DVPAC, DMFI, FIPAC, GSPAC, HEARTLAND, HVPAC, JAC, LAFAS, MMPAC, MOPAC, NACPAC, NATPAC, NORPAC, NWPAC, PHXED, PIA, STLBG, SUNPAC, DESERT, TPOH, USI, WAPAC, WPIN, WAFI",
+    "fossil_fuels": 512470,
+    "pharma": 5982488,
+    "defense": 1669874,
+    "finance": 9348996,
+    "tech": 2476730,
+    "nra": 0,
+    "special_interest_total": 23536685,
+    "grassroots": 9810
+  },
+  "Kweisi Mfume": {
+    "candidate_id": "H6MD07020",
+    "all_candidate_ids": [
+      "H6MD07020",
+      "S6MD03185"
+    ],
+    "committees": [
+      "C00726372",
+      "C00200808",
+      "C00410548"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 351005,
+    "aipac": 391677,
+    "aipac_pacs": 117074,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 274603,
+    "aipac_sources": "AIPAC, BICPAC, COPAC, DMFI, JSTREET, NATPAC, PIA, SUNPAC, TPOH",
+    "fossil_fuels": 5200,
+    "pharma": 196990,
+    "defense": 32025,
+    "finance": 765154,
+    "tech": 211757,
+    "nra": 0,
+    "special_interest_total": 1602803,
+    "grassroots": 27100
+  },
+  "Andy Ogles": {
+    "candidate_id": "H2TN05446",
+    "all_candidate_ids": [
+      "H2TN05446"
+    ],
+    "committees": [
+      "C00811844",
+      "C00818997"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 519951,
+    "aipac": 74629,
+    "aipac_pacs": 40642,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 33987,
+    "aipac_sources": "AIPAC, AMP, USI",
+    "fossil_fuels": 34104,
+    "pharma": 65789,
+    "defense": 505,
+    "finance": 444886,
+    "tech": 30404,
+    "nra": 1000,
+    "special_interest_total": 651317,
+    "grassroots": 51287
+  },
+  "Brad Sherman": {
+    "candidate_id": "H6CA24113",
+    "all_candidate_ids": [
+      "H6CA24113",
+      "S6LA00086",
+      "P40014748"
+    ],
+    "committees": [
+      "C00308742",
+      "C00209726"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1504432,
+    "aipac": 4139278,
+    "aipac_pacs": 703836,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 3435442,
+    "aipac_sources": "AIPAC, AUSD, BICPAC, BICOUNTY, DMFI, GCSC, HEARTLAND, JAC, LAFAS, MDACC, MOPAC, NACPAC, NATPAC, NORPAC, PIA, SUNPAC, DESERT, TPOH, USI, WAPAC, WPIN, WAFI",
+    "fossil_fuels": 21374,
+    "pharma": 1282598,
+    "defense": 321825,
+    "finance": 6491881,
+    "tech": 1209862,
+    "nra": 0,
+    "special_interest_total": 13466818,
+    "grassroots": 7068
+  },
+  "Sam Liccardo": {
+    "candidate_id": "H4CA16197",
+    "all_candidate_ids": [
+      "H4CA16197"
+    ],
+    "committees": [
+      "C00858688"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 261450,
+    "aipac": 333790,
+    "aipac_pacs": 52780,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 281010,
+    "aipac_sources": "",
+    "fossil_fuels": 10925,
+    "pharma": 202610,
+    "defense": 21700,
+    "finance": 1430207,
+    "tech": 713400,
+    "nra": 0,
+    "special_interest_total": 2712632,
+    "grassroots": 0
+  },
   "Ben Ray Luj\u00e1n": {
     "candidate_id": "S0NM00058",
     "all_candidate_ids": [
-      "S0NM00058"
+      "S0NM00058",
+      "H8NM03196"
     ],
     "committees": [
       "C00443689"
     ],
-    "source": "FEC_v7_patch",
-    "total_raised": 25795713,
-    "aipac": 93499,
+    "source": "FEC_v7",
+    "total_raised": 767491,
+    "aipac": 639893,
     "aipac_pacs": 93499,
     "aipac_ie": 0,
     "aipac_lobby_donors": 546394,
@@ -13555,27 +13876,53 @@
   "Linda S\u00e1nchez": {
     "candidate_id": "H2CA39078",
     "all_candidate_ids": [
-      "H2CA39078"
+      "H2CA39078",
+      "S6CA00691"
     ],
     "committees": [
       "C00369363",
-      "C00384057"
+      "C00384057",
+      "C00578344"
     ],
-    "source": "FEC_v7_patch",
-    "total_raised": 15285801,
-    "aipac": 125321,
-    "aipac_pacs": 125321,
+    "source": "FEC_v7",
+    "total_raised": 1787248,
+    "aipac": 0,
+    "aipac_pacs": 0,
     "aipac_ie": 0,
-    "aipac_lobby_donors": 293288,
-    "aipac_sources": "AIPAC, JSTREET, NACPAC, NORPAC, PHXED, PIA, WAFI",
-    "fossil_fuels": 31950,
-    "pharma": 1892970,
-    "defense": 128500,
-    "finance": 2745077,
-    "tech": 897606,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 6114712,
-    "grassroots": 100450
+    "special_interest_total": 0,
+    "grassroots": 121334
+  },
+  "Nanette Barrag\u00e1n": {
+    "candidate_id": "H6CA44103",
+    "all_candidate_ids": [
+      "H6CA44103"
+    ],
+    "committees": [
+      "C00577353"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 377201,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 55588
   },
   "Mario D\u00edaz-Balart": {
     "candidate_id": "H2FL25018",
@@ -13585,20 +13932,20 @@
     "committees": [
       "C00376087"
     ],
-    "source": "FEC_v7_patch",
-    "total_raised": 17814007,
-    "aipac": 918300,
-    "aipac_pacs": 918300,
+    "source": "FEC_v7",
+    "total_raised": 1872433,
+    "aipac": 0,
+    "aipac_pacs": 0,
     "aipac_ie": 0,
-    "aipac_lobby_donors": 1135272,
-    "aipac_sources": "AIPAC, AMP, BAYPAC, COPAC, HVPAC, NACPAC, RJC, SUNPAC, USI, WAFI",
-    "fossil_fuels": 212650,
-    "pharma": 690386,
-    "defense": 887850,
-    "finance": 2065653,
-    "tech": 652186,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 5500,
-    "special_interest_total": 6567797,
+    "special_interest_total": 5500,
     "grassroots": 9847
   },
   "Carlos Gim\u00e9nez": {
@@ -13610,21 +13957,166 @@
       "C00735985",
       "C00702530"
     ],
-    "source": "FEC_v7_patch",
-    "total_raised": 5931276,
-    "aipac": 122359,
-    "aipac_pacs": 122359,
+    "source": "FEC_v7",
+    "total_raised": 737169,
+    "aipac": 0,
+    "aipac_pacs": 0,
     "aipac_ie": 0,
-    "aipac_lobby_donors": 344886,
-    "aipac_sources": "AIPAC, AMP, PIA, RJC, SUNPAC, USI",
-    "fossil_fuels": 84818,
-    "pharma": 205476,
-    "defense": 30713,
-    "finance": 1162106,
-    "tech": 83712,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 2034070,
+    "special_interest_total": 0,
     "grassroots": 49365
+  },
+  "Chuy Garc\u00eda": {
+    "candidate_id": "H8IL04134",
+    "all_candidate_ids": [
+      "H8IL04134"
+    ],
+    "committees": [
+      "C00661777"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 360722,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 63400
+  },
+  "Nydia Vel\u00e1zquez": {
+    "candidate_id": "H2NY00010",
+    "all_candidate_ids": [
+      "H2NY00010"
+    ],
+    "committees": [
+      "C00271312"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1313774,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 147485
+  },
+  "Pablo Hern\u00e1ndez": {
+    "candidate_id": "H4PR01010",
+    "all_candidate_ids": [
+      "H4PR01010"
+    ],
+    "committees": [
+      "C00831487"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 72512,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 14222
+  },
+  "Shontel Brown": {
+    "candidate_id": "H2OH11169",
+    "all_candidate_ids": [
+      "H2OH11169"
+    ],
+    "committees": [
+      "C00764381",
+      "C00916288"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 281593,
+    "aipac": 6639385,
+    "aipac_pacs": 1520814,
+    "aipac_ie": 3182118,
+    "aipac_lobby_donors": 1936453,
+    "aipac_sources": "AIPAC, AUSD, COPAC, DMFI, HEARTLAND, JAC, LAFAS, MDACC, NORPAC, PIA, TPOH",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 6639385,
+    "grassroots": 87320
+  },
+  "Elise Stefanik": {
+    "candidate_id": "H4NY21079",
+    "all_candidate_ids": [
+      "H4NY21079"
+    ],
+    "committees": [
+      "C00547893"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 579944,
+    "aipac": 2985287,
+    "aipac_pacs": 683429,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2301858,
+    "aipac_sources": "AIPAC, AMP, NORPAC, PHXED, PIA, RJC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 2000,
+    "special_interest_total": 2987287,
+    "grassroots": 21166
+  },
+  "Nancy Pelosi": {
+    "candidate_id": "H8CA05035",
+    "all_candidate_ids": [
+      "H8CA05035"
+    ],
+    "committees": [
+      "C00213512"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 94814798,
+    "aipac": 2374025,
+    "aipac_pacs": 187554,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2186471,
+    "aipac_sources": "AIPAC, AGG, AUSD, BIC, BICOUNTY, CITYPAC, HEARTLAND, HVPAC, JAC, JSTREET, LAFAS, MDACC, MMPAC, MOPAC, NACPAC, NATPAC, NORPAC, PHXED, DESERT, TPOH, USI, WAPAC, WPI, WAFI",
+    "fossil_fuels": 185359,
+    "pharma": 5788610,
+    "defense": 510829,
+    "finance": 8118469,
+    "tech": 4417556,
+    "nra": 0,
+    "special_interest_total": 21394848,
+    "grassroots": 34113
   },
   "Amata Coleman Radewagen": {
     "candidate_id": "H4AS00036",
@@ -13652,257 +14144,6 @@
     "special_interest_total": 34983,
     "grassroots": 650
   },
-  "Chuy Garc\u00eda": {
-    "candidate_id": "H8IL04134",
-    "all_candidate_ids": [
-      "H8IL04134"
-    ],
-    "committees": [
-      "C00661777"
-    ],
-    "source": "FEC_v7_patch",
-    "total_raised": 3888542,
-    "aipac": 0,
-    "aipac_pacs": 0,
-    "aipac_ie": 0,
-    "aipac_lobby_donors": 0,
-    "aipac_sources": "",
-    "fossil_fuels": 5600,
-    "pharma": 121905,
-    "defense": 1305,
-    "finance": 355564,
-    "tech": 85003,
-    "nra": 0,
-    "special_interest_total": 569377,
-    "grassroots": 63400
-  },
-  "Pablo Hern\u00e1ndez": {
-    "candidate_id": "H4PR01010",
-    "all_candidate_ids": [
-      "H4PR01010"
-    ],
-    "committees": [
-      "C00831487"
-    ],
-    "source": "FEC_v7_patch",
-    "total_raised": 2114370,
-    "aipac": 0,
-    "aipac_pacs": 0,
-    "aipac_ie": 0,
-    "aipac_lobby_donors": 0,
-    "aipac_sources": "",
-    "fossil_fuels": 1255,
-    "pharma": 76368,
-    "defense": 0,
-    "finance": 89600,
-    "tech": 18679,
-    "nra": 0,
-    "special_interest_total": 185902,
-    "grassroots": 14222
-  },
-  "Chris Van Hollen": {
-    "candidate_id": "S6MD03441",
-    "all_candidate_ids": [
-      "S6MD03441",
-      "H2MD08126"
-    ],
-    "committees": [
-      "C00573758",
-      "C00366096"
-    ],
-    "source": "FEC_v7",
-    "total_raised": 36317819,
-    "aipac": 0,
-    "aipac_pacs": 0,
-    "aipac_ie": 0,
-    "aipac_lobby_donors": 0,
-    "aipac_sources": "",
-    "fossil_fuels": 108926,
-    "pharma": 2734715,
-    "defense": 615233,
-    "finance": 5330468,
-    "tech": 1600398,
-    "nra": 0,
-    "special_interest_total": 10389740,
-    "grassroots": 50172
-  },
-  "John Fetterman": {
-    "candidate_id": "S6PA00274",
-    "all_candidate_ids": [
-      "S6PA00274"
-    ],
-    "committees": [
-      "C00765800",
-      "C00586578"
-    ],
-    "source": "FEC_v7",
-    "total_raised": 86501585,
-    "aipac": 257518,
-    "aipac_pacs": 257518,
-    "aipac_ie": 99600,
-    "aipac_lobby_donors": 1541845,
-    "aipac_sources": "DMFI, JAC, JSTREET, MDACC, NORPAC, SUNPAC",
-    "fossil_fuels": 60096,
-    "pharma": 2473097,
-    "defense": 107514,
-    "finance": 2868936,
-    "tech": 2367852,
-    "nra": 0,
-    "special_interest_total": 9776458,
-    "grassroots": 7769
-  },
-  "Shomari Figures": {
-    "candidate_id": "H4AL02170",
-    "all_candidate_ids": [
-      "H4AL02170",
-      "S8AL00282"
-    ],
-    "committees": [
-      "C00856237",
-      "C00438846"
-    ],
-    "source": "FEC_v7",
-    "total_raised": 3755625,
-    "aipac": 61835,
-    "aipac_pacs": 61835,
-    "aipac_ie": 1400,
-    "aipac_lobby_donors": 118223,
-    "aipac_sources": "AIPAC, COPAC, DMFI, MDACC, TPOH",
-    "fossil_fuels": 2250,
-    "pharma": 129442,
-    "defense": 2543,
-    "finance": 265415,
-    "tech": 77539,
-    "nra": 0,
-    "special_interest_total": 658647,
-    "grassroots": 60885
-  },
-  "Steny Hoyer": {
-    "candidate_id": "H2MD05155",
-    "all_candidate_ids": [
-      "H2MD05155"
-    ],
-    "committees": [
-      "C00140715"
-    ],
-    "source": "FEC_v7",
-    "total_raised": 48821897,
-    "aipac": 957516,
-    "aipac_pacs": 957516,
-    "aipac_ie": 0,
-    "aipac_lobby_donors": 2588611,
-    "aipac_sources": "AIPAC, AGG, AUSD, BICPAC, BICOUNTY, COPAC, CITYPAC, DVPAC, DMFI, FIPAC, GSPAC, HEARTLAND, HVPAC, JAC, LAFAS, MMPAC, MOPAC, NACPAC, NATPAC, NORPAC, NWPAC, PHXED, PIA, STLBG, SUNPAC, DESERT, TPOH, USI, WAPAC, WPIN, WAFI",
-    "fossil_fuels": 512470,
-    "pharma": 5982488,
-    "defense": 1669874,
-    "finance": 9348996,
-    "tech": 2476730,
-    "nra": 0,
-    "special_interest_total": 23536685,
-    "grassroots": 10245
-  },
-  "Kweisi Mfume": {
-    "candidate_id": "H6MD07020",
-    "all_candidate_ids": [
-      "H6MD07020",
-      "S6MD03185"
-    ],
-    "committees": [
-      "C00726372",
-      "C00200808",
-      "C00410548"
-    ],
-    "source": "FEC_v7",
-    "total_raised": 4948730,
-    "aipac": 117074,
-    "aipac_pacs": 117074,
-    "aipac_ie": 0,
-    "aipac_lobby_donors": 274603,
-    "aipac_sources": "AIPAC, BICPAC, COPAC, DMFI, JSTREET, NATPAC, PIA, SUNPAC, TPOH",
-    "fossil_fuels": 5200,
-    "pharma": 196990,
-    "defense": 32025,
-    "finance": 765154,
-    "tech": 211757,
-    "nra": 0,
-    "special_interest_total": 1602803,
-    "grassroots": 36250
-  },
-  "Andy Ogles": {
-    "candidate_id": "H2TN05446",
-    "all_candidate_ids": [
-      "H2TN04191"
-    ],
-    "committees": [
-      "C00375170"
-    ],
-    "source": "FEC_v7",
-    "total_raised": 97033,
-    "aipac": 40642,
-    "aipac_pacs": 40642,
-    "aipac_ie": 0,
-    "aipac_lobby_donors": 33987,
-    "aipac_sources": "AIPAC, AMP, USI",
-    "fossil_fuels": 34104,
-    "pharma": 65789,
-    "defense": 505,
-    "finance": 444886,
-    "tech": 30404,
-    "nra": 0,
-    "special_interest_total": 650317,
-    "grassroots": 0
-  },
-  "Brad Sherman": {
-    "candidate_id": "H6CA24113",
-    "all_candidate_ids": [
-      "H6CA24113",
-      "S6LA00086",
-      "P40014748"
-    ],
-    "committees": [
-      "C00308742",
-      "C00209726"
-    ],
-    "source": "FEC_v7",
-    "total_raised": 26530671,
-    "aipac": 703836,
-    "aipac_pacs": 703836,
-    "aipac_ie": 0,
-    "aipac_lobby_donors": 3435442,
-    "aipac_sources": "AIPAC, AUSD, BICPAC, BICOUNTY, DMFI, GCSC, HEARTLAND, JAC, LAFAS, MDACC, MOPAC, NACPAC, NATPAC, NORPAC, PIA, SUNPAC, DESERT, TPOH, USI, WAPAC, WPIN, WAFI",
-    "fossil_fuels": 21374,
-    "pharma": 1282598,
-    "defense": 321825,
-    "finance": 6491881,
-    "tech": 1209862,
-    "nra": 0,
-    "special_interest_total": 13466818,
-    "grassroots": 39568
-  },
-  "Sam Liccardo": {
-    "candidate_id": "H4CA16197",
-    "all_candidate_ids": [
-      "H4CA16197"
-    ],
-    "committees": [
-      "C00858688"
-    ],
-    "source": "FEC_v7",
-    "total_raised": 9418613,
-    "aipac": 52780,
-    "aipac_pacs": 52780,
-    "aipac_ie": 0,
-    "aipac_lobby_donors": 281010,
-    "aipac_sources": "",
-    "fossil_fuels": 10925,
-    "pharma": 202610,
-    "defense": 21700,
-    "finance": 1430207,
-    "tech": 713400,
-    "nra": 0,
-    "special_interest_total": 2712632,
-    "grassroots": 43650
-  },
   "Marco Rubio": {
     "candidate_id": "S0FL00338",
     "all_candidate_ids": [
@@ -13915,20 +14156,20 @@
       "C00620518"
     ],
     "source": "FEC_v7",
-    "total_raised": 150553219,
-    "aipac": 1013563,
-    "aipac_pacs": 1013563,
+    "total_raised": 901270,
+    "aipac": 0,
+    "aipac_pacs": 0,
     "aipac_ie": 0,
     "aipac_lobby_donors": 0,
-    "aipac_sources": "AIPAC, NORPAC, USI, COPAC",
+    "aipac_sources": "",
     "fossil_fuels": 1762314,
     "pharma": 5304290,
     "defense": 662871,
     "finance": 20009177,
     "tech": 2969835,
     "nra": 0,
-    "special_interest_total": 31722050,
-    "grassroots": 50320
+    "special_interest_total": 30708487,
+    "grassroots": 48443
   },
   "JD Vance": {
     "candidate_id": "S2OH00436",
@@ -13943,19 +14184,19 @@
       "C00564740"
     ],
     "source": "FEC_v7",
-    "total_raised": 18904795,
-    "aipac": 268355,
+    "total_raised": 222496,
+    "aipac": 1592822,
     "aipac_pacs": 268355,
     "aipac_ie": 0,
     "aipac_lobby_donors": 1324467,
     "aipac_sources": "AMP, RJC, USI",
-    "fossil_fuels": 325154,
-    "pharma": 1125010,
-    "defense": 324953,
-    "finance": 2515182,
-    "tech": 474232,
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
     "nra": 0,
-    "special_interest_total": 6357353,
-    "grassroots": 94636
+    "special_interest_total": 1592822,
+    "grassroots": 21114
   }
 }

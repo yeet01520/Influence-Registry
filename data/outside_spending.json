@@ -9069,45 +9069,6 @@
     "source": "FEC schedule_e (is_notice=false, processed) aggregated client-side",
     "_pages_fetched": 3
   },
-  "Sarah McBride": {
-    "candidate_ids_used": [
-      "H4DE00045"
-    ],
-    "total_supporting": 400667,
-    "total_opposing": 0,
-    "cycles": [],
-    "top_supporters": [
-      {
-        "committee_id": "C00550970",
-        "committee_name": "EQUALITY PAC",
-        "amount": 285224
-      },
-      {
-        "committee_id": "C00848440",
-        "committee_name": "PROTECT PROGRESS",
-        "amount": 112913
-      },
-      {
-        "committee_id": "C00632109",
-        "committee_name": "FIRST STATE STRONG FEC",
-        "amount": 2500
-      },
-      {
-        "committee_id": "C00483693",
-        "committee_name": "SIERRA CLUB INDEPENDENT ACTION",
-        "amount": 20
-      },
-      {
-        "committee_id": "C00802389",
-        "committee_name": "GIVEGREEN UNITED ACTION",
-        "amount": 10
-      }
-    ],
-    "top_opposers": [],
-    "fetched_at": "2026-05-08T16:57:17.621445+00:00",
-    "source": "FEC schedule_e (is_notice=false, processed) aggregated client-side",
-    "_pages_fetched": 1
-  },
   "Neal Dunn": {
     "candidate_ids_used": [
       "H6FL02208"

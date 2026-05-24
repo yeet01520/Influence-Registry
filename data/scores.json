@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-05-24T19:02:44.348242+00:00",
+    "generated_at": "2026-05-24T19:05:15.118771+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },

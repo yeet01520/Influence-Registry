@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-05-24T19:05:15.118771+00:00",
+    "generated_at": "2026-05-25T00:56:23.236796+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -5862,11 +5862,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Elise Stefanik": {
-    "pct": 55,
+    "pct": 45,
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 2985287,
+    "super_pac_total": 683429,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9733,11 +9733,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Shontel Brown": {
-    "pct": 30,
+    "pct": 28,
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 6639385,
+    "super_pac_total": 4702932,
     "any_corporate": true,
     "reasons": [
       "AIPAC"

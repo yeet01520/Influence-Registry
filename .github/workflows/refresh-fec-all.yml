@@ -1,0 +1,219 @@
+name: Refresh FEC Data (All Members)
+
+# Manually triggered. Designed for resume-from-checkpoint: if it times out,
+# re-trigger and it picks up where it left off via the partial file at
+# data/raw/all_fec_data.json.
+on:
+  workflow_dispatch:
+
+jobs:
+  refresh-fec-all:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350     # ~5h50m; just under the 6h hard cap
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run v7 FEC pull for all members
+        id: run_v7
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python3 scripts/run_v7_for_all.py
+
+      # Whether the previous step succeeded, timed out, or threw, commit
+      # whatever partial progress the auto-save left in
+      # data/raw/all_fec_data.json. This is what makes resume work.
+      - name: Commit partial/full checkpoint
+        if: always()
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage the checkpoint file. If it doesn't exist (run failed
+          # before v7 produced anything), skip with a clear message.
+          if [ ! -f data/raw/all_fec_data.json ]; then
+            echo "No checkpoint file produced — nothing to commit."
+            exit 0
+          fi
+
+          # Compute status from the _meta marker for the commit message
+          STATUS=$(python3 -c "
+          import json
+          d = json.load(open('data/raw/all_fec_data.json'))
+          m = d.get('_meta', {})
+          done = m.get('members_done', '?')
+          total = m.get('members_total', '?')
+          complete = m.get('complete', False)
+          print(f'{\"complete\" if complete else \"partial\"} {done}/{total}')
+          ")
+
+          git add data/raw/all_fec_data.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit ($STATUS)."
+          else
+            git commit -m "Refresh FEC data checkpoint ($STATUS)"
+            git pull --rebase origin main
+            git push
+            echo "Committed checkpoint: $STATUS"
+          fi
+
+      # Merge into data/fec.json only when the run was complete. Partial
+      # runs don't update the canonical merged file — that only happens
+      # when all expected members are done.
+      #
+      # NOTE: We deliberately do NOT read the _meta.complete field here.
+      # The "Commit partial/full checkpoint" step above does a git rebase
+      # against main, which can pull in an older version of
+      # all_fec_data.json from a previous (incomplete) run, overwriting
+      # the current run's _meta. Instead, we re-derive completion right
+      # here by comparing the file's members against members.json minus
+      # the skip list from scripts/skip_members.json.
+      - name: Detect completion
+        id: completion
+        if: always()
+        run: |
+          if [ ! -f data/raw/all_fec_data.json ]; then
+            echo "complete=false" >> "$GITHUB_OUTPUT"
+            echo "Run completion status: false (no checkpoint file)"
+            exit 0
+          fi
+          if [ ! -f scripts/members.json ]; then
+            echo "complete=false" >> "$GITHUB_OUTPUT"
+            echo "Run completion status: false (no members.json)"
+            exit 0
+          fi
+          COMPLETE=$(python3 << 'PY'
+          import json, sys
+          from pathlib import Path
+
+          # Load skip list. Missing file = empty skip set (back-compat).
+          skip_path = Path('scripts/skip_members.json')
+          if skip_path.exists():
+              try:
+                  skip = set(json.loads(skip_path.read_text()).get('skip', []))
+              except Exception as e:
+                  print(f'skip_members.json parse error: {e}', file=sys.stderr)
+                  skip = set()
+          else:
+              skip = set()
+
+          members  = json.load(open('scripts/members.json'))
+          fec_raw  = json.load(open('data/raw/all_fec_data.json'))
+          fec_raw.pop('_meta', None)
+
+          expected = {m['name'] for m in members} - skip
+          done     = set(fec_raw.keys())
+          missing  = expected - done
+
+          if missing:
+              print('false')
+              print(f'missing: {sorted(missing)[:5]}', file=sys.stderr)
+          else:
+              print('true')
+              if skip:
+                  print(f'(skipped: {sorted(skip)})', file=sys.stderr)
+          PY
+          )
+          echo "complete=$COMPLETE" >> "$GITHUB_OUTPUT"
+          echo "Run completion status: $COMPLETE"
+
+      - name: Merge into data/fec.json
+        if: always() && steps.completion.outputs.complete == 'true'
+        run: |
+          python3 << 'PY'
+          import json
+          from pathlib import Path
+
+          repo = Path('.').resolve()
+          all_new  = repo / 'data' / 'raw' / 'all_fec_data.json'
+          fec_main = repo / 'data' / 'fec.json'
+
+          new_data = json.loads(all_new.read_text())
+          new_data.pop('_meta', None)
+          print(f"Loaded {len(new_data)} members from all_fec_data.json")
+
+          # Preserve any entries in fec.json that aren't in the new data
+          # (most likely Cabinet members like Rubio, Vance, who aren't in
+          # members.json, plus any SKIP_MEMBERS entries that retained their
+          # prior values).
+          if fec_main.exists():
+              existing = json.loads(fec_main.read_text())
+              preserved = [k for k in existing if k not in new_data]
+              if preserved:
+                  print(f"Preserving {len(preserved)} non-overlapping entries: {preserved[:10]}{'...' if len(preserved) > 10 else ''}")
+                  for k in preserved:
+                      new_data[k] = existing[k]
+
+          fec_main.write_text(json.dumps(new_data, indent=2))
+          print(f"Wrote {len(new_data)} entries to {fec_main}")
+          PY
+
+          git add data/fec.json
+          if git diff --staged --quiet; then
+            echo "No changes to data/fec.json."
+          else
+            git commit -m "Merge complete FEC refresh into data/fec.json"
+            git pull --rebase origin main
+            git push
+          fi
+
+      # Keep data/sector_counts.json AIPAC fields in sync with the refreshed
+      # fec.json. Only runs on a complete refresh so partial runs don't push
+      # half-correct counts. Other sectors in sector_counts.json are manually
+      # curated and untouched by this step.
+      - name: Refresh sector_counts.json AIPAC fields
+        if: always() && steps.completion.outputs.complete == 'true'
+        run: |
+          if [ ! -f scripts/refresh_sector_counts.py ]; then
+            echo "scripts/refresh_sector_counts.py not present; skipping"
+            exit 0
+          fi
+          python3 scripts/refresh_sector_counts.py
+          git add data/sector_counts.json
+          if git diff --staged --quiet; then
+            echo "No changes to data/sector_counts.json."
+          else
+            git commit -m "Refresh AIPAC counts in sector_counts.json"
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Run data quality check (non-blocking)
+        if: always()
+        run: |
+          if [ -f scripts/check_data_quality.py ]; then
+            python3 scripts/check_data_quality.py data/raw/all_fec_data.json || true
+          else
+            echo "check_data_quality.py not present; skipping"
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Workflow summary" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f data/raw/all_fec_data.json ]; then
+            python3 << 'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          d = json.load(open('data/raw/all_fec_data.json'))
+          m = d.get('_meta', {})
+          done = m.get('members_done', 0)
+          total = m.get('members_total', 0)
+          complete = m.get('complete', False)
+          missing = m.get('missing', [])
+          print(f"- **Status**: {'✅ COMPLETE' if complete else '⏸ PARTIAL — re-run to continue'}")
+          print(f"- **Processed**: {done} / {total}")
+          if missing:
+              print(f"- **Sample missing**: {', '.join(missing[:10])}{' ...' if len(missing) > 10 else ''}")
+          PY
+          else
+            echo "- ❌ No checkpoint file produced" >> "$GITHUB_STEP_SUMMARY"
+          fi

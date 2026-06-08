@@ -1,1 +1,526 @@
-[]
+[
+  {
+    "id": "S.2 (Senate)",
+    "title": "An original bill to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
+    "date": "Jun 2026",
+    "status": "Passed",
+    "chamber": "Senate",
+    "category": "TODO: Pick from existing categories \u2014 Budget/Tax, Healthcare, Immigration, Defense, Foreign Policy, Climate/Tax, Tech, etc.",
+    "sponsor": "TODO: Look up sponsor on Congress.gov (Senate XML doesn't include sponsor)",
+    "description": "TODO: Write 1-3 sentences with stakes/context. Vote was 52-47 (margin 5). | Defectors \u2014 R-side NO: Angus King, Lisa Murkowski, Bernie Sanders",
+    "key_provisions": [
+      "TODO: Research and list 4-7 key provisions"
+    ],
+    "donors_for": [
+      "TODO: Research industries/groups lobbying FOR this bill"
+    ],
+    "donors_against": [
+      "TODO: Research industries/groups lobbying AGAINST"
+    ],
+    "yes_votes": [
+      {
+        "name": "Alan Armstrong",
+        "party": "R",
+        "state": "OK"
+      },
+      {
+        "name": "Jim Banks",
+        "party": "R",
+        "state": "IN"
+      },
+      {
+        "name": "John Barrasso",
+        "party": "R",
+        "state": "WY"
+      },
+      {
+        "name": "Marsha Blackburn",
+        "party": "R",
+        "state": "TN"
+      },
+      {
+        "name": "John Boozman",
+        "party": "R",
+        "state": "AR"
+      },
+      {
+        "name": "Katie Britt",
+        "party": "R",
+        "state": "AL"
+      },
+      {
+        "name": "Ted Budd",
+        "party": "R",
+        "state": "NC"
+      },
+      {
+        "name": "Shelley Capito",
+        "party": "R",
+        "state": "WV"
+      },
+      {
+        "name": "Bill Cassidy",
+        "party": "R",
+        "state": "LA"
+      },
+      {
+        "name": "Susan Collins",
+        "party": "R",
+        "state": "ME"
+      },
+      {
+        "name": "John Cornyn",
+        "party": "R",
+        "state": "TX"
+      },
+      {
+        "name": "Tom Cotton",
+        "party": "R",
+        "state": "AR"
+      },
+      {
+        "name": "Kevin Cramer",
+        "party": "R",
+        "state": "ND"
+      },
+      {
+        "name": "Mike Crapo",
+        "party": "R",
+        "state": "ID"
+      },
+      {
+        "name": "Ted Cruz",
+        "party": "R",
+        "state": "TX"
+      },
+      {
+        "name": "John Curtis",
+        "party": "R",
+        "state": "UT"
+      },
+      {
+        "name": "Steve Daines",
+        "party": "R",
+        "state": "MT"
+      },
+      {
+        "name": "Joni Ernst",
+        "party": "R",
+        "state": "IA"
+      },
+      {
+        "name": "Deb Fischer",
+        "party": "R",
+        "state": "NE"
+      },
+      {
+        "name": "Lindsey Graham",
+        "party": "R",
+        "state": "SC"
+      },
+      {
+        "name": "Chuck Grassley",
+        "party": "R",
+        "state": "IA"
+      },
+      {
+        "name": "Bill Hagerty",
+        "party": "R",
+        "state": "TN"
+      },
+      {
+        "name": "Josh Hawley",
+        "party": "R",
+        "state": "MO"
+      },
+      {
+        "name": "John Hoeven",
+        "party": "R",
+        "state": "ND"
+      },
+      {
+        "name": "Jon Husted",
+        "party": "R",
+        "state": "OH"
+      },
+      {
+        "name": "Cindy Hyde-Smith",
+        "party": "R",
+        "state": "MS"
+      },
+      {
+        "name": "Ron Johnson",
+        "party": "R",
+        "state": "WI"
+      },
+      {
+        "name": "James Justice",
+        "party": "R",
+        "state": "WV"
+      },
+      {
+        "name": "John Kennedy",
+        "party": "R",
+        "state": "LA"
+      },
+      {
+        "name": "James Lankford",
+        "party": "R",
+        "state": "OK"
+      },
+      {
+        "name": "Mike Lee",
+        "party": "R",
+        "state": "UT"
+      },
+      {
+        "name": "Cynthia Lummis",
+        "party": "R",
+        "state": "WY"
+      },
+      {
+        "name": "Roger Marshall",
+        "party": "R",
+        "state": "KS"
+      },
+      {
+        "name": "Mitch McConnell",
+        "party": "R",
+        "state": "KY"
+      },
+      {
+        "name": "David McCormick",
+        "party": "R",
+        "state": "PA"
+      },
+      {
+        "name": "Ashley Moody",
+        "party": "R",
+        "state": "FL"
+      },
+      {
+        "name": "Jerry Moran",
+        "party": "R",
+        "state": "KS"
+      },
+      {
+        "name": "Bernie Moreno",
+        "party": "R",
+        "state": "OH"
+      },
+      {
+        "name": "Rand Paul",
+        "party": "R",
+        "state": "KY"
+      },
+      {
+        "name": "Pete Ricketts",
+        "party": "R",
+        "state": "NE"
+      },
+      {
+        "name": "James Risch",
+        "party": "R",
+        "state": "ID"
+      },
+      {
+        "name": "Mike Rounds",
+        "party": "R",
+        "state": "SD"
+      },
+      {
+        "name": "Eric Schmitt",
+        "party": "R",
+        "state": "MO"
+      },
+      {
+        "name": "Rick Scott",
+        "party": "R",
+        "state": "FL"
+      },
+      {
+        "name": "Tim Scott",
+        "party": "R",
+        "state": "SC"
+      },
+      {
+        "name": "Tim Sheehy",
+        "party": "R",
+        "state": "MT"
+      },
+      {
+        "name": "Dan Sullivan",
+        "party": "R",
+        "state": "AK"
+      },
+      {
+        "name": "John Thune",
+        "party": "R",
+        "state": "SD"
+      },
+      {
+        "name": "Thomas Tillis",
+        "party": "R",
+        "state": "NC"
+      },
+      {
+        "name": "Tommy Tuberville",
+        "party": "R",
+        "state": "AL"
+      },
+      {
+        "name": "Roger Wicker",
+        "party": "R",
+        "state": "MS"
+      },
+      {
+        "name": "Todd Young",
+        "party": "R",
+        "state": "IN"
+      }
+    ],
+    "no_votes": [
+      {
+        "name": "Angela Alsobrooks",
+        "party": "D",
+        "state": "MD"
+      },
+      {
+        "name": "Tammy Baldwin",
+        "party": "D",
+        "state": "WI"
+      },
+      {
+        "name": "Richard Blumenthal",
+        "party": "D",
+        "state": "CT"
+      },
+      {
+        "name": "Lisa Blunt Rochester",
+        "party": "D",
+        "state": "DE"
+      },
+      {
+        "name": "Cory Booker",
+        "party": "D",
+        "state": "NJ"
+      },
+      {
+        "name": "Maria Cantwell",
+        "party": "D",
+        "state": "WA"
+      },
+      {
+        "name": "Christopher Coons",
+        "party": "D",
+        "state": "DE"
+      },
+      {
+        "name": "Catherine Cortez Masto",
+        "party": "D",
+        "state": "NV"
+      },
+      {
+        "name": "Tammy Duckworth",
+        "party": "D",
+        "state": "IL"
+      },
+      {
+        "name": "Richard Durbin",
+        "party": "D",
+        "state": "IL"
+      },
+      {
+        "name": "John Fetterman",
+        "party": "D",
+        "state": "PA"
+      },
+      {
+        "name": "Ruben Gallego",
+        "party": "D",
+        "state": "AZ"
+      },
+      {
+        "name": "Kirsten Gillibrand",
+        "party": "D",
+        "state": "NY"
+      },
+      {
+        "name": "Maggie Hassan",
+        "party": "D",
+        "state": "NH"
+      },
+      {
+        "name": "Martin Heinrich",
+        "party": "D",
+        "state": "NM"
+      },
+      {
+        "name": "John Hickenlooper",
+        "party": "D",
+        "state": "CO"
+      },
+      {
+        "name": "Mazie Hirono",
+        "party": "D",
+        "state": "HI"
+      },
+      {
+        "name": "Timothy Kaine",
+        "party": "D",
+        "state": "VA"
+      },
+      {
+        "name": "Mark Kelly",
+        "party": "D",
+        "state": "AZ"
+      },
+      {
+        "name": "Andy Kim",
+        "party": "D",
+        "state": "NJ"
+      },
+      {
+        "name": "Angus King",
+        "party": "I",
+        "state": "ME"
+      },
+      {
+        "name": "Amy Klobuchar",
+        "party": "D",
+        "state": "MN"
+      },
+      {
+        "name": "Ben Lujan",
+        "party": "D",
+        "state": "NM"
+      },
+      {
+        "name": "Edward Markey",
+        "party": "D",
+        "state": "MA"
+      },
+      {
+        "name": "Jeff Merkley",
+        "party": "D",
+        "state": "OR"
+      },
+      {
+        "name": "Lisa Murkowski",
+        "party": "R",
+        "state": "AK"
+      },
+      {
+        "name": "Christopher Murphy",
+        "party": "D",
+        "state": "CT"
+      },
+      {
+        "name": "Patty Murray",
+        "party": "D",
+        "state": "WA"
+      },
+      {
+        "name": "Jon Ossoff",
+        "party": "D",
+        "state": "GA"
+      },
+      {
+        "name": "Alex Padilla",
+        "party": "D",
+        "state": "CA"
+      },
+      {
+        "name": "Gary Peters",
+        "party": "D",
+        "state": "MI"
+      },
+      {
+        "name": "John Reed",
+        "party": "D",
+        "state": "RI"
+      },
+      {
+        "name": "Jacky Rosen",
+        "party": "D",
+        "state": "NV"
+      },
+      {
+        "name": "Bernie Sanders",
+        "party": "I",
+        "state": "VT"
+      },
+      {
+        "name": "Brian Schatz",
+        "party": "D",
+        "state": "HI"
+      },
+      {
+        "name": "Adam Schiff",
+        "party": "D",
+        "state": "CA"
+      },
+      {
+        "name": "Charles Schumer",
+        "party": "D",
+        "state": "NY"
+      },
+      {
+        "name": "Jeanne Shaheen",
+        "party": "D",
+        "state": "NH"
+      },
+      {
+        "name": "Elissa Slotkin",
+        "party": "D",
+        "state": "MI"
+      },
+      {
+        "name": "Tina Smith",
+        "party": "D",
+        "state": "MN"
+      },
+      {
+        "name": "Chris Van Hollen",
+        "party": "D",
+        "state": "MD"
+      },
+      {
+        "name": "Mark Warner",
+        "party": "D",
+        "state": "VA"
+      },
+      {
+        "name": "Raphael Warnock",
+        "party": "D",
+        "state": "GA"
+      },
+      {
+        "name": "Elizabeth Warren",
+        "party": "D",
+        "state": "MA"
+      },
+      {
+        "name": "Peter Welch",
+        "party": "D",
+        "state": "VT"
+      },
+      {
+        "name": "Sheldon Whitehouse",
+        "party": "D",
+        "state": "RI"
+      },
+      {
+        "name": "Ron Wyden",
+        "party": "D",
+        "state": "OR"
+      }
+    ],
+    "_meta": {
+      "source": "senate.gov XML",
+      "vote_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00163.htm",
+      "bill_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+      "detected_at": "2026-06-08T00:28:52.716717+00:00"
+    }
+  }
+]

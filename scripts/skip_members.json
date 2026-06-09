@@ -1,6 +1,6 @@
 {
   "_comment": "Members exempted from the FEC refresh completion check. Without an exemption list, a single stuck member blocks the merge into data/fec.json for ALL other members on every run. Members listed here will NOT count against the completion calculation. If they have prior data in data/fec.json, it's preserved as-is by the merge step. To re-enable a member: just remove them from the array and re-run.",
   "skip": [
-    "Amata Coleman Radewagen"
+    "Amata Coleman Radewagen", "Alan Armstrong"
   ]
 }

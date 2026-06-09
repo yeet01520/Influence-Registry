@@ -27,7 +27,9 @@
   "Katie Britt": {
     "candidate_id": "S2AL00145",
     "all_candidate_ids": [
-      "S2AL00145"
+      "S2AL00145",
+      "H6WV01137",
+      "P60011566"
     ],
     "committees": [
       "C00781443",
@@ -77,7 +79,9 @@
   "Dan Sullivan": {
     "candidate_id": "S4AK00214",
     "all_candidate_ids": [
-      "S4AK00214"
+      "S4AK00214",
+      "H6MO01204",
+      "P40010241"
     ],
     "committees": [
       "C00570994",
@@ -105,7 +109,8 @@
   "Mark Kelly": {
     "candidate_id": "S0AZ00350",
     "all_candidate_ids": [
-      "S0AZ00350"
+      "S0AZ00350",
+      "H8ND00096"
     ],
     "committees": [
       "C00696526",
@@ -130,7 +135,9 @@
   "Ruben Gallego": {
     "candidate_id": "S4AZ00139",
     "all_candidate_ids": [
-      "S4AZ00139"
+      "S4AZ00139",
+      "H4AZ07043",
+      "P80008261"
     ],
     "committees": [
       "C00558627"
@@ -180,7 +187,8 @@
   "Tom Cotton": {
     "candidate_id": "S4AR00103",
     "all_candidate_ids": [
-      "S4AR00103"
+      "S4AR00103",
+      "H0CA00108"
     ],
     "committees": [
       "C00705939",
@@ -206,7 +214,8 @@
   "Alex Padilla": {
     "candidate_id": "S2CA00955",
     "all_candidate_ids": [
-      "S2CA00955"
+      "S2CA00955",
+      "H2NY06165"
     ],
     "committees": [
       "C00765164",
@@ -231,7 +240,8 @@
   "Adam Schiff": {
     "candidate_id": "S4CA00555",
     "all_candidate_ids": [
-      "S4CA00555"
+      "S4CA00555",
+      "H0CA27085"
     ],
     "committees": [
       "C00343871"
@@ -255,7 +265,9 @@
   "Michael Bennet": {
     "candidate_id": "S0CO00211",
     "all_candidate_ids": [
-      "S0CO00211"
+      "S0CO00211",
+      "P00011833",
+      "H0ME02075"
     ],
     "committees": [
       "C00458398",
@@ -281,7 +293,8 @@
   "John Hickenlooper": {
     "candidate_id": "S0CO00575",
     "all_candidate_ids": [
-      "S0CO00575"
+      "S0CO00575",
+      "P00010520"
     ],
     "committees": [
       "C00716720",
@@ -306,7 +319,8 @@
   "Richard Blumenthal": {
     "candidate_id": "S0CT00177",
     "all_candidate_ids": [
-      "S0CT00177"
+      "S0CT00177",
+      "H0FL20104"
     ],
     "committees": [
       "C00492991",
@@ -333,7 +347,9 @@
   "Chris Murphy": {
     "candidate_id": "S2CT00132",
     "all_candidate_ids": [
-      "S2CT00132"
+      "S2CT00132",
+      "H6CT05124",
+      "P00011486"
     ],
     "committees": [
       "C00492645",
@@ -360,7 +376,8 @@
   "Chris Coons": {
     "candidate_id": "S0DE00092",
     "all_candidate_ids": [
-      "S0DE00092"
+      "S0DE00092",
+      "H0AZ05136"
     ],
     "committees": [
       "C00475392"
@@ -384,7 +401,9 @@
   "Rick Scott": {
     "candidate_id": "S8FL00273",
     "all_candidate_ids": [
-      "S8FL00273"
+      "S8FL00273",
+      "H4MI02120",
+      "P40015224"
     ],
     "committees": [
       "C00676965",
@@ -460,7 +479,9 @@
   "Brian Schatz": {
     "candidate_id": "S4HI00136",
     "all_candidate_ids": [
-      "S4HI00136"
+      "S4HI00136",
+      "P60014099",
+      "H6HI02244"
     ],
     "committees": [
       "C00540732",
@@ -485,7 +506,8 @@
   "Mazie Hirono": {
     "candidate_id": "S2HI00106",
     "all_candidate_ids": [
-      "S2HI00106"
+      "S2HI00106",
+      "H6HI02251"
     ],
     "committees": [
       "C00420760"
@@ -509,7 +531,8 @@
   "Mike Crapo": {
     "candidate_id": "S8ID00027",
     "all_candidate_ids": [
-      "S8ID00027"
+      "S8ID00027",
+      "H2ID02034"
     ],
     "committees": [
       "C00330886",
@@ -557,9 +580,10 @@
     "grassroots": 9913
   },
   "Dick Durbin": {
-    "candidate_id": "S6IL00151",
+    "candidate_id": "S4IL00339",
     "all_candidate_ids": [
-      "S6IL00151"
+      "S4IL00339",
+      "H2IL20026"
     ],
     "committees": [
       "C00392175",
@@ -611,7 +635,9 @@
   "Todd Young": {
     "candidate_id": "S6IN00191",
     "all_candidate_ids": [
-      "S6IN00191"
+      "S6IN00191",
+      "H0IN09070",
+      "P40017956"
     ],
     "committees": [
       "C00459255"
@@ -635,7 +661,9 @@
   "Jim Banks": {
     "candidate_id": "S4IN00196",
     "all_candidate_ids": [
-      "S4IN00196"
+      "S4IN00196",
+      "H0SC03044",
+      "P80004815"
     ],
     "committees": [
       "C00829416",
@@ -661,7 +689,8 @@
   "Chuck Grassley": {
     "candidate_id": "S0IA00028",
     "all_candidate_ids": [
-      "S0IA00028"
+      "S0IA00028",
+      "H6IA03037"
     ],
     "committees": [
       "C00109223",
@@ -687,7 +716,9 @@
   "Joni Ernst": {
     "candidate_id": "S4IA00129",
     "all_candidate_ids": [
-      "S4IA00129"
+      "S4IA00129",
+      "H6CA06144",
+      "P80004088"
     ],
     "committees": [
       "C00705822",
@@ -714,7 +745,9 @@
   "Jerry Moran": {
     "candidate_id": "S0KS00091",
     "all_candidate_ids": [
-      "S0KS00091"
+      "S0KS00091",
+      "H6KS01096",
+      "P80003577"
     ],
     "committees": [
       "C00458315",
@@ -740,7 +773,7 @@
     "candidate_id": "H6KS01179",
     "all_candidate_ids": [
       "H6KS01179",
-      "S0KS00315"
+      "H0NC04014"
     ],
     "committees": [
       "C00576173",
@@ -765,7 +798,9 @@
   "Mitch McConnell": {
     "candidate_id": "S2KY00012",
     "all_candidate_ids": [
-      "S2KY00012"
+      "S2KY00012",
+      "H6CA07118",
+      "P60023488"
     ],
     "committees": [
       "C00705806",
@@ -792,7 +827,9 @@
   "Rand Paul": {
     "candidate_id": "S0KY00156",
     "all_candidate_ids": [
-      "S0KY00156"
+      "S0KY00156",
+      "H2AZ02279",
+      "P60019304"
     ],
     "committees": [
       "C00496075",
@@ -819,7 +856,9 @@
   "Bill Cassidy": {
     "candidate_id": "S4LA00107",
     "all_candidate_ids": [
-      "S4LA00107"
+      "S4LA00107",
+      "P80007750",
+      "H0IL06029"
     ],
     "committees": [
       "C00543983",
@@ -845,7 +884,9 @@
   "John Kennedy": {
     "candidate_id": "S4LA00065",
     "all_candidate_ids": [
-      "S4LA00065"
+      "S4LA00065",
+      "P80004815",
+      "H8IL07111"
     ],
     "committees": [
       "C00608398",
@@ -871,7 +912,9 @@
   "Susan Collins": {
     "candidate_id": "S6ME00159",
     "all_candidate_ids": [
-      "S6ME00159"
+      "S6ME00159",
+      "H8MD05087",
+      "P40019739"
     ],
     "committees": [
       "C00314575",
@@ -898,7 +941,9 @@
   "Angus King": {
     "candidate_id": "S2ME00109",
     "all_candidate_ids": [
-      "S2ME00109"
+      "S2ME00109",
+      "P60023470",
+      "H4GA05014"
     ],
     "committees": [
       "C00516047",
@@ -947,7 +992,9 @@
   "Elizabeth Warren": {
     "candidate_id": "S2MA00170",
     "all_candidate_ids": [
-      "S2MA00170"
+      "S2MA00170",
+      "H4MI03185",
+      "P00003715"
     ],
     "committees": [
       "C00500843",
@@ -974,7 +1021,8 @@
   "Ed Markey": {
     "candidate_id": "S4MA00028",
     "all_candidate_ids": [
-      "S4MA00028"
+      "S4MA00028",
+      "H6MA07101"
     ],
     "committees": [
       "C00175059",
@@ -1000,7 +1048,9 @@
   "Gary Peters": {
     "candidate_id": "S4MI00355",
     "all_candidate_ids": [
-      "S4MI00355"
+      "S4MI00355",
+      "P00000182",
+      "H8MI09068"
     ],
     "committees": [
       "C00437889"
@@ -1024,7 +1074,8 @@
   "Elissa Slotkin": {
     "candidate_id": "S4MI00470",
     "all_candidate_ids": [
-      "S4MI00470"
+      "S4MI00470",
+      "H8MI08102"
     ],
     "committees": [
       "C00834218",
@@ -1049,7 +1100,8 @@
   "Amy Klobuchar": {
     "candidate_id": "S6MN00267",
     "all_candidate_ids": [
-      "S6MN00267"
+      "S6MN00267",
+      "P80006117"
     ],
     "committees": [
       "C00410191",
@@ -1075,7 +1127,9 @@
   "Tina Smith": {
     "candidate_id": "S8MN00578",
     "all_candidate_ids": [
-      "S8MN00578"
+      "S8MN00578",
+      "H6LA05200",
+      "P00005819"
     ],
     "committees": [
       "C00663781",
@@ -1101,7 +1155,9 @@
   "Roger Wicker": {
     "candidate_id": "S8MS00196",
     "all_candidate_ids": [
-      "S8MS00196"
+      "S8MS00196",
+      "H4MS01078",
+      "P60008828"
     ],
     "committees": [
       "C00443218",
@@ -1155,7 +1211,8 @@
   "Josh Hawley": {
     "candidate_id": "S8MO00160",
     "all_candidate_ids": [
-      "S8MO00160"
+      "S8MO00160",
+      "H6TX32035"
     ],
     "committees": [
       "C00652727"
@@ -1179,7 +1236,8 @@
   "Eric Schmitt": {
     "candidate_id": "S2MO00544",
     "all_candidate_ids": [
-      "S2MO00544"
+      "S2MO00544",
+      "H2NY18087"
     ],
     "committees": [
       "C00773184",
@@ -1206,7 +1264,8 @@
   "Steve Daines": {
     "candidate_id": "S2MT00096",
     "all_candidate_ids": [
-      "S2MT00096"
+      "S2MT00096",
+      "H2MT01060"
     ],
     "committees": [
       "C00705715",
@@ -1231,7 +1290,8 @@
   "Tim Sheehy": {
     "candidate_id": "S4MT00183",
     "all_candidate_ids": [
-      "S4MT00183"
+      "S4MT00183",
+      "H0NY17018"
     ],
     "committees": [
       "C00829465",
@@ -1257,7 +1317,9 @@
   "Deb Fischer": {
     "candidate_id": "S2NE00094",
     "all_candidate_ids": [
-      "S2NE00094"
+      "S2NE00094",
+      "H4NC10088",
+      "P60019031"
     ],
     "committees": [
       "C00498907",
@@ -1283,7 +1345,9 @@
   "Pete Ricketts": {
     "candidate_id": "S6NE00129",
     "all_candidate_ids": [
-      "S6NE00129"
+      "S6NE00129",
+      "P80000706",
+      "H6TX19073"
     ],
     "committees": [
       "C00414375",
@@ -1310,7 +1374,9 @@
   "Jacky Rosen": {
     "candidate_id": "S8NV00156",
     "all_candidate_ids": [
-      "S8NV00156"
+      "S8NV00156",
+      "P80004641",
+      "H6NV03139"
     ],
     "committees": [
       "C00606939",
@@ -1336,7 +1402,8 @@
   "Catherine Cortez Masto": {
     "candidate_id": "S6NV00200",
     "all_candidate_ids": [
-      "S6NV00200"
+      "S6NV00200",
+      "H8NJ09039"
     ],
     "committees": [
       "C00575548",
@@ -1361,7 +1428,8 @@
   "Jeanne Shaheen": {
     "candidate_id": "S0NH00219",
     "all_candidate_ids": [
-      "S0NH00219"
+      "S0NH00219",
+      "H2LA03097"
     ],
     "committees": [
       "C00439075",
@@ -1387,7 +1455,9 @@
   "Maggie Hassan": {
     "candidate_id": "S6NH00091",
     "all_candidate_ids": [
-      "S6NH00091"
+      "S6NH00091",
+      "H6TX18117",
+      "P80001241"
     ],
     "committees": [
       "C00588772",
@@ -1412,7 +1482,9 @@
   "Cory Booker": {
     "candidate_id": "S4NJ00185",
     "all_candidate_ids": [
-      "S4NJ00185"
+      "S4NJ00185",
+      "P00009795",
+      "H4CA33051"
     ],
     "committees": [
       "C00540500",
@@ -1437,7 +1509,9 @@
   "Andy Kim": {
     "candidate_id": "S4NJ00466",
     "all_candidate_ids": [
-      "S4NJ00466"
+      "S4NJ00466",
+      "H8NJ03206",
+      "P40014219"
     ],
     "committees": [
       "C00648220"
@@ -1461,7 +1535,8 @@
   "Martin Heinrich": {
     "candidate_id": "S2NM00088",
     "all_candidate_ids": [
-      "S2NM00088"
+      "S2NM00088",
+      "H8NM01224"
     ],
     "committees": [
       "C00434563"
@@ -1485,7 +1560,8 @@
   "Chuck Schumer": {
     "candidate_id": "S8NY00082",
     "all_candidate_ids": [
-      "S8NY00082"
+      "S8NY00082",
+      "H0NY16010"
     ],
     "committees": [
       "C00346312",
@@ -1511,7 +1587,9 @@
   "Kirsten Gillibrand": {
     "candidate_id": "S0NY00410",
     "all_candidate_ids": [
-      "S0NY00410"
+      "S0NY00410",
+      "P00009290",
+      "H6NY20167"
     ],
     "committees": [
       "C00413914",
@@ -1536,7 +1614,8 @@
   "Thom Tillis": {
     "candidate_id": "S4NC00162",
     "all_candidate_ids": [
-      "S4NC00162"
+      "S4NC00162",
+      "P40004244"
     ],
     "committees": [
       "C00705640",
@@ -1558,6 +1637,33 @@
     "nra": 0,
     "special_interest_total": 15298944,
     "grassroots": 12019
+  },
+  "Ted Budd": {
+    "candidate_id": "S2NC00505",
+    "all_candidate_ids": [
+      "S2NC00505",
+      "H6IL14145",
+      "P60008844"
+    ],
+    "committees": [
+      "C00772889",
+      "C00614776"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 864522,
+    "aipac": 80136,
+    "aipac_pacs": 80136,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 609410,
+    "aipac_sources": "AMP, AUSD, NORPAC, PHXED, RJC, TPOH, USI",
+    "fossil_fuels": 309275,
+    "pharma": 725724,
+    "defense": 107313,
+    "finance": 4097808,
+    "tech": 330129,
+    "nra": 1000,
+    "special_interest_total": 5651385,
+    "grassroots": 39506
   },
   "John Hoeven": {
     "candidate_id": "S0ND00093",
@@ -1586,7 +1692,9 @@
   "Kevin Cramer": {
     "candidate_id": "S8ND00120",
     "all_candidate_ids": [
-      "S8ND00120"
+      "S8ND00120",
+      "H6ND00074",
+      "P20002945"
     ],
     "committees": [
       "C00504704",
@@ -1612,7 +1720,8 @@
   "Bernie Moreno": {
     "candidate_id": "S4OH00192",
     "all_candidate_ids": [
-      "S4OH00192"
+      "S4OH00192",
+      "H2KY03198"
     ],
     "committees": [
       "C00775585",
@@ -1638,7 +1747,9 @@
   "James Lankford": {
     "candidate_id": "S4OK00232",
     "all_candidate_ids": [
-      "S4OK00232"
+      "S4OK00232",
+      "H0OK05114",
+      "P00007096"
     ],
     "committees": [
       "C00466482",
@@ -1663,7 +1774,8 @@
   "Ron Wyden": {
     "candidate_id": "S6OR00110",
     "all_candidate_ids": [
-      "S6OR00110"
+      "S6OR00110",
+      "H0OR03026"
     ],
     "committees": [
       "C00307454",
@@ -1713,7 +1825,9 @@
   "Dave McCormick": {
     "candidate_id": "S2PA00661",
     "all_candidate_ids": [
-      "S2PA00661"
+      "S2PA00661",
+      "H8FL20032",
+      "P60020245"
     ],
     "committees": [
       "C00800623",
@@ -1736,6 +1850,33 @@
     "nra": 0,
     "special_interest_total": 9759869,
     "grassroots": 72875
+  },
+  "Jack Reed": {
+    "candidate_id": "S6RI00163",
+    "all_candidate_ids": [
+      "S6RI00163",
+      "P00012104",
+      "H6UT02150"
+    ],
+    "committees": [
+      "C00238907",
+      "C00708248"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1076461,
+    "aipac": 328083,
+    "aipac_pacs": 328083,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 706601,
+    "aipac_sources": "AIPAC, AGG, AUSD, BICOUNTY, COPAC, CITY, DMFI, FIPAC, HEARTLAND, HVPAC, JAC, JSTREET, MDACC, MMPAC, MOPAC, NACPAC, NATPAC, NORPAC, NWPAC, PHXED, STLBG, SUNPAC, DESERT, TPOH, USI WAPAC, WPIN, WAFI",
+    "fossil_fuels": 33901,
+    "pharma": 1151853,
+    "defense": 1323489,
+    "finance": 4915017,
+    "tech": 912999,
+    "nra": 0,
+    "special_interest_total": 8665342,
+    "grassroots": 96765
   },
   "Sheldon Whitehouse": {
     "candidate_id": "S6RI00221",
@@ -1764,7 +1905,9 @@
   "Lindsey Graham": {
     "candidate_id": "S0SC00149",
     "all_candidate_ids": [
-      "S0SC00149"
+      "S0SC00149",
+      "H4SC03087",
+      "P40002628"
     ],
     "committees": [
       "C00705574",
@@ -1792,7 +1935,9 @@
   "Tim Scott": {
     "candidate_id": "S4SC00240",
     "all_candidate_ids": [
-      "S4SC00240"
+      "S4SC00240",
+      "H0SC01279",
+      "P40015224"
     ],
     "committees": [
       "C00540302",
@@ -1818,7 +1963,8 @@
   "John Thune": {
     "candidate_id": "S2SD00068",
     "all_candidate_ids": [
-      "S2SD00068"
+      "S2SD00068",
+      "H6SD00085"
     ],
     "committees": [
       "C00409581",
@@ -1869,7 +2015,9 @@
   "Bill Hagerty": {
     "candidate_id": "S0TN00169",
     "all_candidate_ids": [
-      "S0TN00169"
+      "S0TN00169",
+      "H4NJ02157",
+      "P60018215"
     ],
     "committees": [
       "C00718627",
@@ -1895,7 +2043,8 @@
   "Marsha Blackburn": {
     "candidate_id": "S8TN00337",
     "all_candidate_ids": [
-      "S8TN00337"
+      "S8TN00337",
+      "H2TN06030"
     ],
     "committees": [
       "C00376939",
@@ -1916,6 +2065,34 @@
     "nra": 1000,
     "special_interest_total": 16188585,
     "grassroots": 14263
+  },
+  "Ted Cruz": {
+    "candidate_id": "S2TX00312",
+    "all_candidate_ids": [
+      "S2TX00312",
+      "H0NY00089",
+      "P60006111"
+    ],
+    "committees": [
+      "C00492785",
+      "C00730077",
+      "C00574624"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 776293,
+    "aipac": 1563445,
+    "aipac_pacs": 1563445,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 4554253,
+    "aipac_sources": "AIPAC, AMP, AGG, BICPAC, BICOUNTY, COPAC, CITY, GCSC, HEARTLAND, LAFAS, MDACC, MMPAC, NORPAC, RJC, SUNPAC, TPOH, USI, WAPAC, YJL",
+    "fossil_fuels": 5609514,
+    "pharma": 8069002,
+    "defense": 828187,
+    "finance": 18785769,
+    "tech": 3592310,
+    "nra": 0,
+    "special_interest_total": 38448227,
+    "grassroots": 26844
   },
   "John Cornyn": {
     "candidate_id": "S2TX00106",
@@ -1945,7 +2122,9 @@
   "Mike Lee": {
     "candidate_id": "S0UT00165",
     "all_candidate_ids": [
-      "S0UT00165"
+      "S0UT00165",
+      "H4LA05221",
+      "P00008979"
     ],
     "committees": [
       "C00473827",
@@ -1970,7 +2149,8 @@
   "John Curtis": {
     "candidate_id": "S4UT00282",
     "all_candidate_ids": [
-      "S4UT00282"
+      "S4UT00282",
+      "H6AZ06149"
     ],
     "committees": [
       "C00850545",
@@ -1993,10 +2173,40 @@
     "special_interest_total": 4506610,
     "grassroots": 2337
   },
+  "Bernie Sanders": {
+    "candidate_id": "S4VT00033",
+    "all_candidate_ids": [
+      "S4VT00033",
+      "P40002461",
+      "H0CA41052"
+    ],
+    "committees": [
+      "C00411330",
+      "C00384644",
+      "C00692582",
+      "C00129114"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 455485,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 481575,
+    "pharma": 20425778,
+    "defense": 1393314,
+    "finance": 11824140,
+    "tech": 23961943,
+    "nra": 0,
+    "special_interest_total": 58086750,
+    "grassroots": 44334
+  },
   "Peter Welch": {
     "candidate_id": "S2VT00235",
     "all_candidate_ids": [
-      "S2VT00235"
+      "S2VT00235",
+      "H6VT00160"
     ],
     "committees": [
       "C00795252",
@@ -2021,7 +2231,9 @@
   "Mark Warner": {
     "candidate_id": "S6VA00093",
     "all_candidate_ids": [
-      "S6VA00093"
+      "S6VA00093",
+      "H2CA04072",
+      "P80003023"
     ],
     "committees": [
       "C00306555",
@@ -2047,7 +2259,8 @@
   "Tim Kaine": {
     "candidate_id": "S2VA00142",
     "all_candidate_ids": [
-      "S2VA00142"
+      "S2VA00142",
+      "P00003392"
     ],
     "committees": [
       "C00495358",
@@ -2073,7 +2286,9 @@
   "Patty Murray": {
     "candidate_id": "S2WA00189",
     "all_candidate_ids": [
-      "S2WA00189"
+      "S2WA00189",
+      "P40020877",
+      "H8AZ03175"
     ],
     "committees": [
       "C00260760",
@@ -2099,7 +2314,8 @@
   "Maria Cantwell": {
     "candidate_id": "S8WA00194",
     "all_candidate_ids": [
-      "S8WA00194"
+      "S8WA00194",
+      "H2WA01054"
     ],
     "committees": [
       "C00349506",
@@ -2125,7 +2341,8 @@
   "Shelley Moore Capito": {
     "candidate_id": "S4WV00159",
     "all_candidate_ids": [
-      "S4WV00159"
+      "S4WV00159",
+      "H0WV02138"
     ],
     "committees": [
       "C00539825",
@@ -2151,7 +2368,9 @@
   "Jim Justice": {
     "candidate_id": "S4WV00332",
     "all_candidate_ids": [
-      "S4WV00332"
+      "S4WV00332",
+      "H0NY16085",
+      "P60005261"
     ],
     "committees": [
       "C00839100",
@@ -2178,7 +2397,9 @@
   "Tammy Baldwin": {
     "candidate_id": "S2WI00219",
     "all_candidate_ids": [
-      "S2WI00219"
+      "S2WI00219",
+      "P80005424",
+      "H8WI00018"
     ],
     "committees": [
       "C00326801",
@@ -2203,7 +2424,9 @@
   "Ron Johnson": {
     "candidate_id": "S0WI00197",
     "all_candidate_ids": [
-      "S0WI00197"
+      "S0WI00197",
+      "H6NY13113",
+      "P80004138"
     ],
     "committees": [
       "C00482984",
@@ -2254,7 +2477,9 @@
   "Cynthia Lummis": {
     "candidate_id": "S0WY00137",
     "all_candidate_ids": [
-      "S0WY00137"
+      "S0WY00137",
+      "H8WY00148",
+      "P20001483"
     ],
     "committees": [
       "C00443580",
@@ -2280,7 +2505,8 @@
   "Lisa Blunt Rochester": {
     "candidate_id": "S4DE00060",
     "all_candidate_ids": [
-      "S4DE00060"
+      "S4DE00060",
+      "H6DE00206"
     ],
     "committees": [
       "C00843391",
@@ -2305,7 +2531,9 @@
   "Ashley Moody": {
     "candidate_id": "S6FL00640",
     "all_candidate_ids": [
-      "S6FL00640"
+      "S6FL00640",
+      "H0TX04037",
+      "P60007200"
     ],
     "committees": [
       "C00895763",
@@ -2327,10 +2555,38 @@
     "special_interest_total": 16027,
     "grassroots": 17548
   },
+  "Alan Armstrong": {
+    "candidate_id": "S4SC00232",
+    "all_candidate_ids": [
+      "S4SC00232",
+      "H2TX06103",
+      "P60005402"
+    ],
+    "committees": [
+      "C00519041",
+      "C00578765"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 0,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 0
+  },
   "Jon Husted": {
     "candidate_id": "S6OH00304",
     "all_candidate_ids": [
-      "S6OH00304"
+      "S6OH00304",
+      "H6IN04185"
     ],
     "committees": [
       "C00896019",
@@ -2355,7 +2611,8 @@
   "Chris Van Hollen": {
     "candidate_id": "S6MD03441",
     "all_candidate_ids": [
-      "S6MD03441"
+      "S6MD03441",
+      "H2MD08126"
     ],
     "committees": [
       "C00573758",
@@ -2402,10 +2659,39 @@
     "special_interest_total": 8234613,
     "grassroots": 6094
   },
-  "Mike Rogers": {
-    "candidate_id": "H2AL03032",
+  "Barry Moore": {
+    "candidate_id": "H8AL02171",
     "all_candidate_ids": [
-      "H2AL03032"
+      "H8AL02171",
+      "S6AL00476",
+      "P40013161"
+    ],
+    "committees": [
+      "C00639096",
+      "C00720375"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 702856,
+    "aipac": 30173,
+    "aipac_pacs": 30173,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 45676,
+    "aipac_sources": "",
+    "fossil_fuels": 22154,
+    "pharma": 121821,
+    "defense": 67461,
+    "finance": 306756,
+    "tech": 40244,
+    "nra": 1000,
+    "special_interest_total": 589609,
+    "grassroots": 19432
+  },
+  "Mike Rogers": {
+    "candidate_id": "H6AL06119",
+    "all_candidate_ids": [
+      "H6AL06119",
+      "P60003563",
+      "S0GA00286"
     ],
     "committees": [
       "C00415901",
@@ -2456,7 +2742,9 @@
   "Dale Strong": {
     "candidate_id": "H2AL05102",
     "all_candidate_ids": [
-      "H2AL05102"
+      "H2AL05102",
+      "P00014803",
+      "S2LA00028"
     ],
     "committees": [
       "C00774281"
@@ -2480,7 +2768,9 @@
   "Gary Palmer": {
     "candidate_id": "H4AL06098",
     "all_candidate_ids": [
-      "H4AL06098"
+      "H4AL06098",
+      "P60024296",
+      "S6IL00524"
     ],
     "committees": [
       "C00551374"
@@ -2504,7 +2794,8 @@
   "Terri Sewell": {
     "candidate_id": "H0AL07086",
     "all_candidate_ids": [
-      "H0AL07086"
+      "H0AL07086",
+      "P60005097"
     ],
     "committees": [
       "C00458976"
@@ -2526,9 +2817,10 @@
     "grassroots": 60640
   },
   "Nick Begich": {
-    "candidate_id": "H2AK01083",
+    "candidate_id": "H4AK00024",
     "all_candidate_ids": [
-      "H2AK01083"
+      "H4AK00024",
+      "S8AK00090"
     ],
     "committees": [
       "C00203075",
@@ -2584,7 +2876,9 @@
   "Eli Crane": {
     "candidate_id": "H2AZ01354",
     "all_candidate_ids": [
-      "H2AZ01354"
+      "H2AZ01354",
+      "S6IL00110",
+      "P00000232"
     ],
     "committees": [
       "C00775007",
@@ -2636,7 +2930,9 @@
   "Greg Stanton": {
     "candidate_id": "H8AZ09040",
     "all_candidate_ids": [
-      "H8AZ09040"
+      "H8AZ09040",
+      "S6HI00206",
+      "P80004187"
     ],
     "committees": [
       "C00657304",
@@ -2661,7 +2957,8 @@
   "Andy Biggs": {
     "candidate_id": "H6AZ05083",
     "all_candidate_ids": [
-      "H6AZ05083"
+      "H6AZ05083",
+      "P80009145"
     ],
     "committees": [
       "C00610451"
@@ -2731,6 +3028,87 @@
     "special_interest_total": 1878342,
     "grassroots": 267513
   },
+  "Rick Crawford": {
+    "candidate_id": "H0AR01083",
+    "all_candidate_ids": [
+      "H0AR01083",
+      "S6LA00383",
+      "P60022100"
+    ],
+    "committees": [
+      "C00462374",
+      "C00622522"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 763504,
+    "aipac": 20387,
+    "aipac_pacs": 20387,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 76766,
+    "aipac_sources": "AIPAC, AMP",
+    "fossil_fuels": 194722,
+    "pharma": 526982,
+    "defense": 71500,
+    "finance": 797471,
+    "tech": 210225,
+    "nra": 3000,
+    "special_interest_total": 1824287,
+    "grassroots": 3344
+  },
+  "French Hill": {
+    "candidate_id": "H4AR02141",
+    "all_candidate_ids": [
+      "H4AR02141",
+      "P40016990",
+      "S0NY00188"
+    ],
+    "committees": [
+      "C00551275",
+      "C00861278",
+      "C00358895",
+      "C00346544"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 14209851,
+    "aipac": 63057,
+    "aipac_pacs": 63057,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 388091,
+    "aipac_sources": "AIPAC, AMP, PIA, RJC",
+    "fossil_fuels": 325503,
+    "pharma": 772327,
+    "defense": 110159,
+    "finance": 8031616,
+    "tech": 396408,
+    "nra": 0,
+    "special_interest_total": 9699070,
+    "grassroots": 8432
+  },
+  "Steve Womack": {
+    "candidate_id": "H0AR03055",
+    "all_candidate_ids": [
+      "H0AR03055",
+      "P80000136"
+    ],
+    "committees": [
+      "C00477745"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1047040,
+    "aipac": 131071,
+    "aipac_pacs": 131071,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 196615,
+    "aipac_sources": "AIPAC, NACPAC",
+    "fossil_fuels": 194758,
+    "pharma": 421625,
+    "defense": 611976,
+    "finance": 1739351,
+    "tech": 573277,
+    "nra": 2000,
+    "special_interest_total": 3674058,
+    "grassroots": 2137
+  },
   "Bruce Westerman": {
     "candidate_id": "H4AR04048",
     "all_candidate_ids": [
@@ -2782,7 +3160,9 @@
   "Jared Huffman": {
     "candidate_id": "H2CA06259",
     "all_candidate_ids": [
-      "H2CA06259"
+      "H2CA06259",
+      "S8MI00455",
+      "P40008401"
     ],
     "committees": [
       "C00536680",
@@ -2807,7 +3187,8 @@
   "Kevin Kiley": {
     "candidate_id": "H2CA03157",
     "all_candidate_ids": [
-      "H2CA03157"
+      "H2CA03157",
+      "S8OH00110"
     ],
     "committees": [
       "C00801985",
@@ -2833,7 +3214,9 @@
   "Mike Thompson": {
     "candidate_id": "H8CA01109",
     "all_candidate_ids": [
-      "H8CA01109"
+      "H8CA01109",
+      "P40003451",
+      "S6OR00391"
     ],
     "committees": [
       "C00326363",
@@ -2906,7 +3289,8 @@
   "Doris Matsui": {
     "candidate_id": "H6CA05195",
     "all_candidate_ids": [
-      "H6CA05195"
+      "H6CA05195",
+      "S2CA00302"
     ],
     "committees": [
       "C00409219",
@@ -2979,7 +3363,8 @@
   "Josh Harder": {
     "candidate_id": "H8CA10126",
     "all_candidate_ids": [
-      "H8CA10126"
+      "H8CA10126",
+      "P80009152"
     ],
     "committees": [
       "C00639146",
@@ -3029,7 +3414,9 @@
   "Kevin Mullin": {
     "candidate_id": "H2CA14162",
     "all_candidate_ids": [
-      "H2CA14162"
+      "H2CA14162",
+      "S0VT00015",
+      "P60010774"
     ],
     "committees": [
       "C00795005",
@@ -3051,6 +3438,32 @@
     "nra": 0,
     "special_interest_total": 1281820,
     "grassroots": 48250
+  },
+  "Ro Khanna": {
+    "candidate_id": "H4CA12055",
+    "all_candidate_ids": [
+      "H4CA12055",
+      "P60015708"
+    ],
+    "committees": [
+      "C00392100",
+      "C00503185"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1493632,
+    "aipac": 146998,
+    "aipac_pacs": 146998,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1376738,
+    "aipac_sources": "",
+    "fossil_fuels": 45416,
+    "pharma": 1968090,
+    "defense": 40543,
+    "finance": 8376257,
+    "tech": 4070314,
+    "nra": 0,
+    "special_interest_total": 14647618,
+    "grassroots": 22819
   },
   "Zoe Lofgren": {
     "candidate_id": "H4CA16049",
@@ -3103,7 +3516,8 @@
   "Jim Costa": {
     "candidate_id": "H4CA20082",
     "all_candidate_ids": [
-      "H4CA20082"
+      "H4CA20082",
+      "S8RI00177"
     ],
     "committees": [
       "C00391029",
@@ -3199,10 +3613,11 @@
     "grassroots": 9834
   },
   "Raul Ruiz": {
-    "candidate_id": "H2CA36439",
+    "candidate_id": "H0CA36177",
     "all_candidate_ids": [
-      "H2CA36439",
-      "H0CA36177"
+      "H0CA36177",
+      "P20002077",
+      "S4IL00420"
     ],
     "committees": [
       "C00718387"
@@ -3250,7 +3665,9 @@
   "Judy Chu": {
     "candidate_id": "H0CA32101",
     "all_candidate_ids": [
-      "H0CA32101"
+      "H0CA32101",
+      "S8DE00103",
+      "P40019473"
     ],
     "committees": [
       "C00458125",
@@ -3276,7 +3693,9 @@
   "Jimmy Gomez": {
     "candidate_id": "H8CA34266",
     "all_candidate_ids": [
-      "H8CA34266"
+      "H8CA34266",
+      "P20001608",
+      "S4MA00184"
     ],
     "committees": [
       "C00629659",
@@ -3375,7 +3794,9 @@
   "Young Kim": {
     "candidate_id": "H8CA39240",
     "all_candidate_ids": [
-      "H8CA39240"
+      "H8CA39240",
+      "P40014219",
+      "S6VA00143"
     ],
     "committees": [
       "C00702464",
@@ -3426,7 +3847,9 @@
   "Robert Garcia": {
     "candidate_id": "H2CA47188",
     "all_candidate_ids": [
-      "H2CA47188"
+      "H2CA47188",
+      "P00005645",
+      "S0TX00381"
     ],
     "committees": [
       "C00797795",
@@ -3451,7 +3874,9 @@
   "Maxine Waters": {
     "candidate_id": "H4CA23011",
     "all_candidate_ids": [
-      "H4CA23011"
+      "H4CA23011",
+      "S0MA00216",
+      "P00002238"
     ],
     "committees": [
       "C00167585"
@@ -3475,7 +3900,8 @@
   "Lou Correa": {
     "candidate_id": "H6CA46116",
     "all_candidate_ids": [
-      "H6CA46116"
+      "H6CA46116",
+      "P00005975"
     ],
     "committees": [
       "C00578302",
@@ -3500,7 +3926,8 @@
   "Darrell Issa": {
     "candidate_id": "H0CA48024",
     "all_candidate_ids": [
-      "H0CA48024"
+      "H0CA48024",
+      "S8CA00135"
     ],
     "committees": [
       "C00721332",
@@ -3526,7 +3953,9 @@
   "Mike Levin": {
     "candidate_id": "H8CA49058",
     "all_candidate_ids": [
-      "H8CA49058"
+      "H8CA49058",
+      "S8MI00158",
+      "P40007510"
     ],
     "committees": [
       "C00634253",
@@ -3552,7 +3981,9 @@
   "Scott Peters": {
     "candidate_id": "H2CA52089",
     "all_candidate_ids": [
-      "H2CA52089"
+      "H2CA52089",
+      "P40014318",
+      "S8MO00145"
     ],
     "committees": [
       "C00503110",
@@ -3577,7 +4008,8 @@
   "Sara Jacobs": {
     "candidate_id": "H8CA49074",
     "all_candidate_ids": [
-      "H8CA49074"
+      "H8CA49074",
+      "S8MI00257"
     ],
     "committees": [
       "C00660837",
@@ -3679,7 +4111,8 @@
   "Jeff Hurd": {
     "candidate_id": "H4CO03357",
     "all_candidate_ids": [
-      "H4CO03357"
+      "H4CO03357",
+      "P60012689"
     ],
     "committees": [
       "C00848333"
@@ -3703,7 +4136,9 @@
   "Jason Crow": {
     "candidate_id": "H8CO06229",
     "all_candidate_ids": [
-      "H8CO06229"
+      "H8CO06229",
+      "S2AZ00224",
+      "P00017731"
     ],
     "committees": [
       "C00637363",
@@ -3753,7 +4188,9 @@
   "John Larson": {
     "candidate_id": "H8CT01046",
     "all_candidate_ids": [
-      "H8CT01046"
+      "H8CT01046",
+      "S0WI00049",
+      "P00005223"
     ],
     "committees": [
       "C00330142",
@@ -3776,9 +4213,11 @@
     "grassroots": 32305
   },
   "Joe Courtney": {
-    "candidate_id": "H2CT02112",
+    "candidate_id": "H2NC13185",
     "all_candidate_ids": [
-      "H2CT02112"
+      "H2NC13185",
+      "P00011817",
+      "S4GA11368"
     ],
     "committees": [
       "C00790329"
@@ -3850,7 +4289,9 @@
   "Jahana Hayes": {
     "candidate_id": "H8CT05245",
     "all_candidate_ids": [
-      "H8CT05245"
+      "H8CT05245",
+      "P20003471",
+      "S8ME00049"
     ],
     "committees": [
       "C00677898",
@@ -3875,7 +4316,9 @@
   "Sarah McBride": {
     "candidate_id": "H4DE00045",
     "all_candidate_ids": [
-      "H4DE00045"
+      "H4DE00045",
+      "P40008781",
+      "S8AL00472"
     ],
     "committees": [
       "C00843763",
@@ -3884,24 +4327,26 @@
     ],
     "source": "FEC_v7",
     "total_raised": 166136,
-    "aipac": 71466,
-    "aipac_pacs": 71466,
+    "aipac": 0,
+    "aipac_pacs": 0,
     "aipac_ie": 0,
-    "aipac_lobby_donors": 261025,
-    "aipac_sources": "AIPAC, DMFI, JAC, JSTREET",
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
     "fossil_fuels": 2323,
     "pharma": 264057,
     "defense": 2175,
     "finance": 338102,
     "tech": 318049,
     "nra": 0,
-    "special_interest_total": 996172,
+    "special_interest_total": 924706,
     "grassroots": 8818
   },
   "Neal Dunn": {
     "candidate_id": "H6FL02208",
     "all_candidate_ids": [
-      "H6FL02208"
+      "H6FL02208",
+      "P40007155",
+      "S8NM00218"
     ],
     "committees": [
       "C00582304",
@@ -3951,7 +4396,8 @@
   "Aaron Bean": {
     "candidate_id": "H2FL04211",
     "all_candidate_ids": [
-      "H2FL04211"
+      "H2FL04211",
+      "S0FL00437"
     ],
     "committees": [
       "C00816983",
@@ -3977,7 +4423,9 @@
   "John Rutherford": {
     "candidate_id": "H6FL04105",
     "all_candidate_ids": [
-      "H6FL04105"
+      "H6FL04105",
+      "P20002127",
+      "S4MO00243"
     ],
     "committees": [
       "C00615294",
@@ -4002,7 +4450,9 @@
   "Cory Mills": {
     "candidate_id": "H2FL07156",
     "all_candidate_ids": [
-      "H2FL07156"
+      "H2FL07156",
+      "P60007325",
+      "S8AL00506"
     ],
     "committees": [
       "C00774943",
@@ -4028,7 +4478,8 @@
   "Darren Soto": {
     "candidate_id": "H6FL09179",
     "all_candidate_ids": [
-      "H6FL09179"
+      "H6FL09179",
+      "S0NY00139"
     ],
     "committees": [
       "C00581074",
@@ -4053,7 +4504,9 @@
   "Maxwell Frost": {
     "candidate_id": "H2FL10259",
     "all_candidate_ids": [
-      "H2FL10259"
+      "H2FL10259",
+      "P60012705",
+      "S8DE00160"
     ],
     "committees": [
       "C00786822",
@@ -4079,7 +4532,8 @@
     "candidate_id": "H0FL08208",
     "all_candidate_ids": [
       "H0FL08208",
-      "H2FL04054"
+      "S4FL00256",
+      "P60008356"
     ],
     "committees": [
       "C00481911",
@@ -4128,7 +4582,9 @@
   "Anna Paulina Luna": {
     "candidate_id": "H0FL13158",
     "all_candidate_ids": [
-      "H0FL13158"
+      "H0FL13158",
+      "S4NM00159",
+      "P60021094"
     ],
     "committees": [
       "C00718239",
@@ -4155,7 +4611,8 @@
   "Kathy Castor": {
     "candidate_id": "H6FL11126",
     "all_candidate_ids": [
-      "H6FL11126"
+      "H6FL11126",
+      "S4FL00223"
     ],
     "committees": [
       "C00410761"
@@ -4179,7 +4636,9 @@
   "Laurel Lee": {
     "candidate_id": "H2FL15241",
     "all_candidate_ids": [
-      "H2FL15241"
+      "H2FL15241",
+      "S4OR00073",
+      "P00008979"
     ],
     "committees": [
       "C00815373",
@@ -4204,7 +4663,9 @@
   "Vern Buchanan": {
     "candidate_id": "H6FL13148",
     "all_candidate_ids": [
-      "H6FL13148"
+      "H6FL13148",
+      "P40003162",
+      "S0CO00047"
     ],
     "committees": [
       "C00412759",
@@ -4254,7 +4715,9 @@
   "Scott Franklin": {
     "candidate_id": "H0FL15104",
     "all_candidate_ids": [
-      "H0FL15104"
+      "H0FL15104",
+      "P20001541",
+      "S4SC00323"
     ],
     "committees": [
       "C00742247",
@@ -4280,7 +4743,8 @@
   "Byron Donalds": {
     "candidate_id": "H2FL14186",
     "all_candidate_ids": [
-      "H2FL14186"
+      "H2FL14186",
+      "P60006434"
     ],
     "committees": [
       "C00733329",
@@ -4329,7 +4793,9 @@
   "Brian Mast": {
     "candidate_id": "H6FL18097",
     "all_candidate_ids": [
-      "H6FL18097"
+      "H6FL18097",
+      "S6NV00200",
+      "P40009995"
     ],
     "committees": [
       "C00579896",
@@ -4380,7 +4846,8 @@
   "Jared Moskowitz": {
     "candidate_id": "H2FL22171",
     "all_candidate_ids": [
-      "H2FL22171"
+      "H2FL22171",
+      "S8OR00165"
     ],
     "committees": [
       "C00807628"
@@ -4404,7 +4871,9 @@
   "Frederica Wilson": {
     "candidate_id": "H0FL17068",
     "all_candidate_ids": [
-      "H0FL17068"
+      "H0FL17068",
+      "P00003343",
+      "S6NM01111"
     ],
     "committees": [
       "C00460055",
@@ -4430,7 +4899,9 @@
   "Debbie Wasserman Schultz": {
     "candidate_id": "H4FL20023",
     "all_candidate_ids": [
-      "H4FL20023"
+      "H4FL20023",
+      "S6NE00178",
+      "P60015450"
     ],
     "committees": [
       "C00385773",
@@ -4452,10 +4923,67 @@
     "special_interest_total": 7206496,
     "grassroots": 183156
   },
+  "Mar\u00eda Elvira Salazar": {
+    "candidate_id": "H8FL27185",
+    "all_candidate_ids": [
+      "H8FL27185",
+      "P00013011",
+      "S2TX00213"
+    ],
+    "committees": [
+      "C00671859",
+      "C00714261",
+      "C00702548"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 779276,
+    "aipac": 127411,
+    "aipac_pacs": 127411,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 656138,
+    "aipac_sources": "AIPAC, AMP, RJC, SUNPAC, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 127411,
+    "grassroots": 136104
+  },
+  "Buddy Carter": {
+    "candidate_id": "H4GA01039",
+    "all_candidate_ids": [
+      "H4GA01039",
+      "P40009219",
+      "S6CT05108"
+    ],
+    "committees": [
+      "C00543967",
+      "C00613935"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 736987,
+    "aipac": 67347,
+    "aipac_pacs": 67347,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 149243,
+    "aipac_sources": "AIPAC, AMP, BICPAC, RJC",
+    "fossil_fuels": 319383,
+    "pharma": 3036252,
+    "defense": 186738,
+    "finance": 888354,
+    "tech": 439767,
+    "nra": 1000,
+    "special_interest_total": 4938841,
+    "grassroots": 43620
+  },
   "Sanford Bishop": {
     "candidate_id": "H2GA02031",
     "all_candidate_ids": [
-      "H2GA02031"
+      "H2GA02031",
+      "S8GA00057",
+      "P80004211"
     ],
     "committees": [
       "C00266940",
@@ -4478,10 +5006,40 @@
     "special_interest_total": 4559322,
     "grassroots": 40526
   },
+  "Hank Johnson": {
+    "candidate_id": "H6GA04129",
+    "all_candidate_ids": [
+      "H6GA04129",
+      "S2IN00018",
+      "P80004138"
+    ],
+    "committees": [
+      "C00418293",
+      "C00147025",
+      "C00433748"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1221745,
+    "aipac": 68415,
+    "aipac_pacs": 68415,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 79315,
+    "aipac_sources": "AGG, BAYPAC, COPAC, CITYPAC, FIPAC, JSTREET, LAFAS, MMPAC, MOPAC, NACPAC, NORPAC, SUNPAC, WAPAC",
+    "fossil_fuels": 11240,
+    "pharma": 285413,
+    "defense": 156557,
+    "finance": 665230,
+    "tech": 618544,
+    "nra": 0,
+    "special_interest_total": 1805399,
+    "grassroots": 27704
+  },
   "Nikema Williams": {
     "candidate_id": "H0GA05301",
     "all_candidate_ids": [
-      "H0GA05301"
+      "H0GA05301",
+      "P00012252",
+      "S6MS00141"
     ],
     "committees": [
       "C00752584",
@@ -4508,7 +5066,9 @@
   "Rich McCormick": {
     "candidate_id": "H0GA07273",
     "all_candidate_ids": [
-      "H0GA07273"
+      "H0GA07273",
+      "S0FL00254",
+      "P60020245"
     ],
     "committees": [
       "C00706747",
@@ -4555,10 +5115,39 @@
     "special_interest_total": 5118266,
     "grassroots": 71704
   },
+  "Austin Scott": {
+    "candidate_id": "H0GA08099",
+    "all_candidate_ids": [
+      "H0GA08099",
+      "S0KY00453",
+      "P40015224"
+    ],
+    "committees": [
+      "C00482737",
+      "C00849604"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1089708,
+    "aipac": 62218,
+    "aipac_pacs": 62218,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 87621,
+    "aipac_sources": "AIPAC, DESERT, BICOUNTY",
+    "fossil_fuels": 62237,
+    "pharma": 637142,
+    "defense": 449986,
+    "finance": 1248938,
+    "tech": 191200,
+    "nra": 6794,
+    "special_interest_total": 2658515,
+    "grassroots": 5903
+  },
   "Andrew Clyde": {
     "candidate_id": "H0GA09246",
     "all_candidate_ids": [
-      "H0GA09246"
+      "H0GA09246",
+      "P60010634",
+      "S6GA00010"
     ],
     "committees": [
       "C00740100",
@@ -4582,10 +5171,11 @@
     "grassroots": 2910
   },
   "Mike Collins": {
-    "candidate_id": "H4GA10071",
+    "candidate_id": "H0GA03017",
     "all_candidate_ids": [
-      "H4GA10071",
-      "H2GA03070"
+      "H0GA03017",
+      "S6GA00101",
+      "P40019739"
     ],
     "committees": [
       "C00239269",
@@ -4635,10 +5225,11 @@
     "grassroots": 2134
   },
   "Rick Allen": {
-    "candidate_id": "H2GA12121",
+    "candidate_id": "H0GA02241",
     "all_candidate_ids": [
-      "H2GA12121",
-      "H0GA02241"
+      "H0GA02241",
+      "P60004520",
+      "S2TX00403"
     ],
     "committees": [
       "C00481101",
@@ -4664,7 +5255,9 @@
   "David Scott": {
     "candidate_id": "H2GA13012",
     "all_candidate_ids": [
-      "H2GA13012"
+      "H2GA13012",
+      "S2MD00248",
+      "P40015224"
     ],
     "committees": [
       "C00369801",
@@ -4690,7 +5283,9 @@
   "Ed Case": {
     "candidate_id": "H2HI02128",
     "all_candidate_ids": [
-      "H2HI02128"
+      "H2HI02128",
+      "S6HI00180",
+      "P20004966"
     ],
     "committees": [
       "C00382978",
@@ -4741,7 +5336,8 @@
   "Russ Fulcher": {
     "candidate_id": "H8ID01124",
     "all_candidate_ids": [
-      "H8ID01124"
+      "H8ID01124",
+      "S4AZ00238"
     ],
     "committees": [
       "C00648295",
@@ -4764,9 +5360,11 @@
     "grassroots": 16650
   },
   "Mike Simpson": {
-    "candidate_id": "H8ID02064",
+    "candidate_id": "H4FL01122",
     "all_candidate_ids": [
-      "H8ID02064"
+      "H4FL01122",
+      "S8WY00023",
+      "P00008573"
     ],
     "committees": [
       "C00085191",
@@ -4793,7 +5391,9 @@
   "Jonathan Jackson": {
     "candidate_id": "H2IL01349",
     "all_candidate_ids": [
-      "H2IL01349"
+      "H2IL01349",
+      "P60004520",
+      "S0KY00032"
     ],
     "committees": [
       "C00802603",
@@ -4818,7 +5418,8 @@
   "Robin Kelly": {
     "candidate_id": "H2IL02172",
     "all_candidate_ids": [
-      "H2IL02172"
+      "H2IL02172",
+      "S6IL00474"
     ],
     "committees": [
       "C00539866",
@@ -4843,7 +5444,9 @@
   "Delia Ramirez": {
     "candidate_id": "H2IL03162",
     "all_candidate_ids": [
-      "H2IL03162"
+      "H2IL03162",
+      "P60021714",
+      "S8TX00327"
     ],
     "committees": [
       "C00796672"
@@ -4867,7 +5470,8 @@
   "Mike Quigley": {
     "candidate_id": "H0IL05096",
     "all_candidate_ids": [
-      "H0IL05096"
+      "H0IL05096",
+      "P40016222"
     ],
     "committees": [
       "C00457556",
@@ -4892,7 +5496,8 @@
   "Sean Casten": {
     "candidate_id": "H8IL06139",
     "all_candidate_ids": [
-      "H8IL06139"
+      "H8IL06139",
+      "P40012692"
     ],
     "committees": [
       "C00648493"
@@ -4916,7 +5521,9 @@
   "Danny Davis": {
     "candidate_id": "H4IL07037",
     "all_candidate_ids": [
-      "H4IL07037"
+      "H4IL07037",
+      "P80002926",
+      "S4SC00158"
     ],
     "committees": [
       "C00172619",
@@ -4993,7 +5600,8 @@
   "Brad Schneider": {
     "candidate_id": "H2IL10068",
     "all_candidate_ids": [
-      "H2IL10068"
+      "H2IL10068",
+      "S0RI00018"
     ],
     "committees": [
       "C00495952",
@@ -5015,10 +5623,40 @@
     "special_interest_total": 10025519,
     "grassroots": 167615
   },
+  "Bill Foster": {
+    "candidate_id": "H8IL14067",
+    "all_candidate_ids": [
+      "H8IL14067",
+      "S6LA00359",
+      "P80000755"
+    ],
+    "committees": [
+      "C00435099",
+      "C00611988",
+      "C00213785"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1543268,
+    "aipac": 411880,
+    "aipac_pacs": 371029,
+    "aipac_ie": 40851,
+    "aipac_lobby_donors": 1642530,
+    "aipac_sources": "AUSD, CITYPAC, JAC, JSTREET, NACPAC, TPOH, UPAC",
+    "fossil_fuels": 90190,
+    "pharma": 1090653,
+    "defense": 234289,
+    "finance": 5430398,
+    "tech": 885732,
+    "nra": 0,
+    "special_interest_total": 8143142,
+    "grassroots": 121752
+  },
   "Mike Bost": {
     "candidate_id": "H4IL12060",
     "all_candidate_ids": [
-      "H4IL12060"
+      "H4IL12060",
+      "P00000828",
+      "S6ME00191"
     ],
     "committees": [
       "C00546499",
@@ -5068,7 +5706,9 @@
   "Lauren Underwood": {
     "candidate_id": "H8IL14174",
     "all_candidate_ids": [
-      "H8IL14174"
+      "H8IL14174",
+      "P00004325",
+      "S2NC00216"
     ],
     "committees": [
       "C00652719"
@@ -5092,7 +5732,9 @@
   "Mary Miller": {
     "candidate_id": "H0IL15129",
     "all_candidate_ids": [
-      "H0IL15129"
+      "H0IL15129",
+      "S4OK00117",
+      "P20003042"
     ],
     "committees": [
       "C00723916",
@@ -5214,7 +5856,8 @@
   "Marlin Stutzman": {
     "candidate_id": "H0IN03198",
     "all_candidate_ids": [
-      "H0IN03198"
+      "H0IN03198",
+      "S0IN00095"
     ],
     "committees": [
       "C00838110",
@@ -5240,7 +5883,8 @@
   "Jim Baird": {
     "candidate_id": "H8IN04199",
     "all_candidate_ids": [
-      "H8IN04199"
+      "H8IN04199",
+      "P60009602"
     ],
     "committees": [
       "C00662940",
@@ -5289,7 +5933,8 @@
   "Jefferson Shreve": {
     "candidate_id": "H4IN06185",
     "all_candidate_ids": [
-      "H4IN06185"
+      "H4IN06185",
+      "P00002428"
     ],
     "committees": [
       "C00870949",
@@ -5310,6 +5955,33 @@
     "nra": 0,
     "special_interest_total": 69389,
     "grassroots": 19794
+  },
+  "Andr\u00e9 Carson": {
+    "candidate_id": "H8IN07184",
+    "all_candidate_ids": [
+      "H8IN07184",
+      "P60005915",
+      "S4OK00133"
+    ],
+    "committees": [
+      "C00442921",
+      "C00391854"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1172642,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 63098
   },
   "Mark Messmer": {
     "candidate_id": "H4IN08249",
@@ -5360,10 +6032,40 @@
     "special_interest_total": 1309489,
     "grassroots": 42865
   },
+  "Ashley Hinson": {
+    "candidate_id": "H0IA01174",
+    "all_candidate_ids": [
+      "H0IA01174",
+      "S6IA00314",
+      "P60008323"
+    ],
+    "committees": [
+      "C00706267",
+      "C00702563",
+      "C00579987"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 308103,
+    "aipac": 145560,
+    "aipac_pacs": 145560,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 525239,
+    "aipac_sources": "AIPAC, AMP, PHXED, RJC, TPOH, USI",
+    "fossil_fuels": 254082,
+    "pharma": 489651,
+    "defense": 169408,
+    "finance": 2820437,
+    "tech": 432311,
+    "nra": 0,
+    "special_interest_total": 4311449,
+    "grassroots": 29869
+  },
   "Zach Nunn": {
     "candidate_id": "H2IA03119",
     "all_candidate_ids": [
-      "H2IA03119"
+      "H2IA03119",
+      "P60016821",
+      "S4GA11277"
     ],
     "committees": [
       "C00784389",
@@ -5440,7 +6142,9 @@
   "Tracey Mann": {
     "candidate_id": "H0KS01123",
     "all_candidate_ids": [
-      "H0KS01123"
+      "H0KS01123",
+      "S6NV00135",
+      "P40006207"
     ],
     "committees": [
       "C00460659"
@@ -5464,7 +6168,9 @@
   "Sharice Davids": {
     "candidate_id": "H8KS03155",
     "all_candidate_ids": [
-      "H8KS03155"
+      "H8KS03155",
+      "S2TN00165",
+      "P60005675"
     ],
     "committees": [
       "C00670034"
@@ -5489,7 +6195,7 @@
     "candidate_id": "H8KS04112",
     "all_candidate_ids": [
       "H8KS04112",
-      "H8KS04187"
+      "S6SC00112"
     ],
     "committees": [
       "C00632067"
@@ -5513,7 +6219,8 @@
   "James Comer": {
     "candidate_id": "H6KY01110",
     "all_candidate_ids": [
-      "H6KY01110"
+      "H6KY01110",
+      "P40013542"
     ],
     "committees": [
       "C00588764"
@@ -5533,6 +6240,33 @@
     "nra": 1000,
     "special_interest_total": 2177054,
     "grassroots": 16170
+  },
+  "Brett Guthrie": {
+    "candidate_id": "H8KY02031",
+    "all_candidate_ids": [
+      "H8KY02031",
+      "S6WA00271",
+      "P60003274"
+    ],
+    "committees": [
+      "C00445023",
+      "C00426031"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 2684218,
+    "aipac": 39556,
+    "aipac_pacs": 39556,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 68600,
+    "aipac_sources": "AIPAC, MDACC, PHXED",
+    "fossil_fuels": 472505,
+    "pharma": 5198816,
+    "defense": 138004,
+    "finance": 1873276,
+    "tech": 1374668,
+    "nra": 0,
+    "special_interest_total": 9096825,
+    "grassroots": 22290
   },
   "Morgan McGarvey": {
     "candidate_id": "H2KY03206",
@@ -5561,7 +6295,8 @@
   "Thomas Massie": {
     "candidate_id": "H2KY04121",
     "all_candidate_ids": [
-      "H2KY04121"
+      "H2KY04121",
+      "S2MA00113"
     ],
     "committees": [
       "C00509729",
@@ -5586,7 +6321,9 @@
   "Hal Rogers": {
     "candidate_id": "H0KY05015",
     "all_candidate_ids": [
-      "H0KY05015"
+      "H0KY05015",
+      "P60003563",
+      "S0GA00286"
     ],
     "committees": [
       "C00116632",
@@ -5609,6 +6346,33 @@
     "nra": 9000,
     "special_interest_total": 4433914,
     "grassroots": 52426
+  },
+  "Andy Barr": {
+    "candidate_id": "H0KY06104",
+    "all_candidate_ids": [
+      "H0KY06104",
+      "S6KY00286",
+      "P80005580"
+    ],
+    "committees": [
+      "C00467571",
+      "C00450841"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1313524,
+    "aipac": 288426,
+    "aipac_pacs": 288426,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1031691,
+    "aipac_sources": "AIPAC, AMP, CITYPAC, MDACC, PHXED, RJC, DESERT, USI",
+    "fossil_fuels": 411009,
+    "pharma": 1537779,
+    "defense": 124976,
+    "finance": 9425810,
+    "tech": 478269,
+    "nra": 3500,
+    "special_interest_total": 12269769,
+    "grassroots": 51701
   },
   "Steve Scalise": {
     "candidate_id": "H0LA01087",
@@ -5638,7 +6402,9 @@
   "Clay Higgins": {
     "candidate_id": "H6LA03148",
     "all_candidate_ids": [
-      "H6LA03148"
+      "H6LA03148",
+      "S4WA00292",
+      "P60007945"
     ],
     "committees": [
       "C00617662"
@@ -5659,10 +6425,39 @@
     "special_interest_total": 913914,
     "grassroots": 67144
   },
+  "Mike Johnson": {
+    "candidate_id": "H2LA04020",
+    "all_candidate_ids": [
+      "H2LA04020",
+      "S2IN00018",
+      "P80004138"
+    ],
+    "committees": [
+      "C00280073",
+      "C00147025",
+      "C00433748"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 0,
+    "aipac": 1096051,
+    "aipac_pacs": 1096051,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2014588,
+    "aipac_sources": "AIPAC, AMP, COPAC, LAFAS, MDACC, USI",
+    "fossil_fuels": 831852,
+    "pharma": 1544668,
+    "defense": 348056,
+    "finance": 2932854,
+    "tech": 682065,
+    "nra": 0,
+    "special_interest_total": 7435546,
+    "grassroots": 0
+  },
   "Julia Letlow": {
     "candidate_id": "H2LA05126",
     "all_candidate_ids": [
-      "H2LA05126"
+      "H2LA05126",
+      "S6LA00664"
     ],
     "committees": [
       "C00766428",
@@ -5688,7 +6483,8 @@
     "candidate_id": "H2LA02149",
     "all_candidate_ids": [
       "H2LA02149",
-      "H2LA02032"
+      "P40009219",
+      "S6CT05108"
     ],
     "committees": [
       "C00763649",
@@ -5713,7 +6509,8 @@
   "Chellie Pingree": {
     "candidate_id": "H8ME01120",
     "all_candidate_ids": [
-      "H8ME01120"
+      "H8ME01120",
+      "S0ME00038"
     ],
     "committees": [
       "C00433391",
@@ -5738,7 +6535,8 @@
   "Jared Golden": {
     "candidate_id": "H8ME02185",
     "all_candidate_ids": [
-      "H8ME02185"
+      "H8ME02185",
+      "P00002774"
     ],
     "committees": [
       "C00653816"
@@ -5760,9 +6558,11 @@
     "grassroots": 58165
   },
   "Andy Harris": {
-    "candidate_id": "H8MD01094",
+    "candidate_id": "H6MD07442",
     "all_candidate_ids": [
-      "H8MD01094"
+      "H6MD07442",
+      "P00013847",
+      "S0IN00160"
     ],
     "committees": [
       "C00587071",
@@ -5787,7 +6587,8 @@
   "Johnny Olszewski": {
     "candidate_id": "H4MD02232",
     "all_candidate_ids": [
-      "H4MD02232"
+      "H4MD02232",
+      "S8MT00200"
     ],
     "committees": [
       "C00867747",
@@ -5861,7 +6662,9 @@
   "April McClain Delaney": {
     "candidate_id": "H4MD06340",
     "all_candidate_ids": [
-      "H4MD06340"
+      "H4MD06340",
+      "S6IN00019",
+      "P00006213"
     ],
     "committees": [
       "C00854471",
@@ -5911,7 +6714,9 @@
   "Richard Neal": {
     "candidate_id": "H8MA02041",
     "all_candidate_ids": [
-      "H8MA02041"
+      "H8MA02041",
+      "P40009557",
+      "S8TX00418"
     ],
     "committees": [
       "C00226522",
@@ -5936,7 +6741,9 @@
   "Jim McGovern": {
     "candidate_id": "H4MA03022",
     "all_candidate_ids": [
-      "H4MA03022"
+      "H4MA03022",
+      "S0SD00021",
+      "P20000022"
     ],
     "committees": [
       "C00285171",
@@ -5965,7 +6772,8 @@
   "Lori Trahan": {
     "candidate_id": "H8MA03106",
     "all_candidate_ids": [
-      "H8MA03106"
+      "H8MA03106",
+      "P00010876"
     ],
     "committees": [
       "C00655647",
@@ -6015,7 +6823,9 @@
   "Katherine Clark": {
     "candidate_id": "H4MA05084",
     "all_candidate_ids": [
-      "H4MA05084"
+      "H4MA05084",
+      "P60010741",
+      "S8NH00154"
     ],
     "committees": [
       "C00541888",
@@ -6041,7 +6851,9 @@
   "Seth Moulton": {
     "candidate_id": "H4MA06090",
     "all_candidate_ids": [
-      "H4MA06090"
+      "H4MA06090",
+      "P00011866",
+      "S6MA00296"
     ],
     "committees": [
       "C00547240",
@@ -6066,7 +6878,8 @@
   "Ayanna Pressley": {
     "candidate_id": "H8MA07032",
     "all_candidate_ids": [
-      "H8MA07032"
+      "H8MA07032",
+      "P40003600"
     ],
     "committees": [
       "C00667741",
@@ -6091,7 +6904,9 @@
   "Stephen Lynch": {
     "candidate_id": "H2MA09072",
     "all_candidate_ids": [
-      "H2MA09072"
+      "H2MA09072",
+      "P00017368",
+      "S0MA00083"
     ],
     "committees": [
       "C00366948",
@@ -6118,7 +6933,8 @@
   "Bill Keating": {
     "candidate_id": "H0MA10082",
     "all_candidate_ids": [
-      "H0MA10082"
+      "H0MA10082",
+      "S2OR00077"
     ],
     "committees": [
       "C00479063",
@@ -6139,6 +6955,32 @@
     "nra": 0,
     "special_interest_total": 2082052,
     "grassroots": 82768
+  },
+  "Jack Bergman": {
+    "candidate_id": "H6MI01226",
+    "all_candidate_ids": [
+      "H6MI01226",
+      "S0CO00294"
+    ],
+    "committees": [
+      "C00614214",
+      "C00466714"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1056732,
+    "aipac": 54719,
+    "aipac_pacs": 54719,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 256269,
+    "aipac_sources": "AIPAC, AMP, LAFAS, RJC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 54719,
+    "grassroots": 14978
   },
   "John Moolenaar": {
     "candidate_id": "H4MI04126",
@@ -6167,7 +7009,9 @@
   "Hillary Scholten": {
     "candidate_id": "H0MI03316",
     "all_candidate_ids": [
-      "H0MI03316"
+      "H0MI03316",
+      "S6IA00264",
+      "P00010199"
     ],
     "committees": [
       "C00783480",
@@ -6266,7 +7110,9 @@
   "Lisa McClain": {
     "candidate_id": "H0MI10287",
     "all_candidate_ids": [
-      "H0MI10287"
+      "H0MI10287",
+      "S4HI00219",
+      "P00003517"
     ],
     "committees": [
       "C00726042"
@@ -6288,9 +7134,11 @@
     "grassroots": 448
   },
   "John James": {
-    "candidate_id": "H2MI10150",
+    "candidate_id": "H6MI18022",
     "all_candidate_ids": [
-      "H2MI10150"
+      "H6MI18022",
+      "S8MI00372",
+      "P40007163"
     ],
     "committees": [
       "C00047621",
@@ -6316,7 +7164,9 @@
   "Haley Stevens": {
     "candidate_id": "H8MI11254",
     "all_candidate_ids": [
-      "H8MI11254"
+      "H8MI11254",
+      "S6MI00426",
+      "P80005283"
     ],
     "committees": [
       "C00638650",
@@ -6410,10 +7260,40 @@
     "special_interest_total": 733600,
     "grassroots": 73176
   },
+  "Angie Craig": {
+    "candidate_id": "H6MN02131",
+    "all_candidate_ids": [
+      "H6MN02131",
+      "S6MN00499",
+      "P60015021"
+    ],
+    "committees": [
+      "C00575209",
+      "C00903690",
+      "C00586420"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 438643,
+    "aipac": 656885,
+    "aipac_pacs": 655825,
+    "aipac_ie": 1060,
+    "aipac_lobby_donors": 2613266,
+    "aipac_sources": "AIPAC, BICPAC, COPAC, CITYPAC, DMFI, FIPAC, GCSC, JAC, NACPAC, NATPAC, NORPAC",
+    "fossil_fuels": 60771,
+    "pharma": 2257191,
+    "defense": 45799,
+    "finance": 4093959,
+    "tech": 1383272,
+    "nra": 0,
+    "special_interest_total": 8497877,
+    "grassroots": 164390
+  },
   "Kelly Morrison": {
     "candidate_id": "H4MN03118",
     "all_candidate_ids": [
-      "H4MN03118"
+      "H4MN03118",
+      "P60005642",
+      "S0AR00176"
     ],
     "committees": [
       "C00856062",
@@ -6439,7 +7319,9 @@
   "Betty McCollum": {
     "candidate_id": "H0MN04049",
     "all_candidate_ids": [
-      "H0MN04049"
+      "H0MN04049",
+      "S8FL00075",
+      "P00010769"
     ],
     "committees": [
       "C00354688",
@@ -6466,7 +7348,9 @@
   "Ilhan Omar": {
     "candidate_id": "H8MN05239",
     "all_candidate_ids": [
-      "H8MN05239"
+      "H8MN05239",
+      "P40012320",
+      "S2NJ00379"
     ],
     "committees": [
       "C00680934"
@@ -6560,10 +7444,38 @@
     "special_interest_total": 2310921,
     "grassroots": 71605
   },
+  "Trent Kelly": {
+    "candidate_id": "H6MS01131",
+    "all_candidate_ids": [
+      "H6MS01131",
+      "S0NH00235"
+    ],
+    "committees": [
+      "C00573980",
+      "C00464297"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1123753,
+    "aipac": 29709,
+    "aipac_pacs": 29709,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 57324,
+    "aipac_sources": "",
+    "fossil_fuels": 127952,
+    "pharma": 213494,
+    "defense": 609354,
+    "finance": 561914,
+    "tech": 138519,
+    "nra": 2000,
+    "special_interest_total": 1682942,
+    "grassroots": 27550
+  },
   "Bennie Thompson": {
     "candidate_id": "H4MS02068",
     "all_candidate_ids": [
-      "H4MS02068"
+      "H4MS02068",
+      "P40003451",
+      "S6OR00391"
     ],
     "committees": [
       "C00280859",
@@ -6591,7 +7503,9 @@
   "Michael Guest": {
     "candidate_id": "H8MS03125",
     "all_candidate_ids": [
-      "H8MS03125"
+      "H8MS03125",
+      "S2VT00011",
+      "P00010447"
     ],
     "committees": [
       "C00665752",
@@ -6615,10 +7529,40 @@
     "special_interest_total": 1163241,
     "grassroots": 18149
   },
+  "Mike Ezell": {
+    "candidate_id": "H2MS04258",
+    "all_candidate_ids": [
+      "H2MS04258",
+      "P80000698",
+      "S8FL00174"
+    ],
+    "committees": [
+      "C00776393",
+      "C00405175",
+      "C00344424"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 276262,
+    "aipac": 51911,
+    "aipac_pacs": 51911,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 27011,
+    "aipac_sources": "AIPAC, AMP",
+    "fossil_fuels": 55000,
+    "pharma": 105666,
+    "defense": 85100,
+    "finance": 224210,
+    "tech": 42143,
+    "nra": 0,
+    "special_interest_total": 564030,
+    "grassroots": 0
+  },
   "Jason Smith": {
     "candidate_id": "H4MO08162",
     "all_candidate_ids": [
-      "H4MO08162"
+      "H4MO08162",
+      "S8FL00216",
+      "P00005819"
     ],
     "committees": [
       "C00541862",
@@ -6644,7 +7588,8 @@
   "Ann Wagner": {
     "candidate_id": "H2MO02102",
     "all_candidate_ids": [
-      "H2MO02102"
+      "H2MO02102",
+      "P60010451"
     ],
     "committees": [
       "C00495846"
@@ -6668,7 +7613,9 @@
   "Mark Alford": {
     "candidate_id": "H2MO04207",
     "all_candidate_ids": [
-      "H2MO04207"
+      "H2MO04207",
+      "P60003563",
+      "S0GA00286"
     ],
     "committees": [
       "C00792598",
@@ -6695,7 +7642,9 @@
   "Emanuel Cleaver": {
     "candidate_id": "H4MO05234",
     "all_candidate_ids": [
-      "H4MO05234"
+      "H4MO05234",
+      "S2TX00387",
+      "P40000960"
     ],
     "committees": [
       "C00395848",
@@ -6720,7 +7669,9 @@
   "Sam Graves": {
     "candidate_id": "H0MO06073",
     "all_candidate_ids": [
-      "H0MO06073"
+      "H0MO06073",
+      "S4OK00075",
+      "P40000622"
     ],
     "committees": [
       "C00359034",
@@ -6746,7 +7697,8 @@
   "Eric Burlison": {
     "candidate_id": "H2MO07143",
     "all_candidate_ids": [
-      "H2MO07143"
+      "H2MO07143",
+      "P40015273"
     ],
     "committees": [
       "C00788414",
@@ -6771,7 +7723,9 @@
   "Wesley Bell": {
     "candidate_id": "H4MO01134",
     "all_candidate_ids": [
-      "H4MO01134"
+      "H4MO01134",
+      "S4MO00250",
+      "P60023579"
     ],
     "committees": [
       "C00842336"
@@ -6844,7 +7798,8 @@
   "Don Bacon": {
     "candidate_id": "H6NE02125",
     "all_candidate_ids": [
-      "H6NE02125"
+      "H6NE02125",
+      "P80004963"
     ],
     "committees": [
       "C00575167",
@@ -6869,7 +7824,9 @@
   "Adrian Smith": {
     "candidate_id": "H6NE03115",
     "all_candidate_ids": [
-      "H6NE03115"
+      "H6NE03115",
+      "S8FL00216",
+      "P00005819"
     ],
     "committees": [
       "C00412890",
@@ -6895,7 +7852,9 @@
   "Dina Titus": {
     "candidate_id": "H8NV03036",
     "all_candidate_ids": [
-      "H8NV03036"
+      "H8NV03036",
+      "P80007016",
+      "S0NV00153"
     ],
     "committees": [
       "C00499467",
@@ -6921,7 +7880,8 @@
   "Mark Amodei": {
     "candidate_id": "H2NV02395",
     "all_candidate_ids": [
-      "H2NV02395"
+      "H2NV02395",
+      "S0NV00237"
     ],
     "committees": [
       "C00496760",
@@ -6946,7 +7906,9 @@
   "Susie Lee": {
     "candidate_id": "H6NV04020",
     "all_candidate_ids": [
-      "H6NV04020"
+      "H6NV04020",
+      "S4OR00073",
+      "P00008979"
     ],
     "committees": [
       "C00655613",
@@ -6996,7 +7958,9 @@
   "Chris Pappas": {
     "candidate_id": "H8NH01210",
     "all_candidate_ids": [
-      "H8NH01210"
+      "H8NH01210",
+      "S6NH00141",
+      "P60010550"
     ],
     "committees": [
       "C00660464"
@@ -7020,7 +7984,8 @@
   "Donald Norcross": {
     "candidate_id": "H4NJ01084",
     "all_candidate_ids": [
-      "H4NJ01084"
+      "H4NJ01084",
+      "S6NJ00073"
     ],
     "committees": [
       "C00558320",
@@ -7046,7 +8011,9 @@
   "Jefferson Van Drew": {
     "candidate_id": "H8NJ02166",
     "all_candidate_ids": [
-      "H8NJ02166"
+      "H8NJ02166",
+      "P80001498",
+      "S8UT00119"
     ],
     "committees": [
       "C00661868",
@@ -7096,7 +8063,9 @@
   "Chris Smith": {
     "candidate_id": "H8NJ04014",
     "all_candidate_ids": [
-      "H8NJ04014"
+      "H8NJ04014",
+      "S8MO00301",
+      "P00005819"
     ],
     "committees": [
       "C00096412",
@@ -7146,7 +8115,8 @@
   "Frank Pallone": {
     "candidate_id": "H8NJ03073",
     "all_candidate_ids": [
-      "H8NJ03073"
+      "H8NJ03073",
+      "S6NJ00263"
     ],
     "committees": [
       "C00235150",
@@ -7170,11 +8140,39 @@
     "special_interest_total": 15949432,
     "grassroots": 134819
   },
+  "Tom Kean Jr.": {
+    "candidate_id": "H0NJ07089",
+    "all_candidate_ids": [
+      "H0NJ07089",
+      "S4OR00123",
+      "P80002314"
+    ],
+    "committees": [
+      "C00457929",
+      "C00351742",
+      "C00405480"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 145755,
+    "aipac": 758998,
+    "aipac_pacs": 758998,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1730506,
+    "aipac_sources": "AIPAC, AMP, GCSC, MMPAC, NORPAC, PHXED, RJC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 758998,
+    "grassroots": 1045
+  },
   "Rob Menendez": {
     "candidate_id": "H2NJ08232",
     "all_candidate_ids": [
       "H2NJ08232",
-      "H2NJ13075"
+      "S6NJ00289"
     ],
     "committees": [
       "C00799767",
@@ -7223,7 +8221,9 @@
   "Bonnie Watson Coleman": {
     "candidate_id": "H4NJ12149",
     "all_candidate_ids": [
-      "H4NJ12149"
+      "H4NJ12149",
+      "S2FL00672",
+      "P40012189"
     ],
     "committees": [
       "C00558437",
@@ -7232,8 +8232,8 @@
     ],
     "source": "FEC_v7",
     "total_raised": 387798,
-    "aipac": 901358,
-    "aipac_pacs": 901358,
+    "aipac": 0,
+    "aipac_pacs": 0,
     "aipac_ie": 0,
     "aipac_lobby_donors": 0,
     "aipac_sources": "",
@@ -7243,7 +8243,7 @@
     "finance": 458419,
     "tech": 172412,
     "nra": 0,
-    "special_interest_total": 2361756,
+    "special_interest_total": 1460398,
     "grassroots": 73142
   },
   "Melanie Stansbury": {
@@ -7270,10 +8270,39 @@
     "special_interest_total": 588216,
     "grassroots": 58033
   },
+  "Gabe Vasquez": {
+    "candidate_id": "H2NM02191",
+    "all_candidate_ids": [
+      "H2NM02191",
+      "P40012114",
+      "S0AZ00368"
+    ],
+    "committees": [
+      "C00789404",
+      "C00699975"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 57697,
+    "aipac": 192648,
+    "aipac_pacs": 192648,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 561477,
+    "aipac_sources": "DMFI, JAC, JSTREET",
+    "fossil_fuels": 10405,
+    "pharma": 484218,
+    "defense": 76287,
+    "finance": 1064397,
+    "tech": 458364,
+    "nra": 0,
+    "special_interest_total": 2286319,
+    "grassroots": 24364
+  },
   "Teresa Leger Fernandez": {
     "candidate_id": "H0NM03102",
     "all_candidate_ids": [
-      "H0NM03102"
+      "H0NM03102",
+      "S0NJ00258",
+      "P00000406"
     ],
     "committees": [
       "C00704049",
@@ -7299,9 +8328,9 @@
     "grassroots": 79615
   },
   "Nick LaLota": {
-    "candidate_id": "H0NY02200",
+    "candidate_id": "H2NY01190",
     "all_candidate_ids": [
-      "H0NY02200"
+      "H2NY01190"
     ],
     "committees": [
       "C00806018",
@@ -7374,7 +8403,8 @@
   "Gregory Meeks": {
     "candidate_id": "H8NY06048",
     "all_candidate_ids": [
-      "H8NY06048"
+      "H8NY06048",
+      "P00016303"
     ],
     "committees": [
       "C00430991",
@@ -7400,7 +8430,9 @@
   "Grace Meng": {
     "candidate_id": "H2NY06116",
     "all_candidate_ids": [
-      "H2NY06116"
+      "H2NY06116",
+      "S2TX00049",
+      "P60014644"
     ],
     "committees": [
       "C00516666",
@@ -7425,7 +8457,8 @@
   "Hakeem Jeffries": {
     "candidate_id": "H2NY10092",
     "all_candidate_ids": [
-      "H2NY10092"
+      "H2NY10092",
+      "S2PA00471"
     ],
     "committees": [
       "C00503052",
@@ -7450,7 +8483,8 @@
   "Yvette Clarke": {
     "candidate_id": "H4NY11138",
     "all_candidate_ids": [
-      "H4NY11138"
+      "H4NY11138",
+      "S6ME00217"
     ],
     "committees": [
       "C00415331",
@@ -7476,7 +8510,8 @@
   "Dan Goldman": {
     "candidate_id": "H2NY10308",
     "all_candidate_ids": [
-      "H2NY10308"
+      "H2NY10308",
+      "P60017076"
     ],
     "committees": [
       "C00816660"
@@ -7576,7 +8611,9 @@
   "Ritchie Torres": {
     "candidate_id": "H0NY15160",
     "all_candidate_ids": [
-      "H0NY15160"
+      "H0NY15160",
+      "P80009426",
+      "S0WA00324"
     ],
     "committees": [
       "C00699744",
@@ -7602,7 +8639,8 @@
   "George Latimer": {
     "candidate_id": "H4NY16087",
     "all_candidate_ids": [
-      "H4NY16087"
+      "H4NY16087",
+      "S2TX00205"
     ],
     "committees": [
       "C00859041"
@@ -7626,7 +8664,9 @@
   "Mike Lawler": {
     "candidate_id": "H2NY17162",
     "all_candidate_ids": [
-      "H2NY17162"
+      "H2NY17162",
+      "P00005462",
+      "S4IN00030"
     ],
     "committees": [
       "C00815415",
@@ -7652,7 +8692,9 @@
   "Pat Ryan": {
     "candidate_id": "H8NY19223",
     "all_candidate_ids": [
-      "H8NY19223"
+      "H8NY19223",
+      "P00014241",
+      "S4MA00010"
     ],
     "committees": [
       "C00647115",
@@ -7751,7 +8793,9 @@
   "Tim Kennedy": {
     "candidate_id": "H4NY26078",
     "all_candidate_ids": [
-      "H4NY26078"
+      "H4NY26078",
+      "P80004815",
+      "S0PA00467"
     ],
     "committees": [
       "C00856526",
@@ -7778,8 +8822,8 @@
     "candidate_id": "H2NC02287",
     "all_candidate_ids": [
       "H2NC02287",
-      "H4NC01053",
-      "H0NC03040"
+      "P80002926",
+      "S4SC00158"
     ],
     "committees": [
       "C00795211",
@@ -7805,7 +8849,9 @@
   "Greg Murphy": {
     "candidate_id": "H0NC03172",
     "all_candidate_ids": [
-      "H0NC03172"
+      "H0NC03172",
+      "S2WI00409",
+      "P00011486"
     ],
     "committees": [
       "C00697649",
@@ -7832,7 +8878,8 @@
   "Virginia Foxx": {
     "candidate_id": "H4NC05146",
     "all_candidate_ids": [
-      "H4NC05146"
+      "H4NC05146",
+      "P00004911"
     ],
     "committees": [
       "C00386748",
@@ -7881,7 +8928,9 @@
   "Tim Moore": {
     "candidate_id": "H4NC14015",
     "all_candidate_ids": [
-      "H4NC14015"
+      "H4NC14015",
+      "S0NC00376",
+      "P40013161"
     ],
     "committees": [
       "C00856005"
@@ -7906,7 +8955,8 @@
     "candidate_id": "H4NC08066",
     "all_candidate_ids": [
       "H4NC08066",
-      "H6NC09200"
+      "P00013847",
+      "S4NC00154"
     ],
     "committees": [
       "C00850404",
@@ -7931,7 +8981,9 @@
   "Richard Hudson": {
     "candidate_id": "H2NC08185",
     "all_candidate_ids": [
-      "H2NC08185"
+      "H2NC08185",
+      "P00002709",
+      "S0IN00020"
     ],
     "committees": [
       "C00504522",
@@ -7957,7 +9009,9 @@
   "Chuck Edwards": {
     "candidate_id": "H2NC14050",
     "all_candidate_ids": [
-      "H2NC14050"
+      "H2NC14050",
+      "P40013443",
+      "S8CA00549"
     ],
     "committees": [
       "C00796433",
@@ -7982,7 +9036,9 @@
   "Alma Adams": {
     "candidate_id": "H4NC12100",
     "all_candidate_ids": [
-      "H4NC12100"
+      "H4NC12100",
+      "S8CT00105",
+      "P80001688"
     ],
     "committees": [
       "C00546358",
@@ -8056,7 +9112,9 @@
   "Joyce Beatty": {
     "candidate_id": "H2OH03125",
     "all_candidate_ids": [
-      "H2OH03125"
+      "H2OH03125",
+      "S8MA00219",
+      "P60020765"
     ],
     "committees": [
       "C00507368",
@@ -8080,9 +9138,10 @@
     "grassroots": 78090
   },
   "Jim Jordan": {
-    "candidate_id": "H6OH04082",
+    "candidate_id": "H0OH12112",
     "all_candidate_ids": [
-      "H6OH04082"
+      "H0OH12112",
+      "S8NC00338"
     ],
     "committees": [
       "C00360560",
@@ -8105,9 +9164,9 @@
     "grassroots": 1110
   },
   "Bob Latta": {
-    "candidate_id": "H8OH05036",
+    "candidate_id": "H6OH05022",
     "all_candidate_ids": [
-      "H8OH05036"
+      "H6OH05022"
     ],
     "committees": [
       "C00000554"
@@ -8132,7 +9191,8 @@
     "candidate_id": "H2OH15228",
     "all_candidate_ids": [
       "H2OH15228",
-      "H8OH18096"
+      "P20000774",
+      "S2MO00221"
     ],
     "committees": [
       "C00779603"
@@ -8156,7 +9216,9 @@
   "Max Miller": {
     "candidate_id": "H2OH16051",
     "all_candidate_ids": [
-      "H2OH16051"
+      "H2OH16051",
+      "S4OK00117",
+      "P20003042"
     ],
     "committees": [
       "C00770818",
@@ -8182,7 +9244,9 @@
   "Warren Davidson": {
     "candidate_id": "H6OH08315",
     "all_candidate_ids": [
-      "H6OH08315"
+      "H6OH08315",
+      "S2TN00165",
+      "P60005675"
     ],
     "committees": [
       "C00600718"
@@ -8232,7 +9296,9 @@
   "Michael Turner": {
     "candidate_id": "H2OH03067",
     "all_candidate_ids": [
-      "H2OH03067"
+      "H2OH03067",
+      "S8HI00160",
+      "P40014482"
     ],
     "committees": [
       "C00373001"
@@ -8253,10 +9319,41 @@
     "special_interest_total": 5759154,
     "grassroots": 87109
   },
+  "Dave Joyce": {
+    "candidate_id": "H2OH03125",
+    "all_candidate_ids": [
+      "H2OH03125",
+      "S4CO00197",
+      "P40008724"
+    ],
+    "committees": [
+      "C00507368",
+      "C00400986",
+      "C00901488",
+      "C00823328"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 628019,
+    "aipac": 79899,
+    "aipac_pacs": 79899,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 358158,
+    "aipac_sources": "AIPAC, AMP, HEARTLAND, PIA, RJC, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 79899,
+    "grassroots": 72271
+  },
   "Emilia Sykes": {
     "candidate_id": "H2OH13264",
     "all_candidate_ids": [
-      "H2OH13264"
+      "H2OH13264",
+      "S8MO00178",
+      "P00013417"
     ],
     "committees": [
       "C00801274",
@@ -8283,7 +9380,9 @@
   "Kevin Hern": {
     "candidate_id": "H8OK01157",
     "all_candidate_ids": [
-      "H8OK01157"
+      "H8OK01157",
+      "S6OK04247",
+      "P60022621"
     ],
     "committees": [
       "C00636092",
@@ -8332,7 +9431,9 @@
   "Frank Lucas": {
     "candidate_id": "H4OK06056",
     "all_candidate_ids": [
-      "H4OK06056"
+      "H4OK06056",
+      "S8FL00067",
+      "P20005302"
     ],
     "committees": [
       "C00290676",
@@ -8358,7 +9459,9 @@
   "Tom Cole": {
     "candidate_id": "H2OK04055",
     "all_candidate_ids": [
-      "H2OK04055"
+      "H2OK04055",
+      "P60004785",
+      "S8NC00296"
     ],
     "committees": [
       "C00379735",
@@ -8457,7 +9560,9 @@
   "Maxine Dexter": {
     "candidate_id": "H4OR03192",
     "all_candidate_ids": [
-      "H4OR03192"
+      "H4OR03192",
+      "S6DE00164",
+      "P00007609"
     ],
     "committees": [
       "C00859108",
@@ -8483,7 +9588,8 @@
   "Andrea Salinas": {
     "candidate_id": "H2OR06066",
     "all_candidate_ids": [
-      "H2OR06066"
+      "H2OR06066",
+      "S2IL00143"
     ],
     "committees": [
       "C00793703",
@@ -8509,7 +9615,9 @@
   "Brian Fitzpatrick": {
     "candidate_id": "H6PA08277",
     "all_candidate_ids": [
-      "H6PA08277"
+      "H6PA08277",
+      "P00004010",
+      "S8OR00132"
     ],
     "committees": [
       "C00607416",
@@ -8534,7 +9642,9 @@
   "Brendan Boyle": {
     "candidate_id": "H4PA13199",
     "all_candidate_ids": [
-      "H4PA13199"
+      "H4PA13199",
+      "S2WA00171",
+      "P00011676"
     ],
     "committees": [
       "C00543363",
@@ -8560,7 +9670,9 @@
   "Dwight Evans": {
     "candidate_id": "H6PA02171",
     "all_candidate_ids": [
-      "H6PA02171"
+      "H6PA02171",
+      "S8NJ00376",
+      "P80000821"
     ],
     "committees": [
       "C00591065",
@@ -8586,7 +9698,9 @@
   "Madeleine Dean": {
     "candidate_id": "H8PA04116",
     "all_candidate_ids": [
-      "H8PA04116"
+      "H8PA04116",
+      "S4SC00026",
+      "P80000052"
     ],
     "committees": [
       "C00670844",
@@ -8612,7 +9726,8 @@
   "Mary Gay Scanlon": {
     "candidate_id": "H8PA07200",
     "all_candidate_ids": [
-      "H8PA07200"
+      "H8PA07200",
+      "S6CO00457"
     ],
     "committees": [
       "C00669358",
@@ -8662,7 +9777,8 @@
   "Dan Meuser": {
     "candidate_id": "H8PA10147",
     "all_candidate_ids": [
-      "H8PA10147"
+      "H8PA10147",
+      "S2CA01060"
     ],
     "committees": [
       "C00439448",
@@ -8688,7 +9804,9 @@
   "Scott Perry": {
     "candidate_id": "H2PA04135",
     "all_candidate_ids": [
-      "H2PA04135"
+      "H2PA04135",
+      "P60005592",
+      "S0AZ00483"
     ],
     "committees": [
       "C00510164",
@@ -8737,7 +9855,9 @@
   "Summer Lee": {
     "candidate_id": "H2PA18200",
     "all_candidate_ids": [
-      "H2PA18200"
+      "H2PA18200",
+      "S4OR00073",
+      "P00008979"
     ],
     "committees": [
       "C00791780"
@@ -8761,7 +9881,9 @@
   "John Joyce": {
     "candidate_id": "H8PA13125",
     "all_candidate_ids": [
-      "H8PA13125"
+      "H8PA13125",
+      "S4CO00197",
+      "P40008724"
     ],
     "committees": [
       "C00674259",
@@ -8812,7 +9934,9 @@
   "Glenn Thompson": {
     "candidate_id": "H8PA05071",
     "all_candidate_ids": [
-      "H8PA05071"
+      "H8PA05071",
+      "P40003451",
+      "S6OR00391"
     ],
     "committees": [
       "C00444620",
@@ -8837,7 +9961,8 @@
   "Mike Kelly": {
     "candidate_id": "H4PA03117",
     "all_candidate_ids": [
-      "H4PA03117"
+      "H4PA03117",
+      "S0NH00235"
     ],
     "committees": [
       "C00464297"
@@ -8882,6 +10007,35 @@
     "special_interest_total": 302699,
     "grassroots": 24627
   },
+  "Gabe Amo": {
+    "candidate_id": "H4RI01265",
+    "all_candidate_ids": [
+      "H4RI01265",
+      "S0NV00237",
+      "P60013984"
+    ],
+    "committees": [
+      "C00838060",
+      "C00467365",
+      "C00585539",
+      "C00629261"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 159506,
+    "aipac": 98934,
+    "aipac_pacs": 98934,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 141801,
+    "aipac_sources": "AIPAC, DMFI, JAC, JSTREET",
+    "fossil_fuels": 1000,
+    "pharma": 114230,
+    "defense": 35600,
+    "finance": 394463,
+    "tech": 99380,
+    "nra": 0,
+    "special_interest_total": 743607,
+    "grassroots": 1484
+  },
   "Seth Magaziner": {
     "candidate_id": "H2RI02184",
     "all_candidate_ids": [
@@ -8909,7 +10063,9 @@
   "Nancy Mace": {
     "candidate_id": "H0SC01394",
     "all_candidate_ids": [
-      "H0SC01394"
+      "H0SC01394",
+      "S4SC00281",
+      "P60007036"
     ],
     "committees": [
       "C00702878",
@@ -8936,7 +10092,9 @@
   "Joe Wilson": {
     "candidate_id": "H2SC02059",
     "all_candidate_ids": [
-      "H2SC02059"
+      "H2SC02059",
+      "P00003343",
+      "S6NM01111"
     ],
     "committees": [
       "C00368522",
@@ -8987,7 +10145,8 @@
     "candidate_id": "H8SC05158",
     "all_candidate_ids": [
       "H8SC05158",
-      "H6SC05111"
+      "S4WI00173",
+      "P40018897"
     ],
     "committees": [
       "C00633610",
@@ -9038,7 +10197,8 @@
   "Russell Fry": {
     "candidate_id": "H2SC07280",
     "all_candidate_ids": [
-      "H2SC07280"
+      "H2SC07280",
+      "S4MD00368"
     ],
     "committees": [
       "C00786657",
@@ -9063,7 +10223,9 @@
   "Dusty Johnson": {
     "candidate_id": "H8SD01055",
     "all_candidate_ids": [
-      "H8SD01055"
+      "H8SD01055",
+      "S2IN00018",
+      "P80004138"
     ],
     "committees": [
       "C00628917",
@@ -9185,7 +10347,9 @@
   "John Rose": {
     "candidate_id": "H8TN06094",
     "all_candidate_ids": [
-      "H8TN06094"
+      "H8TN06094",
+      "P00015529",
+      "S4CA00704"
     ],
     "committees": [
       "C00652743",
@@ -9235,7 +10399,9 @@
   "Steve Cohen": {
     "candidate_id": "H6TN09068",
     "all_candidate_ids": [
-      "H6TN09068"
+      "H6TN09068",
+      "S4NH00047",
+      "P40012676"
     ],
     "committees": [
       "C00318915",
@@ -9262,7 +10428,9 @@
   "Nathaniel Moran": {
     "candidate_id": "H2TX01112",
     "all_candidate_ids": [
-      "H2TX01112"
+      "H2TX01112",
+      "P80003577",
+      "S0WV00264"
     ],
     "committees": [
       "C00796086"
@@ -9335,7 +10503,8 @@
   "Lance Gooden": {
     "candidate_id": "H8TX05144",
     "all_candidate_ids": [
-      "H8TX05144"
+      "H8TX05144",
+      "S8WY00171"
     ],
     "committees": [
       "C00662601",
@@ -9382,10 +10551,40 @@
     "special_interest_total": 1825207,
     "grassroots": 66550
   },
+  "Lizzie Fletcher": {
+    "candidate_id": "H8TX08023",
+    "all_candidate_ids": [
+      "H8TX08023",
+      "P60003746",
+      "S8WV00101"
+    ],
+    "committees": [
+      "C00082180",
+      "C00304535",
+      "C00446047",
+      "C00487504"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 14185,
+    "aipac": 183461,
+    "aipac_pacs": 183461,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 853870,
+    "aipac_sources": "AIPAC, AGG, DMFI, HEARTLAND, JAC, NACPAC, WAPAC",
+    "fossil_fuels": 944688,
+    "pharma": 1151046,
+    "defense": 21985,
+    "finance": 2663938,
+    "tech": 863468,
+    "nra": 0,
+    "special_interest_total": 5828586,
+    "grassroots": 610
+  },
   "Morgan Luttrell": {
     "candidate_id": "H2TX08182",
     "all_candidate_ids": [
-      "H2TX08182"
+      "H2TX08182",
+      "S4OK00398"
     ],
     "committees": [
       "C00781112"
@@ -9405,6 +10604,34 @@
     "nra": 0,
     "special_interest_total": 1316804,
     "grassroots": 127632
+  },
+  "Al Green": {
+    "candidate_id": "H4TX09095",
+    "all_candidate_ids": [
+      "H4TX09095",
+      "P80001225",
+      "S0SC00198"
+    ],
+    "committees": [
+      "C00396028",
+      "C00578567",
+      "C00216432"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1768457,
+    "aipac": 27855,
+    "aipac_pacs": 27855,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 28200,
+    "aipac_sources": "COPAC, JSTREET",
+    "fossil_fuels": 98509,
+    "pharma": 196433,
+    "defense": 13250,
+    "finance": 1074589,
+    "tech": 155042,
+    "nra": 0,
+    "special_interest_total": 1565678,
+    "grassroots": 73648
   },
   "Michael McCaul": {
     "candidate_id": "H4TX10093",
@@ -9457,7 +10684,9 @@
   "Ronny Jackson": {
     "candidate_id": "H0TX13228",
     "all_candidate_ids": [
-      "H0TX13228"
+      "H0TX13228",
+      "P60004520",
+      "S0KY00032"
     ],
     "committees": [
       "C00730531",
@@ -9482,7 +10711,9 @@
   "Randy Weber": {
     "candidate_id": "H2TX14149",
     "all_candidate_ids": [
-      "H2TX14149"
+      "H2TX14149",
+      "P00004168",
+      "S2MO00320"
     ],
     "committees": [
       "C00502229",
@@ -9507,7 +10738,9 @@
   "Monica De La Cruz": {
     "candidate_id": "H0TX15124",
     "all_candidate_ids": [
-      "H0TX15124"
+      "H0TX15124",
+      "S2TX00312",
+      "P60006111"
     ],
     "committees": [
       "C00775858",
@@ -9560,7 +10793,8 @@
   "Pete Sessions": {
     "candidate_id": "H2TX03126",
     "all_candidate_ids": [
-      "H2TX03126"
+      "H2TX03126",
+      "S6AL00195"
     ],
     "committees": [
       "C00286104",
@@ -9588,7 +10822,9 @@
   "Jodey Arrington": {
     "candidate_id": "H6TX19099",
     "all_candidate_ids": [
-      "H6TX19099"
+      "H6TX19099",
+      "P40014557",
+      "S0IL00279"
     ],
     "committees": [
       "C00588657",
@@ -9614,7 +10850,9 @@
   "Joaquin Castro": {
     "candidate_id": "H2TX35011",
     "all_candidate_ids": [
-      "H2TX35011"
+      "H2TX35011",
+      "S4NY00065",
+      "P40007312"
     ],
     "committees": [
       "C00497933",
@@ -9640,7 +10878,9 @@
   "Chip Roy": {
     "candidate_id": "H8TX21307",
     "all_candidate_ids": [
-      "H8TX21307"
+      "H8TX21307",
+      "P40013393",
+      "S0MO00183"
     ],
     "committees": [
       "C00662767",
@@ -9688,6 +10928,34 @@
     "special_interest_total": 1004420,
     "grassroots": 22375
   },
+  "Tony Gonzales": {
+    "candidate_id": "H0TX35015",
+    "all_candidate_ids": [
+      "H0TX35015",
+      "P40016164",
+      "S6CO00499"
+    ],
+    "committees": [
+      "C00717785",
+      "C00706614",
+      "C00929794"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 371613,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 941537,
+    "pharma": 448830,
+    "defense": 145945,
+    "finance": 2240754,
+    "tech": 275468,
+    "nra": 0,
+    "special_interest_total": 4052534,
+    "grassroots": 12436
+  },
   "Beth Van Duyne": {
     "candidate_id": "H0TX24209",
     "all_candidate_ids": [
@@ -9716,7 +10984,9 @@
   "Roger Williams": {
     "candidate_id": "H2TX33040",
     "all_candidate_ids": [
-      "H2TX33040"
+      "H2TX33040",
+      "P00012252",
+      "S2TX00270"
     ],
     "committees": [
       "C00498121",
@@ -9743,7 +11013,9 @@
   "Michael Cloud": {
     "candidate_id": "H8TX27049",
     "all_candidate_ids": [
-      "H8TX27049"
+      "H8TX27049",
+      "P80008857",
+      "S2MA00097"
     ],
     "committees": [
       "C00655332",
@@ -9793,7 +11065,9 @@
   "Sylvia Garcia": {
     "candidate_id": "H8TX29052",
     "all_candidate_ids": [
-      "H8TX29052"
+      "H8TX29052",
+      "P00005645",
+      "S0TX00381"
     ],
     "committees": [
       "C00660555",
@@ -9819,7 +11093,9 @@
   "Jasmine Crockett": {
     "candidate_id": "H2TX30178",
     "all_candidate_ids": [
-      "H2TX30178"
+      "H2TX30178",
+      "S6TX00552",
+      "P60003860"
     ],
     "committees": [
       "C00795450",
@@ -9844,7 +11120,9 @@
   "John Carter": {
     "candidate_id": "H2TX31044",
     "all_candidate_ids": [
-      "H2TX31044"
+      "H2TX31044",
+      "P40009219",
+      "S6NV00150"
     ],
     "committees": [
       "C00371203",
@@ -9893,7 +11171,9 @@
   "Vicente Gonzalez": {
     "candidate_id": "H6TX15162",
     "all_candidate_ids": [
-      "H6TX15162"
+      "H6TX15162",
+      "P40019804",
+      "S8IN00239"
     ],
     "committees": [
       "C00592659",
@@ -9968,7 +11248,8 @@
   "Lloyd Doggett": {
     "candidate_id": "H4TX10028",
     "all_candidate_ids": [
-      "H4TX10028"
+      "H4TX10028",
+      "S4TX00011"
     ],
     "committees": [
       "C00286500",
@@ -10001,7 +11282,9 @@
   "Wesley Hunt": {
     "candidate_id": "H0TX07170",
     "all_candidate_ids": [
-      "H0TX07170"
+      "H0TX07170",
+      "P60014255",
+      "S6TX00511"
     ],
     "committees": [
       "C00701003",
@@ -10051,7 +11334,9 @@
   "Burgess Owens": {
     "candidate_id": "H0UT04076",
     "all_candidate_ids": [
-      "H0UT04076"
+      "H0UT04076",
+      "P80002009",
+      "S0PA00517"
     ],
     "committees": [
       "C00725853",
@@ -10148,9 +11433,11 @@
     "grassroots": 98811
   },
   "Bob Good": {
-    "candidate_id": "H0VA05160",
+    "candidate_id": "H6VA05068",
     "all_candidate_ids": [
-      "H0VA05160"
+      "H6VA05068",
+      "S0MT00181",
+      "P40010936"
     ],
     "committees": [
       "C00315986",
@@ -10176,7 +11463,9 @@
   "Ben Cline": {
     "candidate_id": "H8VA06104",
     "all_candidate_ids": [
-      "H8VA06104"
+      "H8VA06104",
+      "P20002226",
+      "S2KS00063"
     ],
     "committees": [
       "C00661561",
@@ -10201,7 +11490,8 @@
   "Don Beyer": {
     "candidate_id": "H4VA08224",
     "all_candidate_ids": [
-      "H4VA08224"
+      "H4VA08224",
+      "S2WI00482"
     ],
     "committees": [
       "C00555888",
@@ -10222,6 +11512,65 @@
     "nra": 0,
     "special_interest_total": 4515208,
     "grassroots": 266625
+  },
+  "Morgan Griffith": {
+    "candidate_id": "H0VA09055",
+    "all_candidate_ids": [
+      "H0VA09055",
+      "P60022118",
+      "S2NC00448"
+    ],
+    "committees": [
+      "C00477240",
+      "C00624452",
+      "C00624320",
+      "C00621623",
+      "C00733733",
+      "C00760199",
+      "C00772558"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1320134,
+    "aipac": 33155,
+    "aipac_pacs": 33155,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 51250,
+    "aipac_sources": "",
+    "fossil_fuels": 359125,
+    "pharma": 1423774,
+    "defense": 134016,
+    "finance": 595757,
+    "tech": 517076,
+    "nra": 2000,
+    "special_interest_total": 3064903,
+    "grassroots": 19008
+  },
+  "Bobby Scott": {
+    "candidate_id": "H2VA10026",
+    "all_candidate_ids": [
+      "H2VA10026",
+      "S0KY00453",
+      "P40015224"
+    ],
+    "committees": [
+      "C00150227",
+      "C00849604"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 0,
+    "aipac": 4500,
+    "aipac_pacs": 4500,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 107425,
+    "aipac_sources": "JAC, PHXED",
+    "fossil_fuels": 27850,
+    "pharma": 373523,
+    "defense": 294395,
+    "finance": 879655,
+    "tech": 314990,
+    "nra": 0,
+    "special_interest_total": 1894913,
+    "grassroots": 0
   },
   "Suzan DelBene": {
     "candidate_id": "H0WA08046",
@@ -10250,7 +11599,9 @@
   "Rick Larsen": {
     "candidate_id": "H0WA02080",
     "all_candidate_ids": [
-      "H0WA02080"
+      "H0WA02080",
+      "P00001883",
+      "S6FL00137"
     ],
     "committees": [
       "C00345546",
@@ -10276,7 +11627,9 @@
   "Marie Gluesenkamp Perez": {
     "candidate_id": "H2WA03217",
     "all_candidate_ids": [
-      "H2WA03217"
+      "H2WA03217",
+      "S4FL00132",
+      "P80007719"
     ],
     "committees": [
       "C00806174",
@@ -10370,10 +11723,39 @@
     "special_interest_total": 7881801,
     "grassroots": 52059
   },
+  "Adam Smith": {
+    "candidate_id": "H6WA09025",
+    "all_candidate_ids": [
+      "H6WA09025",
+      "S0KS00216",
+      "P00005819"
+    ],
+    "committees": [
+      "C00304709",
+      "C00638684"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1369290,
+    "aipac": 457076,
+    "aipac_pacs": 457076,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 878075,
+    "aipac_sources": "AIPAC, BICOUNTY, COPAC, DMFI, FIPAC, GCSC, HEARTLAND, JAC, JSTREET, LAFAS, MDACC, NACPAC, NORPAC, WAPC, WAFI",
+    "fossil_fuels": 66200,
+    "pharma": 800116,
+    "defense": 2126120,
+    "finance": 1650072,
+    "tech": 1334541,
+    "nra": 0,
+    "special_interest_total": 6434125,
+    "grassroots": 82705
+  },
   "Marilyn Strickland": {
     "candidate_id": "H0WA10034",
     "all_candidate_ids": [
-      "H0WA10034"
+      "H0WA10034",
+      "P20005625",
+      "S6OH00254"
     ],
     "committees": [
       "C00732826",
@@ -10398,7 +11780,9 @@
   "Carol Miller": {
     "candidate_id": "H8WV03097",
     "all_candidate_ids": [
-      "H8WV03097"
+      "H8WV03097",
+      "S4OK00117",
+      "P20003042"
     ],
     "committees": [
       "C00653220",
@@ -10472,7 +11856,8 @@
   "Derrick Van Orden": {
     "candidate_id": "H0WI03175",
     "all_candidate_ids": [
-      "H0WI03175"
+      "H0WI03175",
+      "P60010642"
     ],
     "committees": [
       "C00742007",
@@ -10499,7 +11884,9 @@
   "Gwen Moore": {
     "candidate_id": "H4WI04183",
     "all_candidate_ids": [
-      "H4WI04183"
+      "H4WI04183",
+      "S0NC00376",
+      "P40013161"
     ],
     "committees": [
       "C00397505"
@@ -10523,7 +11910,9 @@
   "Scott Fitzgerald": {
     "candidate_id": "H0WI05113",
     "all_candidate_ids": [
-      "H0WI05113"
+      "H0WI05113",
+      "S2OR00119",
+      "P40011587"
     ],
     "committees": [
       "C00720011",
@@ -10572,7 +11961,9 @@
   "Tom Tiffany": {
     "candidate_id": "H0WI07101",
     "all_candidate_ids": [
-      "H0WI07101"
+      "H0WI07101",
+      "S0ME00160",
+      "P20004750"
     ],
     "committees": [
       "C00718635"
@@ -10596,7 +11987,8 @@
   "Harriet Hageman": {
     "candidate_id": "H2WY00166",
     "all_candidate_ids": [
-      "H2WY00166"
+      "H2WY00166",
+      "S6WY00209"
     ],
     "committees": [
       "C00788943"
@@ -10693,7 +12085,9 @@
   "Adam Gray": {
     "candidate_id": "H2CA13115",
     "all_candidate_ids": [
-      "H2CA13115"
+      "H2CA13115",
+      "S2CA00344",
+      "P60013398"
     ],
     "committees": [
       "C00801431",
@@ -10721,7 +12115,9 @@
   "Lateefah Simon": {
     "candidate_id": "H4CA12154",
     "all_candidate_ids": [
-      "H4CA12154"
+      "H4CA12154",
+      "S0AL00172",
+      "P40012973"
     ],
     "committees": [
       "C00834291",
@@ -10746,7 +12142,9 @@
   "Laura Friedman": {
     "candidate_id": "H4CA30149",
     "all_candidate_ids": [
-      "H4CA30149"
+      "H4CA30149",
+      "S2PA00158",
+      "P80000623"
     ],
     "committees": [
       "C00831321",
@@ -10796,7 +12194,9 @@
   "Derek Tran": {
     "candidate_id": "H4CA45170",
     "all_candidate_ids": [
-      "H4CA45170"
+      "H4CA45170",
+      "P80005226",
+      "S6WA00263"
     ],
     "committees": [
       "C00851790",
@@ -10822,7 +12222,9 @@
   "Dave Min": {
     "candidate_id": "H4CA47085",
     "all_candidate_ids": [
-      "H4CA47085"
+      "H4CA47085",
+      "S8VA00339",
+      "P60016847"
     ],
     "committees": [
       "C00831537",
@@ -10871,7 +12273,9 @@
   "Norma Torres": {
     "candidate_id": "H4CA35031",
     "all_candidate_ids": [
-      "H4CA35031"
+      "H4CA35031",
+      "P80009426",
+      "S0WA00324"
     ],
     "committees": [
       "C00557652",
@@ -10897,7 +12301,8 @@
   "Pete Aguilar": {
     "candidate_id": "H2CA31125",
     "all_candidate_ids": [
-      "H2CA31125"
+      "H2CA31125",
+      "P60008182"
     ],
     "committees": [
       "C00510461"
@@ -10921,7 +12326,8 @@
   "Vince Fong": {
     "candidate_id": "H4CA20181",
     "all_candidate_ids": [
-      "H4CA20181"
+      "H4CA20181",
+      "S8CA00028"
     ],
     "committees": [
       "C00859892",
@@ -10968,6 +12374,34 @@
     "special_interest_total": 1628330,
     "grassroots": 10730
   },
+  "Gabe Evans": {
+    "candidate_id": "H2CO05075",
+    "all_candidate_ids": [
+      "H2CO05075",
+      "S8NJ00376",
+      "P80000821"
+    ],
+    "committees": [
+      "C00497230",
+      "C00440438",
+      "C00214163"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1815239,
+    "aipac": 683239,
+    "aipac_pacs": 15086,
+    "aipac_ie": 668153,
+    "aipac_lobby_donors": 226938,
+    "aipac_sources": "AIPAC, RJC",
+    "fossil_fuels": 112929,
+    "pharma": 70685,
+    "defense": 17626,
+    "finance": 473449,
+    "tech": 68874,
+    "nra": 0,
+    "special_interest_total": 1426802,
+    "grassroots": 200
+  },
   "Diana DeGette": {
     "candidate_id": "H6CO01141",
     "all_candidate_ids": [
@@ -10995,7 +12429,8 @@
   "Randy Fine": {
     "candidate_id": "H6FL06258",
     "all_candidate_ids": [
-      "H6FL06258"
+      "H6FL06258",
+      "P40001422"
     ],
     "committees": [
       "C00893271",
@@ -11020,7 +12455,8 @@
   "Mike Haridopolos": {
     "candidate_id": "H4FL08168",
     "all_candidate_ids": [
-      "H4FL08168"
+      "H4FL08168",
+      "S2FL00193"
     ],
     "committees": [
       "C00877324",
@@ -11069,7 +12505,9 @@
   "Brian Jack": {
     "candidate_id": "H4GA03126",
     "all_candidate_ids": [
-      "H4GA03126"
+      "H4GA03126",
+      "P60009008",
+      "S0KY00032"
     ],
     "committees": [
       "C00872473",
@@ -11095,7 +12533,9 @@
   "Clay Fuller": {
     "candidate_id": "H0GA14030",
     "all_candidate_ids": [
-      "H0GA14030"
+      "H0GA14030",
+      "S4WV00126",
+      "P00016022"
     ],
     "committees": [
       "C00931709",
@@ -11122,7 +12562,9 @@
   "Derek Schmidt": {
     "candidate_id": "H4KS02164",
     "all_candidate_ids": [
-      "H4KS02164"
+      "H4KS02164",
+      "P60023884",
+      "S4TX00359"
     ],
     "committees": [
       "C00877373",
@@ -11146,10 +12588,11 @@
     "grassroots": 59172
   },
   "Cleo Fields": {
-    "candidate_id": "H4LA06211",
+    "candidate_id": "H0LA08025",
     "all_candidate_ids": [
-      "H4LA06211",
-      "H0LA08025"
+      "H0LA08025",
+      "S6NJ00404",
+      "P40021057"
     ],
     "committees": [
       "C00241943",
@@ -11176,7 +12619,9 @@
   "Tom Barrett": {
     "candidate_id": "H2MI07123",
     "all_candidate_ids": [
-      "H2MI07123"
+      "H2MI07123",
+      "P00002923",
+      "S0MN00294"
     ],
     "committees": [
       "C00798686",
@@ -11224,9 +12669,9 @@
     "grassroots": 58795
   },
   "Bob Onder": {
-    "candidate_id": "H4MO03221",
+    "candidate_id": "H8MO09146",
     "all_candidate_ids": [
-      "H4MO03221"
+      "H8MO09146"
     ],
     "committees": [
       "C00446799",
@@ -11251,7 +12696,8 @@
   "Troy Downing": {
     "candidate_id": "H4MT02098",
     "all_candidate_ids": [
-      "H4MT02098"
+      "H4MT02098",
+      "S8MT00218"
     ],
     "committees": [
       "C00855288",
@@ -11297,6 +12743,33 @@
     "special_interest_total": 1665070,
     "grassroots": 701
   },
+  "Nellie Pou": {
+    "candidate_id": "H4NJ09194",
+    "all_candidate_ids": [
+      "H4NJ09194",
+      "S2CO00126",
+      "P60013836"
+    ],
+    "committees": [
+      "C00887547",
+      "C00376137"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 117085,
+    "aipac": 37666,
+    "aipac_pacs": 37666,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 119224,
+    "aipac_sources": "AIPAC, DMFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 37666,
+    "grassroots": 34951
+  },
   "LaMonica McIver": {
     "candidate_id": "H4NJ10176",
     "all_candidate_ids": [
@@ -11324,7 +12797,8 @@
   "Laura Gillen": {
     "candidate_id": "H2NY04244",
     "all_candidate_ids": [
-      "H2NY04244"
+      "H2NY04244",
+      "P40003865"
     ],
     "committees": [
       "C00806547",
@@ -11349,7 +12823,9 @@
   "Josh Riley": {
     "candidate_id": "H8NY22177",
     "all_candidate_ids": [
-      "H8NY22177"
+      "H8NY22177",
+      "S2ND00131",
+      "P40016081"
     ],
     "committees": [
       "C00793760",
@@ -11450,7 +12926,9 @@
   "Deborah Ross": {
     "candidate_id": "H0NC02125",
     "all_candidate_ids": [
-      "H0NC02125"
+      "H0NC02125",
+      "P20004263",
+      "S6NC00266"
     ],
     "committees": [
       "C00729277",
@@ -11476,7 +12954,9 @@
   "Addison McDowell": {
     "candidate_id": "H4NC06177",
     "all_candidate_ids": [
-      "H4NC06177"
+      "H4NC06177",
+      "S0KY00446",
+      "P60019130"
     ],
     "committees": [
       "C00860064",
@@ -11597,7 +13077,9 @@
   "David Taylor": {
     "candidate_id": "H4OH02248",
     "all_candidate_ids": [
-      "H4OH02248"
+      "H4OH02248",
+      "P60021417",
+      "S2OH00501"
     ],
     "committees": [
       "C00860213"
@@ -11669,7 +13151,8 @@
   "Janelle Bynum": {
     "candidate_id": "H4OR05304",
     "all_candidate_ids": [
-      "H4OR05304"
+      "H4OR05304",
+      "P00001511"
     ],
     "committees": [
       "C00843425",
@@ -11694,7 +13177,8 @@
   "Ryan Mackenzie": {
     "candidate_id": "H8PA15195",
     "all_candidate_ids": [
-      "H8PA15195"
+      "H8PA15195",
+      "S8FL00083"
     ],
     "committees": [
       "C00655175",
@@ -11746,7 +13230,8 @@
   "Sheri Biggs": {
     "candidate_id": "H4SC01313",
     "all_candidate_ids": [
-      "H4SC01313"
+      "H4SC01313",
+      "P80009145"
     ],
     "committees": [
       "C00866426"
@@ -11770,7 +13255,8 @@
   "Matt Van Epps": {
     "candidate_id": "H6TN07161",
     "all_candidate_ids": [
-      "H6TN07161"
+      "H6TN07161",
+      "P00014720"
     ],
     "committees": [
       "C00908202",
@@ -11795,7 +13281,9 @@
   "Brandon Gill": {
     "candidate_id": "H4TX26149",
     "all_candidate_ids": [
-      "H4TX26149"
+      "H4TX26149",
+      "S2WI00334",
+      "P40003865"
     ],
     "committees": [
       "C00857359",
@@ -11820,7 +13308,8 @@
   "Craig Goldman": {
     "candidate_id": "H4TX12065",
     "all_candidate_ids": [
-      "H4TX12065"
+      "H4TX12065",
+      "P60017076"
     ],
     "committees": [
       "C00855528"
@@ -11844,7 +13333,8 @@
   "Dan Crenshaw": {
     "candidate_id": "H8TX02166",
     "all_candidate_ids": [
-      "H8TX02166"
+      "H8TX02166",
+      "S0FL00114"
     ],
     "committees": [
       "C00660795",
@@ -11869,7 +13359,9 @@
   "Julie Johnson": {
     "candidate_id": "H4TX32089",
     "all_candidate_ids": [
-      "H4TX32089"
+      "H4TX32089",
+      "S2IN00018",
+      "P80004138"
     ],
     "committees": [
       "C00843003",
@@ -11895,7 +13387,9 @@
   "Blake Moore": {
     "candidate_id": "H0UT01205",
     "all_candidate_ids": [
-      "H0UT01205"
+      "H0UT01205",
+      "S0NC00376",
+      "P40013161"
     ],
     "committees": [
       "C00738872"
@@ -11919,7 +13413,9 @@
   "Mike Kennedy": {
     "candidate_id": "H4UT03260",
     "all_candidate_ids": [
-      "H4UT03260"
+      "H4UT03260",
+      "P80004815",
+      "S8UT00242"
     ],
     "committees": [
       "C00864488",
@@ -11945,7 +13441,8 @@
   "Jennifer McClellan": {
     "candidate_id": "H4VA04066",
     "all_candidate_ids": [
-      "H4VA04066"
+      "H4VA04066",
+      "S4FL00181"
     ],
     "committees": [
       "C00829812",
@@ -11967,6 +13464,32 @@
     "nra": 0,
     "special_interest_total": 505932,
     "grassroots": 1435
+  },
+  "Eugene Vindman": {
+    "candidate_id": "H4VA07234",
+    "all_candidate_ids": [
+      "H4VA07234",
+      "S6FL00855"
+    ],
+    "committees": [
+      "C00856955",
+      "C00936559"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 0,
+    "aipac": 11108,
+    "aipac_pacs": 11108,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 503452,
+    "aipac_sources": "COPAC, JAC",
+    "fossil_fuels": 22178,
+    "pharma": 649888,
+    "defense": 69175,
+    "finance": 873113,
+    "tech": 510808,
+    "nra": 0,
+    "special_interest_total": 2136270,
+    "grassroots": 0
   },
   "Suhas Subramanyam": {
     "candidate_id": "H4VA10279",
@@ -12019,7 +13542,9 @@
   "Emily Randall": {
     "candidate_id": "H4WA06117",
     "all_candidate_ids": [
-      "H4WA06117"
+      "H4WA06117",
+      "S0AR00143",
+      "P00001966"
     ],
     "committees": [
       "C00857094",
@@ -12045,7 +13570,9 @@
   "Michael Baumgartner": {
     "candidate_id": "H4WA05234",
     "all_candidate_ids": [
-      "H4WA05234"
+      "H4WA05234",
+      "P20000469",
+      "S2WA00288"
     ],
     "committees": [
       "C00870758",
@@ -12070,7 +13597,9 @@
   "Riley Moore": {
     "candidate_id": "H4WV02205",
     "all_candidate_ids": [
-      "H4WV02205"
+      "H4WV02205",
+      "S0NC00376",
+      "P40013161"
     ],
     "committees": [
       "C00828947"
@@ -12118,7 +13647,9 @@
   "Eleanor Holmes Norton": {
     "candidate_id": "H0DC00058",
     "all_candidate_ids": [
-      "H0DC00058"
+      "H0DC00058",
+      "S6CO00119",
+      "P20000873"
     ],
     "committees": [
       "C00244335",
@@ -12169,7 +13700,8 @@
   "Shomari Figures": {
     "candidate_id": "H4AL02170",
     "all_candidate_ids": [
-      "H4AL02170"
+      "H4AL02170",
+      "S8AL00282"
     ],
     "committees": [
       "C00856237",
@@ -12218,7 +13750,8 @@
   "Kweisi Mfume": {
     "candidate_id": "H6MD07020",
     "all_candidate_ids": [
-      "H6MD07020"
+      "H6MD07020",
+      "S6MD03185"
     ],
     "committees": [
       "C00726372",
@@ -12269,7 +13802,9 @@
   "Brad Sherman": {
     "candidate_id": "H6CA24113",
     "all_candidate_ids": [
-      "H6CA24113"
+      "H6CA24113",
+      "S6LA00086",
+      "P40014748"
     ],
     "committees": [
       "C00308742",
@@ -12515,7 +14050,8 @@
   "Shontel Brown": {
     "candidate_id": "H2OH11169",
     "all_candidate_ids": [
-      "H2OH11169"
+      "H2OH11169",
+      "S6OH00163"
     ],
     "committees": [
       "C00764381",

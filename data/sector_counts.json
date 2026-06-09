@@ -1,58 +1,58 @@
 {
-    "oilgas": {
-        "D": 81,
-        "R": 206,
-        "I": 2,
-        "total_usd": 154500000,
-        "note": "Oil & Gas lobbying $154.5M in 2024 (OpenSecrets); industry gave ~$24M direct contributions to 119th Congress members (Yale Climate Connections, Jan 2025), 88% to Republicans"
-    },
-    "aipac": {
-        "D": 229,
-        "R": 259,
-        "I": 1,
-        "total_usd": 175280406,
-        "note": "Career AIPAC contributions to current 119th Congress members (direct PAC contributions + independent expenditures, TrackAIPAC-consistent methodology). Source: TrackAIPAC.com + FEC PAC filings, 2021-2026."
-    },
-    "pharma": {
-        "D": 236,
-        "R": 237,
-        "I": 2,
-        "total_usd": 16000000,
-        "note": "Pharmaceuticals/Health Products PACs gave $16.05M to federal candidates in 2024 (OpenSecrets); broader Health sector PACs totaled $52.2M"
-    },
-    "finance": {
-        "D": 238,
-        "R": 250,
-        "I": 2,
-        "total_usd": 82600000,
-        "note": "Finance/Insurance/Real Estate PACs gave $82.6M to federal candidates in 2024, the largest of any sector (OpenSecrets)"
-    },
-    "defense": {
-        "D": 133,
-        "R": 142,
-        "I": 2,
-        "total_usd": 55000000,
-        "note": "UNVERIFIED. FEC career contribution data ($50k+ threshold); OpenSecrets Defense sector 2024"
-    },
-    "tech": {
-        "D": 200,
-        "R": 180,
-        "I": 1,
-        "total_usd": 45000000,
-        "note": "UNVERIFIED. Based on OpenSecrets Electronics/Technology sector"
-    },
-    "superpac": {
-        "D": 35,
-        "R": 65,
-        "I": 0,
-        "total_usd": 2600000000,
-        "note": "Total 2024 outside spending hit a record $4.5B; super PACs specifically spent ~$2.6B (OpenSecrets). Count reflects members who received $1M+ in independent expenditures."
-    },
-    "anycorp": {
-        "D": 234,
-        "R": 276,
-        "I": 2,
-        "total_usd": null,
-        "note": "All members except those who publicly pledge to refuse all corporate PAC money"
-    }
+  "oilgas": {
+    "D": 81,
+    "R": 206,
+    "I": 2,
+    "total_usd": 154500000,
+    "note": "Oil & Gas lobbying $154.5M in 2024 (OpenSecrets); industry gave ~$24M direct contributions to 119th Congress members (Yale Climate Connections, Jan 2025), 88% to Republicans"
+  },
+  "aipac": {
+    "D": 227,
+    "R": 259,
+    "I": 1,
+    "total_usd": 174307582,
+    "note": "Career AIPAC contributions to current 119th Congress members (direct PAC contributions + independent expenditures, TrackAIPAC-consistent methodology). Source: TrackAIPAC.com + FEC PAC filings, 2021-2026. Auto-refreshed from data/fec.json by scripts/refresh_sector_counts.py."
+  },
+  "pharma": {
+    "D": 236,
+    "R": 237,
+    "I": 2,
+    "total_usd": 16000000,
+    "note": "Pharmaceuticals/Health Products PACs gave $16.05M to federal candidates in 2024 (OpenSecrets); broader Health sector PACs totaled $52.2M"
+  },
+  "finance": {
+    "D": 238,
+    "R": 250,
+    "I": 2,
+    "total_usd": 82600000,
+    "note": "Finance/Insurance/Real Estate PACs gave $82.6M to federal candidates in 2024, the largest of any sector (OpenSecrets)"
+  },
+  "defense": {
+    "D": 133,
+    "R": 142,
+    "I": 2,
+    "total_usd": 55000000,
+    "note": "UNVERIFIED. FEC career contribution data ($50k+ threshold); OpenSecrets Defense sector 2024"
+  },
+  "tech": {
+    "D": 200,
+    "R": 180,
+    "I": 1,
+    "total_usd": 45000000,
+    "note": "UNVERIFIED. Based on OpenSecrets Electronics/Technology sector"
+  },
+  "superpac": {
+    "D": 35,
+    "R": 65,
+    "I": 0,
+    "total_usd": 2600000000,
+    "note": "Total 2024 outside spending hit a record $4.5B; super PACs specifically spent ~$2.6B (OpenSecrets). Count reflects members who received $1M+ in independent expenditures."
+  },
+  "anycorp": {
+    "D": 234,
+    "R": 276,
+    "I": 2,
+    "total_usd": null,
+    "note": "All members except those who publicly pledge to refuse all corporate PAC money"
+  }
 }

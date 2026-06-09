@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-09T16:02:08.309029+00:00",
+    "generated_at": "2026-06-09T22:22:15.390124+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -1870,10 +1870,10 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Rick Crawford": {
-    "pct": 43,
-    "lbl": "Some Corporate",
+    "pct": 72,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
+    "col": "#ea580c",
     "super_pac_total": 97153,
     "any_corporate": true,
     "reasons": [
@@ -3311,7 +3311,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Buddy Carter": {
-    "pct": 57,
+    "pct": 56,
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
@@ -3758,7 +3758,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Bill Foster": {
-    "pct": 66,
+    "pct": 64,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
@@ -4275,7 +4275,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Mike Johnson": {
-    "pct": 65,
+    "pct": 61,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
@@ -7236,7 +7236,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Lizzie Fletcher": {
-    "pct": 60,
+    "pct": 61,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
@@ -7509,9 +7509,10 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 0,
+    "super_pac_total": 12000,
     "any_corporate": true,
     "reasons": [
+      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -7976,7 +7977,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Bobby Scott": {
-    "pct": 44,
+    "pct": 46,
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",

@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-10T16:48:26.026191+00:00",
+    "generated_at": "2026-06-10T16:52:23.420334+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -9770,5 +9770,55 @@
     "super_pac_total": 0,
     "any_corporate": false,
     "reasons": []
+  },
+  "John McGuire": {
+    "pct": 0,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
+    "score_basis": "No tracked special interest money"
+  },
+  "Gil Cisneros": {
+    "pct": 0,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
+    "score_basis": "No tracked special interest money"
+  },
+  "Kimberlyn King-Hinds": {
+    "pct": 0,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
+    "score_basis": "No tracked special interest money"
+  },
+  "Christian Menefee": {
+    "pct": 0,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
+    "score_basis": "No tracked special interest money"
+  },
+  "Analilia Mejia": {
+    "pct": 0,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
+    "score_basis": "No tracked special interest money"
   }
 }

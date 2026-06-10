@@ -13581,32 +13581,6 @@
     "special_interest_total": 54719,
     "grassroots": 14312
   },
-  "Angie Craig": {
-    "candidate_id": "H6MN02131",
-    "all_candidate_ids": [
-      "H6MN02131",
-      "S6MN00499"
-    ],
-    "committees": [
-      "C00575209",
-      "C00903690"
-    ],
-    "source": "FEC_v7",
-    "total_raised": 438643,
-    "aipac": 656885,
-    "aipac_pacs": 655825,
-    "aipac_ie": 1060,
-    "aipac_lobby_donors": 2613266,
-    "aipac_sources": "AIPAC, BICPAC, COPAC, CITYPAC, DMFI, FIPAC, GCSC, JAC, NACPAC, NATPAC, NORPAC",
-    "fossil_fuels": 0,
-    "pharma": 0,
-    "defense": 0,
-    "finance": 0,
-    "tech": 0,
-    "nra": 0,
-    "special_interest_total": 656885,
-    "grassroots": 164390
-  },
   "Trent Kelly": {
     "candidate_id": "H6MS01131",
     "all_candidate_ids": [
@@ -13978,6 +13952,155 @@
     "nra": 0,
     "special_interest_total": 11108,
     "grassroots": 1589
+  },
+  "Angie Craig": {
+    "candidate_id": "H6MN02131",
+    "all_candidate_ids": [
+      "H6MN02131",
+      "S6MN00499"
+    ],
+    "committees": [
+      "C00575209",
+      "C00903690"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 438643,
+    "aipac": 656885,
+    "aipac_pacs": 655825,
+    "aipac_ie": 1060,
+    "aipac_lobby_donors": 2613266,
+    "aipac_sources": "AIPAC, BICPAC, COPAC, CITYPAC, DMFI, FIPAC, GCSC, JAC, NACPAC, NATPAC, NORPAC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 656885,
+    "grassroots": 164390
+  },
+  "John McGuire": {
+    "candidate_id": "H0VA07133",
+    "all_candidate_ids": [
+      "H0VA07133"
+    ],
+    "committees": [
+      "C00727594",
+      "C00856831",
+      "C00900118"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 492106,
+    "aipac": 44461,
+    "aipac_pacs": 44461,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 531576,
+    "aipac_sources": "AIPAC, RJC, JAC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 44461,
+    "grassroots": 44472
+  },
+  "Gil Cisneros": {
+    "candidate_id": "H8CA39174",
+    "all_candidate_ids": [
+      "H8CA39174"
+    ],
+    "committees": [
+      "C00650648",
+      "C00850420"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 1665634,
+    "aipac": 57303,
+    "aipac_pacs": 57303,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 64250,
+    "aipac_sources": "AIPAC, DMFI, MDACC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 57303,
+    "grassroots": 95915
+  },
+  "Kimberlyn King-Hinds": {
+    "candidate_id": "H4MP01022",
+    "all_candidate_ids": [
+      "H4MP01022"
+    ],
+    "committees": [
+      "C00873554"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 65842,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 500
+  },
+  "Christian Menefee": {
+    "candidate_id": "H6TX18232",
+    "all_candidate_ids": [
+      "H6TX18232"
+    ],
+    "committees": [
+      "C00899831"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 0,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 63500,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 0
+  },
+  "Analilia Mejia": {
+    "candidate_id": "H6NJ11286",
+    "all_candidate_ids": [
+      "H6NJ11286"
+    ],
+    "committees": [
+      "C00927681"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 0,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 0
   },
   "Alan Armstrong": {
     "candidate_id": "S4SC00232",

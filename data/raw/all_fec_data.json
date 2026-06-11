@@ -1,24 +1,1935 @@
 {
+  "Tommy Tuberville": {
+    "candidate_id": "S0AL00230",
+    "all_candidate_ids": [
+      "S0AL00230"
+    ],
+    "committees": [
+      "C00705962",
+      "C00701672"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 13594496,
+    "aipac": 29184,
+    "aipac_pacs": 29184,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 208792,
+    "aipac_sources": "AIPAC, AMP, RJC, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 29184,
+    "grassroots": 3264995
+  },
+  "Katie Britt": {
+    "candidate_id": "S2AL00145",
+    "all_candidate_ids": [
+      "S2AL00145"
+    ],
+    "committees": [
+      "C00781443",
+      "C00772954"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 17615906,
+    "aipac": 106961,
+    "aipac_pacs": 106961,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 301423,
+    "aipac_sources": "AIPAC, RJC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 106961,
+    "grassroots": 3082825
+  },
+  "Lisa Murkowski": {
+    "candidate_id": "S4AK00099",
+    "all_candidate_ids": [
+      "S4AK00099"
+    ],
+    "committees": [
+      "C00384529"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 29621690,
+    "aipac": 265262,
+    "aipac_pacs": 265262,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 782495,
+    "aipac_sources": "AIPAC, AGG, AUSD, BAYPAC, COPAC, FIPAC, HEARTLAND, HVPAC, MDACC, NACPAC, NATPAC, NORPAC, PIA, RJC, SUNPAC, TPOH, WAPAC, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 265262,
+    "grassroots": 1140904
+  },
+  "Dan Sullivan": {
+    "candidate_id": "S4AK00214",
+    "all_candidate_ids": [
+      "S4AK00214"
+    ],
+    "committees": [
+      "C00570994",
+      "C00705954",
+      "C00551093"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 27695968,
+    "aipac": 422656,
+    "aipac_pacs": 422656,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 977011,
+    "aipac_sources": "AIPAC, COPAC, NATPAC, RJC, NORPAC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 422656,
+    "grassroots": 2021633
+  },
+  "Mark Kelly": {
+    "candidate_id": "S0AZ00350",
+    "all_candidate_ids": [
+      "S0AZ00350",
+      "H2AZ09191"
+    ],
+    "committees": [
+      "C00696526",
+      "C00798637",
+      "C00792085"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 243063537,
+    "aipac": 492503,
+    "aipac_pacs": 492503,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 3969320,
+    "aipac_sources": "AIPAC, DMFI, GCSC, HEARTLAND, JAC, JSTREET, SUNPAC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 492503,
+    "grassroots": 156636679
+  },
+  "Ruben Gallego": {
+    "candidate_id": "S4AZ00139",
+    "all_candidate_ids": [
+      "S4AZ00139",
+      "H4AZ07043"
+    ],
+    "committees": [
+      "C00558627"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 76301224,
+    "aipac": 84827,
+    "aipac_pacs": 83219,
+    "aipac_ie": 1608,
+    "aipac_lobby_donors": 1684270,
+    "aipac_sources": "AIPAC, DMFI, GCSC, JAC, NORPAC, PIA",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 84827,
+    "grassroots": 42310802
+  },
+  "John Boozman": {
+    "candidate_id": "S0AR00150",
+    "all_candidate_ids": [
+      "S0AR00150",
+      "H2AR03176"
+    ],
+    "committees": [
+      "C00476317",
+      "C00367979"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 20158609,
+    "aipac": 191516,
+    "aipac_pacs": 191516,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 521397,
+    "aipac_sources": "AIPAC, AUSD, CITYPAC, GCSC, HVPAC, LAFAS, MDACC, NACPAC, NORPAC, PHXED, PIA, RJC, TPOH",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 191516,
+    "grassroots": 1145117
+  },
+  "Tom Cotton": {
+    "candidate_id": "S4AR00103",
+    "all_candidate_ids": [
+      "S4AR00103",
+      "H2AR04083"
+    ],
+    "committees": [
+      "C00705939",
+      "C00499988"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 41887867,
+    "aipac": 875867,
+    "aipac_pacs": 875867,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2087907,
+    "aipac_sources": "AIPAC, AMP, NORPAC, PIA, RJC, SUNPAC, TPOH",
+    "fossil_fuels": 202617,
+    "pharma": 148975,
+    "defense": 42551,
+    "finance": 526704,
+    "tech": 207627,
+    "nra": 0,
+    "special_interest_total": 2004341,
+    "grassroots": 12551599
+  },
+  "Alex Padilla": {
+    "candidate_id": "S2CA00955",
+    "all_candidate_ids": [
+      "S2CA00955",
+      "H6CA11151"
+    ],
+    "committees": [
+      "C00765164"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 14075385,
+    "aipac": 104055,
+    "aipac_pacs": 104055,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 752124,
+    "aipac_sources": "AIPAC, DMFI, JAC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 104055,
+    "grassroots": 1498003
+  },
+  "Adam Schiff": {
+    "candidate_id": "S4CA00555",
+    "all_candidate_ids": [
+      "S4CA00555",
+      "H0CA27085"
+    ],
+    "committees": [
+      "C00343871"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 121589850,
+    "aipac": 5580918,
+    "aipac_pacs": 580918,
+    "aipac_ie": 5000000,
+    "aipac_lobby_donors": 3969202,
+    "aipac_sources": "AIPAC, BICOUNTY, DMFI, HVPAC, JAC, JSTREET, MDACC, MOPAC, NACPAC, NORPAC, PIA, STLBG, SUNPAC, DESERT, TPOH, WAPAC, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 5580918,
+    "grassroots": 64994322
+  },
+  "Michael Bennet": {
+    "candidate_id": "S0CO00211",
+    "all_candidate_ids": [
+      "S0CO00211",
+      "H6CO07122"
+    ],
+    "committees": [
+      "C00458398",
+      "C00935726"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 54956268,
+    "aipac": 357116,
+    "aipac_pacs": 357116,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2819198,
+    "aipac_sources": "AIPAC, AUSD, CITYPAC, FIPAC, HEARTLAND, JAC, JSTREET, MDACC, MOPAC, NACPAC, NORPAC, PHXED, PIA, WAPAC",
+    "fossil_fuels": 274620,
+    "pharma": 834955,
+    "defense": 63832,
+    "finance": 1925311,
+    "tech": 564205,
+    "nra": 0,
+    "special_interest_total": 4020039,
+    "grassroots": 12340550
+  },
+  "John Hickenlooper": {
+    "candidate_id": "S0CO00575",
+    "all_candidate_ids": [
+      "S0CO00575"
+    ],
+    "committees": [
+      "C00716720"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 53230398,
+    "aipac": 496146,
+    "aipac_pacs": 496146,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1994986,
+    "aipac_sources": "AIPAC, DMFI, JAC, JSTREET",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 496146,
+    "grassroots": 21071701
+  },
+  "Richard Blumenthal": {
+    "candidate_id": "S0CT00177",
+    "all_candidate_ids": [
+      "S0CT00177"
+    ],
+    "committees": [
+      "C00492991",
+      "C00473587"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 27846709,
+    "aipac": 262682,
+    "aipac_pacs": 262682,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1410866,
+    "aipac_sources": "AIPAC, AUSD, CITYPAC, GCSC, JAC, MDACC, NACPAC, NORPAC, PIA, TPOH",
+    "fossil_fuels": 367158,
+    "pharma": 2375009,
+    "defense": 284075,
+    "finance": 5805086,
+    "tech": 2372172,
+    "nra": 0,
+    "special_interest_total": 11466182,
+    "grassroots": 2824532
+  },
+  "Chris Murphy": {
+    "candidate_id": "S2CT00132",
+    "all_candidate_ids": [
+      "S2CT00132",
+      "H6CT05124"
+    ],
+    "committees": [
+      "C00492645",
+      "C00411660"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 63783987,
+    "aipac": 133605,
+    "aipac_pacs": 133605,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1113480,
+    "aipac_sources": "FIPAC, JAC, JSTREET, MOPAC, NACPAC, NORPAC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 133605,
+    "grassroots": 26276824
+  },
+  "Chris Coons": {
+    "candidate_id": "S0DE00092",
+    "all_candidate_ids": [
+      "S0DE00092"
+    ],
+    "committees": [
+      "C00475392"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 23035630,
+    "aipac": 322152,
+    "aipac_pacs": 322152,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1400461,
+    "aipac_sources": "AIPAC, AUSD, BICPAC, BICOUNTY, COPAC, CITYPAC, DMFI, FIPAC, GCSC, HEARTLAND, JAC, LAFAS, MDACC, MOPAC, NACPAC, NATPAC, NORPAC, PIA, SUNPAC, TPOH, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 322152,
+    "grassroots": 1601696
+  },
+  "Rick Scott": {
+    "candidate_id": "S8FL00273",
+    "all_candidate_ids": [
+      "S8FL00273",
+      "H6FL22115"
+    ],
+    "committees": [
+      "C00676965"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 133261080,
+    "aipac": 573767,
+    "aipac_pacs": 573767,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1473235,
+    "aipac_sources": "AIPAC, AMP, LAFAS, MMPAC, NORPAC, RJC, USI",
+    "fossil_fuels": 811081,
+    "pharma": 3835018,
+    "defense": 475950,
+    "finance": 8040903,
+    "tech": 2372172,
+    "nra": 0,
+    "special_interest_total": 16108891,
+    "grassroots": 9562200
+  },
+  "Jon Ossoff": {
+    "candidate_id": "S8GA00180",
+    "all_candidate_ids": [
+      "S8GA00180",
+      "H8GA06195"
+    ],
+    "committees": [
+      "C00718866",
+      "C00630426"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 269416464,
+    "aipac": 851177,
+    "aipac_pacs": 748908,
+    "aipac_ie": 102269,
+    "aipac_lobby_donors": 4429740,
+    "aipac_sources": "DMFI, JAC, JSTREET",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 851177,
+    "grassroots": 172417075
+  },
+  "Raphael Warnock": {
+    "candidate_id": "S0GA00559",
+    "all_candidate_ids": [
+      "S0GA00559"
+    ],
+    "committees": [
+      "C00736876"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 338722630,
+    "aipac": 840236,
+    "aipac_pacs": 646629,
+    "aipac_ie": 193607,
+    "aipac_lobby_donors": 5281470,
+    "aipac_sources": "DMFI, JAC, JSTREET, MDACC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 840236,
+    "grassroots": 207998735
+  },
+  "Brian Schatz": {
+    "candidate_id": "S4HI00136",
+    "all_candidate_ids": [
+      "S4HI00136",
+      "H6HI02244"
+    ],
+    "committees": [
+      "C00540732",
+      "C00420463"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 16695416,
+    "aipac": 211432,
+    "aipac_pacs": 211432,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 504783,
+    "aipac_sources": "AUSD, BICOUNTY, COPAC, FIPAC, JAC, JSTREET, MDACC, NACPAC, NATPAC, WAPAC, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 211432,
+    "grassroots": 1163972
+  },
+  "Mazie Hirono": {
+    "candidate_id": "S2HI00106",
+    "all_candidate_ids": [
+      "S2HI00106",
+      "H6HI02251"
+    ],
+    "committees": [
+      "C00420760"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 19660944,
+    "aipac": 32848,
+    "aipac_pacs": 32848,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 198515,
+    "aipac_sources": "AUSD, COPAC, FIPAC, JAC, JSTREET, PHXED",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 32848,
+    "grassroots": 3769314
+  },
+  "Mike Crapo": {
+    "candidate_id": "S8ID00027",
+    "all_candidate_ids": [
+      "S8ID00027",
+      "H2ID02034"
+    ],
+    "committees": [
+      "C00330886",
+      "C00254094"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 26953284,
+    "aipac": 223977,
+    "aipac_pacs": 223977,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 583497,
+    "aipac_sources": "AIPAC, AGG, AUSD, DEVPAC, FIPAC, HEARTLAND, HVPAC, MDACC, NACPAC, PIA, RJC, DESERT, TPOH, WAPAC, WPIN, WAFI",
+    "fossil_fuels": 274620,
+    "pharma": 834955,
+    "defense": 63832,
+    "finance": 1925311,
+    "tech": 564205,
+    "nra": 0,
+    "special_interest_total": 3886900,
+    "grassroots": 1156305
+  },
+  "James Risch": {
+    "candidate_id": "S8ID00092",
+    "all_candidate_ids": [
+      "S8ID00092"
+    ],
+    "committees": [
+      "C00440362",
+      "C00705855"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 13806785,
+    "aipac": 658269,
+    "aipac_pacs": 658269,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 891598,
+    "aipac_sources": "AIPAC, AGG, AUSD, COPAC, FIPAC, MDACC, NACPAC, PIA, RJC, DESERT, TPOH, USI, WAFI",
+    "fossil_fuels": 24556,
+    "pharma": 236282,
+    "defense": 140764,
+    "finance": 945236,
+    "tech": 533328,
+    "nra": 0,
+    "special_interest_total": 2538435,
+    "grassroots": 2361204
+  },
+  "Dick Durbin": {
+    "candidate_id": "S4IL00339",
+    "all_candidate_ids": [
+      "S4IL00339",
+      "H2IL20026"
+    ],
+    "committees": [
+      "C00392175",
+      "C00148999"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 48870939,
+    "aipac": 32430,
+    "aipac_pacs": 32430,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2704700,
+    "aipac_sources": "AGG, AUSD, COPAC, DEVPAC, FIPAC, HEARTLAND, HVPAC, MDACC, MMPAC, NACPAC, PHXED, DESERT, TPOH, USI, WAPAC, WPIN, WAFI",
+    "fossil_fuels": 367158,
+    "pharma": 2375009,
+    "defense": 284075,
+    "finance": 5805086,
+    "tech": 2372172,
+    "nra": 0,
+    "special_interest_total": 11235930,
+    "grassroots": 5370554
+  },
+  "Tammy Duckworth": {
+    "candidate_id": "S6IL00292",
+    "all_candidate_ids": [
+      "S6IL00292",
+      "H6IL06141"
+    ],
+    "committees": [
+      "C00574889",
+      "C00498634",
+      "C00418525"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 60093678,
+    "aipac": 550273,
+    "aipac_pacs": 550273,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2088869,
+    "aipac_sources": "AIPAC, AUSD, MDACC, TPOH",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 550273,
+    "grassroots": 28392919
+  },
+  "Todd Young": {
+    "candidate_id": "S6IN00191",
+    "all_candidate_ids": [
+      "S6IN00191",
+      "H0IN09070"
+    ],
+    "committees": [
+      "C00459255"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 37188528,
+    "aipac": 232249,
+    "aipac_pacs": 232249,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1469655,
+    "aipac_sources": "AIPAC, AMP, AUSD, CITYPAC, FIPAC, GCSC, NATPAC, NORPAC, PIA, RJC, SUNPAC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 232249,
+    "grassroots": 3006943
+  },
+  "Jim Banks": {
+    "candidate_id": "S4IN00196",
+    "all_candidate_ids": [
+      "S4IN00196",
+      "H6IN03229"
+    ],
+    "committees": [
+      "C00829416",
+      "C00577999"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 15785608,
+    "aipac": 355651,
+    "aipac_pacs": 355651,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 570670,
+    "aipac_sources": "AIPAC, AMP, AUSD, CITYPAC, NACPAC, NORPAC, PHEX, RJC, TPOH,",
+    "fossil_fuels": 24556,
+    "pharma": 236282,
+    "defense": 140764,
+    "finance": 945236,
+    "tech": 533328,
+    "nra": 0,
+    "special_interest_total": 2235817,
+    "grassroots": 3990273
+  },
+  "Chuck Grassley": {
+    "candidate_id": "S0IA00028",
+    "all_candidate_ids": [
+      "S0IA00028",
+      "H6IA03037"
+    ],
+    "committees": [
+      "C00109223",
+      "C00230482",
+      "C00047852"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 44687293,
+    "aipac": 331397,
+    "aipac_pacs": 331397,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 979152,
+    "aipac_sources": "AIPAC, AMP, AGG, AUSD, BAYPAC, COPAC, CITYPAC, DEVPAC, FIPAC, GSPAC, HEARTLAND, HVPAC, MDACC, MMPAC, NACPAC, NATPAC, NORPAC, PHXED, PIA, RJC, DESERT, TPOH, USI, WAPAC, WPIN, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 331397,
+    "grassroots": 5885240
+  },
+  "Joni Ernst": {
+    "candidate_id": "S4IA00129",
+    "all_candidate_ids": [
+      "S4IA00129"
+    ],
+    "committees": [
+      "C00705822",
+      "C00546788"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 49530858,
+    "aipac": 589661,
+    "aipac_pacs": 589661,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1857239,
+    "aipac_sources": "AIPAC, AMP, AGG, AUSD, COPAC, FIPAC, PHXED, PIA, RJC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 589661,
+    "grassroots": 19214638
+  },
+  "Jerry Moran": {
+    "candidate_id": "S0KS00091",
+    "all_candidate_ids": [
+      "S0KS00091",
+      "H6KS01096"
+    ],
+    "committees": [
+      "C00458315",
+      "C00312090"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 29166534,
+    "aipac": 163949,
+    "aipac_pacs": 163949,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 568425,
+    "aipac_sources": "AIPAC, AUSD, BICOUNTY, FIPAC, HEARTLAND, MDACC, NATPAC, NORPAC, PIA, SUNPAC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 163949,
+    "grassroots": 1350980
+  },
+  "Roger Marshall": {
+    "candidate_id": "H6KS01179",
+    "all_candidate_ids": [
+      "H6KS01179"
+    ],
+    "committees": [
+      "C00576173"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 15286755,
+    "aipac": 262295,
+    "aipac_pacs": 262295,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 428854,
+    "aipac_sources": "AIPAC, AMP, COPAC, MDACC, NATPAC, RJC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 262295,
+    "grassroots": 1084985
+  },
+  "Mitch McConnell": {
+    "candidate_id": "S2KY00012",
+    "all_candidate_ids": [
+      "S2KY00012"
+    ],
+    "committees": [
+      "C00705806",
+      "C00155051",
+      "C00193342"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 150712877,
+    "aipac": 979146,
+    "aipac_pacs": 979146,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2909452,
+    "aipac_sources": "AMP, AGG, AUSD, BAYPAC, BICPAC, BICOUNTY, COPAC, CITYPAC, DVPAC, FIPAC, GSPAC, HEARTLAND, HVPAC, LAFAS, MDACC, MMPAC, NACPAC, NATPAC, NORPAC, PHXED, RJC, STLBG, SUNPAC, DESERT, TPOH, USI, WAPAC, WPIN, WAFI, YJL",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 979146,
+    "grassroots": 48651879
+  },
+  "Rand Paul": {
+    "candidate_id": "S0KY00156",
+    "all_candidate_ids": [
+      "S0KY00156",
+      "H6KY06119"
+    ],
+    "committees": [
+      "C00496075",
+      "C00462069"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 59134051,
+    "aipac": 1000,
+    "aipac_pacs": 1000,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 200753,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 1000,
+    "grassroots": 34183609
+  },
+  "Bill Cassidy": {
+    "candidate_id": "S4LA00107",
+    "all_candidate_ids": [
+      "S4LA00107",
+      "H8LA00017"
+    ],
+    "committees": [
+      "C00543983",
+      "C00451807"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 45653911,
+    "aipac": 421062,
+    "aipac_pacs": 421062,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1616185,
+    "aipac_sources": "AIPAC, AMP, AUSD, BICOUNTY, FIPAC, LAFAS, NORPAC, PHXED, RJC, TPOH, USI",
+    "fossil_fuels": 377817,
+    "pharma": 1170733,
+    "defense": 68850,
+    "finance": 3638650,
+    "tech": 1083038,
+    "nra": 0,
+    "special_interest_total": 6760150,
+    "grassroots": 2906860
+  },
+  "John Kennedy": {
+    "candidate_id": "S4LA00065",
+    "all_candidate_ids": [
+      "S4LA00065"
+    ],
+    "committees": [
+      "C00608398",
+      "C00396044"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 78802619,
+    "aipac": 108680,
+    "aipac_pacs": 108680,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 787438,
+    "aipac_sources": "AIPAC, AMP, AUSD, CITYPAC, LAFAS, MDACC, NACPAC, NORPAC, RJC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 108680,
+    "grassroots": 39733467
+  },
+  "Susan Collins": {
+    "candidate_id": "S6ME00159",
+    "all_candidate_ids": [
+      "S6ME00159"
+    ],
+    "committees": [
+      "C00314575",
+      "C00705780"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 66104799,
+    "aipac": 1352418,
+    "aipac_pacs": 1352418,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2588601,
+    "aipac_sources": "AIPAC, AMP, AGG, AUSD, BAYPAC, BICPAC, BICOUNTY, COPAC, CITYPAC, DVPAC, FIPAC, GCSC, HEARTLAND, HVPAC, JAC, MMPAC, NACPAC, NATPAC, NORPAC, NWPAC, PHXED, PIA, RJC, DESERT, TPOH, USI, WAPAC, WPIN, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 1352418,
+    "grassroots": 11636354
+  },
+  "Angus King": {
+    "candidate_id": "S2ME00109",
+    "all_candidate_ids": [
+      "S2ME00109",
+      "H2ME02048"
+    ],
+    "committees": [
+      "C00516047",
+      "C00262436"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 14378373,
+    "aipac": 206555,
+    "aipac_pacs": 206555,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 402139,
+    "aipac_sources": "AIPAC, COPAC, FIPAC, JAC, JSTREET, MDACC, NACPAC, NATPAC, NORPAC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 206555,
+    "grassroots": 1829107
+  },
+  "Angela Alsobrooks": {
+    "candidate_id": "S4MD00327",
+    "all_candidate_ids": [
+      "S4MD00327"
+    ],
+    "committees": [
+      "C00840017"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 32592389,
+    "aipac": 224016,
+    "aipac_pacs": 224016,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1285520,
+    "aipac_sources": "DMFI, JAC, JSTREET, SUNPAC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 224016,
+    "grassroots": 11596847
+  },
+  "Elizabeth Warren": {
+    "candidate_id": "S2MA00170",
+    "all_candidate_ids": [
+      "S2MA00170",
+      "H8MA08055"
+    ],
+    "committees": [
+      "C00500843",
+      "C00329268"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 102571983,
+    "aipac": 30454,
+    "aipac_pacs": 30454,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1354560,
+    "aipac_sources": "DEVPAC, JAC, JSTREET",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 30454,
+    "grassroots": 68848573
+  },
+  "Ed Markey": {
+    "candidate_id": "S4MA00028",
+    "all_candidate_ids": [
+      "S4MA00028",
+      "H6MA07101"
+    ],
+    "committees": [
+      "C00175059",
+      "C00196774",
+      "C00049148"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 46882617,
+    "aipac": 54059,
+    "aipac_pacs": 54059,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1843226,
+    "aipac_sources": "AUSD, BICOUNTY, CITYPAC, JAC, JSTREET, MDACC, NACPAC, NATPAC, NORPAC, WAPAC, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 54059,
+    "grassroots": 9718065
+  },
+  "Gary Peters": {
+    "candidate_id": "S4MI00355",
+    "all_candidate_ids": [
+      "S4MI00355",
+      "H8MI09068"
+    ],
+    "committees": [
+      "C00437889"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 78402353,
+    "aipac": 404951,
+    "aipac_pacs": 222740,
+    "aipac_ie": 182211,
+    "aipac_lobby_donors": 2981833,
+    "aipac_sources": "AUSD, BICOUNTY, COPAC, CITYPAC, DMFI, FIPAC, GCSC, HEARTLAND, JAC, JSTREET, LAFAS, MDACC, MOPAC, PHXED, PIA, SUNPAC, TPOH",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 404951,
+    "grassroots": 32139074
+  },
+  "Elissa Slotkin": {
+    "candidate_id": "S4MI00470",
+    "all_candidate_ids": [
+      "S4MI00470",
+      "H8MI08102"
+    ],
+    "committees": [
+      "C00834218",
+      "C00650150"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 83601348,
+    "aipac": 491189,
+    "aipac_pacs": 390092,
+    "aipac_ie": 101097,
+    "aipac_lobby_donors": 4025834,
+    "aipac_sources": "AIPAC, CAJD, DMFI, JAC, JSTREET, NACPAC, PIA",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 491189,
+    "grassroots": 32925776
+  },
+  "Amy Klobuchar": {
+    "candidate_id": "S6MN00267",
+    "all_candidate_ids": [
+      "S6MN00267"
+    ],
+    "committees": [
+      "C00410191",
+      "C00431353"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 54933795,
+    "aipac": 393820,
+    "aipac_pacs": 393820,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2681048,
+    "aipac_sources": "AIPAC, AUSD, BICOUNTY, COPAC, FIPAC, JAC, JSTREET, LAFAS, MDACC, NACPAC, SUNPAC, DESERT, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 393820,
+    "grassroots": 15285691
+  },
+  "Tina Smith": {
+    "candidate_id": "S8MN00578",
+    "all_candidate_ids": [
+      "S8MN00578",
+      "H6MN01208"
+    ],
+    "committees": [
+      "C00663781",
+      "C00902932"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 28746849,
+    "aipac": 113794,
+    "aipac_pacs": 113794,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 809941,
+    "aipac_sources": "AUSD, BICOUNTY, CITYPAC, DMFI, FIPAC, GCSC, JAC, JSTREET, MIPAC, NACPAC, NORPAC, PIA, TPOH",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 113794,
+    "grassroots": 12095322
+  },
+  "Roger Wicker": {
+    "candidate_id": "S8MS00196",
+    "all_candidate_ids": [
+      "S8MS00196",
+      "H4MS01078"
+    ],
+    "committees": [
+      "C00443218",
+      "C00364380",
+      "C00285908",
+      "C00304741",
+      "C00325399",
+      "C00342485"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 32592675,
+    "aipac": 533926,
+    "aipac_pacs": 533926,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 929365,
+    "aipac_sources": "AIPAC, AMP, AGG, AUSD, BICOUNTY, COPAC, CITYPAC, FIPAC, GCSC, HEARTLAND, LAFAS, MDACC, MMPAC, NACPAC, NATPAC, NORPAC, RJC, SUNPAC, TPOH, USI, WAFI",
+    "fossil_fuels": 1318322,
+    "pharma": 2307431,
+    "defense": 1268851,
+    "finance": 4753606,
+    "tech": 1955081,
+    "nra": 0,
+    "special_interest_total": 12137217,
+    "grassroots": 1424514
+  },
+  "Cindy Hyde-Smith": {
+    "candidate_id": "S8MS00261",
+    "all_candidate_ids": [
+      "S8MS00261"
+    ],
+    "committees": [
+      "C00675348",
+      "C00705731"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 13978233,
+    "aipac": 221345,
+    "aipac_pacs": 221345,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 592936,
+    "aipac_sources": "AIPAC, COPAC, NORPAC, PIA, RJC, TPOH",
+    "fossil_fuels": 405084,
+    "pharma": 413278,
+    "defense": 343015,
+    "finance": 1175897,
+    "tech": 233514,
+    "nra": 0,
+    "special_interest_total": 2792133,
+    "grassroots": 1892979
+  },
+  "Josh Hawley": {
+    "candidate_id": "S8MO00160",
+    "all_candidate_ids": [
+      "S8MO00160"
+    ],
+    "committees": [
+      "C00652727"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 40933270,
+    "aipac": 273535,
+    "aipac_pacs": 273535,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 709911,
+    "aipac_sources": "AIPAC, AMP, CITYPAC, MDACC, NORPAC, RJC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 273535,
+    "grassroots": 19788270
+  },
+  "Eric Schmitt": {
+    "candidate_id": "S2MO00544",
+    "all_candidate_ids": [
+      "S2MO00544"
+    ],
+    "committees": [
+      "C00773184",
+      "C00775015"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 11136151,
+    "aipac": 37079,
+    "aipac_pacs": 37079,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 214373,
+    "aipac_sources": "AMP, AUSD, NORPAC, RJC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 37079,
+    "grassroots": 2764396
+  },
+  "Steve Daines": {
+    "candidate_id": "S2MT00096",
+    "all_candidate_ids": [
+      "S2MT00096",
+      "H2MT01060"
+    ],
+    "committees": [
+      "C00705715",
+      "C00491357"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 51235437,
+    "aipac": 561668,
+    "aipac_pacs": 561668,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1267358,
+    "aipac_sources": "AIPAC, AMP, AUSD, COPAC, FIPAC, GCSC, LAFAS, MDACC, NACPAC, NORPAC, NWPAC, PIA, RJC, SUNPAC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 561668,
+    "grassroots": 18188435
+  },
+  "Tim Sheehy": {
+    "candidate_id": "S4MT00183",
+    "all_candidate_ids": [
+      "S4MT00183"
+    ],
+    "committees": [
+      "C00829465",
+      "C00844159"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 31308424,
+    "aipac": 79253,
+    "aipac_pacs": 79253,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 562084,
+    "aipac_sources": "AMP, NORPAC, RJC, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 79253,
+    "grassroots": 10635172
+  },
+  "Deb Fischer": {
+    "candidate_id": "S2NE00094",
+    "all_candidate_ids": [
+      "S2NE00094"
+    ],
+    "committees": [
+      "C00498907"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 21104916,
+    "aipac": 632220,
+    "aipac_pacs": 632220,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 961832,
+    "aipac_sources": "AIPAC, AMP, AUSD, COPAC, FIPAC, GCSC, HEARTLAND, LAFAS, MDACC, NACPAC, NORPAC, RJC, SUNPAC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 632220,
+    "grassroots": 2427728
+  },
+  "Pete Ricketts": {
+    "candidate_id": "S6NE00129",
+    "all_candidate_ids": [
+      "S6NE00129"
+    ],
+    "committees": [
+      "C00414375",
+      "C00832436"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 24270629,
+    "aipac": 372552,
+    "aipac_pacs": 372552,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 488231,
+    "aipac_sources": "AIPAC, AMP, CITYPAC, SUNPAC, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 372552,
+    "grassroots": 378126
+  },
+  "Jacky Rosen": {
+    "candidate_id": "S8NV00156",
+    "all_candidate_ids": [
+      "S8NV00156",
+      "H6NV03139"
+    ],
+    "committees": [
+      "C00606939"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 81366674,
+    "aipac": 2310393,
+    "aipac_pacs": 2107243,
+    "aipac_ie": 203150,
+    "aipac_lobby_donors": 5292471,
+    "aipac_sources": "AIPAC, AUSD, BICOUNTY, CAJD, COPAC, CITYPAC, DMFI, FIPAC, GCSC, JAC, JSTREET, LAFAS, MDACC, NACPAC, NORPAC, DESERT, TPOH, WAPAC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 2310393,
+    "grassroots": 35181702
+  },
+  "Catherine Cortez Masto": {
+    "candidate_id": "S6NV00200",
+    "all_candidate_ids": [
+      "S6NV00200"
+    ],
+    "committees": [
+      "C00575548"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 92243731,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 48741176
+  },
+  "Jeanne Shaheen": {
+    "candidate_id": "S0NH00219",
+    "all_candidate_ids": [
+      "S0NH00219",
+      "H6NH01321"
+    ],
+    "committees": [
+      "C00439075",
+      "C00457325",
+      "C00368506",
+      "C00906446"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 55046308,
+    "aipac": 385505,
+    "aipac_pacs": 385505,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1396256,
+    "aipac_sources": "AIPAC, BICOUNTY, COPAC, CITYPAC, DMFI, FIPAC, HEARTLAND, JAC, JSTREET, NACPAC, NORPAC, DESERT, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 385505,
+    "grassroots": 16741652
+  },
+  "Maggie Hassan": {
+    "candidate_id": "S6NH00091",
+    "all_candidate_ids": [
+      "S6NH00091"
+    ],
+    "committees": [
+      "C00588772"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 65814257,
+    "aipac": 760212,
+    "aipac_pacs": 760212,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2602925,
+    "aipac_sources": "AIPAC, AUSD, COPAC, CITYPAC, DMFI, GCSC, JAC, JSTREET, MDACC, NORPAC, PIA, SUNPAC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 760212,
+    "grassroots": 27274883
+  },
+  "Cory Booker": {
+    "candidate_id": "S4NJ00185",
+    "all_candidate_ids": [
+      "S4NJ00185"
+    ],
+    "committees": [
+      "C00540500"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 67246098,
+    "aipac": 836541,
+    "aipac_pacs": 836541,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 4981532,
+    "aipac_sources": "AIPAC, AUSD, COPAC, DMFI, FIPAC, GCSC, JAC, MDACC, NACPAC, NATPAC, NORPAC, TPOH",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 836541,
+    "grassroots": 22473897
+  },
+  "Andy Kim": {
+    "candidate_id": "S4NJ00466",
+    "all_candidate_ids": [
+      "S4NJ00466",
+      "H8NJ03206"
+    ],
+    "committees": [
+      "C00648220"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 34741479,
+    "aipac": 512969,
+    "aipac_pacs": 512969,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1585052,
+    "aipac_sources": "AIPAC, DMFI, JAC, JSTREET, PIA",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 512969,
+    "grassroots": 8759903
+  },
+  "Martin Heinrich": {
+    "candidate_id": "S2NM00088",
+    "all_candidate_ids": [
+      "S2NM00088",
+      "H8NM01224"
+    ],
+    "committees": [
+      "C00434563"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 35063857,
+    "aipac": 288857,
+    "aipac_pacs": 288857,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 612501,
+    "aipac_sources": "COPAC, FIPAC, JAC, JSTREET, MDACC, NACPAC, NATPAC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 288857,
+    "grassroots": 7013576
+  },
+  "Ben Ray Luj\u00e1n": {
+    "candidate_id": "S0NM00058",
+    "all_candidate_ids": [
+      "S0NM00058",
+      "H8NM03196"
+    ],
+    "committees": [
+      "C00443689"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 26156239,
+    "aipac": 93499,
+    "aipac_pacs": 93499,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 546394,
+    "aipac_sources": "DMFI, JAC, JSTREET, MDACC, NATPAC",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 93499,
+    "grassroots": 6661163
+  },
+  "Chuck Schumer": {
+    "candidate_id": "S8NY00082",
+    "all_candidate_ids": [
+      "S8NY00082",
+      "H0NY16010"
+    ],
+    "committees": [
+      "C00346312",
+      "C00327270",
+      "C00126219"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 140928794,
+    "aipac": 415730,
+    "aipac_pacs": 415730,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 6119067,
+    "aipac_sources": "AIPAC, AGG, AUSD, BICPAC, COPAC, CITYPAC, FIPAC, GCSC, HEARTLAND, JAC, LAFAS, MDACC, MMPAC, NACPAC, NATPAC, NORPAC, PIA, SUNPAC, TPOH, USI, WAPAC, WPIN, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 415730,
+    "grassroots": 8553949
+  },
+  "Kirsten Gillibrand": {
+    "candidate_id": "S0NY00410",
+    "all_candidate_ids": [
+      "S0NY00410",
+      "H6NY20167"
+    ],
+    "committees": [
+      "C00413914"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 75276752,
+    "aipac": 628057,
+    "aipac_pacs": 628057,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2662232,
+    "aipac_sources": "AIPAC, AUSD, COPAC, CITYPAC, DMFI, FIPAC, HVPAC, JAC, LAFAS, MMPAC, MOPAC, NACPAC, NORPAC, SUNPAC, USI, WAPAC, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 628057,
+    "grassroots": 14001733
+  },
+  "Thom Tillis": {
+    "candidate_id": "S4NC00162",
+    "all_candidate_ids": [
+      "S4NC00162"
+    ],
+    "committees": [
+      "C00705640",
+      "C00545772"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 45829782,
+    "aipac": 405386,
+    "aipac_pacs": 405386,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1276848,
+    "aipac_sources": "AIPAC, AMP, AUSD, COPAC, CITYPAC, LAFAS, NACPAC, NORPAC, PHXED, PIA, RJC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 405386,
+    "grassroots": 9380460
+  },
+  "Ted Budd": {
+    "candidate_id": "S2NC00505",
+    "all_candidate_ids": [
+      "S2NC00505",
+      "H6NC13129"
+    ],
+    "committees": [
+      "C00772889",
+      "C00614776"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 23360651,
+    "aipac": 80136,
+    "aipac_pacs": 80136,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 609410,
+    "aipac_sources": "AMP, AUSD, NORPAC, PHXED, RJC, TPOH, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 80136,
+    "grassroots": 6101152
+  },
+  "John Hoeven": {
+    "candidate_id": "S0ND00093",
+    "all_candidate_ids": [
+      "S0ND00093"
+    ],
+    "committees": [
+      "C00473371"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 12719087,
+    "aipac": 314804,
+    "aipac_pacs": 314804,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 429472,
+    "aipac_sources": "AIPAC, AMP, NORPAC, RJC, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 314804,
+    "grassroots": 729028
+  },
+  "Kevin Cramer": {
+    "candidate_id": "S8ND00120",
+    "all_candidate_ids": [
+      "S8ND00120",
+      "H6ND00074"
+    ],
+    "committees": [
+      "C00504704",
+      "C00305003",
+      "C00337287"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 18584660,
+    "aipac": 364123,
+    "aipac_pacs": 364123,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 605047,
+    "aipac_sources": "AIPAC, AMP, NORPAC, RJC, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 364123,
+    "grassroots": 2743724
+  },
+  "Bernie Moreno": {
+    "candidate_id": "S4OH00192",
+    "all_candidate_ids": [
+      "S4OH00192"
+    ],
+    "committees": [
+      "C00775585",
+      "C00837484",
+      "C00829499"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 35907592,
+    "aipac": 66112,
+    "aipac_pacs": 66112,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1071106,
+    "aipac_sources": "AMP, PHXED, RJC, SUNPAC, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 66112,
+    "grassroots": 5355925
+  },
+  "James Lankford": {
+    "candidate_id": "S4OK00232",
+    "all_candidate_ids": [
+      "S4OK00232",
+      "H0OK05114"
+    ],
+    "committees": [
+      "C00466482"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 18744118,
+    "aipac": 311655,
+    "aipac_pacs": 311655,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 569082,
+    "aipac_sources": "AIPAC, AUSD, COPAC, FIPAC, NATPAC, NORPAC, PHXED, PIA, RJC, DESERT, TPOH, USI",
+    "fossil_fuels": 24556,
+    "pharma": 236282,
+    "defense": 140764,
+    "finance": 945236,
+    "tech": 533328,
+    "nra": 0,
+    "special_interest_total": 2191821,
+    "grassroots": 1461314
+  },
+  "Ron Wyden": {
+    "candidate_id": "S6OR00110",
+    "all_candidate_ids": [
+      "S6OR00110",
+      "H0OR03026"
+    ],
+    "committees": [
+      "C00307454",
+      "C00308676",
+      "C00113530"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 50742590,
+    "aipac": 474393,
+    "aipac_pacs": 474393,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 2765834,
+    "aipac_sources": "AIPAC, AGG, AUSD, BICPAC, BICOUNTY, COPAC, CITY, DVPAC, FIPAC, GSPAC, GCSC, HEARTLAND, HVPAC, JAC, LAFAS, MDACC, MMPAC, MOPAC, NACPAC, NATPAC, NORPAC, PIA, STLBG, SUNPAC, DESERT, TPOH, USI, WAPAC, WPIN, WAFI",
+    "fossil_fuels": 513368,
+    "pharma": 2825760,
+    "defense": 425685,
+    "finance": 6624827,
+    "tech": 2797823,
+    "nra": 0,
+    "special_interest_total": 13661856,
+    "grassroots": 4224014
+  },
+  "Jeff Merkley": {
+    "candidate_id": "S8OR00207",
+    "all_candidate_ids": [
+      "S8OR00207"
+    ],
+    "committees": [
+      "C00437277"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 37282947,
+    "aipac": 0,
+    "aipac_pacs": 0,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 0,
+    "aipac_sources": "",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 0,
+    "grassroots": 17276952
+  },
+  "Dave McCormick": {
+    "candidate_id": "S2PA00661",
+    "all_candidate_ids": [
+      "S2PA00661",
+      "H4PA20061"
+    ],
+    "committees": [
+      "C00800623",
+      "C00851980",
+      "C00829515",
+      "C00322123",
+      "C00280784"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 61376689,
+    "aipac": 133977,
+    "aipac_pacs": 133977,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 920491,
+    "aipac_sources": "AMP, RJC, USI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 133977,
+    "grassroots": 11849648
+  },
+  "Jack Reed": {
+    "candidate_id": "S6RI00163",
+    "all_candidate_ids": [
+      "S6RI00163",
+      "H0RI02071"
+    ],
+    "committees": [
+      "C00238907"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 25251775,
+    "aipac": 328083,
+    "aipac_pacs": 328083,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 706601,
+    "aipac_sources": "AIPAC, AGG, AUSD, BICOUNTY, COPAC, CITY, DMFI, FIPAC, HEARTLAND, HVPAC, JAC, JSTREET, MDACC, MMPAC, MOPAC, NACPAC, NATPAC, NORPAC, NWPAC, PHXED, STLBG, SUNPAC, DESERT, TPOH, USI WAPAC, WPIN, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 328083,
+    "grassroots": 624705
+  },
+  "Sheldon Whitehouse": {
+    "candidate_id": "S6RI00221",
+    "all_candidate_ids": [
+      "S6RI00221"
+    ],
+    "committees": [
+      "C00410803"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 25463032,
+    "aipac": 408044,
+    "aipac_pacs": 408044,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1131718,
+    "aipac_sources": "AIPAC, AUSD, BICOUNTY, COPAC, CITY, FIPAC, HEARTLAND, JAC, JSTREET, LAFAS, MDACC, NACPAC, NATPAC, NORPAC, PHXED, SUNPAC, TPOH, WAPAC, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 408044,
+    "grassroots": 3052925
+  },
+  "Lindsey Graham": {
+    "candidate_id": "S0SC00149",
+    "all_candidate_ids": [
+      "S0SC00149",
+      "H4SC03087"
+    ],
+    "committees": [
+      "C00705574",
+      "C00364505",
+      "C00458828",
+      "C00292607"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 168356674,
+    "aipac": 898750,
+    "aipac_pacs": 898750,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 3710443,
+    "aipac_sources": "AIPAC, AMP, AUSD, BAYPAC, BICPAC, BICOUNTY, CITY, FIPAC, GSPAC, GCSC, HVPAC, LAFAS, MDACC, MMPAC, NACPAC, NATPAC, NORPAC, NWPAC, PIA, RJC, TPOH, USI, WAPAC, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 898750,
+    "grassroots": 75606549
+  },
+  "Tim Scott": {
+    "candidate_id": "S4SC00240",
+    "all_candidate_ids": [
+      "S4SC00240",
+      "H0SC01279"
+    ],
+    "committees": [
+      "C00540302",
+      "C00476226"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 84807704,
+    "aipac": 249459,
+    "aipac_pacs": 249459,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 1886259,
+    "aipac_sources": "AIPAC, AMP, AGG, AUSD, BICPAC, COPAC, FIPAC, GCSC, MDACC, NACPAC, NORPAC, PIA, RJC, SUNPAC, TPOH, USI, WAPAC, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 249459,
+    "grassroots": 45159736
+  },
+  "John Thune": {
+    "candidate_id": "S2SD00068",
+    "all_candidate_ids": [
+      "S2SD00068",
+      "H6SD00085"
+    ],
+    "committees": [
+      "C00409581",
+      "C00307165",
+      "C00395228"
+    ],
+    "source": "FEC_v7",
+    "total_raised": 68565897,
+    "aipac": 307569,
+    "aipac_pacs": 307569,
+    "aipac_ie": 0,
+    "aipac_lobby_donors": 773514,
+    "aipac_sources": "AIPAC, AUSD, BICPAC, COPAC, CITY, DVPAC, FIPAC, NACPAC, NATPAC, NORPAC, PHXED, RJC, DESERT, TPOH, USI, WAPAC, WAFI",
+    "fossil_fuels": 0,
+    "pharma": 0,
+    "defense": 0,
+    "finance": 0,
+    "tech": 0,
+    "nra": 0,
+    "special_interest_total": 307569,
+    "grassroots": 6722719
+  },
   "_meta": {
     "complete": false,
-    "members_done": 0,
+    "members_done": 75,
     "members_total": 536,
     "missing": [
       "Aaron Bean",
       "Abraham Hamadeh",
       "Adam Gray",
-      "Adam Schiff",
       "Adam Smith",
       "Addison McDowell",
       "Adelita Grijalva",
       "Adrian Smith",
       "Adriano Espaillat",
       "Al Green",
-      "Alex Padilla",
       "Alexandria Ocasio-Cortez",
       "Alma Adams",
       "Ami Bera",
-      "Amy Klobuchar",
       "Analilia Mejia",
       "Andrea Salinas",
       "Andrew Clyde",
@@ -27,11 +1938,8 @@
       "Andy Barr",
       "Andy Biggs",
       "Andy Harris",
-      "Andy Kim",
       "Andy Ogles",
-      "Angela Alsobrooks",
       "Angie Craig",
-      "Angus King",
       "Ann Wagner",
       "Anna Paulina Luna",
       "April McClain Delaney",
@@ -44,17 +1952,23 @@
       "Barry Moore",
       "Becca Balint",
       "Ben Cline",
-      "Ben Ray Luj\u00e1n",
       "Bennie Thompson",
-      "Bernie Moreno",
       "Bernie Sanders",
       "Beth Van Duyne",
       "Betty McCollum",
-      "Bill Cassidy",
       "Bill Foster",
       "Bill Hagerty",
-      "Bill Huizenga"
+      "Bill Huizenga",
+      "Bill Keating",
+      "Blake Moore",
+      "Bob Latta",
+      "Bob Onder",
+      "Bobby Scott",
+      "Bonnie Watson Coleman",
+      "Brad Finstad",
+      "Brad Knott",
+      "Brad Schneider"
     ],
-    "status": "starting"
+    "status": "running"
   }
 }

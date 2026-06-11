@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-11T16:06:09.209746+00:00",
+    "generated_at": "2026-06-11T21:32:18.408733+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -2415,13 +2415,21 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Sydney Kamlager-Dove": {
-    "pct": 15,
-    "lbl": "Clean",
+    "pct": 34,
+    "lbl": "Low Risk",
     "vto": false,
-    "col": "#16a34a",
-    "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": []
+    "col": "#ca8a04",
+    "super_pac_total": 316155,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ],
+    "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Linda S\u00e1nchez": {
     "pct": 59,
@@ -2745,13 +2753,21 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Brittany Pettersen": {
-    "pct": 14,
-    "lbl": "Clean",
+    "pct": 45,
+    "lbl": "Some Corporate",
     "vto": false,
-    "col": "#16a34a",
-    "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": []
+    "col": "#d97706",
+    "super_pac_total": 508376,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ],
+    "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Yadira Caraveo": {
     "pct": 0,
@@ -3385,13 +3401,21 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Nikema Williams": {
-    "pct": 14,
-    "lbl": "Clean",
+    "pct": 37,
+    "lbl": "Low Risk",
     "vto": false,
-    "col": "#16a34a",
-    "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": []
+    "col": "#ca8a04",
+    "super_pac_total": 343447,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ],
+    "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Rich McCormick": {
     "pct": 48,
@@ -3613,13 +3637,21 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Jonathan Jackson": {
-    "pct": 15,
-    "lbl": "Clean",
+    "pct": 23,
+    "lbl": "Low Risk",
     "vto": false,
-    "col": "#16a34a",
-    "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": []
+    "col": "#ca8a04",
+    "super_pac_total": 27983,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ],
+    "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Robin Kelly": {
     "pct": 52,
@@ -6161,13 +6193,21 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Valerie Foushee": {
-    "pct": 14,
-    "lbl": "Clean",
+    "pct": 52,
+    "lbl": "Some Corporate",
     "vto": false,
-    "col": "#16a34a",
-    "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": []
+    "col": "#d97706",
+    "super_pac_total": 3362373,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ],
+    "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Brad Miller": {
     "pct": 45,
@@ -6670,13 +6710,21 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Mary Gay Scanlon": {
-    "pct": 15,
-    "lbl": "Clean",
+    "pct": 41,
+    "lbl": "Some Corporate",
     "vto": false,
-    "col": "#16a34a",
-    "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": []
+    "col": "#d97706",
+    "super_pac_total": 359861,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ],
+    "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Chrissy Houlahan": {
     "pct": 58,
@@ -6862,13 +6910,21 @@
     "reasons": []
   },
   "Gabe Amo": {
-    "pct": 14,
-    "lbl": "Clean",
+    "pct": 33,
+    "lbl": "Low Risk",
     "vto": false,
-    "col": "#16a34a",
-    "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": []
+    "col": "#ca8a04",
+    "super_pac_total": 240735,
+    "any_corporate": true,
+    "reasons": [
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ],
+    "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Seth Magaziner": {
     "pct": 9,

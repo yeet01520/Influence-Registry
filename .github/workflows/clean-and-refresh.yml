@@ -1,0 +1,93 @@
+name: Clean & Refresh FEC Data (full pipeline)
+
+# Manually triggered. Runs the full data-correction pipeline in the correct
+# order so each step feeds the next:
+#   1. clean_candidate_ids.py  — strip contaminated candidate IDs, re-fetch
+#                                 each member's committees from clean IDs only.
+#                                 (root fix — everything downstream depends on
+#                                 correct committee lists)
+#   2. refresh_total_raised.py — recompute total_raised from the now-correct
+#                                 committees via the FEC totals endpoint.
+#   3. repatch_sectors.py      — recompute the five OpenSecrets sector fields
+#                                 (and special_interest_total) using the fixed
+#                                 name matcher. CSV-based, no FEC API.
+#
+# members.json (name/state/office, needed by steps 1 and 3) is generated at
+# runtime from data/senate.json + data/house.json, so nothing extra to commit.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  clean-and-refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90    # cleanup ~300 calls + totals ~1,100 calls, with retries
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build members.json from senate.json + house.json
+        run: |
+          python3 - <<'PY'
+          import json
+          members = []
+          for fn, office in [("data/senate.json", "S"), ("data/house.json", "H")]:
+              for m in json.load(open(fn)):
+                  members.append({
+                      "name":   m["name"],
+                      "state":  m.get("state", ""),
+                      "office": office,
+                  })
+          json.dump(members, open("data/members.json", "w"))
+          print(f"Wrote data/members.json with {len(members)} members")
+          PY
+
+      - name: "Step 1 — Clean contaminated candidate IDs + re-fetch committees"
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: |
+          python3 scripts/clean_candidate_ids.py \
+            --fec data/fec.json \
+            --members data/members.json \
+            --out data/fec.json
+
+      - name: "Step 2 — Refresh total_raised from clean committees"
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: |
+          # Remove any stale progress file so this run starts fresh against the
+          # newly-cleaned committee lists rather than resuming an old run.
+          rm -f data/fec.json.progress
+          python3 scripts/refresh_total_raised.py
+
+      - name: "Step 3 — Repatch OpenSecrets sector fields (CSV, no API)"
+        run: |
+          python3 scripts/repatch_sectors.py \
+            --fec data/fec.json \
+            --members data/members.json \
+            --csv-dir data/raw \
+            --script scripts/fetch_fec_data.py \
+            --out data/fec.json
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # members.json is a runtime artifact; don't commit it.
+          rm -f data/members.json data/fec.json.progress
+          git add data/fec.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Clean contaminated candidate IDs; refresh total_raised + sectors (auto)"
+            git pull --rebase origin main
+            git push
+          fi

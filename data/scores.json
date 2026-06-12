@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-12T01:49:52.651084+00:00",
+    "generated_at": "2026-06-12T01:57:09.081525+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -8790,25 +8790,25 @@
   },
   "Alan Armstrong": {
     "pct": 0,
-    "lbl": "Clean",
+    "lbl": "N/A",
     "vto": false,
-    "col": "#16a34a",
+    "col": "#9ca3af",
     "super_pac_total": 0,
     "any_corporate": false,
     "reasons": [],
-    "score_basis": "No tracked special interest money"
+    "no_campaign": true,
+    "score_basis": "No campaign data. Appointed member with no federal campaign finance history on file."
   },
   "Jon Husted": {
-    "pct": 15,
-    "lbl": "Clean",
+    "pct": 0,
+    "lbl": "N/A",
     "vto": false,
-    "col": "#16a34a",
-    "super_pac_total": 194627,
-    "any_corporate": true,
-    "reasons": [
-      "AIPAC"
-    ],
-    "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
+    "col": "#9ca3af",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
+    "no_campaign": true,
+    "score_basis": "No campaign data. Appointed member with no federal campaign finance history on file."
   },
   "Chris Van Hollen": {
     "pct": 67,

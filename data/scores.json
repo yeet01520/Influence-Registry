@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-18T18:34:19.007822+00:00",
+    "generated_at": "2026-06-18T18:46:41.010091+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -9923,12 +9923,12 @@
     "score_basis": "Manual baseline \u2014 challenger with no voting record."
   },
   "James Talarico": {
-    "pct": 8,
+    "pct": 23,
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
     "super_pac_total": 0,
-    "any_corporate": false,
+    "any_corporate": true,
     "reasons": [
       "Oil/Gas",
       "Pharma",

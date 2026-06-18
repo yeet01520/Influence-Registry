@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-18T00:48:52.616965+00:00",
+    "generated_at": "2026-06-18T15:24:17.719594+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -9921,5 +9921,25 @@
     "any_corporate": false,
     "reasons": [],
     "score_basis": "Manual baseline \u2014 challenger with no voting record."
+  },
+  "James Talarico": {
+    "pct": 0,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
+    "score_basis": "No tracked special interest money"
+  },
+  "Ken Paxton": {
+    "pct": 0,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
+    "score_basis": "No tracked special interest money"
   }
 }

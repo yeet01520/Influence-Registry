@@ -9923,12 +9923,12 @@
     "score_basis": "Manual baseline \u2014 challenger with no voting record."
   },
   "James Talarico": {
-    "pct": 23,
+    "pct": 8,
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
     "super_pac_total": 0,
-    "any_corporate": true,
+    "any_corporate": false,
     "reasons": [
       "Oil/Gas",
       "Pharma",

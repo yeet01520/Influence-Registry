@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-17T23:36:55.458404+00:00",
+    "generated_at": "2026-06-18T00:30:01.972988+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -995,7 +995,7 @@
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
-  "Ben Ray Luján": {
+  "Ben Ray Luj\u00e1n": {
     "pct": 29,
     "lbl": "Low Risk",
     "vto": false,
@@ -1830,7 +1830,7 @@
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
-  "Raúl Grijalva": {
+  "Ra\u00fal Grijalva": {
     "pct": 45,
     "lbl": "Some Corporate",
     "vto": false,
@@ -2431,7 +2431,7 @@
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
-  "Linda Sánchez": {
+  "Linda S\u00e1nchez": {
     "pct": 59,
     "lbl": "Some Corporate",
     "vto": false,
@@ -2525,7 +2525,7 @@
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
-  "Nanette Barragán": {
+  "Nanette Barrag\u00e1n": {
     "pct": 48,
     "lbl": "Some Corporate",
     "vto": false,
@@ -3283,7 +3283,7 @@
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
-  "Mario Díaz-Balart": {
+  "Mario D\u00edaz-Balart": {
     "pct": 60,
     "lbl": "Moderate Risk",
     "vto": false,
@@ -3300,7 +3300,7 @@
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
-  "María Elvira Salazar": {
+  "Mar\u00eda Elvira Salazar": {
     "pct": 55,
     "lbl": "Some Corporate",
     "vto": false,
@@ -3317,7 +3317,7 @@
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
-  "Carlos Giménez": {
+  "Carlos Gim\u00e9nez": {
     "pct": 44,
     "lbl": "Some Corporate",
     "vto": false,
@@ -3679,7 +3679,7 @@
     "any_corporate": false,
     "reasons": []
   },
-  "Chuy García": {
+  "Chuy Garc\u00eda": {
     "pct": 27,
     "lbl": "Low Risk",
     "vto": false,
@@ -4009,7 +4009,7 @@
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
-  "André Carson": {
+  "Andr\u00e9 Carson": {
     "pct": 49,
     "lbl": "Some Corporate",
     "vto": false,
@@ -5715,7 +5715,7 @@
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
-  "Nydia Velázquez": {
+  "Nydia Vel\u00e1zquez": {
     "pct": 53,
     "lbl": "Some Corporate",
     "vto": false,
@@ -8464,7 +8464,7 @@
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
-  "Jenniffer González-Colón": {
+  "Jenniffer Gonz\u00e1lez-Col\u00f3n": {
     "pct": 41,
     "lbl": "Some Corporate",
     "vto": false,
@@ -9779,7 +9779,7 @@
     "reasons": [],
     "score_basis": "No tracked special interest money"
   },
-  "Pablo Hernández": {
+  "Pablo Hern\u00e1ndez": {
     "pct": 0,
     "lbl": "Clean",
     "vto": false,
@@ -9913,17 +9913,13 @@
     "score_basis": "No tracked special interest money"
   },
   "Graham Platner": {
-    "pct": 1,
+    "pct": 0,
     "lbl": "Clean",
     "vto": false,
     "col": "#16a34a",
     "super_pac_total": 0,
     "any_corporate": false,
-    "reasons": [
-      "99% of funds from individual donors",
-      "No corporate PAC or tracked special-interest money on record",
-      "Funding-purity score only — challenger has no voting record to evaluate"
-    ],
-    "score_basis": "Funding-purity (individual donor share); challenger, no voting record"
+    "reasons": [],
+    "score_basis": "No tracked special interest money"
   }
 }

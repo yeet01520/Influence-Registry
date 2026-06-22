@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Graham Platner",
+    "party": "D",
+    "state": "ME",
+    "chamber": "Senate",
+    "role": "Senate Challenger",
+    "race": "ME-Sen 2026",
+    "opponent": "Susan Collins",
+    "challenger": true
+  },
+  {
+    "name": "James Talarico",
+    "party": "D",
+    "state": "TX",
+    "chamber": "Senate",
+    "role": "Senate Challenger",
+    "race": "TX-Sen 2026",
+    "opponent": "Ken Paxton",
+    "challenger": true,
+    "id": 2
+  },
+  {
+    "name": "Ken Paxton",
+    "party": "R",
+    "state": "TX",
+    "chamber": "Senate",
+    "role": "Senate Challenger",
+    "race": "TX-Sen 2026",
+    "opponent": "James Talarico",
+    "challenger": true,
+    "id": 3
+  },
+  {
+    "name": "Roy Cooper",
+    "party": "D",
+    "state": "NC",
+    "race": "NC-Sen 2026",
+    "opponent": "Michael Whatley",
+    "id": 4,
+    "chamber": "Senate",
+    "role": "Senate Challenger",
+    "challenger": true
+  },
+  {
+    "name": "Michael Whatley",
+    "party": "R",
+    "state": "NC",
+    "race": "NC-Sen 2026",
+    "opponent": "Roy Cooper",
+    "id": 5,
+    "chamber": "Senate",
+    "role": "Senate Challenger",
+    "challenger": true
+  },
+  {
+    "name": "Mary Peltola",
+    "party": "D",
+    "state": "AK",
+    "race": "AK-Sen 2026",
+    "opponent": "Dan Sullivan",
+    "id": 6,
+    "chamber": "Senate",
+    "role": "Senate Challenger",
+    "challenger": true
+  },
+  {
+    "name": "Sherrod Brown",
+    "party": "D",
+    "state": "OH",
+    "race": "OH-Sen 2026",
+    "opponent": "Jon Husted",
+    "id": 7,
+    "chamber": "Senate",
+    "role": "Senate Challenger",
+    "challenger": true
+  },
+  {
+    "name": "Josh Turek",
+    "party": "D",
+    "state": "IA",
+    "race": "IA-Sen 2026",
+    "opponent": "Ashley Hinson",
+    "id": 8,
+    "chamber": "Senate",
+    "role": "Senate Challenger",
+    "challenger": true
+  }
+]

@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-22T22:53:03.882617+00:00",
+    "generated_at": "2026-06-22T22:57:44.255587+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -1114,20 +1114,14 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Sherrod Brown": {
-    "pct": 71,
-    "lbl": "Moderate Risk",
+    "pct": 0,
+    "lbl": "Clean",
     "vto": false,
-    "col": "#ea580c",
-    "super_pac_total": 489210,
-    "any_corporate": true,
-    "reasons": [
-      "AIPAC",
-      "Pharma",
-      "Finance",
-      "Defense",
-      "Tech"
-    ],
-    "score_basis": "No FEC committee totals; manual editorial score based on record."
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
+    "score_basis": "No FEC fundraising totals available to score funding mix."
   },
   "Bernie Moreno": {
     "pct": 77,
@@ -10028,5 +10022,45 @@
       "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
+  },
+  "Roy Cooper": {
+    "pct": 0,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
+    "score_basis": "No FEC fundraising totals available to score funding mix."
+  },
+  "Michael Whatley": {
+    "pct": 0,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
+    "score_basis": "No FEC fundraising totals available to score funding mix."
+  },
+  "Mary Peltola": {
+    "pct": 0,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
+    "score_basis": "No FEC fundraising totals available to score funding mix."
+  },
+  "Josh Turek": {
+    "pct": 0,
+    "lbl": "Clean",
+    "vto": false,
+    "col": "#16a34a",
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
+    "score_basis": "No FEC fundraising totals available to score funding mix."
   }
 }

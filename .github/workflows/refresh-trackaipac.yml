@@ -1,0 +1,70 @@
+name: Refresh TrackAIPAC Data
+
+# Manually-triggered refresh of AIPAC / pro-Israel lobby data from the LIVE
+# TrackAIPAC congress page (https://www.trackaipac.com/congress).
+#
+# WHY MANUAL: this scrapes a third-party page. If TrackAIPAC changes their
+# layout, the parser could misread data. So this workflow ALWAYS runs a
+# dry-run first and prints a full summary of what would change. You review
+# that summary, and only run again with commit=true once it looks right.
+#
+# HOW TO USE:
+#   1. Actions -> "Refresh TrackAIPAC Data" -> Run workflow, leave commit=false.
+#   2. Open the run log, read the "CHANGES" summary. Sanity-check it:
+#        - Does the matched count look right (~490+ members)?
+#        - Is DeGette (and other IE members) updated as expected?
+#        - Are hundreds of members being wrongly zeroed? (=> parse broke, DON'T commit)
+#   3. If it looks correct, run again with commit=true to write + commit.
+#   4. After committing, run "Clean & Refresh" is NOT needed (AIPAC only), but
+#      DO run "Generate Static Pages" then "Update index.html" so scores and the
+#      embedded payload pick up the new AIPAC figures.
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit:
+        description: "Write changes and commit? (false = preview only)"
+        required: true
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+jobs:
+  refresh-trackaipac:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Preview changes (dry run)
+        run: |
+          echo "::group::TrackAIPAC dry-run summary"
+          python3 scripts/fetch_trackaipac_live.py --dry-run
+          echo "::endgroup::"
+
+      - name: Apply changes
+        if: ${{ inputs.commit == 'true' }}
+        run: |
+          echo "commit=true -> writing changes"
+          python3 scripts/fetch_trackaipac_live.py
+
+      - name: Commit updated data
+        if: ${{ inputs.commit == 'true' }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fec.json data/aipac.json data/raw/trackaipac_page.txt
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Refresh AIPAC data from live TrackAIPAC (manual)"
+            git push
+            echo "Committed. Now run Generate Static Pages -> Update index.html."
+          fi

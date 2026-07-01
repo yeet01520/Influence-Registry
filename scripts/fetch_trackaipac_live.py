@@ -75,6 +75,26 @@ def fetch_page():
     with urllib.request.urlopen(req, timeout=45) as resp:
         return resp.read().decode("utf-8", errors="replace")
 
+def html_to_text(html):
+    """Strip HTML tags to plain text matching the format the parser expects.
+    The live page is raw HTML; the parser was written for the rendered text
+    (tags removed, content run together). This converts one to the other."""
+    import html as _html
+    # Drop script/style blocks entirely
+    html = re.sub(r'(?is)<(script|style)[^>]*>.*?</\1>', ' ', html)
+    # Convert block-closing tags to nothing (content runs together like the
+    # rendered page: "…Total: $X</div><div>Donations:…" -> "…Total: $XDonations:…")
+    # but turn tags that separate NAME from previous content into a space so
+    # member headers stay word-separated.
+    html = re.sub(r'(?i)<br\s*/?>', ' ', html)
+    # Remove all remaining tags
+    html = re.sub(r'<[^>]+>', '', html)
+    # Decode HTML entities (&amp; &#39; etc.)
+    html = _html.unescape(html)
+    # Collapse whitespace
+    html = re.sub(r'[ \t\r\n\u2028\u2029\xa0]+', ' ', html)
+    return html
+
 # ── Parse (tested against live data) ─────────────────────────────────────────
 def parse_live(text):
     """Return {normalized_name: {total, pacs, ie, sources, approved}}."""
@@ -144,8 +164,10 @@ def main():
         print(f"Parsing local file {args.from_file}")
     else:
         print(f"Fetching {URL} ...")
-        text = fetch_page()
-        print(f"  Got {len(text):,} chars")
+        raw = fetch_page()
+        print(f"  Got {len(raw):,} chars of HTML")
+        text = html_to_text(raw)
+        print(f"  Converted to {len(text):,} chars of text")
 
     ta = parse_live(text)
     print(f"  Parsed {len(ta)} members from TrackAIPAC")

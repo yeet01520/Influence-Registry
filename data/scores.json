@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-23T01:31:58.083556+00:00",
+    "generated_at": "2026-07-01T05:58:25.106675+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -80,7 +80,12 @@
     "super_pac_total": 4461823,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -228,7 +233,12 @@
     "super_pac_total": 1247085,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -302,7 +312,12 @@
     "super_pac_total": 5280917,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -1041,7 +1056,12 @@
     "super_pac_total": 3290289,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -1262,7 +1282,12 @@
     "super_pac_total": 1539762,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -1515,7 +1540,12 @@
     "super_pac_total": 2165780,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -6062,7 +6092,12 @@
     "super_pac_total": 5596890,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -6999,7 +7034,12 @@
     "super_pac_total": 260557,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -8942,7 +8982,12 @@
     "super_pac_total": 181458,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -8981,7 +9026,12 @@
     "super_pac_total": 470328,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -8991,8 +9041,14 @@
     "vto": false,
     "col": "#ca8a04",
     "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": [],
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Laura Friedman": {
@@ -9003,7 +9059,12 @@
     "super_pac_total": 118670,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9015,7 +9076,12 @@
     "super_pac_total": 205187,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9027,7 +9093,12 @@
     "super_pac_total": 619779,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9039,7 +9110,12 @@
     "super_pac_total": 414326,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9051,7 +9127,12 @@
     "super_pac_total": 611825,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9063,7 +9144,12 @@
     "super_pac_total": 835569,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9075,7 +9161,12 @@
     "super_pac_total": 3095438,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9121,7 +9212,12 @@
     "super_pac_total": 333790,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9150,7 +9246,12 @@
     "super_pac_total": 910177,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9162,7 +9263,12 @@
     "super_pac_total": 457637,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9266,7 +9372,12 @@
     "super_pac_total": 13167,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9278,7 +9389,12 @@
     "super_pac_total": 391677,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9324,7 +9440,12 @@
     "super_pac_total": 754504,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9336,7 +9457,12 @@
     "super_pac_total": 156890,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9358,7 +9484,12 @@
     "super_pac_total": 962453,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9370,7 +9501,12 @@
     "super_pac_total": 882674,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9382,7 +9518,12 @@
     "super_pac_total": 400907,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9411,7 +9552,12 @@
     "super_pac_total": 1787185,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9423,7 +9569,12 @@
     "super_pac_total": 1203265,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9484,8 +9635,14 @@
     "vto": false,
     "col": "#ea580c",
     "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": [],
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Troy Balderson": {
@@ -9547,7 +9704,12 @@
     "super_pac_total": 246499,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9559,7 +9721,12 @@
     "super_pac_total": 1812897,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9685,7 +9852,12 @@
     "super_pac_total": 189665,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9731,7 +9903,12 @@
     "super_pac_total": 210086,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9743,7 +9920,12 @@
     "super_pac_total": 514560,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9755,7 +9937,12 @@
     "super_pac_total": 112035,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9767,7 +9954,12 @@
     "super_pac_total": 61940,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9779,7 +9971,12 @@
     "super_pac_total": 99841,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9840,8 +10037,14 @@
     "vto": false,
     "col": "#16a34a",
     "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": [],
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Eleanor Holmes Norton": {
@@ -9850,8 +10053,14 @@
     "vto": false,
     "col": "#b91c1c",
     "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": [],
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
+    ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Pablo Hern\u00e1ndez": {
@@ -9860,8 +10069,13 @@
     "vto": false,
     "col": "#16a34a",
     "super_pac_total": 0,
-    "any_corporate": false,
-    "reasons": [],
+    "any_corporate": true,
+    "reasons": [
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Tech"
+    ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Tom Barrett": {
@@ -9889,7 +10103,12 @@
     "super_pac_total": 894731,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
@@ -9901,7 +10120,12 @@
     "super_pac_total": 4702932,
     "any_corporate": true,
     "reasons": [
-      "AIPAC"
+      "AIPAC",
+      "Oil/Gas",
+      "Pharma",
+      "Finance",
+      "Defense",
+      "Tech"
     ],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },

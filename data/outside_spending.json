@@ -27674,5 +27674,238 @@
       }
     ],
     "fetched_at": "2026-06-18T20:31:50.946384+00:00"
+  },
+  "Roy Cooper": {
+    "candidate_ids_used": [
+      "S6NC00407"
+    ],
+    "total_supporting": 79740,
+    "total_opposing": 2765222,
+    "cycles": [
+      2025,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C90023284",
+        "committee_name": "MODSQUAD ACTION",
+        "amount": 30000
+      },
+      {
+        "committee_id": "C00835041",
+        "committee_name": "FORWARD BLUE",
+        "amount": 24519
+      },
+      {
+        "committee_id": "C00909994",
+        "committee_name": "FIELD TEAM 6, INC.",
+        "amount": 11592
+      },
+      {
+        "committee_id": "C00640300",
+        "committee_name": "ACTIVATE AMERICA",
+        "amount": 9102
+      },
+      {
+        "committee_id": "C00710848",
+        "committee_name": "DMFI PAC",
+        "amount": 2651
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 1727989
+      },
+      {
+        "committee_id": "C00571703",
+        "committee_name": "SLF PAC",
+        "amount": 1009894
+      },
+      {
+        "committee_id": "C90011800",
+        "committee_name": "CATHOLICVOTE.ORG",
+        "amount": 17938
+      },
+      {
+        "committee_id": "C00747121",
+        "committee_name": "RED SENATE",
+        "amount": 9400
+      }
+    ],
+    "fetched_at": "2026-07-05T09:56:57.097426+00:00"
+  },
+  "Michael Whatley": {
+    "candidate_ids_used": [
+      "S6NC00415"
+    ],
+    "total_supporting": 7944565,
+    "total_opposing": 0,
+    "cycles": [
+      2025,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 6668415
+      },
+      {
+        "committee_id": "C00571703",
+        "committee_name": "SLF PAC",
+        "amount": 1275545
+      },
+      {
+        "committee_id": "C00747121",
+        "committee_name": "RED SENATE",
+        "amount": 604
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-07-05T09:56:58.870375+00:00"
+  },
+  "Mary Peltola": {
+    "candidate_ids_used": [
+      "H2AK01158"
+    ],
+    "total_supporting": 2638022,
+    "total_opposing": 25925443,
+    "cycles": [
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00863472",
+        "committee_name": "EDW ACTION FUND",
+        "amount": 900000
+      },
+      {
+        "committee_id": "C00757294",
+        "committee_name": "INDEPENDENT ALASKA",
+        "amount": 825387
+      },
+      {
+        "committee_id": "C00746628",
+        "committee_name": "FUTURE PROGRESS",
+        "amount": 600000
+      },
+      {
+        "committee_id": "C90018367",
+        "committee_name": "MOMSRISING TOGETHER",
+        "amount": 191365
+      },
+      {
+        "committee_id": "C00756056",
+        "committee_name": "PROTECT THE VOTE",
+        "amount": 60000
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00487470",
+        "committee_name": "CLUB FOR GROWTH ACTION",
+        "amount": 12563469
+      },
+      {
+        "committee_id": "C00504530",
+        "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+        "amount": 10865987
+      },
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 1117046
+      },
+      {
+        "committee_id": "C00075820",
+        "committee_name": "NRCC",
+        "amount": 558000
+      },
+      {
+        "committee_id": "C00844613",
+        "committee_name": "WIN IT BACK PAC",
+        "amount": 366463
+      }
+    ],
+    "fetched_at": "2026-07-05T09:57:39.152555+00:00"
+  },
+  "Sherrod Brown": {
+    "candidate_ids_used": [
+      "S6OH00163"
+    ],
+    "total_supporting": 63464707,
+    "total_opposing": 932981674,
+    "cycles": [
+      2024,
+      2025,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00625533",
+        "committee_name": "NEW AMERICAN JOBS FUND",
+        "amount": 19618802
+      },
+      {
+        "committee_id": "C90021726",
+        "committee_name": "OHIO CITIZEN ACTION",
+        "amount": 12400480
+      },
+      {
+        "committee_id": "C00865444",
+        "committee_name": "WINSENATE",
+        "amount": 11844000
+      },
+      {
+        "committee_id": "C90022542",
+        "committee_name": "CLIMATE EMERGENCY ADVOCATES",
+        "amount": 8836000
+      },
+      {
+        "committee_id": "C00835041",
+        "committee_name": "FORWARD BLUE",
+        "amount": 6308849
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 512614187
+      },
+      {
+        "committee_id": "C00912865",
+        "committee_name": "OHIO FLYER PAC",
+        "amount": 248728348
+      },
+      {
+        "committee_id": "C00571703",
+        "committee_name": "SLF PAC",
+        "amount": 157259358
+      },
+      {
+        "committee_id": "C00811166",
+        "committee_name": "THE SENTINEL ACTION FUND",
+        "amount": 7235450
+      },
+      {
+        "committee_id": "C00530766",
+        "committee_name": "WOMEN SPEAK OUT PAC",
+        "amount": 4743330
+      }
+    ],
+    "fetched_at": "2026-07-05T10:04:47.783370+00:00"
+  },
+  "Josh Turek": {
+    "candidate_ids_used": [],
+    "total_supporting": 0,
+    "total_opposing": 0,
+    "cycles": [],
+    "top_supporters": [],
+    "top_opposers": [],
+    "fetched_at": "2026-07-05T10:04:48.383617+00:00",
+    "note": "no candidate_id available"
   }
 }

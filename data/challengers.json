@@ -1,16 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Graham Platner",
-    "party": "D",
-    "state": "ME",
-    "chamber": "Senate",
-    "role": "Senate Challenger",
-    "race": "ME-Sen 2026",
-    "opponent": "Susan Collins",
-    "challenger": true
-  },
-  {
     "name": "James Talarico",
     "party": "D",
     "state": "TX",

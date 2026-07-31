@@ -1,4 +1,4 @@
-name: Update index.html from FEC Data
+name: Update app.html from FEC Data
 
 # Reads data/fec.json and replaces the applyFECData({...}) block in index.html.
 # Run this after the FEC refresh workflows have updated data/fec.json so the
@@ -23,7 +23,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Replace applyFECData block in index.html
+      - name: Replace applyFECData block in app.html
         run: |
           python3 << 'PY'
           import json
@@ -32,12 +32,12 @@ jobs:
 
           repo = Path('.').resolve()
           fec_json   = repo / 'data' / 'fec.json'
-          index_html = repo / 'index.html'
+          app_html = repo / 'app.html'
 
           if not fec_json.exists():
               raise SystemExit(f"ERROR: {fec_json} not found")
-          if not index_html.exists():
-              raise SystemExit(f"ERROR: {index_html} not found")
+          if not app_html.exists():
+              raise SystemExit(f"ERROR: {app_html} not found")
 
           # Load the canonical data and serialize it compactly. The embedded
           # payload is large enough that we want minimal whitespace for page
@@ -50,7 +50,7 @@ jobs:
           print(f"Loaded {len(fec_data)} members from data/fec.json")
           print(f"Payload size: {len(payload):,} chars")
 
-          html = index_html.read_text()
+          html = app_html.read_text()
 
           # Find the applyFECData block. It's a function call:
           #   applyFECData({...});
@@ -109,7 +109,7 @@ jobs:
           new_length = len(replacement)
           print(f"Old applyFECData block: {old_length:,} chars")
           print(f"New applyFECData block: {new_length:,} chars")
-          print(f"Net change in index.html: {new_length - old_length:+,} chars")
+          print(f"Net change in app.html: {new_length - old_length:+,} chars")
 
           # Sanity check: count members in old vs new
           old_block = html[start_idx:end_idx]
@@ -125,7 +125,7 @@ jobs:
                   f"prevent data loss. Inspect data/fec.json manually."
               )
 
-          index_html.write_text(new_html)
+          app_html.write_text(new_html)
           print(f"\nWrote updated index.html ({len(new_html):,} chars total)")
           PY
 
@@ -138,12 +138,12 @@ jobs:
           import re, json, sys
           from pathlib import Path
 
-          html = Path('index.html').read_text()
+          html = Path('app.html').read_text()
           # Find her entry by pulling everything from "Adelita Grijalva":{ to
           # the matching closing brace. Tolerate whitespace.
           m = re.search(r'"Adelita Grijalva"\s*:\s*\{', html)
           if not m:
-              print("⚠ Adelita Grijalva not found in updated index.html — sanity-check skipped")
+              print("⚠ Adelita Grijalva not found in updated app.html — sanity-check skipped")
               sys.exit(0)
 
           # Walk forward to find matching close brace
@@ -188,11 +188,11 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html
+          git add app.html
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update index.html applyFECData() block from data/fec.json"
+            git commit -m "Update app.html applyFECData() block from data/fec.json"
             git pull --rebase origin main
             git push
           fi

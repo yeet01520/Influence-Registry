@@ -22,7 +22,10 @@
   "tech": 159505,
   "nra": 0,
   "special_interest_total": 2786380,
-  "grassroots": 10708967
+  "grassroots": 10708967,
+  "grassroots_small": 2639830,
+  "grassroots_itemized": 8069137,
+  "small_dollar_pct": 24.7
  },
  "Katie Britt": {
   "candidate_id": "S2AL00145",
@@ -47,7 +50,10 @@
   "tech": 353446,
   "nra": 0,
   "special_interest_total": 4669848,
-  "grassroots": 14330501
+  "grassroots": 14330501,
+  "grassroots_small": 2776116,
+  "grassroots_itemized": 11554386,
+  "small_dollar_pct": 19.4
  },
  "Lisa Murkowski": {
   "candidate_id": "S4AK00099",
@@ -71,7 +77,10 @@
   "tech": 1027677,
   "nra": 2000,
   "special_interest_total": 9694140,
-  "grassroots": 13265923
+  "grassroots": 13265923,
+  "grassroots_small": 799088,
+  "grassroots_itemized": 12466835,
+  "small_dollar_pct": 6.0
  },
  "Dan Sullivan": {
   "candidate_id": "S4AK00214",
@@ -97,7 +106,10 @@
   "tech": 824224,
   "nra": 4000,
   "special_interest_total": 7708195,
-  "grassroots": 18319140
+  "grassroots": 18319140,
+  "grassroots_small": 1918299,
+  "grassroots_itemized": 16400841,
+  "small_dollar_pct": 10.5
  },
  "Mark Kelly": {
   "candidate_id": "S0AZ00350",
@@ -121,7 +133,10 @@
   "tech": 8931094,
   "nra": 2000,
   "special_interest_total": 30512161,
-  "grassroots": 235460027
+  "grassroots": 235460027,
+  "grassroots_small": 118683575,
+  "grassroots_itemized": 116776452,
+  "small_dollar_pct": 50.4
  },
  "Ruben Gallego": {
   "candidate_id": "S4AZ00139",
@@ -146,7 +161,10 @@
   "tech": 2778814,
   "nra": 0,
   "special_interest_total": 11207535,
-  "grassroots": 67654049
+  "grassroots": 67654049,
+  "grassroots_small": 30330580,
+  "grassroots_itemized": 37323469,
+  "small_dollar_pct": 44.8
  },
  "John Boozman": {
   "candidate_id": "S0AR00150",
@@ -172,7 +190,10 @@
   "tech": 683917,
   "nra": 5950,
   "special_interest_total": 6761515,
-  "grassroots": 9951191
+  "grassroots": 9951191,
+  "grassroots_small": 1021947,
+  "grassroots_itemized": 8929244,
+  "small_dollar_pct": 10.3
  },
  "Tom Cotton": {
   "candidate_id": "S4AR00103",
@@ -197,7 +218,10 @@
   "tech": 839680,
   "nra": 1000,
   "special_interest_total": 11943904,
-  "grassroots": 28865804
+  "grassroots": 28865804,
+  "grassroots_small": 9728860,
+  "grassroots_itemized": 19136944,
+  "small_dollar_pct": 33.7
  },
  "Alex Padilla": {
   "candidate_id": "S2CA00955",
@@ -221,7 +245,10 @@
   "tech": 1097017,
   "nra": 0,
   "special_interest_total": 3859423,
-  "grassroots": 10799733
+  "grassroots": 10799733,
+  "grassroots_small": 1213505,
+  "grassroots_itemized": 9586228,
+  "small_dollar_pct": 11.2
  },
  "Adam Schiff": {
   "candidate_id": "S4CA00555",
@@ -246,7 +273,10 @@
   "tech": 5835244,
   "nra": 0,
   "special_interest_total": 24579765,
-  "grassroots": 103604979
+  "grassroots": 103604979,
+  "grassroots_small": 51914115,
+  "grassroots_itemized": 51690864,
+  "small_dollar_pct": 50.1
  },
  "Michael Bennet": {
   "candidate_id": "S0CO00211",
@@ -270,7 +300,10 @@
   "tech": 3893922,
   "nra": 0,
   "special_interest_total": 20139613,
-  "grassroots": 40658598
+  "grassroots": 40658598,
+  "grassroots_small": 8625438,
+  "grassroots_itemized": 32033160,
+  "small_dollar_pct": 21.2
  },
  "John Hickenlooper": {
   "candidate_id": "S0CO00575",
@@ -294,7 +327,10 @@
   "tech": 3670263,
   "nra": 0,
   "special_interest_total": 12123517,
-  "grassroots": 47443959
+  "grassroots": 47443959,
+  "grassroots_small": 16730100,
+  "grassroots_itemized": 30713860,
+  "small_dollar_pct": 35.3
  },
  "Richard Blumenthal": {
   "candidate_id": "S0CT00177",
@@ -319,7 +355,10 @@
   "tech": 2030228,
   "nra": 0,
   "special_interest_total": 9151276,
-  "grassroots": 17152283
+  "grassroots": 17152283,
+  "grassroots_small": 2212856,
+  "grassroots_itemized": 14939427,
+  "small_dollar_pct": 12.9
  },
  "Chris Murphy": {
   "candidate_id": "S2CT00132",
@@ -345,7 +384,10 @@
   "tech": 2362750,
   "nra": 0,
   "special_interest_total": 12885819,
-  "grassroots": 55701590
+  "grassroots": 55701590,
+  "grassroots_small": 19534342,
+  "grassroots_itemized": 36167249,
+  "small_dollar_pct": 35.1
  },
  "Chris Coons": {
   "candidate_id": "S0DE00092",
@@ -369,7 +411,10 @@
   "tech": 1443568,
   "nra": 0,
   "special_interest_total": 7257602,
-  "grassroots": 14394316
+  "grassroots": 14394316,
+  "grassroots_small": 1273754,
+  "grassroots_itemized": 13120562,
+  "small_dollar_pct": 8.8
  },
  "Rick Scott": {
   "candidate_id": "S8FL00273",
@@ -393,7 +438,10 @@
   "tech": 759519,
   "nra": 0,
   "special_interest_total": 10143619,
-  "grassroots": 27589200
+  "grassroots": 27589200,
+  "grassroots_small": 6935606,
+  "grassroots_itemized": 20653595,
+  "small_dollar_pct": 25.1
  },
  "Jon Ossoff": {
   "candidate_id": "S8GA00180",
@@ -419,7 +467,10 @@
   "tech": 12226346,
   "nra": 0,
   "special_interest_total": 32361185,
-  "grassroots": 261238200
+  "grassroots": 261238200,
+  "grassroots_small": 139371009,
+  "grassroots_itemized": 121867190,
+  "small_dollar_pct": 53.4
  },
  "Raphael Warnock": {
   "candidate_id": "S0GA00559",
@@ -443,7 +494,10 @@
   "tech": 17400299,
   "nra": 0,
   "special_interest_total": 49410747,
-  "grassroots": 315280363
+  "grassroots": 315280363,
+  "grassroots_small": 155650316,
+  "grassroots_itemized": 159630047,
+  "small_dollar_pct": 49.4
  },
  "Brian Schatz": {
   "candidate_id": "S4HI00136",
@@ -469,7 +523,10 @@
   "tech": 1106490,
   "nra": 0,
   "special_interest_total": 4685387,
-  "grassroots": 11091843
+  "grassroots": 11091843,
+  "grassroots_small": 880150,
+  "grassroots_itemized": 10211693,
+  "small_dollar_pct": 7.9
  },
  "Mazie Hirono": {
   "candidate_id": "S2HI00106",
@@ -494,7 +551,10 @@
   "tech": 784105,
   "nra": 0,
   "special_interest_total": 3559876,
-  "grassroots": 13397178
+  "grassroots": 13397178,
+  "grassroots_small": 3148255,
+  "grassroots_itemized": 10248923,
+  "small_dollar_pct": 23.5
  },
  "Mike Crapo": {
   "candidate_id": "S8ID00027",
@@ -520,7 +580,10 @@
   "tech": 916621,
   "nra": 1000,
   "special_interest_total": 12822808,
-  "grassroots": 7572500
+  "grassroots": 7572500,
+  "grassroots_small": 346525,
+  "grassroots_itemized": 7225975,
+  "small_dollar_pct": 4.6
  },
  "James Risch": {
   "candidate_id": "S8ID00092",
@@ -545,7 +608,10 @@
   "tech": 358776,
   "nra": 6950,
   "special_interest_total": 3246529,
-  "grassroots": 8079817
+  "grassroots": 8079817,
+  "grassroots_small": 2071874,
+  "grassroots_itemized": 6007943,
+  "small_dollar_pct": 25.6
  },
  "Dick Durbin": {
   "candidate_id": "S4IL00339",
@@ -571,7 +637,10 @@
   "tech": 1830967,
   "nra": 0,
   "special_interest_total": 11783620,
-  "grassroots": 21240343
+  "grassroots": 21240343,
+  "grassroots_small": 3857539,
+  "grassroots_itemized": 17382804,
+  "small_dollar_pct": 18.2
  },
  "Tammy Duckworth": {
   "candidate_id": "S6IL00292",
@@ -598,7 +667,10 @@
   "tech": 1522729,
   "nra": 0,
   "special_interest_total": 8110679,
-  "grassroots": 48017972
+  "grassroots": 48017972,
+  "grassroots_small": 22843623,
+  "grassroots_itemized": 25174348,
+  "small_dollar_pct": 47.6
  },
  "Todd Young": {
   "candidate_id": "S6IN00191",
@@ -623,7 +695,10 @@
   "tech": 1334060,
   "nra": 0,
   "special_interest_total": 14671171,
-  "grassroots": 20493290
+  "grassroots": 20493290,
+  "grassroots_small": 2198581,
+  "grassroots_itemized": 18294709,
+  "small_dollar_pct": 10.7
  },
  "Jim Banks": {
   "candidate_id": "S4IN00196",
@@ -648,7 +723,10 @@
   "tech": 300473,
   "nra": 1000,
   "special_interest_total": 4237903,
-  "grassroots": 9707809
+  "grassroots": 9707809,
+  "grassroots_small": 2987456,
+  "grassroots_itemized": 6720353,
+  "small_dollar_pct": 30.8
  },
  "Chuck Grassley": {
   "candidate_id": "S0IA00028",
@@ -675,7 +753,10 @@
   "tech": 1828829,
   "nra": 0,
   "special_interest_total": 14220047,
-  "grassroots": 16337431
+  "grassroots": 16337431,
+  "grassroots_small": 4621778,
+  "grassroots_itemized": 11715653,
+  "small_dollar_pct": 28.3
  },
  "Joni Ernst": {
   "candidate_id": "S4IA00129",
@@ -700,7 +781,10 @@
   "tech": 860521,
   "nra": 2000,
   "special_interest_total": 9404882,
-  "grassroots": 36960544
+  "grassroots": 36960544,
+  "grassroots_small": 13260769,
+  "grassroots_itemized": 23699775,
+  "small_dollar_pct": 35.9
  },
  "Jerry Moran": {
   "candidate_id": "S0KS00091",
@@ -726,7 +810,10 @@
   "tech": 1351616,
   "nra": 1000,
   "special_interest_total": 8905529,
-  "grassroots": 9810894
+  "grassroots": 9810894,
+  "grassroots_small": 1029175,
+  "grassroots_itemized": 8781720,
+  "small_dollar_pct": 10.5
  },
  "Roger Marshall": {
   "candidate_id": "H6KS01179",
@@ -750,7 +837,10 @@
   "tech": 301688,
   "nra": 0,
   "special_interest_total": 4037779,
-  "grassroots": 8058891
+  "grassroots": 8058891,
+  "grassroots_small": 955350,
+  "grassroots_itemized": 7103540,
+  "small_dollar_pct": 11.9
  },
  "Mitch McConnell": {
   "candidate_id": "S2KY00012",
@@ -776,7 +866,10 @@
   "tech": 3872039,
   "nra": 0,
   "special_interest_total": 39691255,
-  "grassroots": 99184711
+  "grassroots": 99184711,
+  "grassroots_small": 31657720,
+  "grassroots_itemized": 67526992,
+  "small_dollar_pct": 31.9
  },
  "Rand Paul": {
   "candidate_id": "S0KY00156",
@@ -801,7 +894,10 @@
   "tech": 1145142,
   "nra": 0,
   "special_interest_total": 9614601,
-  "grassroots": 50867350
+  "grassroots": 50867350,
+  "grassroots_small": 26486054,
+  "grassroots_itemized": 24381295,
+  "small_dollar_pct": 52.1
  },
  "Bill Cassidy": {
   "candidate_id": "S4LA00107",
@@ -825,7 +921,10 @@
   "tech": 754674,
   "nra": 0,
   "special_interest_total": 17086555,
-  "grassroots": 23208960
+  "grassroots": 23208960,
+  "grassroots_small": 2121871,
+  "grassroots_itemized": 21087089,
+  "small_dollar_pct": 9.1
  },
  "John Kennedy": {
   "candidate_id": "S4LA00065",
@@ -850,7 +949,10 @@
   "tech": 769573,
   "nra": 0,
   "special_interest_total": 11904212,
-  "grassroots": 69737598
+  "grassroots": 69737598,
+  "grassroots_small": 28713902,
+  "grassroots_itemized": 41023696,
+  "small_dollar_pct": 41.2
  },
  "Susan Collins": {
   "candidate_id": "S6ME00159",
@@ -875,7 +977,10 @@
   "tech": 1898724,
   "nra": 0,
   "special_interest_total": 17818618,
-  "grassroots": 45194815
+  "grassroots": 45194815,
+  "grassroots_small": 7842272,
+  "grassroots_itemized": 37352543,
+  "small_dollar_pct": 17.4
  },
  "Angus King": {
   "candidate_id": "S2ME00109",
@@ -899,7 +1004,10 @@
   "tech": 779800,
   "nra": 0,
   "special_interest_total": 4302445,
-  "grassroots": 10225103
+  "grassroots": 10225103,
+  "grassroots_small": 1387661,
+  "grassroots_itemized": 8837442,
+  "small_dollar_pct": 13.6
  },
  "Angela Alsobrooks": {
   "candidate_id": "S4MD00327",
@@ -923,7 +1031,10 @@
   "tech": 1130597,
   "nra": 0,
   "special_interest_total": 4689316,
-  "grassroots": 24613369
+  "grassroots": 24613369,
+  "grassroots_small": 8560613,
+  "grassroots_itemized": 16052755,
+  "small_dollar_pct": 34.8
  },
  "Elizabeth Warren": {
   "candidate_id": "S2MA00170",
@@ -947,7 +1058,10 @@
   "tech": 12148933,
   "nra": 0,
   "special_interest_total": 30219366,
-  "grassroots": 95975636
+  "grassroots": 95975636,
+  "grassroots_small": 52670409,
+  "grassroots_itemized": 43305227,
+  "small_dollar_pct": 54.9
  },
  "Ed Markey": {
   "candidate_id": "S4MA00028",
@@ -974,7 +1088,10 @@
   "tech": 5344294,
   "nra": 0,
   "special_interest_total": 13732337,
-  "grassroots": 31570127
+  "grassroots": 31570127,
+  "grassroots_small": 7433319,
+  "grassroots_itemized": 24136808,
+  "small_dollar_pct": 23.5
  },
  "Gary Peters": {
   "candidate_id": "S4MI00355",
@@ -999,7 +1116,10 @@
   "tech": 4350528,
   "nra": 0,
   "special_interest_total": 20575157,
-  "grassroots": 64830489
+  "grassroots": 64830489,
+  "grassroots_small": 22826150,
+  "grassroots_itemized": 42004339,
+  "small_dollar_pct": 35.2
  },
  "Elissa Slotkin": {
   "candidate_id": "S4MI00470",
@@ -1025,7 +1145,10 @@
   "tech": 3568269,
   "nra": 0,
   "special_interest_total": 15623910,
-  "grassroots": 73048837
+  "grassroots": 73048837,
+  "grassroots_small": 23702903,
+  "grassroots_itemized": 49345933,
+  "small_dollar_pct": 32.4
  },
  "Amy Klobuchar": {
   "candidate_id": "S6MN00267",
@@ -1050,7 +1173,10 @@
   "tech": 4472461,
   "nra": 0,
   "special_interest_total": 18438230,
-  "grassroots": 36910456
+  "grassroots": 36910456,
+  "grassroots_small": 13453189,
+  "grassroots_itemized": 23457267,
+  "small_dollar_pct": 36.4
  },
  "Tina Smith": {
   "candidate_id": "S8MN00578",
@@ -1074,7 +1200,10 @@
   "tech": 1018276,
   "nra": 0,
   "special_interest_total": 5693657,
-  "grassroots": 23176886
+  "grassroots": 23176886,
+  "grassroots_small": 9118114,
+  "grassroots_itemized": 14058772,
+  "small_dollar_pct": 39.3
  },
  "Roger Wicker": {
   "candidate_id": "S8MS00196",
@@ -1104,7 +1233,10 @@
   "tech": 1955081,
   "nra": 2000,
   "special_interest_total": 12139217,
-  "grassroots": 15525439
+  "grassroots": 15525439,
+  "grassroots_small": 1231780,
+  "grassroots_itemized": 14293660,
+  "small_dollar_pct": 7.9
  },
  "Cindy Hyde-Smith": {
   "candidate_id": "S8MS00261",
@@ -1129,7 +1261,10 @@
   "tech": 233514,
   "nra": 0,
   "special_interest_total": 2792133,
-  "grassroots": 8624289
+  "grassroots": 8624289,
+  "grassroots_small": 1509502,
+  "grassroots_itemized": 7114786,
+  "small_dollar_pct": 17.5
  },
  "Josh Hawley": {
   "candidate_id": "S8MO00160",
@@ -1153,7 +1288,10 @@
   "tech": 446669,
   "nra": 0,
   "special_interest_total": 5937344,
-  "grassroots": 29461899
+  "grassroots": 29461899,
+  "grassroots_small": 11523313,
+  "grassroots_itemized": 17938585,
+  "small_dollar_pct": 39.1
  },
  "Eric Schmitt": {
   "candidate_id": "S2MO00544",
@@ -1178,7 +1316,10 @@
   "tech": 181067,
   "nra": 0,
   "special_interest_total": 2032045,
-  "grassroots": 8933266
+  "grassroots": 8933266,
+  "grassroots_small": 2051822,
+  "grassroots_itemized": 6881444,
+  "small_dollar_pct": 23.0
  },
  "Steve Daines": {
   "candidate_id": "S2MT00096",
@@ -1204,7 +1345,10 @@
   "tech": 1249438,
   "nra": 8000,
   "special_interest_total": 12051127,
-  "grassroots": 36795581
+  "grassroots": 36795581,
+  "grassroots_small": 13633274,
+  "grassroots_itemized": 23162307,
+  "small_dollar_pct": 37.1
  },
  "Tim Sheehy": {
   "candidate_id": "S4MT00183",
@@ -1229,7 +1373,10 @@
   "tech": 322251,
   "nra": 0,
   "special_interest_total": 6020073,
-  "grassroots": 22866017
+  "grassroots": 22866017,
+  "grassroots_small": 8185869,
+  "grassroots_itemized": 14680149,
+  "small_dollar_pct": 35.8
  },
  "Deb Fischer": {
   "candidate_id": "S2NE00094",
@@ -1253,7 +1400,10 @@
   "tech": 1140212,
   "nra": 0,
   "special_interest_total": 6752391,
-  "grassroots": 11013494
+  "grassroots": 11013494,
+  "grassroots_small": 1928122,
+  "grassroots_itemized": 9085372,
+  "small_dollar_pct": 17.5
  },
  "Pete Ricketts": {
   "candidate_id": "S6NE00129",
@@ -1278,7 +1428,10 @@
   "tech": 297603,
   "nra": 0,
   "special_interest_total": 2975948,
-  "grassroots": 5115695
+  "grassroots": 5115695,
+  "grassroots_small": 458741,
+  "grassroots_itemized": 4656954,
+  "small_dollar_pct": 9.0
  },
  "Jacky Rosen": {
   "candidate_id": "S8NV00156",
@@ -1303,7 +1456,10 @@
   "tech": 4789282,
   "nra": 0,
   "special_interest_total": 19090204,
-  "grassroots": 64651328
+  "grassroots": 64651328,
+  "grassroots_small": 24950949,
+  "grassroots_itemized": 39700378,
+  "small_dollar_pct": 38.6
  },
  "Catherine Cortez Masto": {
   "candidate_id": "S6NV00200",
@@ -1327,7 +1483,10 @@
   "tech": 3474963,
   "nra": 0,
   "special_interest_total": 13751802,
-  "grassroots": 82959213
+  "grassroots": 82959213,
+  "grassroots_small": 34892177,
+  "grassroots_itemized": 48067035,
+  "small_dollar_pct": 42.1
  },
  "Jeanne Shaheen": {
   "candidate_id": "S0NH00219",
@@ -1353,7 +1512,10 @@
   "tech": 2322965,
   "nra": 0,
   "special_interest_total": 10686433,
-  "grassroots": 37941936
+  "grassroots": 37941936,
+  "grassroots_small": 11715170,
+  "grassroots_itemized": 26226766,
+  "small_dollar_pct": 30.9
  },
  "Maggie Hassan": {
   "candidate_id": "S6NH00091",
@@ -1377,7 +1539,10 @@
   "tech": 2950176,
   "nra": 0,
   "special_interest_total": 13057965,
-  "grassroots": 56555222
+  "grassroots": 56555222,
+  "grassroots_small": 19661812,
+  "grassroots_itemized": 36893410,
+  "small_dollar_pct": 34.8
  },
  "Cory Booker": {
   "candidate_id": "S4NJ00185",
@@ -1401,7 +1566,10 @@
   "tech": 4920557,
   "nra": 0,
   "special_interest_total": 21788045,
-  "grassroots": 48741044
+  "grassroots": 48741044,
+  "grassroots_small": 18403922,
+  "grassroots_itemized": 30337122,
+  "small_dollar_pct": 37.8
  },
  "Andy Kim": {
   "candidate_id": "S4NJ00466",
@@ -1426,7 +1594,10 @@
   "tech": 1751207,
   "nra": 0,
   "special_interest_total": 8351086,
-  "grassroots": 29178903
+  "grassroots": 29178903,
+  "grassroots_small": 6292962,
+  "grassroots_itemized": 22885941,
+  "small_dollar_pct": 21.6
  },
  "Martin Heinrich": {
   "candidate_id": "S2NM00088",
@@ -1451,7 +1622,10 @@
   "tech": 1484445,
   "nra": 0,
   "special_interest_total": 7754439,
-  "grassroots": 24930372
+  "grassroots": 24930372,
+  "grassroots_small": 4803197,
+  "grassroots_itemized": 20127175,
+  "small_dollar_pct": 19.3
  },
  "Chuck Schumer": {
   "candidate_id": "S8NY00082",
@@ -1478,7 +1652,10 @@
   "tech": 8393743,
   "nra": 0,
   "special_interest_total": 56684697,
-  "grassroots": 72151889
+  "grassroots": 72151889,
+  "grassroots_small": 6787032,
+  "grassroots_itemized": 65364856,
+  "small_dollar_pct": 9.4
  },
  "Kirsten Gillibrand": {
   "candidate_id": "S0NY00410",
@@ -1503,7 +1680,10 @@
   "tech": 5342985,
   "nra": 0,
   "special_interest_total": 23549780,
-  "grassroots": 56181392
+  "grassroots": 56181392,
+  "grassroots_small": 12011152,
+  "grassroots_itemized": 44170241,
+  "small_dollar_pct": 21.4
  },
  "Thom Tillis": {
   "candidate_id": "S4NC00162",
@@ -1528,7 +1708,10 @@
   "tech": 1469606,
   "nra": 0,
   "special_interest_total": 15298944,
-  "grassroots": 31464722
+  "grassroots": 31464722,
+  "grassroots_small": 7110910,
+  "grassroots_itemized": 24353812,
+  "small_dollar_pct": 22.6
  },
  "John Hoeven": {
   "candidate_id": "S0ND00093",
@@ -1552,7 +1735,10 @@
   "tech": 457142,
   "nra": 7500,
   "special_interest_total": 4641590,
-  "grassroots": 5953258
+  "grassroots": 5953258,
+  "grassroots_small": 585674,
+  "grassroots_itemized": 5367584,
+  "small_dollar_pct": 9.8
  },
  "Kevin Cramer": {
   "candidate_id": "S8ND00120",
@@ -1579,7 +1765,10 @@
   "tech": 533956,
   "nra": 1000,
   "special_interest_total": 6565841,
-  "grassroots": 10167956
+  "grassroots": 10167956,
+  "grassroots_small": 2218371,
+  "grassroots_itemized": 7949586,
+  "small_dollar_pct": 21.8
  },
  "Bernie Moreno": {
   "candidate_id": "S4OH00192",
@@ -1605,7 +1794,10 @@
   "tech": 332654,
   "nra": 0,
   "special_interest_total": 5321069,
-  "grassroots": 18385366
+  "grassroots": 18385366,
+  "grassroots_small": 3962622,
+  "grassroots_itemized": 14422744,
+  "small_dollar_pct": 21.6
  },
  "James Lankford": {
   "candidate_id": "S4OK00232",
@@ -1630,7 +1822,10 @@
   "tech": 572270,
   "nra": 1000,
   "special_interest_total": 7442309,
-  "grassroots": 11594090
+  "grassroots": 11594090,
+  "grassroots_small": 1189168,
+  "grassroots_itemized": 10404922,
+  "small_dollar_pct": 10.3
  },
  "Ron Wyden": {
   "candidate_id": "S6OR00110",
@@ -1657,7 +1852,10 @@
   "tech": 2947888,
   "nra": 0,
   "special_interest_total": 19794034,
-  "grassroots": 22703162
+  "grassroots": 22703162,
+  "grassroots_small": 3154141,
+  "grassroots_itemized": 19549021,
+  "small_dollar_pct": 13.9
  },
  "Jeff Merkley": {
   "candidate_id": "S8OR00207",
@@ -1681,7 +1879,10 @@
   "tech": 1228434,
   "nra": 0,
   "special_interest_total": 4654624,
-  "grassroots": 30798846
+  "grassroots": 30798846,
+  "grassroots_small": 12645465,
+  "grassroots_itemized": 18153381,
+  "small_dollar_pct": 41.1
  },
  "Dave McCormick": {
   "candidate_id": "S2PA00661",
@@ -1707,7 +1908,10 @@
   "tech": 710036,
   "nra": 0,
   "special_interest_total": 9759869,
-  "grassroots": 29584672
+  "grassroots": 29584672,
+  "grassroots_small": 7822721,
+  "grassroots_itemized": 21761952,
+  "small_dollar_pct": 26.4
  },
  "Sheldon Whitehouse": {
   "candidate_id": "S6RI00221",
@@ -1731,7 +1935,10 @@
   "tech": 1711340,
   "nra": 0,
   "special_interest_total": 7721180,
-  "grassroots": 17320089
+  "grassroots": 17320089,
+  "grassroots_small": 893882,
+  "grassroots_itemized": 16426207,
+  "small_dollar_pct": 5.2
  },
  "Lindsey Graham": {
   "candidate_id": "S0SC00149",
@@ -1759,7 +1966,10 @@
   "tech": 2808114,
   "nra": 0,
   "special_interest_total": 24950682,
-  "grassroots": 133135566
+  "grassroots": 133135566,
+  "grassroots_small": 58135209,
+  "grassroots_itemized": 75000357,
+  "small_dollar_pct": 43.7
  },
  "Tim Scott": {
   "candidate_id": "S4SC00240",
@@ -1785,7 +1995,10 @@
   "tech": 1492253,
   "nra": 0,
   "special_interest_total": 20609788,
-  "grassroots": 76965398
+  "grassroots": 76965398,
+  "grassroots_small": 29833560,
+  "grassroots_itemized": 47131838,
+  "small_dollar_pct": 38.8
  },
  "John Thune": {
   "candidate_id": "S2SD00068",
@@ -1812,7 +2025,10 @@
   "tech": 2639650,
   "nra": 0,
   "special_interest_total": 17840326,
-  "grassroots": 22640178
+  "grassroots": 22640178,
+  "grassroots_small": 4413580,
+  "grassroots_itemized": 18226598,
+  "small_dollar_pct": 19.5
  },
  "Mike Rounds": {
   "candidate_id": "S4SD00049",
@@ -1837,7 +2053,10 @@
   "tech": 473410,
   "nra": 0,
   "special_interest_total": 4897561,
-  "grassroots": 7899459
+  "grassroots": 7899459,
+  "grassroots_small": 697219,
+  "grassroots_itemized": 7202240,
+  "small_dollar_pct": 8.8
  },
  "Bill Hagerty": {
   "candidate_id": "S0TN00169",
@@ -1861,7 +2080,10 @@
   "tech": 383862,
   "nra": 5600,
   "special_interest_total": 6380934,
-  "grassroots": 17401016
+  "grassroots": 17401016,
+  "grassroots_small": 3121625,
+  "grassroots_itemized": 14279391,
+  "small_dollar_pct": 17.9
  },
  "Marsha Blackburn": {
   "candidate_id": "S8TN00337",
@@ -1887,7 +2109,10 @@
   "tech": 2603828,
   "nra": 1000,
   "special_interest_total": 16188585,
-  "grassroots": 21179609
+  "grassroots": 21179609,
+  "grassroots_small": 3453556,
+  "grassroots_itemized": 17726053,
+  "small_dollar_pct": 16.3
  },
  "John Cornyn": {
   "candidate_id": "S2TX00106",
@@ -1912,7 +2137,10 @@
   "tech": 2705135,
   "nra": 0,
   "special_interest_total": 31988172,
-  "grassroots": 48708882
+  "grassroots": 48708882,
+  "grassroots_small": 9389287,
+  "grassroots_itemized": 39319595,
+  "small_dollar_pct": 19.3
  },
  "Mike Lee": {
   "candidate_id": "S0UT00165",
@@ -1936,7 +2164,10 @@
   "tech": 1254318,
   "nra": 3000,
   "special_interest_total": 7089932,
-  "grassroots": 21714194
+  "grassroots": 21714194,
+  "grassroots_small": 7927601,
+  "grassroots_itemized": 13786594,
+  "small_dollar_pct": 36.5
  },
  "John Curtis": {
   "candidate_id": "S4UT00282",
@@ -1961,7 +2192,10 @@
   "tech": 816415,
   "nra": 0,
   "special_interest_total": 4506610,
-  "grassroots": 4564350
+  "grassroots": 4564350,
+  "grassroots_small": 104745,
+  "grassroots_itemized": 4459605,
+  "small_dollar_pct": 2.3
  },
  "Peter Welch": {
   "candidate_id": "S2VT00235",
@@ -1987,7 +2221,10 @@
   "tech": 874822,
   "nra": 0,
   "special_interest_total": 3298131,
-  "grassroots": 6483517
+  "grassroots": 6483517,
+  "grassroots_small": 246180,
+  "grassroots_itemized": 6237337,
+  "small_dollar_pct": 3.8
  },
  "Mark Warner": {
   "candidate_id": "S6VA00093",
@@ -2012,7 +2249,10 @@
   "tech": 4060128,
   "nra": 0,
   "special_interest_total": 24415447,
-  "grassroots": 47613703
+  "grassroots": 47613703,
+  "grassroots_small": 7730831,
+  "grassroots_itemized": 39882872,
+  "small_dollar_pct": 16.2
  },
  "Tim Kaine": {
   "candidate_id": "S2VA00142",
@@ -2036,7 +2276,10 @@
   "tech": 3317108,
   "nra": 0,
   "special_interest_total": 16716690,
-  "grassroots": 41143005
+  "grassroots": 41143005,
+  "grassroots_small": 11089661,
+  "grassroots_itemized": 30053344,
+  "small_dollar_pct": 27.0
  },
  "Patty Murray": {
   "candidate_id": "S2WA00189",
@@ -2061,7 +2304,10 @@
   "tech": 3542765,
   "nra": 0,
   "special_interest_total": 15683812,
-  "grassroots": 39922850
+  "grassroots": 39922850,
+  "grassroots_small": 12054400,
+  "grassroots_itemized": 27868450,
+  "small_dollar_pct": 30.2
  },
  "Maria Cantwell": {
   "candidate_id": "S8WA00194",
@@ -2088,7 +2334,10 @@
   "tech": 3863060,
   "nra": 0,
   "special_interest_total": 13251176,
-  "grassroots": 47707375
+  "grassroots": 47707375,
+  "grassroots_small": 11909707,
+  "grassroots_itemized": 35797667,
+  "small_dollar_pct": 25.0
  },
  "Shelley Moore Capito": {
   "candidate_id": "S4WV00159",
@@ -2115,7 +2364,10 @@
   "tech": 716087,
   "nra": 0,
   "special_interest_total": 10216802,
-  "grassroots": 17368194
+  "grassroots": 17368194,
+  "grassroots_small": 1590982,
+  "grassroots_itemized": 15777211,
+  "small_dollar_pct": 9.2
  },
  "Jim Justice": {
   "candidate_id": "S4WV00332",
@@ -2140,7 +2392,10 @@
   "tech": 96828,
   "nra": 0,
   "special_interest_total": 1246581,
-  "grassroots": 2772587
+  "grassroots": 2772587,
+  "grassroots_small": 303656,
+  "grassroots_itemized": 2468931,
+  "small_dollar_pct": 11.0
  },
  "Tammy Baldwin": {
   "candidate_id": "S2WI00219",
@@ -2165,7 +2420,10 @@
   "tech": 4124803,
   "nra": 0,
   "special_interest_total": 17505167,
-  "grassroots": 99202214
+  "grassroots": 99202214,
+  "grassroots_small": 37092707,
+  "grassroots_itemized": 62109507,
+  "small_dollar_pct": 37.4
  },
  "Ron Johnson": {
   "candidate_id": "S0WI00197",
@@ -2189,7 +2447,10 @@
   "tech": 1345015,
   "nra": 0,
   "special_interest_total": 14361249,
-  "grassroots": 58402208
+  "grassroots": 58402208,
+  "grassroots_small": 18342317,
+  "grassroots_itemized": 40059891,
+  "small_dollar_pct": 31.4
  },
  "John Barrasso": {
   "candidate_id": "S6WY00068",
@@ -2214,7 +2475,10 @@
   "tech": 1095253,
   "nra": 0,
   "special_interest_total": 12320945,
-  "grassroots": 12664962
+  "grassroots": 12664962,
+  "grassroots_small": 1589948,
+  "grassroots_itemized": 11075013,
+  "small_dollar_pct": 12.6
  },
  "Cynthia Lummis": {
   "candidate_id": "S0WY00137",
@@ -2241,7 +2505,10 @@
   "tech": 180091,
   "nra": 4000,
   "special_interest_total": 2074717,
-  "grassroots": 4111086
+  "grassroots": 4111086,
+  "grassroots_small": 910088,
+  "grassroots_itemized": 3200998,
+  "small_dollar_pct": 22.1
  },
  "Lisa Blunt Rochester": {
   "candidate_id": "S4DE00060",
@@ -2267,7 +2534,10 @@
   "tech": 665981,
   "nra": 0,
   "special_interest_total": 5547425,
-  "grassroots": 10415928
+  "grassroots": 10415928,
+  "grassroots_small": 2957208,
+  "grassroots_itemized": 7458720,
+  "small_dollar_pct": 28.4
  },
  "Ashley Moody": {
   "candidate_id": "S6FL00640",
@@ -2291,7 +2561,10 @@
   "tech": 0,
   "nra": 1000,
   "special_interest_total": 16027,
-  "grassroots": 4529858
+  "grassroots": 4529858,
+  "grassroots_small": 1383579,
+  "grassroots_itemized": 3146279,
+  "small_dollar_pct": 30.5
  },
  "Jon Husted": {
   "candidate_id": "S6OH00304",
@@ -2316,7 +2589,10 @@
   "tech": 0,
   "nra": 0,
   "special_interest_total": 27,
-  "grassroots": 6280012
+  "grassroots": 6280012,
+  "grassroots_small": 1843640,
+  "grassroots_itemized": 4436372,
+  "small_dollar_pct": 29.4
  },
  "Chris Van Hollen": {
   "candidate_id": "S6MD03441",
@@ -2342,7 +2618,10 @@
   "tech": 1600398,
   "nra": 0,
   "special_interest_total": 10389740,
-  "grassroots": 23516045
+  "grassroots": 23516045,
+  "grassroots_small": 2372583,
+  "grassroots_itemized": 21143462,
+  "small_dollar_pct": 10.1
  },
  "John Fetterman": {
   "candidate_id": "S6PA00274",
@@ -2367,7 +2646,10 @@
   "tech": 2367852,
   "nra": 0,
   "special_interest_total": 8234613,
-  "grassroots": 77703659
+  "grassroots": 77703659,
+  "grassroots_small": 42368358,
+  "grassroots_itemized": 35335302,
+  "small_dollar_pct": 54.5
  },
  "Mike Rogers": {
   "candidate_id": "H6AL06119",
@@ -2391,7 +2673,10 @@
   "tech": 742334,
   "nra": 0,
   "special_interest_total": 8483493,
-  "grassroots": 500
+  "grassroots": 500,
+  "grassroots_small": 0,
+  "grassroots_itemized": 500,
+  "small_dollar_pct": 0.0
  },
  "Robert Aderholt": {
   "candidate_id": "H6AL04098",
@@ -2415,7 +2700,10 @@
   "tech": 803724,
   "nra": 2000,
   "special_interest_total": 6017710,
-  "grassroots": 6182744
+  "grassroots": 6182744,
+  "grassroots_small": 446173,
+  "grassroots_itemized": 5736570,
+  "small_dollar_pct": 7.2
  },
  "Dale Strong": {
   "candidate_id": "H2AL05102",
@@ -2439,7 +2727,10 @@
   "tech": 66100,
   "nra": 0,
   "special_interest_total": 1191903,
-  "grassroots": 2735064
+  "grassroots": 2735064,
+  "grassroots_small": 51387,
+  "grassroots_itemized": 2683677,
+  "small_dollar_pct": 1.9
  },
  "Gary Palmer": {
   "candidate_id": "H4AL06098",
@@ -2463,7 +2754,10 @@
   "tech": 167550,
   "nra": 0,
   "special_interest_total": 2686239,
-  "grassroots": 5580802
+  "grassroots": 5580802,
+  "grassroots_small": 69259,
+  "grassroots_itemized": 5511543,
+  "small_dollar_pct": 1.2
  },
  "Terri Sewell": {
   "candidate_id": "H0AL07086",
@@ -2487,7 +2781,10 @@
   "tech": 547944,
   "nra": 0,
   "special_interest_total": 7875976,
-  "grassroots": 5414551
+  "grassroots": 5414551,
+  "grassroots_small": 609289,
+  "grassroots_itemized": 4805263,
+  "small_dollar_pct": 11.3
  },
  "Nick Begich": {
   "candidate_id": "H4AK00024",
@@ -2515,7 +2812,10 @@
   "tech": 58234,
   "nra": 0,
   "special_interest_total": 732889,
-  "grassroots": 10762776
+  "grassroots": 10762776,
+  "grassroots_small": 950708,
+  "grassroots_itemized": 9812068,
+  "small_dollar_pct": 8.8
  },
  "David Schweikert": {
   "candidate_id": "H4AZ06045",
@@ -2544,7 +2844,10 @@
   "tech": 443039,
   "nra": 0,
   "special_interest_total": 6306340,
-  "grassroots": 9066579
+  "grassroots": 9066579,
+  "grassroots_small": 987750,
+  "grassroots_itemized": 8078829,
+  "small_dollar_pct": 10.9
  },
  "Eli Crane": {
   "candidate_id": "H2AZ01354",
@@ -2570,7 +2873,10 @@
   "tech": 100926,
   "nra": 0,
   "special_interest_total": 1194963,
-  "grassroots": 20065668
+  "grassroots": 20065668,
+  "grassroots_small": 9447244,
+  "grassroots_itemized": 10618424,
+  "small_dollar_pct": 47.1
  },
  "Yassamin Ansari": {
   "candidate_id": "H4AZ03109",
@@ -2594,7 +2900,10 @@
   "tech": 62061,
   "nra": 0,
   "special_interest_total": 1374211,
-  "grassroots": 3099106
+  "grassroots": 3099106,
+  "grassroots_small": 301959,
+  "grassroots_itemized": 2797147,
+  "small_dollar_pct": 9.7
  },
  "Greg Stanton": {
   "candidate_id": "H8AZ09040",
@@ -2618,7 +2927,10 @@
   "tech": 441803,
   "nra": 0,
   "special_interest_total": 3416566,
-  "grassroots": 9822402
+  "grassroots": 9822402,
+  "grassroots_small": 928495,
+  "grassroots_itemized": 8893907,
+  "small_dollar_pct": 9.5
  },
  "Andy Biggs": {
   "candidate_id": "H6AZ05083",
@@ -2642,7 +2954,10 @@
   "tech": 196324,
   "nra": 0,
   "special_interest_total": 1037492,
-  "grassroots": 5384315
+  "grassroots": 5384315,
+  "grassroots_small": 2300447,
+  "grassroots_itemized": 3083868,
+  "small_dollar_pct": 42.7
  },
  "Juan Ciscomani": {
   "candidate_id": "H2AZ02360",
@@ -2667,7 +2982,10 @@
   "tech": 220437,
   "nra": 0,
   "special_interest_total": 3825537,
-  "grassroots": 8389430
+  "grassroots": 8389430,
+  "grassroots_small": 1210211,
+  "grassroots_itemized": 7179220,
+  "small_dollar_pct": 14.4
  },
  "Paul Gosar": {
   "candidate_id": "H0AZ01259",
@@ -2691,7 +3009,10 @@
   "tech": 73416,
   "nra": 5500,
   "special_interest_total": 1878342,
-  "grassroots": 4688646
+  "grassroots": 4688646,
+  "grassroots_small": 1122087,
+  "grassroots_itemized": 3566559,
+  "small_dollar_pct": 23.9
  },
  "Bruce Westerman": {
   "candidate_id": "H4AR04048",
@@ -2715,7 +3036,10 @@
   "tech": 153183,
   "nra": 0,
   "special_interest_total": 2441503,
-  "grassroots": 5491191
+  "grassroots": 5491191,
+  "grassroots_small": 335359,
+  "grassroots_itemized": 5155832,
+  "small_dollar_pct": 6.1
  },
  "Doug LaMalfa": {
   "candidate_id": "H2CA02142",
@@ -2739,7 +3063,10 @@
   "tech": 63150,
   "nra": 0,
   "special_interest_total": 1015105,
-  "grassroots": 3975801
+  "grassroots": 3975801,
+  "grassroots_small": 294892,
+  "grassroots_itemized": 3680909,
+  "small_dollar_pct": 7.4
  },
  "Jared Huffman": {
   "candidate_id": "H2CA06259",
@@ -2764,7 +3091,10 @@
   "tech": 222163,
   "nra": 0,
   "special_interest_total": 1359048,
-  "grassroots": 4816121
+  "grassroots": 4816121,
+  "grassroots_small": 549768,
+  "grassroots_itemized": 4266353,
+  "small_dollar_pct": 11.4
  },
  "Kevin Kiley": {
   "candidate_id": "H2CA03157",
@@ -2789,7 +3119,10 @@
   "tech": 245105,
   "nra": 0,
   "special_interest_total": 1577667,
-  "grassroots": 7807843
+  "grassroots": 7807843,
+  "grassroots_small": 1917951,
+  "grassroots_itemized": 5889892,
+  "small_dollar_pct": 24.6
  },
  "Mike Thompson": {
   "candidate_id": "H8CA01109",
@@ -2813,7 +3146,10 @@
   "tech": 540553,
   "nra": 10500,
   "special_interest_total": 8681073,
-  "grassroots": 12169756
+  "grassroots": 12169756,
+  "grassroots_small": 1941167,
+  "grassroots_itemized": 10228589,
+  "small_dollar_pct": 16.0
  },
  "Tom McClintock": {
   "candidate_id": "H8CA04152",
@@ -2837,7 +3173,10 @@
   "tech": 660804,
   "nra": 0,
   "special_interest_total": 3155182,
-  "grassroots": 14339751
+  "grassroots": 14339751,
+  "grassroots_small": 4888972,
+  "grassroots_itemized": 9450779,
+  "small_dollar_pct": 34.1
  },
  "Ami Bera": {
   "candidate_id": "H0CA03078",
@@ -2861,7 +3200,10 @@
   "tech": 1058718,
   "nra": 0,
   "special_interest_total": 8136488,
-  "grassroots": 14630037
+  "grassroots": 14630037,
+  "grassroots_small": 1960636,
+  "grassroots_itemized": 12669401,
+  "small_dollar_pct": 13.4
  },
  "Doris Matsui": {
   "candidate_id": "H6CA05195",
@@ -2887,7 +3229,10 @@
   "tech": 1714786,
   "nra": 0,
   "special_interest_total": 5088647,
-  "grassroots": 5078345
+  "grassroots": 5078345,
+  "grassroots_small": 614518,
+  "grassroots_itemized": 4463827,
+  "small_dollar_pct": 12.1
  },
  "Adelita Grijalva": {
   "candidate_id": "H6AZ07121",
@@ -2911,7 +3256,10 @@
   "tech": 0,
   "nra": 0,
   "special_interest_total": 0,
-  "grassroots": 1841372
+  "grassroots": 1841372,
+  "grassroots_small": 1015921,
+  "grassroots_itemized": 825450,
+  "small_dollar_pct": 55.2
  },
  "John Garamendi": {
   "candidate_id": "H0CA10149",
@@ -2935,7 +3283,10 @@
   "tech": 354093,
   "nra": 0,
   "special_interest_total": 2585793,
-  "grassroots": 5575813
+  "grassroots": 5575813,
+  "grassroots_small": 480959,
+  "grassroots_itemized": 5094854,
+  "small_dollar_pct": 8.6
  },
  "Josh Harder": {
   "candidate_id": "H8CA10126",
@@ -2959,7 +3310,10 @@
   "tech": 2491757,
   "nra": 0,
   "special_interest_total": 8335795,
-  "grassroots": 26833310
+  "grassroots": 26833310,
+  "grassroots_small": 5043661,
+  "grassroots_itemized": 21789649,
+  "small_dollar_pct": 18.8
  },
  "Mark DeSaulnier": {
   "candidate_id": "H0CA10073",
@@ -2984,7 +3338,10 @@
   "tech": 90317,
   "nra": 0,
   "special_interest_total": 720250,
-  "grassroots": 2167998
+  "grassroots": 2167998,
+  "grassroots_small": 353067,
+  "grassroots_itemized": 1814931,
+  "small_dollar_pct": 16.3
  },
  "Kevin Mullin": {
   "candidate_id": "H2CA14162",
@@ -3008,7 +3365,10 @@
   "tech": 71100,
   "nra": 0,
   "special_interest_total": 1281820,
-  "grassroots": 1568112
+  "grassroots": 1568112,
+  "grassroots_small": 82495,
+  "grassroots_itemized": 1485617,
+  "small_dollar_pct": 5.3
  },
  "Zoe Lofgren": {
   "candidate_id": "H4CA16049",
@@ -3032,7 +3392,10 @@
   "tech": 3369308,
   "nra": 0,
   "special_interest_total": 6411953,
-  "grassroots": 8689341
+  "grassroots": 8689341,
+  "grassroots_small": 1070532,
+  "grassroots_itemized": 7618809,
+  "small_dollar_pct": 12.3
  },
  "Jimmy Panetta": {
   "candidate_id": "H6CA20152",
@@ -3056,7 +3419,10 @@
   "tech": 421044,
   "nra": 0,
   "special_interest_total": 3989177,
-  "grassroots": 6474664
+  "grassroots": 6474664,
+  "grassroots_small": 516176,
+  "grassroots_itemized": 5958488,
+  "small_dollar_pct": 8.0
  },
  "Jim Costa": {
   "candidate_id": "H4CA20082",
@@ -3080,7 +3446,10 @@
   "tech": 483845,
   "nra": 4000,
   "special_interest_total": 4535473,
-  "grassroots": 9123119
+  "grassroots": 9123119,
+  "grassroots_small": 173093,
+  "grassroots_itemized": 8950025,
+  "small_dollar_pct": 1.9
  },
  "David Valadao": {
   "candidate_id": "H2CA20094",
@@ -3105,7 +3474,10 @@
   "tech": 504330,
   "nra": 3000,
   "special_interest_total": 5355651,
-  "grassroots": 11875967
+  "grassroots": 11875967,
+  "grassroots_small": 1409611,
+  "grassroots_itemized": 10466357,
+  "small_dollar_pct": 11.9
  },
  "Jay Obernolte": {
   "candidate_id": "H0CA08135",
@@ -3129,7 +3501,10 @@
   "tech": 435308,
   "nra": 0,
   "special_interest_total": 1257253,
-  "grassroots": 2098715
+  "grassroots": 2098715,
+  "grassroots_small": 257450,
+  "grassroots_itemized": 1841264,
+  "small_dollar_pct": 12.3
  },
  "Salud Carbajal": {
   "candidate_id": "H6CA24303",
@@ -3153,7 +3528,10 @@
   "tech": 740668,
   "nra": 0,
   "special_interest_total": 2834717,
-  "grassroots": 9792537
+  "grassroots": 9792537,
+  "grassroots_small": 601683,
+  "grassroots_itemized": 9190854,
+  "small_dollar_pct": 6.1
  },
  "Raul Ruiz": {
   "candidate_id": "H0CA36177",
@@ -3177,7 +3555,10 @@
   "tech": 842685,
   "nra": 0,
   "special_interest_total": 6981789,
-  "grassroots": 12039
+  "grassroots": 12039,
+  "grassroots_small": 7989,
+  "grassroots_itemized": 4050,
+  "small_dollar_pct": 66.4
  },
  "Julia Brownley": {
   "candidate_id": "H2CA00120",
@@ -3201,7 +3582,10 @@
   "tech": 986674,
   "nra": 0,
   "special_interest_total": 3950545,
-  "grassroots": 11285923
+  "grassroots": 11285923,
+  "grassroots_small": 2421805,
+  "grassroots_itemized": 8864118,
+  "small_dollar_pct": 21.5
  },
  "Judy Chu": {
   "candidate_id": "H0CA32101",
@@ -3225,7 +3609,10 @@
   "tech": 733859,
   "nra": 0,
   "special_interest_total": 4144707,
-  "grassroots": 8546955
+  "grassroots": 8546955,
+  "grassroots_small": 799512,
+  "grassroots_itemized": 7747443,
+  "small_dollar_pct": 9.4
  },
  "Jimmy Gomez": {
   "candidate_id": "H8CA34266",
@@ -3249,7 +3636,10 @@
   "tech": 355110,
   "nra": 0,
   "special_interest_total": 5060535,
-  "grassroots": 4017866
+  "grassroots": 4017866,
+  "grassroots_small": 175516,
+  "grassroots_itemized": 3842351,
+  "small_dollar_pct": 4.4
  },
  "Ted Lieu": {
   "candidate_id": "H4CA33119",
@@ -3273,7 +3663,10 @@
   "tech": 1173582,
   "nra": 0,
   "special_interest_total": 5294970,
-  "grassroots": 9190052
+  "grassroots": 9190052,
+  "grassroots_small": 600219,
+  "grassroots_itemized": 8589833,
+  "small_dollar_pct": 6.5
  },
  "Sydney Kamlager-Dove": {
   "candidate_id": "H2CA37304",
@@ -3297,7 +3690,10 @@
   "tech": 194133,
   "nra": 0,
   "special_interest_total": 680502,
-  "grassroots": 2051641
+  "grassroots": 2051641,
+  "grassroots_small": 437047,
+  "grassroots_itemized": 1614595,
+  "small_dollar_pct": 21.3
  },
  "Mark Takano": {
   "candidate_id": "H2CA43245",
@@ -3323,7 +3719,10 @@
   "tech": 486812,
   "nra": 0,
   "special_interest_total": 2228259,
-  "grassroots": 6118421
+  "grassroots": 6118421,
+  "grassroots_small": 942314,
+  "grassroots_itemized": 5176107,
+  "small_dollar_pct": 15.4
  },
  "Young Kim": {
   "candidate_id": "H8CA39240",
@@ -3348,7 +3747,10 @@
   "tech": 505196,
   "nra": 0,
   "special_interest_total": 6711135,
-  "grassroots": 26186113
+  "grassroots": 26186113,
+  "grassroots_small": 10026685,
+  "grassroots_itemized": 16159428,
+  "small_dollar_pct": 38.3
  },
  "Ken Calvert": {
   "candidate_id": "H2CA37023",
@@ -3373,7 +3775,10 @@
   "tech": 1115884,
   "nra": 5000,
   "special_interest_total": 9839297,
-  "grassroots": 15522215
+  "grassroots": 15522215,
+  "grassroots_small": 1168773,
+  "grassroots_itemized": 14353442,
+  "small_dollar_pct": 7.5
  },
  "Robert Garcia": {
   "candidate_id": "H2CA47188",
@@ -3397,7 +3802,10 @@
   "tech": 85910,
   "nra": 0,
   "special_interest_total": 671662,
-  "grassroots": 4176557
+  "grassroots": 4176557,
+  "grassroots_small": 1542186,
+  "grassroots_itemized": 2634372,
+  "small_dollar_pct": 36.9
  },
  "Maxine Waters": {
   "candidate_id": "H4CA23011",
@@ -3421,7 +3829,10 @@
   "tech": 528574,
   "nra": 0,
   "special_interest_total": 4692547,
-  "grassroots": 4515127
+  "grassroots": 4515127,
+  "grassroots_small": 274741,
+  "grassroots_itemized": 4240386,
+  "small_dollar_pct": 6.1
  },
  "Lou Correa": {
   "candidate_id": "H6CA46116",
@@ -3445,7 +3856,10 @@
   "tech": 345455,
   "nra": 0,
   "special_interest_total": 2580789,
-  "grassroots": 2411915
+  "grassroots": 2411915,
+  "grassroots_small": 71572,
+  "grassroots_itemized": 2340343,
+  "small_dollar_pct": 3.0
  },
  "Darrell Issa": {
   "candidate_id": "H0CA48024",
@@ -3472,7 +3886,10 @@
   "tech": 1882034,
   "nra": 1500,
   "special_interest_total": 7176647,
-  "grassroots": 15435651
+  "grassroots": 15435651,
+  "grassroots_small": 6656612,
+  "grassroots_itemized": 8779039,
+  "small_dollar_pct": 43.1
  },
  "Mike Levin": {
   "candidate_id": "H8CA49058",
@@ -3496,7 +3913,10 @@
   "tech": 1323909,
   "nra": 0,
   "special_interest_total": 5340402,
-  "grassroots": 18557886
+  "grassroots": 18557886,
+  "grassroots_small": 3105070,
+  "grassroots_itemized": 15452817,
+  "small_dollar_pct": 16.7
  },
  "Scott Peters": {
   "candidate_id": "H2CA52089",
@@ -3520,7 +3940,10 @@
   "tech": 1298115,
   "nra": 0,
   "special_interest_total": 7902928,
-  "grassroots": 8974688
+  "grassroots": 8974688,
+  "grassroots_small": 1367064,
+  "grassroots_itemized": 7607624,
+  "small_dollar_pct": 15.2
  },
  "Sara Jacobs": {
   "candidate_id": "H8CA49074",
@@ -3545,7 +3968,10 @@
   "tech": 208249,
   "nra": 0,
   "special_interest_total": 852221,
-  "grassroots": 3040671
+  "grassroots": 3040671,
+  "grassroots_small": 471415,
+  "grassroots_itemized": 2569256,
+  "small_dollar_pct": 15.5
  },
  "Juan Vargas": {
   "candidate_id": "H2CA50026",
@@ -3572,7 +3998,10 @@
   "tech": 234721,
   "nra": 0,
   "special_interest_total": 4272612,
-  "grassroots": 2541992
+  "grassroots": 2541992,
+  "grassroots_small": 70706,
+  "grassroots_itemized": 2471286,
+  "small_dollar_pct": 2.8
  },
  "Jeff Crank": {
   "candidate_id": "H6CO05142",
@@ -3597,7 +4026,10 @@
   "tech": 47505,
   "nra": 0,
   "special_interest_total": 525736,
-  "grassroots": 2327253
+  "grassroots": 2327253,
+  "grassroots_small": 338747,
+  "grassroots_itemized": 1988505,
+  "small_dollar_pct": 14.6
  },
  "Joe Neguse": {
   "candidate_id": "H8CO02160",
@@ -3621,7 +4053,10 @@
   "tech": 501126,
   "nra": 0,
   "special_interest_total": 2507755,
-  "grassroots": 6373168
+  "grassroots": 6373168,
+  "grassroots_small": 1100948,
+  "grassroots_itemized": 5272221,
+  "small_dollar_pct": 17.3
  },
  "Jeff Hurd": {
   "candidate_id": "H4CO03357",
@@ -3645,7 +4080,10 @@
   "tech": 37501,
   "nra": 0,
   "special_interest_total": 644855,
-  "grassroots": 4139069
+  "grassroots": 4139069,
+  "grassroots_small": 181199,
+  "grassroots_itemized": 3957871,
+  "small_dollar_pct": 4.4
  },
  "Jason Crow": {
   "candidate_id": "H8CO06229",
@@ -3669,7 +4107,10 @@
   "tech": 740903,
   "nra": 0,
   "special_interest_total": 3583398,
-  "grassroots": 14450399
+  "grassroots": 14450399,
+  "grassroots_small": 3596528,
+  "grassroots_itemized": 10853870,
+  "small_dollar_pct": 24.9
  },
  "Brittany Pettersen": {
   "candidate_id": "H8CO07045",
@@ -3693,7 +4134,10 @@
   "tech": 263224,
   "nra": 0,
   "special_interest_total": 1829814,
-  "grassroots": 4332158
+  "grassroots": 4332158,
+  "grassroots_small": 792616,
+  "grassroots_itemized": 3539543,
+  "small_dollar_pct": 18.3
  },
  "John Larson": {
   "candidate_id": "H8CT01046",
@@ -3717,7 +4161,10 @@
   "tech": 573798,
   "nra": 0,
   "special_interest_total": 9460220,
-  "grassroots": 8342700
+  "grassroots": 8342700,
+  "grassroots_small": 1147722,
+  "grassroots_itemized": 7194979,
+  "small_dollar_pct": 13.8
  },
  "Joe Courtney": {
   "candidate_id": "H2CT02112",
@@ -3742,7 +4189,10 @@
   "tech": 346957,
   "nra": 0,
   "special_interest_total": 4834961,
-  "grassroots": 8996402
+  "grassroots": 8996402,
+  "grassroots_small": 1970109,
+  "grassroots_itemized": 7026292,
+  "small_dollar_pct": 21.9
  },
  "Rosa DeLauro": {
   "candidate_id": "H0CT03072",
@@ -3766,7 +4216,10 @@
   "tech": 604621,
   "nra": 0,
   "special_interest_total": 4986660,
-  "grassroots": 8096169
+  "grassroots": 8096169,
+  "grassroots_small": 946773,
+  "grassroots_itemized": 7149396,
+  "small_dollar_pct": 11.7
  },
  "Jim Himes": {
   "candidate_id": "H8CT04172",
@@ -3790,7 +4243,10 @@
   "tech": 899422,
   "nra": 0,
   "special_interest_total": 11534089,
-  "grassroots": 13488333
+  "grassroots": 13488333,
+  "grassroots_small": 1156842,
+  "grassroots_itemized": 12331491,
+  "small_dollar_pct": 8.6
  },
  "Jahana Hayes": {
   "candidate_id": "H8CT05245",
@@ -3814,7 +4270,10 @@
   "tech": 539990,
   "nra": 0,
   "special_interest_total": 2375612,
-  "grassroots": 7950036
+  "grassroots": 7950036,
+  "grassroots_small": 1843629,
+  "grassroots_itemized": 6106407,
+  "small_dollar_pct": 23.2
  },
  "Sarah McBride": {
   "candidate_id": "H4DE00045",
@@ -3838,7 +4297,10 @@
   "tech": 318049,
   "nra": 0,
   "special_interest_total": 924706,
-  "grassroots": 7599463
+  "grassroots": 7599463,
+  "grassroots_small": 1693708,
+  "grassroots_itemized": 5905755,
+  "small_dollar_pct": 22.3
  },
  "Neal Dunn": {
   "candidate_id": "H6FL02208",
@@ -3862,7 +4324,10 @@
   "tech": 217760,
   "nra": 500,
   "special_interest_total": 3052308,
-  "grassroots": 4074574
+  "grassroots": 4074574,
+  "grassroots_small": 383787,
+  "grassroots_itemized": 3690787,
+  "small_dollar_pct": 9.4
  },
  "Kat Cammack": {
   "candidate_id": "H0FL03175",
@@ -3886,7 +4351,10 @@
   "tech": 274511,
   "nra": 0,
   "special_interest_total": 1546575,
-  "grassroots": 4164565
+  "grassroots": 4164565,
+  "grassroots_small": 1311021,
+  "grassroots_itemized": 2853545,
+  "small_dollar_pct": 31.5
  },
  "Aaron Bean": {
   "candidate_id": "H2FL04211",
@@ -3913,7 +4381,10 @@
   "tech": 58207,
   "nra": 1000,
   "special_interest_total": 968728,
-  "grassroots": 2311210
+  "grassroots": 2311210,
+  "grassroots_small": 33738,
+  "grassroots_itemized": 2277472,
+  "small_dollar_pct": 1.5
  },
  "John Rutherford": {
   "candidate_id": "H6FL04105",
@@ -3937,7 +4408,10 @@
   "tech": 138100,
   "nra": 2000,
   "special_interest_total": 1618315,
-  "grassroots": 2275922
+  "grassroots": 2275922,
+  "grassroots_small": 46969,
+  "grassroots_itemized": 2228953,
+  "small_dollar_pct": 2.1
  },
  "Cory Mills": {
   "candidate_id": "H2FL07156",
@@ -3962,7 +4436,10 @@
   "tech": 56845,
   "nra": 0,
   "special_interest_total": 440233,
-  "grassroots": 2297562
+  "grassroots": 2297562,
+  "grassroots_small": 1268530,
+  "grassroots_itemized": 1029033,
+  "small_dollar_pct": 55.2
  },
  "Darren Soto": {
   "candidate_id": "H6FL09179",
@@ -3986,7 +4463,10 @@
   "tech": 378505,
   "nra": 0,
   "special_interest_total": 2954634,
-  "grassroots": 3550763
+  "grassroots": 3550763,
+  "grassroots_small": 147125,
+  "grassroots_itemized": 3403638,
+  "small_dollar_pct": 4.1
  },
  "Maxwell Frost": {
   "candidate_id": "H2FL10259",
@@ -4010,7 +4490,10 @@
   "tech": 381264,
   "nra": 0,
   "special_interest_total": 1128734,
-  "grassroots": 9472959
+  "grassroots": 9472959,
+  "grassroots_small": 5365066,
+  "grassroots_itemized": 4107894,
+  "small_dollar_pct": 56.6
  },
  "Daniel Webster": {
   "candidate_id": "H0FL08208",
@@ -4036,7 +4519,10 @@
   "tech": 204069,
   "nra": 2000,
   "special_interest_total": 2490292,
-  "grassroots": 5676580
+  "grassroots": 5676580,
+  "grassroots_small": 905623,
+  "grassroots_itemized": 4770958,
+  "small_dollar_pct": 16.0
  },
  "Gus Bilirakis": {
   "candidate_id": "H6FL09070",
@@ -4060,7 +4546,10 @@
   "tech": 923584,
   "nra": 1000,
   "special_interest_total": 7249104,
-  "grassroots": 9315837
+  "grassroots": 9315837,
+  "grassroots_small": 901395,
+  "grassroots_itemized": 8414442,
+  "small_dollar_pct": 9.7
  },
  "Anna Paulina Luna": {
   "candidate_id": "H0FL13158",
@@ -4086,7 +4575,10 @@
   "tech": 214583,
   "nra": 0,
   "special_interest_total": 1758909,
-  "grassroots": 10328169
+  "grassroots": 10328169,
+  "grassroots_small": 5123999,
+  "grassroots_itemized": 5204170,
+  "small_dollar_pct": 49.6
  },
  "Kathy Castor": {
   "candidate_id": "H6FL11126",
@@ -4111,7 +4603,10 @@
   "tech": 750574,
   "nra": 0,
   "special_interest_total": 3437683,
-  "grassroots": 6334561
+  "grassroots": 6334561,
+  "grassroots_small": 1019799,
+  "grassroots_itemized": 5314761,
+  "small_dollar_pct": 16.1
  },
  "Laurel Lee": {
   "candidate_id": "H2FL15241",
@@ -4136,7 +4631,10 @@
   "tech": 137367,
   "nra": 0,
   "special_interest_total": 1107922,
-  "grassroots": 1952232
+  "grassroots": 1952232,
+  "grassroots_small": 46404,
+  "grassroots_itemized": 1905828,
+  "small_dollar_pct": 2.4
  },
  "Vern Buchanan": {
   "candidate_id": "H6FL13148",
@@ -4160,7 +4658,10 @@
   "tech": 694157,
   "nra": 2450,
   "special_interest_total": 10722807,
-  "grassroots": 14755317
+  "grassroots": 14755317,
+  "grassroots_small": 560237,
+  "grassroots_itemized": 14195081,
+  "small_dollar_pct": 3.8
  },
  "Greg Steube": {
   "candidate_id": "H8FL17053",
@@ -4184,7 +4685,10 @@
   "tech": 141331,
   "nra": 1000,
   "special_interest_total": 1380477,
-  "grassroots": 2940701
+  "grassroots": 2940701,
+  "grassroots_small": 880047,
+  "grassroots_itemized": 2060654,
+  "small_dollar_pct": 29.9
  },
  "Scott Franklin": {
   "candidate_id": "H0FL15104",
@@ -4208,7 +4712,10 @@
   "tech": 81380,
   "nra": 0,
   "special_interest_total": 806978,
-  "grassroots": 2003416
+  "grassroots": 2003416,
+  "grassroots_small": 162008,
+  "grassroots_itemized": 1841408,
+  "small_dollar_pct": 8.1
  },
  "Byron Donalds": {
   "candidate_id": "H2FL14186",
@@ -4233,7 +4740,10 @@
   "tech": 188380,
   "nra": 0,
   "special_interest_total": 2327834,
-  "grassroots": 13038794
+  "grassroots": 13038794,
+  "grassroots_small": 6521912,
+  "grassroots_itemized": 6516882,
+  "small_dollar_pct": 50.0
  },
  "Sheila Cherfilus-McCormick": {
   "candidate_id": "H8FL20032",
@@ -4257,7 +4767,10 @@
   "tech": 49148,
   "nra": 0,
   "special_interest_total": 620279,
-  "grassroots": 931301
+  "grassroots": 931301,
+  "grassroots_small": 44215,
+  "grassroots_itemized": 887086,
+  "small_dollar_pct": 4.7
  },
  "Brian Mast": {
   "candidate_id": "H6FL18097",
@@ -4282,7 +4795,10 @@
   "tech": 256599,
   "nra": 0,
   "special_interest_total": 4364505,
-  "grassroots": 22819982
+  "grassroots": 22819982,
+  "grassroots_small": 10295965,
+  "grassroots_itemized": 12524016,
+  "small_dollar_pct": 45.1
  },
  "Lois Frankel": {
   "candidate_id": "H2FL14053",
@@ -4307,7 +4823,10 @@
   "tech": 303023,
   "nra": 0,
   "special_interest_total": 3750969,
-  "grassroots": 9999363
+  "grassroots": 9999363,
+  "grassroots_small": 1627242,
+  "grassroots_itemized": 8372120,
+  "small_dollar_pct": 16.3
  },
  "Jared Moskowitz": {
   "candidate_id": "H2FL22171",
@@ -4331,7 +4850,10 @@
   "tech": 99837,
   "nra": 0,
   "special_interest_total": 1598344,
-  "grassroots": 4656017
+  "grassroots": 4656017,
+  "grassroots_small": 783937,
+  "grassroots_itemized": 3872080,
+  "small_dollar_pct": 16.8
  },
  "Frederica Wilson": {
   "candidate_id": "H0FL17068",
@@ -4355,7 +4877,10 @@
   "tech": 163244,
   "nra": 0,
   "special_interest_total": 845755,
-  "grassroots": 1119419
+  "grassroots": 1119419,
+  "grassroots_small": 80649,
+  "grassroots_itemized": 1038771,
+  "small_dollar_pct": 7.2
  },
  "Debbie Wasserman Schultz": {
   "candidate_id": "H4FL20023",
@@ -4379,7 +4904,10 @@
   "tech": 1280221,
   "nra": 0,
   "special_interest_total": 7206496,
-  "grassroots": 19881357
+  "grassroots": 19881357,
+  "grassroots_small": 4108448,
+  "grassroots_itemized": 15772908,
+  "small_dollar_pct": 20.7
  },
  "Sanford Bishop": {
   "candidate_id": "H2GA02031",
@@ -4405,7 +4933,10 @@
   "tech": 704885,
   "nra": 0,
   "special_interest_total": 4559322,
-  "grassroots": 5914379
+  "grassroots": 5914379,
+  "grassroots_small": 377950,
+  "grassroots_itemized": 5536429,
+  "small_dollar_pct": 6.4
  },
  "Nikema Williams": {
   "candidate_id": "H0GA05301",
@@ -4429,7 +4960,10 @@
   "tech": 125695,
   "nra": 0,
   "special_interest_total": 965643,
-  "grassroots": 1288012
+  "grassroots": 1288012,
+  "grassroots_small": 189446,
+  "grassroots_itemized": 1098566,
+  "small_dollar_pct": 14.7
  },
  "Rich McCormick": {
   "candidate_id": "H0GA07273",
@@ -4454,7 +4988,10 @@
   "tech": 193893,
   "nra": 0,
   "special_interest_total": 2395655,
-  "grassroots": 6673876
+  "grassroots": 6673876,
+  "grassroots_small": 1154248,
+  "grassroots_itemized": 5519628,
+  "small_dollar_pct": 17.3
  },
  "Lucy McBath": {
   "candidate_id": "H8GA06393",
@@ -4478,7 +5015,10 @@
   "tech": 1314806,
   "nra": 0,
   "special_interest_total": 5118266,
-  "grassroots": 16407999
+  "grassroots": 16407999,
+  "grassroots_small": 4562890,
+  "grassroots_itemized": 11845109,
+  "small_dollar_pct": 27.8
  },
  "Andrew Clyde": {
   "candidate_id": "H0GA09246",
@@ -4504,7 +5044,10 @@
   "tech": 35139,
   "nra": 2000,
   "special_interest_total": 281559,
-  "grassroots": 1729987
+  "grassroots": 1729987,
+  "grassroots_small": 240483,
+  "grassroots_itemized": 1489503,
+  "small_dollar_pct": 13.9
  },
  "Mike Collins": {
   "candidate_id": "H0GA03017",
@@ -4532,7 +5075,10 @@
   "tech": 29594,
   "nra": 4000,
   "special_interest_total": 530586,
-  "grassroots": 5440757
+  "grassroots": 5440757,
+  "grassroots_small": 1795937,
+  "grassroots_itemized": 3644820,
+  "small_dollar_pct": 33.0
  },
  "Barry Loudermilk": {
   "candidate_id": "H4GA11061",
@@ -4556,7 +5102,10 @@
   "tech": 156019,
   "nra": 2000,
   "special_interest_total": 2405476,
-  "grassroots": 2196680
+  "grassroots": 2196680,
+  "grassroots_small": 285917,
+  "grassroots_itemized": 1910763,
+  "small_dollar_pct": 13.0
  },
  "Rick Allen": {
   "candidate_id": "H0GA02241",
@@ -4581,7 +5130,10 @@
   "tech": 200850,
   "nra": 0,
   "special_interest_total": 2334560,
-  "grassroots": 23224
+  "grassroots": 23224,
+  "grassroots_small": 0,
+  "grassroots_itemized": 23224,
+  "small_dollar_pct": 0.0
  },
  "David Scott": {
   "candidate_id": "H2GA13012",
@@ -4605,7 +5157,10 @@
   "tech": 370350,
   "nra": 0,
   "special_interest_total": 7029483,
-  "grassroots": 2561941
+  "grassroots": 2561941,
+  "grassroots_small": 102375,
+  "grassroots_itemized": 2459567,
+  "small_dollar_pct": 4.0
  },
  "Ed Case": {
   "candidate_id": "H2HI02128",
@@ -4633,7 +5188,10 @@
   "tech": 184630,
   "nra": 0,
   "special_interest_total": 1868941,
-  "grassroots": 5173325
+  "grassroots": 5173325,
+  "grassroots_small": 845389,
+  "grassroots_itemized": 4327935,
+  "small_dollar_pct": 16.3
  },
  "Jill Tokuda": {
   "candidate_id": "H2HI02581",
@@ -4657,7 +5215,10 @@
   "tech": 16015,
   "nra": 0,
   "special_interest_total": 396707,
-  "grassroots": 2044700
+  "grassroots": 2044700,
+  "grassroots_small": 222126,
+  "grassroots_itemized": 1822574,
+  "small_dollar_pct": 10.9
  },
  "Russ Fulcher": {
   "candidate_id": "H8ID01124",
@@ -4681,7 +5242,10 @@
   "tech": 139346,
   "nra": 3500,
   "special_interest_total": 568729,
-  "grassroots": 1712944
+  "grassroots": 1712944,
+  "grassroots_small": 172243,
+  "grassroots_itemized": 1540701,
+  "small_dollar_pct": 10.1
  },
  "Mike Simpson": {
   "candidate_id": "H8ID02064",
@@ -4705,7 +5269,10 @@
   "tech": 552985,
   "nra": 0,
   "special_interest_total": 4039857,
-  "grassroots": 4843461
+  "grassroots": 4843461,
+  "grassroots_small": 391938,
+  "grassroots_itemized": 4451523,
+  "small_dollar_pct": 8.1
  },
  "Jonathan Jackson": {
   "candidate_id": "H2IL01349",
@@ -4729,7 +5296,10 @@
   "tech": 57062,
   "nra": 0,
   "special_interest_total": 391754,
-  "grassroots": 1124381
+  "grassroots": 1124381,
+  "grassroots_small": 57205,
+  "grassroots_itemized": 1067176,
+  "small_dollar_pct": 5.1
  },
  "Robin Kelly": {
   "candidate_id": "H2IL02172",
@@ -4755,7 +5325,10 @@
   "tech": 525316,
   "nra": 0,
   "special_interest_total": 3478449,
-  "grassroots": 4887723
+  "grassroots": 4887723,
+  "grassroots_small": 907371,
+  "grassroots_itemized": 3980352,
+  "small_dollar_pct": 18.6
  },
  "Delia Ramirez": {
   "candidate_id": "H2IL03162",
@@ -4779,7 +5352,10 @@
   "tech": 25472,
   "nra": 0,
   "special_interest_total": 248403,
-  "grassroots": 2359851
+  "grassroots": 2359851,
+  "grassroots_small": 418027,
+  "grassroots_itemized": 1941825,
+  "small_dollar_pct": 17.7
  },
  "Mike Quigley": {
   "candidate_id": "H0IL05096",
@@ -4803,7 +5379,10 @@
   "tech": 409263,
   "nra": 0,
   "special_interest_total": 3100550,
-  "grassroots": 4266247
+  "grassroots": 4266247,
+  "grassroots_small": 271642,
+  "grassroots_itemized": 3994604,
+  "small_dollar_pct": 6.4
  },
  "Sean Casten": {
   "candidate_id": "H8IL06139",
@@ -4827,7 +5406,10 @@
   "tech": 862895,
   "nra": 0,
   "special_interest_total": 5352425,
-  "grassroots": 17384541
+  "grassroots": 17384541,
+  "grassroots_small": 3160304,
+  "grassroots_itemized": 14224237,
+  "small_dollar_pct": 18.2
  },
  "Danny Davis": {
   "candidate_id": "H4IL07037",
@@ -4852,7 +5434,10 @@
   "tech": 309244,
   "nra": 0,
   "special_interest_total": 2485873,
-  "grassroots": 1916289
+  "grassroots": 1916289,
+  "grassroots_small": 323173,
+  "grassroots_itemized": 1593117,
+  "small_dollar_pct": 16.9
  },
  "Raja Krishnamoorthi": {
   "candidate_id": "H6IL08147",
@@ -4878,7 +5463,10 @@
   "tech": 1517265,
   "nra": 0,
   "special_interest_total": 11333607,
-  "grassroots": 42654116
+  "grassroots": 42654116,
+  "grassroots_small": 3402630,
+  "grassroots_itemized": 39251486,
+  "small_dollar_pct": 8.0
  },
  "Jan Schakowsky": {
   "candidate_id": "H8IL09067",
@@ -4902,7 +5490,10 @@
   "tech": 508343,
   "nra": 0,
   "special_interest_total": 3821278,
-  "grassroots": 12028683
+  "grassroots": 12028683,
+  "grassroots_small": 2481137,
+  "grassroots_itemized": 9547547,
+  "small_dollar_pct": 20.6
  },
  "Brad Schneider": {
   "candidate_id": "H2IL10068",
@@ -4926,7 +5517,10 @@
   "tech": 756476,
   "nra": 0,
   "special_interest_total": 10025519,
-  "grassroots": 22177174
+  "grassroots": 22177174,
+  "grassroots_small": 4248742,
+  "grassroots_itemized": 17928432,
+  "small_dollar_pct": 19.2
  },
  "Mike Bost": {
   "candidate_id": "H4IL12060",
@@ -4950,7 +5544,10 @@
   "tech": 227727,
   "nra": 1000,
   "special_interest_total": 3073251,
-  "grassroots": 6589532
+  "grassroots": 6589532,
+  "grassroots_small": 726706,
+  "grassroots_itemized": 5862825,
+  "small_dollar_pct": 11.0
  },
  "Nikki Budzinski": {
   "candidate_id": "H2IL13153",
@@ -4974,7 +5571,10 @@
   "tech": 151585,
   "nra": 0,
   "special_interest_total": 1623537,
-  "grassroots": 7065033
+  "grassroots": 7065033,
+  "grassroots_small": 715447,
+  "grassroots_itemized": 6349586,
+  "small_dollar_pct": 10.1
  },
  "Lauren Underwood": {
   "candidate_id": "H8IL14174",
@@ -4998,7 +5598,10 @@
   "tech": 1361023,
   "nra": 0,
   "special_interest_total": 5414104,
-  "grassroots": 21092535
+  "grassroots": 21092535,
+  "grassroots_small": 5163347,
+  "grassroots_itemized": 15929189,
+  "small_dollar_pct": 24.5
  },
  "Mary Miller": {
   "candidate_id": "H0IL15129",
@@ -5022,7 +5625,10 @@
   "tech": 20994,
   "nra": 0,
   "special_interest_total": 328505,
-  "grassroots": 4601566
+  "grassroots": 4601566,
+  "grassroots_small": 2386128,
+  "grassroots_itemized": 2215438,
+  "small_dollar_pct": 51.9
  },
  "Darin LaHood": {
   "candidate_id": "H6IL18088",
@@ -5046,7 +5652,10 @@
   "tech": 609811,
   "nra": 0,
   "special_interest_total": 6612036,
-  "grassroots": 6212850
+  "grassroots": 6212850,
+  "grassroots_small": 882019,
+  "grassroots_itemized": 5330831,
+  "small_dollar_pct": 14.2
  },
  "Eric Sorensen": {
   "candidate_id": "H2IL17147",
@@ -5070,7 +5679,10 @@
   "tech": 356643,
   "nra": 0,
   "special_interest_total": 1854243,
-  "grassroots": 7199884
+  "grassroots": 7199884,
+  "grassroots_small": 1277030,
+  "grassroots_itemized": 5922854,
+  "small_dollar_pct": 17.7
  },
  "Frank Mrvan": {
   "candidate_id": "H0IN01150",
@@ -5094,7 +5706,10 @@
   "tech": 211514,
   "nra": 0,
   "special_interest_total": 1751753,
-  "grassroots": 4949567
+  "grassroots": 4949567,
+  "grassroots_small": 731521,
+  "grassroots_itemized": 4218046,
+  "small_dollar_pct": 14.8
  },
  "Rudy Yakym": {
   "candidate_id": "H2IN02295",
@@ -5118,7 +5733,10 @@
   "tech": 65038,
   "nra": 0,
   "special_interest_total": 1063239,
-  "grassroots": 5685938
+  "grassroots": 5685938,
+  "grassroots_small": 2451575,
+  "grassroots_itemized": 3234363,
+  "small_dollar_pct": 43.1
  },
  "Marlin Stutzman": {
   "candidate_id": "H0IN03198",
@@ -5145,7 +5763,10 @@
   "tech": 84582,
   "nra": 0,
   "special_interest_total": 2050006,
-  "grassroots": 4906664
+  "grassroots": 4906664,
+  "grassroots_small": 754050,
+  "grassroots_itemized": 4152614,
+  "small_dollar_pct": 15.4
  },
  "Jim Baird": {
   "candidate_id": "H8IN04199",
@@ -5169,7 +5790,10 @@
   "tech": 38873,
   "nra": 0,
   "special_interest_total": 278757,
-  "grassroots": 740811
+  "grassroots": 740811,
+  "grassroots_small": 194128,
+  "grassroots_itemized": 546683,
+  "small_dollar_pct": 26.2
  },
  "Victoria Spartz": {
   "candidate_id": "H0IN05326",
@@ -5193,7 +5817,10 @@
   "tech": 114879,
   "nra": 0,
   "special_interest_total": 1414114,
-  "grassroots": 6608988
+  "grassroots": 6608988,
+  "grassroots_small": 2932811,
+  "grassroots_itemized": 3676176,
+  "small_dollar_pct": 44.4
  },
  "Jefferson Shreve": {
   "candidate_id": "H4IN06185",
@@ -5217,7 +5844,10 @@
   "tech": 3511,
   "nra": 0,
   "special_interest_total": 69389,
-  "grassroots": 254873
+  "grassroots": 254873,
+  "grassroots_small": 4662,
+  "grassroots_itemized": 250212,
+  "small_dollar_pct": 1.8
  },
  "Mark Messmer": {
   "candidate_id": "H4IN08249",
@@ -5241,7 +5871,10 @@
   "tech": 8276,
   "nra": 0,
   "special_interest_total": 3058203,
-  "grassroots": 1265749
+  "grassroots": 1265749,
+  "grassroots_small": 23510,
+  "grassroots_itemized": 1242240,
+  "small_dollar_pct": 1.9
  },
  "Erin Houchin": {
   "candidate_id": "H6IN09143",
@@ -5266,7 +5899,10 @@
   "tech": 136244,
   "nra": 0,
   "special_interest_total": 1309489,
-  "grassroots": 1784867
+  "grassroots": 1784867,
+  "grassroots_small": 100297,
+  "grassroots_itemized": 1684570,
+  "small_dollar_pct": 5.6
  },
  "Zach Nunn": {
   "candidate_id": "H2IA03119",
@@ -5292,7 +5928,10 @@
   "tech": 162044,
   "nra": 0,
   "special_interest_total": 2528778,
-  "grassroots": 5637338
+  "grassroots": 5637338,
+  "grassroots_small": 1255878,
+  "grassroots_itemized": 4381460,
+  "small_dollar_pct": 22.3
  },
  "Randy Feenstra": {
   "candidate_id": "H0IA04145",
@@ -5316,7 +5955,10 @@
   "tech": 229077,
   "nra": 0,
   "special_interest_total": 2800915,
-  "grassroots": 5148933
+  "grassroots": 5148933,
+  "grassroots_small": 1130735,
+  "grassroots_itemized": 4018199,
+  "small_dollar_pct": 22.0
  },
  "Mariannette Miller-Meeks": {
   "candidate_id": "H8IA02043",
@@ -5342,7 +5984,10 @@
   "tech": 310141,
   "nra": 0,
   "special_interest_total": 4084068,
-  "grassroots": 10593263
+  "grassroots": 10593263,
+  "grassroots_small": 2672630,
+  "grassroots_itemized": 7920633,
+  "small_dollar_pct": 25.2
  },
  "Tracey Mann": {
   "candidate_id": "H0KS01123",
@@ -5366,7 +6011,10 @@
   "tech": 117590,
   "nra": 0,
   "special_interest_total": 1074377,
-  "grassroots": 2984584
+  "grassroots": 2984584,
+  "grassroots_small": 151653,
+  "grassroots_itemized": 2832930,
+  "small_dollar_pct": 5.1
  },
  "Sharice Davids": {
   "candidate_id": "H8KS03155",
@@ -5390,7 +6038,10 @@
   "tech": 1382218,
   "nra": 0,
   "special_interest_total": 5700582,
-  "grassroots": 21120364
+  "grassroots": 21120364,
+  "grassroots_small": 5517537,
+  "grassroots_itemized": 15602827,
+  "small_dollar_pct": 26.1
  },
  "Ron Estes": {
   "candidate_id": "H8KS04112",
@@ -5414,7 +6065,10 @@
   "tech": 287277,
   "nra": 0,
   "special_interest_total": 3273618,
-  "grassroots": 3481787
+  "grassroots": 3481787,
+  "grassroots_small": 140666,
+  "grassroots_itemized": 3341121,
+  "small_dollar_pct": 4.0
  },
  "James Comer": {
   "candidate_id": "H6KY01110",
@@ -5438,7 +6092,10 @@
   "tech": 345980,
   "nra": 1000,
   "special_interest_total": 2177054,
-  "grassroots": 10157739
+  "grassroots": 10157739,
+  "grassroots_small": 4365068,
+  "grassroots_itemized": 5792671,
+  "small_dollar_pct": 43.0
  },
  "Morgan McGarvey": {
   "candidate_id": "H2KY03206",
@@ -5462,7 +6119,10 @@
   "tech": 153781,
   "nra": 0,
   "special_interest_total": 1382621,
-  "grassroots": 4638495
+  "grassroots": 4638495,
+  "grassroots_small": 475539,
+  "grassroots_itemized": 4162956,
+  "small_dollar_pct": 10.3
  },
  "Thomas Massie": {
   "candidate_id": "H2KY04121",
@@ -5486,7 +6146,10 @@
   "tech": 238305,
   "nra": 5000,
   "special_interest_total": 1289693,
-  "grassroots": 13488782
+  "grassroots": 13488782,
+  "grassroots_small": 4511422,
+  "grassroots_itemized": 8977360,
+  "small_dollar_pct": 33.4
  },
  "Hal Rogers": {
   "candidate_id": "H0KY05015",
@@ -5510,7 +6173,10 @@
   "tech": 715482,
   "nra": 9000,
   "special_interest_total": 4433914,
-  "grassroots": 5201214
+  "grassroots": 5201214,
+  "grassroots_small": 104405,
+  "grassroots_itemized": 5096809,
+  "small_dollar_pct": 2.0
  },
  "Steve Scalise": {
   "candidate_id": "H0LA01087",
@@ -5535,7 +6201,10 @@
   "tech": 2680328,
   "nra": 0,
   "special_interest_total": 24716071,
-  "grassroots": 49401253
+  "grassroots": 49401253,
+  "grassroots_small": 20394334,
+  "grassroots_itemized": 29006918,
+  "small_dollar_pct": 41.3
  },
  "Clay Higgins": {
   "candidate_id": "H6LA03148",
@@ -5559,7 +6228,10 @@
   "tech": 66964,
   "nra": 2500,
   "special_interest_total": 913914,
-  "grassroots": 2779327
+  "grassroots": 2779327,
+  "grassroots_small": 611914,
+  "grassroots_itemized": 2167413,
+  "small_dollar_pct": 22.0
  },
  "Julia Letlow": {
   "candidate_id": "H2LA05126",
@@ -5585,7 +6257,10 @@
   "tech": 163446,
   "nra": 0,
   "special_interest_total": 1751648,
-  "grassroots": 4881825
+  "grassroots": 4881825,
+  "grassroots_small": 331896,
+  "grassroots_itemized": 4549928,
+  "small_dollar_pct": 6.8
  },
  "Troy Carter": {
   "candidate_id": "H2LA02149",
@@ -5609,7 +6284,10 @@
   "tech": 204085,
   "nra": 1000,
   "special_interest_total": 1358509,
-  "grassroots": 3834355
+  "grassroots": 3834355,
+  "grassroots_small": 65818,
+  "grassroots_itemized": 3768537,
+  "small_dollar_pct": 1.7
  },
  "Chellie Pingree": {
   "candidate_id": "H8ME01120",
@@ -5635,7 +6313,10 @@
   "tech": 451379,
   "nra": 0,
   "special_interest_total": 2217647,
-  "grassroots": 6064225
+  "grassroots": 6064225,
+  "grassroots_small": 1401894,
+  "grassroots_itemized": 4662331,
+  "small_dollar_pct": 23.1
  },
  "Jared Golden": {
   "candidate_id": "H8ME02185",
@@ -5659,7 +6340,10 @@
   "tech": 1557661,
   "nra": 0,
   "special_interest_total": 7326021,
-  "grassroots": 22273009
+  "grassroots": 22273009,
+  "grassroots_small": 4918942,
+  "grassroots_itemized": 17354068,
+  "small_dollar_pct": 22.1
  },
  "Andy Harris": {
   "candidate_id": "H8MD01023",
@@ -5683,7 +6367,10 @@
   "tech": 157579,
   "nra": 0,
   "special_interest_total": 5436026,
-  "grassroots": 13152163
+  "grassroots": 13152163,
+  "grassroots_small": 2850869,
+  "grassroots_itemized": 10301294,
+  "small_dollar_pct": 21.7
  },
  "Johnny Olszewski": {
   "candidate_id": "H4MD02232",
@@ -5707,7 +6394,10 @@
   "tech": 14350,
   "nra": 0,
   "special_interest_total": 509453,
-  "grassroots": 1941575
+  "grassroots": 1941575,
+  "grassroots_small": 98403,
+  "grassroots_itemized": 1843171,
+  "small_dollar_pct": 5.1
  },
  "Sarah Elfreth": {
   "candidate_id": "H4MD03156",
@@ -5731,7 +6421,10 @@
   "tech": 25103,
   "nra": 0,
   "special_interest_total": 4491359,
-  "grassroots": 2660743
+  "grassroots": 2660743,
+  "grassroots_small": 210806,
+  "grassroots_itemized": 2449938,
+  "small_dollar_pct": 7.9
  },
  "Glenn Ivey": {
   "candidate_id": "H2MD04232",
@@ -5756,7 +6449,10 @@
   "tech": 114243,
   "nra": 0,
   "special_interest_total": 7931950,
-  "grassroots": 3319667
+  "grassroots": 3319667,
+  "grassroots_small": 260625,
+  "grassroots_itemized": 3059042,
+  "small_dollar_pct": 7.9
  },
  "April McClain Delaney": {
   "candidate_id": "H4MD06340",
@@ -5780,7 +6476,10 @@
   "tech": 46411,
   "nra": 0,
   "special_interest_total": 586209,
-  "grassroots": 2530976
+  "grassroots": 2530976,
+  "grassroots_small": 116962,
+  "grassroots_itemized": 2414014,
+  "small_dollar_pct": 4.6
  },
  "Jamie Raskin": {
   "candidate_id": "H6MD08457",
@@ -5804,7 +6503,10 @@
   "tech": 730273,
   "nra": 0,
   "special_interest_total": 2730064,
-  "grassroots": 19483239
+  "grassroots": 19483239,
+  "grassroots_small": 7229575,
+  "grassroots_itemized": 12253664,
+  "small_dollar_pct": 37.1
  },
  "Richard Neal": {
   "candidate_id": "H8MA02041",
@@ -5828,7 +6530,10 @@
   "tech": 1162806,
   "nra": 0,
   "special_interest_total": 15884682,
-  "grassroots": 7632638
+  "grassroots": 7632638,
+  "grassroots_small": 451308,
+  "grassroots_itemized": 7181330,
+  "small_dollar_pct": 5.9
  },
  "Jim McGovern": {
   "candidate_id": "H4MA03022",
@@ -5852,7 +6557,10 @@
   "tech": 376458,
   "nra": 0,
   "special_interest_total": 3289768,
-  "grassroots": 8249818
+  "grassroots": 8249818,
+  "grassroots_small": 2327966,
+  "grassroots_itemized": 5921852,
+  "small_dollar_pct": 28.2
  },
  "Lori Trahan": {
   "candidate_id": "H8MA03106",
@@ -5876,7 +6584,10 @@
   "tech": 301294,
   "nra": 0,
   "special_interest_total": 2473799,
-  "grassroots": 6261204
+  "grassroots": 6261204,
+  "grassroots_small": 111274,
+  "grassroots_itemized": 6149930,
+  "small_dollar_pct": 1.8
  },
  "Jake Auchincloss": {
   "candidate_id": "H0MA04192",
@@ -5901,7 +6612,10 @@
   "tech": 264095,
   "nra": 0,
   "special_interest_total": 4977306,
-  "grassroots": 9122883
+  "grassroots": 9122883,
+  "grassroots_small": 212605,
+  "grassroots_itemized": 8910278,
+  "small_dollar_pct": 2.3
  },
  "Katherine Clark": {
   "candidate_id": "H4MA05084",
@@ -5925,7 +6639,10 @@
   "tech": 874499,
   "nra": 0,
   "special_interest_total": 6772478,
-  "grassroots": 7808778
+  "grassroots": 7808778,
+  "grassroots_small": 736989,
+  "grassroots_itemized": 7071789,
+  "small_dollar_pct": 9.4
  },
  "Seth Moulton": {
   "candidate_id": "H4MA06090",
@@ -5950,7 +6667,10 @@
   "tech": 720383,
   "nra": 0,
   "special_interest_total": 7091007,
-  "grassroots": 15957574
+  "grassroots": 15957574,
+  "grassroots_small": 2190364,
+  "grassroots_itemized": 13767210,
+  "small_dollar_pct": 13.7
  },
  "Ayanna Pressley": {
   "candidate_id": "H8MA07032",
@@ -5974,7 +6694,10 @@
   "tech": 274753,
   "nra": 0,
   "special_interest_total": 1214153,
-  "grassroots": 6520217
+  "grassroots": 6520217,
+  "grassroots_small": 2592042,
+  "grassroots_itemized": 3928176,
+  "small_dollar_pct": 39.8
  },
  "Stephen Lynch": {
   "candidate_id": "H2MA09072",
@@ -6001,7 +6724,10 @@
   "tech": 211925,
   "nra": 0,
   "special_interest_total": 3849212,
-  "grassroots": 8348044
+  "grassroots": 8348044,
+  "grassroots_small": 1015739,
+  "grassroots_itemized": 7332305,
+  "small_dollar_pct": 12.2
  },
  "Bill Keating": {
   "candidate_id": "H0MA10082",
@@ -6025,7 +6751,10 @@
   "tech": 224198,
   "nra": 0,
   "special_interest_total": 2082052,
-  "grassroots": 4540061
+  "grassroots": 4540061,
+  "grassroots_small": 692464,
+  "grassroots_itemized": 3847596,
+  "small_dollar_pct": 15.3
  },
  "John Moolenaar": {
   "candidate_id": "H4MI04126",
@@ -6049,7 +6778,10 @@
   "tech": 242065,
   "nra": 0,
   "special_interest_total": 2609854,
-  "grassroots": 6252282
+  "grassroots": 6252282,
+  "grassroots_small": 330778,
+  "grassroots_itemized": 5921504,
+  "small_dollar_pct": 5.3
  },
  "Hillary Scholten": {
   "candidate_id": "H0MI03316",
@@ -6074,7 +6806,10 @@
   "tech": 578746,
   "nra": 0,
   "special_interest_total": 3179837,
-  "grassroots": 11326699
+  "grassroots": 11326699,
+  "grassroots_small": 2282486,
+  "grassroots_itemized": 9044213,
+  "small_dollar_pct": 20.2
  },
  "Bill Huizenga": {
   "candidate_id": "H0MI02094",
@@ -6098,7 +6833,10 @@
   "tech": 234237,
   "nra": 1000,
   "special_interest_total": 8029153,
-  "grassroots": 7523677
+  "grassroots": 7523677,
+  "grassroots_small": 555551,
+  "grassroots_itemized": 6968126,
+  "small_dollar_pct": 7.4
  },
  "Tim Walberg": {
   "candidate_id": "H4MI07103",
@@ -6122,7 +6860,10 @@
   "tech": 555773,
   "nra": 0,
   "special_interest_total": 4907654,
-  "grassroots": 11254144
+  "grassroots": 11254144,
+  "grassroots_small": 1856067,
+  "grassroots_itemized": 9398077,
+  "small_dollar_pct": 16.5
  },
  "Debbie Dingell": {
   "candidate_id": "H4MI12079",
@@ -6146,7 +6887,10 @@
   "tech": 721032,
   "nra": 0,
   "special_interest_total": 2618757,
-  "grassroots": 4218938
+  "grassroots": 4218938,
+  "grassroots_small": 596390,
+  "grassroots_itemized": 3622548,
+  "small_dollar_pct": 14.1
  },
  "Lisa McClain": {
   "candidate_id": "H0MI10287",
@@ -6170,7 +6914,10 @@
   "tech": 92910,
   "nra": 0,
   "special_interest_total": 1387970,
-  "grassroots": 4842741
+  "grassroots": 4842741,
+  "grassroots_small": 1285616,
+  "grassroots_itemized": 3557124,
+  "small_dollar_pct": 26.5
  },
  "John James": {
   "candidate_id": "H6MI18022",
@@ -6197,7 +6944,10 @@
   "tech": 929816,
   "nra": 0,
   "special_interest_total": 12402110,
-  "grassroots": 57766423
+  "grassroots": 57766423,
+  "grassroots_small": 27615911,
+  "grassroots_itemized": 30150511,
+  "small_dollar_pct": 47.8
  },
  "Haley Stevens": {
   "candidate_id": "H8MI11254",
@@ -6223,7 +6973,10 @@
   "tech": 1026638,
   "nra": 0,
   "special_interest_total": 10447432,
-  "grassroots": 22583491
+  "grassroots": 22583491,
+  "grassroots_small": 3051811,
+  "grassroots_itemized": 19531680,
+  "small_dollar_pct": 13.5
  },
  "Rashida Tlaib": {
   "candidate_id": "H8MI13250",
@@ -6247,7 +7000,10 @@
   "tech": 920451,
   "nra": 0,
   "special_interest_total": 4195080,
-  "grassroots": 18706401
+  "grassroots": 18706401,
+  "grassroots_small": 6401001,
+  "grassroots_itemized": 12305400,
+  "small_dollar_pct": 34.2
  },
  "Shri Thanedar": {
   "candidate_id": "H2MI13204",
@@ -6271,7 +7027,10 @@
   "tech": 46801,
   "nra": 0,
   "special_interest_total": 587306,
-  "grassroots": 1736701
+  "grassroots": 1736701,
+  "grassroots_small": 65926,
+  "grassroots_itemized": 1670775,
+  "small_dollar_pct": 3.8
  },
  "Brad Finstad": {
   "candidate_id": "H2MN01223",
@@ -6295,7 +7054,10 @@
   "tech": 146787,
   "nra": 1000,
   "special_interest_total": 733600,
-  "grassroots": 2527867
+  "grassroots": 2527867,
+  "grassroots_small": 403755,
+  "grassroots_itemized": 2124113,
+  "small_dollar_pct": 16.0
  },
  "Kelly Morrison": {
   "candidate_id": "H4MN03118",
@@ -6319,7 +7081,10 @@
   "tech": 33830,
   "nra": 0,
   "special_interest_total": 467470,
-  "grassroots": 3004171
+  "grassroots": 3004171,
+  "grassroots_small": 382506,
+  "grassroots_itemized": 2621665,
+  "small_dollar_pct": 12.7
  },
  "Betty McCollum": {
   "candidate_id": "H0MN04049",
@@ -6343,7 +7108,10 @@
   "tech": 351362,
   "nra": 0,
   "special_interest_total": 3070784,
-  "grassroots": 7203823
+  "grassroots": 7203823,
+  "grassroots_small": 1395470,
+  "grassroots_itemized": 5808353,
+  "small_dollar_pct": 19.4
  },
  "Ilhan Omar": {
   "candidate_id": "H8MN05239",
@@ -6367,7 +7135,10 @@
   "tech": 1056012,
   "nra": 0,
   "special_interest_total": 4132857,
-  "grassroots": 22455846
+  "grassroots": 22455846,
+  "grassroots_small": 12327400,
+  "grassroots_itemized": 10128446,
+  "small_dollar_pct": 54.9
  },
  "Tom Emmer": {
   "candidate_id": "H4MN06087",
@@ -6391,7 +7162,10 @@
   "tech": 1011459,
   "nra": 0,
   "special_interest_total": 9211453,
-  "grassroots": 11230577
+  "grassroots": 11230577,
+  "grassroots_small": 3206340,
+  "grassroots_itemized": 8024237,
+  "small_dollar_pct": 28.6
  },
  "Michelle Fischbach": {
   "candidate_id": "H0MN07091",
@@ -6416,7 +7190,10 @@
   "tech": 207070,
   "nra": 1000,
   "special_interest_total": 1419981,
-  "grassroots": 4224718
+  "grassroots": 4224718,
+  "grassroots_small": 1572772,
+  "grassroots_itemized": 2651946,
+  "small_dollar_pct": 37.2
  },
  "Pete Stauber": {
   "candidate_id": "H8MN08043",
@@ -6440,7 +7217,10 @@
   "tech": 357381,
   "nra": 0,
   "special_interest_total": 2310921,
-  "grassroots": 6082073
+  "grassroots": 6082073,
+  "grassroots_small": 1135274,
+  "grassroots_itemized": 4946798,
+  "small_dollar_pct": 18.7
  },
  "Bennie Thompson": {
   "candidate_id": "H4MS02068",
@@ -6467,7 +7247,10 @@
   "tech": 1008893,
   "nra": 0,
   "special_interest_total": 4015873,
-  "grassroots": 5150343
+  "grassroots": 5150343,
+  "grassroots_small": 351927,
+  "grassroots_itemized": 4798416,
+  "small_dollar_pct": 6.8
  },
  "Michael Guest": {
   "candidate_id": "H8MS03125",
@@ -6491,7 +7274,10 @@
   "tech": 92351,
   "nra": 0,
   "special_interest_total": 1163241,
-  "grassroots": 2662078
+  "grassroots": 2662078,
+  "grassroots_small": 126172,
+  "grassroots_itemized": 2535906,
+  "small_dollar_pct": 4.7
  },
  "Jason Smith": {
   "candidate_id": "H4MO08162",
@@ -6515,7 +7301,10 @@
   "tech": 719796,
   "nra": 5000,
   "special_interest_total": 7831253,
-  "grassroots": 7929830
+  "grassroots": 7929830,
+  "grassroots_small": 1198808,
+  "grassroots_itemized": 6731022,
+  "small_dollar_pct": 15.1
  },
  "Ann Wagner": {
   "candidate_id": "H2MO02102",
@@ -6539,7 +7328,10 @@
   "tech": 686304,
   "nra": 0,
   "special_interest_total": 10326192,
-  "grassroots": 16420122
+  "grassroots": 16420122,
+  "grassroots_small": 3225066,
+  "grassroots_itemized": 13195056,
+  "small_dollar_pct": 19.6
  },
  "Mark Alford": {
   "candidate_id": "H2MO04207",
@@ -6563,7 +7355,10 @@
   "tech": 42180,
   "nra": 0,
   "special_interest_total": 589823,
-  "grassroots": 2204834
+  "grassroots": 2204834,
+  "grassroots_small": 119618,
+  "grassroots_itemized": 2085216,
+  "small_dollar_pct": 5.4
  },
  "Emanuel Cleaver": {
   "candidate_id": "H4MO05234",
@@ -6587,7 +7382,10 @@
   "tech": 673211,
   "nra": 0,
   "special_interest_total": 5227914,
-  "grassroots": 4625946
+  "grassroots": 4625946,
+  "grassroots_small": 635447,
+  "grassroots_itemized": 3990498,
+  "small_dollar_pct": 13.7
  },
  "Sam Graves": {
   "candidate_id": "H0MO06073",
@@ -6611,7 +7409,10 @@
   "tech": 938322,
   "nra": 3500,
   "special_interest_total": 4926777,
-  "grassroots": 6458174
+  "grassroots": 6458174,
+  "grassroots_small": 432691,
+  "grassroots_itemized": 6025483,
+  "small_dollar_pct": 6.7
  },
  "Eric Burlison": {
   "candidate_id": "H2MO07143",
@@ -6635,7 +7436,10 @@
   "tech": 35521,
   "nra": 0,
   "special_interest_total": 518966,
-  "grassroots": 2510558
+  "grassroots": 2510558,
+  "grassroots_small": 914090,
+  "grassroots_itemized": 1596468,
+  "small_dollar_pct": 36.4
  },
  "Wesley Bell": {
   "candidate_id": "H4MO01134",
@@ -6660,7 +7464,10 @@
   "tech": 69591,
   "nra": 0,
   "special_interest_total": 778458,
-  "grassroots": 8011747
+  "grassroots": 8011747,
+  "grassroots_small": 454059,
+  "grassroots_itemized": 7557687,
+  "small_dollar_pct": 5.7
  },
  "Ryan Zinke": {
   "candidate_id": "H4MT01041",
@@ -6685,7 +7492,10 @@
   "tech": 370815,
   "nra": 0,
   "special_interest_total": 4601887,
-  "grassroots": 8701003
+  "grassroots": 8701003,
+  "grassroots_small": 3613765,
+  "grassroots_itemized": 5087238,
+  "small_dollar_pct": 41.5
  },
  "Mike Flood": {
   "candidate_id": "H2NE01118",
@@ -6709,7 +7519,10 @@
   "tech": 127600,
   "nra": 0,
   "special_interest_total": 1358750,
-  "grassroots": 3754298
+  "grassroots": 3754298,
+  "grassroots_small": 133117,
+  "grassroots_itemized": 3621182,
+  "small_dollar_pct": 3.5
  },
  "Don Bacon": {
   "candidate_id": "H6NE02125",
@@ -6733,7 +7546,10 @@
   "tech": 531250,
   "nra": 0,
   "special_interest_total": 6357605,
-  "grassroots": 9463090
+  "grassroots": 9463090,
+  "grassroots_small": 1085456,
+  "grassroots_itemized": 8377634,
+  "small_dollar_pct": 11.5
  },
  "Adrian Smith": {
   "candidate_id": "H6NE03115",
@@ -6757,7 +7573,10 @@
   "tech": 471036,
   "nra": 2000,
   "special_interest_total": 5412731,
-  "grassroots": 4453631
+  "grassroots": 4453631,
+  "grassroots_small": 592100,
+  "grassroots_itemized": 3861531,
+  "small_dollar_pct": 13.3
  },
  "Dina Titus": {
   "candidate_id": "H8NV03036",
@@ -6783,7 +7602,10 @@
   "tech": 650422,
   "nra": 0,
   "special_interest_total": 3219829,
-  "grassroots": 6261281
+  "grassroots": 6261281,
+  "grassroots_small": 838170,
+  "grassroots_itemized": 5423111,
+  "small_dollar_pct": 13.4
  },
  "Mark Amodei": {
   "candidate_id": "H2NV02395",
@@ -6809,7 +7631,10 @@
   "tech": 339269,
   "nra": 4000,
   "special_interest_total": 2038272,
-  "grassroots": 4610977
+  "grassroots": 4610977,
+  "grassroots_small": 154274,
+  "grassroots_itemized": 4456704,
+  "small_dollar_pct": 3.3
  },
  "Susie Lee": {
   "candidate_id": "H6NV04020",
@@ -6834,7 +7659,10 @@
   "tech": 1336165,
   "nra": 0,
   "special_interest_total": 7374583,
-  "grassroots": 18671814
+  "grassroots": 18671814,
+  "grassroots_small": 1909508,
+  "grassroots_itemized": 16762307,
+  "small_dollar_pct": 10.2
  },
  "Steven Horsford": {
   "candidate_id": "H2NV04011",
@@ -6859,7 +7687,10 @@
   "tech": 944589,
   "nra": 0,
   "special_interest_total": 6868988,
-  "grassroots": 11242616
+  "grassroots": 11242616,
+  "grassroots_small": 1071185,
+  "grassroots_itemized": 10171431,
+  "small_dollar_pct": 9.5
  },
  "Chris Pappas": {
   "candidate_id": "H8NH01210",
@@ -6884,7 +7715,10 @@
   "tech": 598622,
   "nra": 0,
   "special_interest_total": 4123227,
-  "grassroots": 21895156
+  "grassroots": 21895156,
+  "grassroots_small": 5461852,
+  "grassroots_itemized": 16433303,
+  "small_dollar_pct": 24.9
  },
  "Donald Norcross": {
   "candidate_id": "H4NJ01084",
@@ -6911,7 +7745,10 @@
   "tech": 297704,
   "nra": 0,
   "special_interest_total": 4381651,
-  "grassroots": 7642456
+  "grassroots": 7642456,
+  "grassroots_small": 148192,
+  "grassroots_itemized": 7494264,
+  "small_dollar_pct": 1.9
  },
  "Jefferson Van Drew": {
   "candidate_id": "H8NJ02166",
@@ -6935,7 +7772,10 @@
   "tech": 200443,
   "nra": 0,
   "special_interest_total": 2934083,
-  "grassroots": 10733339
+  "grassroots": 10733339,
+  "grassroots_small": 2563203,
+  "grassroots_itemized": 8170136,
+  "small_dollar_pct": 23.9
  },
  "Herb Conaway": {
   "candidate_id": "H4NJ03080",
@@ -6960,7 +7800,10 @@
   "tech": 17797,
   "nra": 0,
   "special_interest_total": 471811,
-  "grassroots": 1332425
+  "grassroots": 1332425,
+  "grassroots_small": 162276,
+  "grassroots_itemized": 1170150,
+  "small_dollar_pct": 12.2
  },
  "Chris Smith": {
   "candidate_id": "H8NJ04014",
@@ -6984,7 +7827,10 @@
   "tech": 270093,
   "nra": 0,
   "special_interest_total": 2382290,
-  "grassroots": 6915412
+  "grassroots": 6915412,
+  "grassroots_small": 2310351,
+  "grassroots_itemized": 4605062,
+  "small_dollar_pct": 33.4
  },
  "Josh Gottheimer": {
   "candidate_id": "H6NJ05171",
@@ -7008,7 +7854,10 @@
   "tech": 2055025,
   "nra": 0,
   "special_interest_total": 19213574,
-  "grassroots": 30697011
+  "grassroots": 30697011,
+  "grassroots_small": 961281,
+  "grassroots_itemized": 29735730,
+  "small_dollar_pct": 3.1
  },
  "Frank Pallone": {
   "candidate_id": "H8NJ03073",
@@ -7036,7 +7885,10 @@
   "tech": 2899806,
   "nra": 0,
   "special_interest_total": 15949432,
-  "grassroots": 12377647
+  "grassroots": 12377647,
+  "grassroots_small": 540265,
+  "grassroots_itemized": 11837382,
+  "small_dollar_pct": 4.4
  },
  "Rob Menendez": {
   "candidate_id": "H2NJ08232",
@@ -7062,7 +7914,10 @@
   "tech": 2377936,
   "nra": 2300,
   "special_interest_total": 21615115,
-  "grassroots": 48423525
+  "grassroots": 48423525,
+  "grassroots_small": 1452371,
+  "grassroots_itemized": 46971154,
+  "small_dollar_pct": 3.0
  },
  "Mikie Sherrill": {
   "candidate_id": "H8NJ11142",
@@ -7086,7 +7941,10 @@
   "tech": 1413034,
   "nra": 0,
   "special_interest_total": 8350895,
-  "grassroots": 19443351
+  "grassroots": 19443351,
+  "grassroots_small": 3285213,
+  "grassroots_itemized": 16158137,
+  "small_dollar_pct": 16.9
  },
  "Bonnie Watson Coleman": {
   "candidate_id": "H4NJ12149",
@@ -7110,7 +7968,10 @@
   "tech": 172412,
   "nra": 0,
   "special_interest_total": 1460398,
-  "grassroots": 3346637
+  "grassroots": 3346637,
+  "grassroots_small": 551051,
+  "grassroots_itemized": 2795586,
+  "small_dollar_pct": 16.5
  },
  "Melanie Stansbury": {
   "candidate_id": "H2NM01144",
@@ -7134,7 +7995,10 @@
   "tech": 81341,
   "nra": 0,
   "special_interest_total": 588216,
-  "grassroots": 4974137
+  "grassroots": 4974137,
+  "grassroots_small": 1615551,
+  "grassroots_itemized": 3358586,
+  "small_dollar_pct": 32.5
  },
  "Teresa Leger Fernandez": {
   "candidate_id": "H0NM03102",
@@ -7158,7 +8022,10 @@
   "tech": 270333,
   "nra": 0,
   "special_interest_total": 1195089,
-  "grassroots": 7156700
+  "grassroots": 7156700,
+  "grassroots_small": 1127355,
+  "grassroots_itemized": 6029345,
+  "small_dollar_pct": 15.8
  },
  "Nick LaLota": {
   "candidate_id": "H2NY01190",
@@ -7183,7 +8050,10 @@
   "tech": 133496,
   "nra": 0,
   "special_interest_total": 1761159,
-  "grassroots": 3217408
+  "grassroots": 3217408,
+  "grassroots_small": 257781,
+  "grassroots_itemized": 2959626,
+  "small_dollar_pct": 8.0
  },
  "Andrew Garbarino": {
   "candidate_id": "H0NY02234",
@@ -7207,7 +8077,10 @@
   "tech": 241800,
   "nra": 0,
   "special_interest_total": 3603404,
-  "grassroots": 4356235
+  "grassroots": 4356235,
+  "grassroots_small": 646428,
+  "grassroots_itemized": 3709807,
+  "small_dollar_pct": 14.8
  },
  "Tom Suozzi": {
   "candidate_id": "H6NY03247",
@@ -7231,7 +8104,10 @@
   "tech": 569866,
   "nra": 0,
   "special_interest_total": 7399653,
-  "grassroots": 17863993
+  "grassroots": 17863993,
+  "grassroots_small": 1718704,
+  "grassroots_itemized": 16145289,
+  "small_dollar_pct": 9.6
  },
  "Gregory Meeks": {
   "candidate_id": "H8NY06048",
@@ -7256,7 +8132,10 @@
   "tech": 887009,
   "nra": 0,
   "special_interest_total": 9715391,
-  "grassroots": 5242630
+  "grassroots": 5242630,
+  "grassroots_small": 208038,
+  "grassroots_itemized": 5034593,
+  "small_dollar_pct": 4.0
  },
  "Grace Meng": {
   "candidate_id": "H2NY06116",
@@ -7280,7 +8159,10 @@
   "tech": 454344,
   "nra": 0,
   "special_interest_total": 3994967,
-  "grassroots": 8864009
+  "grassroots": 8864009,
+  "grassroots_small": 347593,
+  "grassroots_itemized": 8516416,
+  "small_dollar_pct": 3.9
  },
  "Hakeem Jeffries": {
   "candidate_id": "H2NY10092",
@@ -7304,7 +8186,10 @@
   "tech": 2694569,
   "nra": 0,
   "special_interest_total": 13672631,
-  "grassroots": 35580833
+  "grassroots": 35580833,
+  "grassroots_small": 16531110,
+  "grassroots_itemized": 19049723,
+  "small_dollar_pct": 46.5
  },
  "Yvette Clarke": {
   "candidate_id": "H4NY11138",
@@ -7329,7 +8214,10 @@
   "tech": 921384,
   "nra": 0,
   "special_interest_total": 3150569,
-  "grassroots": 3892137
+  "grassroots": 3892137,
+  "grassroots_small": 613072,
+  "grassroots_itemized": 3279065,
+  "small_dollar_pct": 15.8
  },
  "Dan Goldman": {
   "candidate_id": "H2NY10308",
@@ -7353,7 +8241,10 @@
   "tech": 240610,
   "nra": 0,
   "special_interest_total": 2711026,
-  "grassroots": 10067663
+  "grassroots": 10067663,
+  "grassroots_small": 854593,
+  "grassroots_itemized": 9213070,
+  "small_dollar_pct": 8.5
  },
  "Nicole Malliotakis": {
   "candidate_id": "H0NY11078",
@@ -7378,7 +8269,10 @@
   "tech": 238481,
   "nra": 0,
   "special_interest_total": 3561611,
-  "grassroots": 8653257
+  "grassroots": 8653257,
+  "grassroots_small": 1676275,
+  "grassroots_itemized": 6976982,
+  "small_dollar_pct": 19.4
  },
  "Adriano Espaillat": {
   "candidate_id": "H2NY13096",
@@ -7405,7 +8299,10 @@
   "tech": 222418,
   "nra": 0,
   "special_interest_total": 2114079,
-  "grassroots": 6788948
+  "grassroots": 6788948,
+  "grassroots_small": 203024,
+  "grassroots_itemized": 6585924,
+  "small_dollar_pct": 3.0
  },
  "Alexandria Ocasio-Cortez": {
   "candidate_id": "H8NY15148",
@@ -7429,7 +8326,10 @@
   "tech": 2984347,
   "nra": 0,
   "special_interest_total": 6972191,
-  "grassroots": 81734794
+  "grassroots": 81734794,
+  "grassroots_small": 58162350,
+  "grassroots_itemized": 23572444,
+  "small_dollar_pct": 71.2
  },
  "Ritchie Torres": {
   "candidate_id": "H0NY15160",
@@ -7453,7 +8353,10 @@
   "tech": 583105,
   "nra": 0,
   "special_interest_total": 8318657,
-  "grassroots": 13670354
+  "grassroots": 13670354,
+  "grassroots_small": 693767,
+  "grassroots_itemized": 12976587,
+  "small_dollar_pct": 5.1
  },
  "George Latimer": {
   "candidate_id": "H4NY16087",
@@ -7477,7 +8380,10 @@
   "tech": 90897,
   "nra": 0,
   "special_interest_total": 20503701,
-  "grassroots": 6782216
+  "grassroots": 6782216,
+  "grassroots_small": 490090,
+  "grassroots_itemized": 6292126,
+  "small_dollar_pct": 7.2
  },
  "Mike Lawler": {
   "candidate_id": "H2NY17162",
@@ -7502,7 +8408,10 @@
   "tech": 260331,
   "nra": 0,
   "special_interest_total": 4246546,
-  "grassroots": 8007232
+  "grassroots": 8007232,
+  "grassroots_small": 1079512,
+  "grassroots_itemized": 6927720,
+  "small_dollar_pct": 13.5
  },
  "Pat Ryan": {
   "candidate_id": "H8NY19223",
@@ -7527,7 +8436,10 @@
   "tech": 893164,
   "nra": 0,
   "special_interest_total": 4553461,
-  "grassroots": 15065990
+  "grassroots": 15065990,
+  "grassroots_small": 1650607,
+  "grassroots_itemized": 13415383,
+  "small_dollar_pct": 11.0
  },
  "Paul Tonko": {
   "candidate_id": "H8NY21203",
@@ -7551,7 +8463,10 @@
   "tech": 639468,
   "nra": 0,
   "special_interest_total": 3144378,
-  "grassroots": 4802249
+  "grassroots": 4802249,
+  "grassroots_small": 1255777,
+  "grassroots_itemized": 3546472,
+  "small_dollar_pct": 26.1
  },
  "Nick Langworthy": {
   "candidate_id": "H2NY23228",
@@ -7575,7 +8490,10 @@
   "tech": 84448,
   "nra": 0,
   "special_interest_total": 789633,
-  "grassroots": 2354481
+  "grassroots": 2354481,
+  "grassroots_small": 153745,
+  "grassroots_itemized": 2200736,
+  "small_dollar_pct": 6.5
  },
  "Joseph Morelle": {
   "candidate_id": "H8NY25105",
@@ -7599,7 +8517,10 @@
   "tech": 297162,
   "nra": 0,
   "special_interest_total": 2973806,
-  "grassroots": 3597296
+  "grassroots": 3597296,
+  "grassroots_small": 308049,
+  "grassroots_itemized": 3289247,
+  "small_dollar_pct": 8.6
  },
  "Tim Kennedy": {
   "candidate_id": "H4NY26078",
@@ -7623,7 +8544,10 @@
   "tech": 48593,
   "nra": 0,
   "special_interest_total": 904607,
-  "grassroots": 3571833
+  "grassroots": 3571833,
+  "grassroots_small": 161247,
+  "grassroots_itemized": 3410586,
+  "small_dollar_pct": 4.5
  },
  "Don Davis": {
   "candidate_id": "H2NC02287",
@@ -7647,7 +8571,10 @@
   "tech": 319357,
   "nra": 0,
   "special_interest_total": 5790693,
-  "grassroots": 7366115
+  "grassroots": 7366115,
+  "grassroots_small": 1223751,
+  "grassroots_itemized": 6142364,
+  "small_dollar_pct": 16.6
  },
  "Greg Murphy": {
   "candidate_id": "H0NC03172",
@@ -7671,7 +8598,10 @@
   "tech": 71181,
   "nra": 0,
   "special_interest_total": 2477220,
-  "grassroots": 4143192
+  "grassroots": 4143192,
+  "grassroots_small": 242455,
+  "grassroots_itemized": 3900736,
+  "small_dollar_pct": 5.9
  },
  "Virginia Foxx": {
   "candidate_id": "H4NC05146",
@@ -7695,7 +8625,10 @@
   "tech": 520080,
   "nra": 1000,
   "special_interest_total": 4904406,
-  "grassroots": 11593950
+  "grassroots": 11593950,
+  "grassroots_small": 1000819,
+  "grassroots_itemized": 10593131,
+  "small_dollar_pct": 8.6
  },
  "David Rouzer": {
   "candidate_id": "H2NC07096",
@@ -7719,7 +8652,10 @@
   "tech": 244018,
   "nra": 0,
   "special_interest_total": 2642628,
-  "grassroots": 5911207
+  "grassroots": 5911207,
+  "grassroots_small": 249689,
+  "grassroots_itemized": 5661518,
+  "small_dollar_pct": 4.2
  },
  "Tim Moore": {
   "candidate_id": "H4NC14015",
@@ -7744,7 +8680,10 @@
   "tech": 46950,
   "nra": 0,
   "special_interest_total": 793981,
-  "grassroots": 2885629
+  "grassroots": 2885629,
+  "grassroots_small": 40252,
+  "grassroots_itemized": 2845377,
+  "small_dollar_pct": 1.4
  },
  "Mark Harris": {
   "candidate_id": "H4NC08066",
@@ -7770,7 +8709,10 @@
   "tech": 68475,
   "nra": 0,
   "special_interest_total": 774159,
-  "grassroots": 2263412
+  "grassroots": 2263412,
+  "grassroots_small": 255054,
+  "grassroots_itemized": 2008358,
+  "small_dollar_pct": 11.3
  },
  "Richard Hudson": {
   "candidate_id": "H2NC08185",
@@ -7794,7 +8736,10 @@
   "tech": 842468,
   "nra": 4950,
   "special_interest_total": 7725808,
-  "grassroots": 8151510
+  "grassroots": 8151510,
+  "grassroots_small": 796137,
+  "grassroots_itemized": 7355374,
+  "small_dollar_pct": 9.8
  },
  "Chuck Edwards": {
   "candidate_id": "H2NC14050",
@@ -7818,7 +8763,10 @@
   "tech": 55072,
   "nra": 0,
   "special_interest_total": 846305,
-  "grassroots": 2006144
+  "grassroots": 2006144,
+  "grassroots_small": 95963,
+  "grassroots_itemized": 1910181,
+  "small_dollar_pct": 4.8
  },
  "Alma Adams": {
   "candidate_id": "H4NC12100",
@@ -7842,7 +8790,10 @@
   "tech": 211593,
   "nra": 0,
   "special_interest_total": 1587247,
-  "grassroots": 1704011
+  "grassroots": 1704011,
+  "grassroots_small": 390456,
+  "grassroots_itemized": 1313556,
+  "small_dollar_pct": 22.9
  },
  "Valerie Foushee": {
   "candidate_id": "H2NC06114",
@@ -7866,7 +8817,10 @@
   "tech": 34788,
   "nra": 0,
   "special_interest_total": 3118165,
-  "grassroots": 1750023
+  "grassroots": 1750023,
+  "grassroots_small": 363165,
+  "grassroots_itemized": 1386858,
+  "small_dollar_pct": 20.8
  },
  "Greg Landsman": {
   "candidate_id": "H2OH01194",
@@ -7890,7 +8844,10 @@
   "tech": 176718,
   "nra": 0,
   "special_interest_total": 2022535,
-  "grassroots": 7851030
+  "grassroots": 7851030,
+  "grassroots_small": 1192347,
+  "grassroots_itemized": 6658682,
+  "small_dollar_pct": 15.2
  },
  "Joyce Beatty": {
   "candidate_id": "H2OH03125",
@@ -7914,7 +8871,10 @@
   "tech": 331404,
   "nra": 0,
   "special_interest_total": 5584207,
-  "grassroots": 3383056
+  "grassroots": 3383056,
+  "grassroots_small": 218847,
+  "grassroots_itemized": 3164209,
+  "small_dollar_pct": 6.5
  },
  "Jim Jordan": {
   "candidate_id": "H6OH04082",
@@ -7938,7 +8898,10 @@
   "tech": 874369,
   "nra": 0,
   "special_interest_total": 5129595,
-  "grassroots": 51432888
+  "grassroots": 51432888,
+  "grassroots_small": 30133487,
+  "grassroots_itemized": 21299401,
+  "small_dollar_pct": 58.6
  },
  "Bob Latta": {
   "candidate_id": "H6OH05022",
@@ -7962,7 +8925,10 @@
   "tech": 1661142,
   "nra": 0,
   "special_interest_total": 4998992,
-  "grassroots": 0
+  "grassroots": 0,
+  "grassroots_small": 0,
+  "grassroots_itemized": 0,
+  "small_dollar_pct": null
  },
  "Mike Carey": {
   "candidate_id": "H2OH15228",
@@ -7986,7 +8952,10 @@
   "tech": 150860,
   "nra": 0,
   "special_interest_total": 1886575,
-  "grassroots": 3199418
+  "grassroots": 3199418,
+  "grassroots_small": 452589,
+  "grassroots_itemized": 2746829,
+  "small_dollar_pct": 14.1
  },
  "Max Miller": {
   "candidate_id": "H2OH16051",
@@ -8010,7 +8979,10 @@
   "tech": 26845,
   "nra": 0,
   "special_interest_total": 1321940,
-  "grassroots": 3281678
+  "grassroots": 3281678,
+  "grassroots_small": 495681,
+  "grassroots_itemized": 2785997,
+  "small_dollar_pct": 15.1
  },
  "Warren Davidson": {
   "candidate_id": "H6OH08315",
@@ -8034,7 +9006,10 @@
   "tech": 65031,
   "nra": 0,
   "special_interest_total": 1911790,
-  "grassroots": 2270268
+  "grassroots": 2270268,
+  "grassroots_small": 282400,
+  "grassroots_itemized": 1987869,
+  "small_dollar_pct": 12.4
  },
  "Marcy Kaptur": {
   "candidate_id": "H2OH09031",
@@ -8060,7 +9035,10 @@
   "tech": 435302,
   "nra": 0,
   "special_interest_total": 3683363,
-  "grassroots": 9637908
+  "grassroots": 9637908,
+  "grassroots_small": 2144368,
+  "grassroots_itemized": 7493540,
+  "small_dollar_pct": 22.2
  },
  "Michael Turner": {
   "candidate_id": "H2OH03067",
@@ -8084,7 +9062,10 @@
   "tech": 714364,
   "nra": 1000,
   "special_interest_total": 5759154,
-  "grassroots": 8165106
+  "grassroots": 8165106,
+  "grassroots_small": 760854,
+  "grassroots_itemized": 7404251,
+  "small_dollar_pct": 9.3
  },
  "Emilia Sykes": {
   "candidate_id": "H2OH13264",
@@ -8108,7 +9089,10 @@
   "tech": 300776,
   "nra": 0,
   "special_interest_total": 1972503,
-  "grassroots": 7199118
+  "grassroots": 7199118,
+  "grassroots_small": 1651450,
+  "grassroots_itemized": 5547668,
+  "small_dollar_pct": 22.9
  },
  "Kevin Hern": {
   "candidate_id": "H8OK01157",
@@ -8134,7 +9118,10 @@
   "tech": 172874,
   "nra": 1000,
   "special_interest_total": 2813904,
-  "grassroots": 4873631
+  "grassroots": 4873631,
+  "grassroots_small": 307961,
+  "grassroots_itemized": 4565670,
+  "small_dollar_pct": 6.3
  },
  "Josh Brecheen": {
   "candidate_id": "H2OK02315",
@@ -8158,7 +9145,10 @@
   "tech": 4500,
   "nra": 0,
   "special_interest_total": 233632,
-  "grassroots": 860108
+  "grassroots": 860108,
+  "grassroots_small": 53063,
+  "grassroots_itemized": 807045,
+  "small_dollar_pct": 6.2
  },
  "Frank Lucas": {
   "candidate_id": "H4OK06056",
@@ -8183,7 +9173,10 @@
   "tech": 375320,
   "nra": 5000,
   "special_interest_total": 5748831,
-  "grassroots": 4040342
+  "grassroots": 4040342,
+  "grassroots_small": 389131,
+  "grassroots_itemized": 3651211,
+  "small_dollar_pct": 9.6
  },
  "Tom Cole": {
   "candidate_id": "H2OK04055",
@@ -8207,7 +9200,10 @@
   "tech": 586764,
   "nra": 3000,
   "special_interest_total": 7674872,
-  "grassroots": 13270712
+  "grassroots": 13270712,
+  "grassroots_small": 939590,
+  "grassroots_itemized": 12331122,
+  "small_dollar_pct": 7.1
  },
  "Stephanie Bice": {
   "candidate_id": "H0OK05205",
@@ -8232,7 +9228,10 @@
   "tech": 203341,
   "nra": 0,
   "special_interest_total": 2845495,
-  "grassroots": 5711519
+  "grassroots": 5711519,
+  "grassroots_small": 1250245,
+  "grassroots_itemized": 4461273,
+  "small_dollar_pct": 21.9
  },
  "Suzanne Bonamici": {
   "candidate_id": "H2OR01133",
@@ -8257,7 +9256,10 @@
   "tech": 389121,
   "nra": 0,
   "special_interest_total": 1945279,
-  "grassroots": 4546050
+  "grassroots": 4546050,
+  "grassroots_small": 954358,
+  "grassroots_itemized": 3591692,
+  "small_dollar_pct": 21.0
  },
  "Cliff Bentz": {
   "candidate_id": "H0OR02127",
@@ -8281,7 +9283,10 @@
   "tech": 132252,
   "nra": 0,
   "special_interest_total": 603997,
-  "grassroots": 2824796
+  "grassroots": 2824796,
+  "grassroots_small": 386310,
+  "grassroots_itemized": 2438486,
+  "small_dollar_pct": 13.7
  },
  "Maxine Dexter": {
   "candidate_id": "H4OR03192",
@@ -8305,7 +9310,10 @@
   "tech": 45849,
   "nra": 0,
   "special_interest_total": 2825099,
-  "grassroots": 2204559
+  "grassroots": 2204559,
+  "grassroots_small": 186199,
+  "grassroots_itemized": 2018360,
+  "small_dollar_pct": 8.4
  },
  "Andrea Salinas": {
   "candidate_id": "H2OR06066",
@@ -8330,7 +9338,10 @@
   "tech": 390214,
   "nra": 0,
   "special_interest_total": 1766858,
-  "grassroots": 7483008
+  "grassroots": 7483008,
+  "grassroots_small": 1437911,
+  "grassroots_itemized": 6045097,
+  "small_dollar_pct": 19.2
  },
  "Brian Fitzpatrick": {
   "candidate_id": "H6PA08277",
@@ -8354,7 +9365,10 @@
   "tech": 598356,
   "nra": 0,
   "special_interest_total": 8198378,
-  "grassroots": 10639262
+  "grassroots": 10639262,
+  "grassroots_small": 760199,
+  "grassroots_itemized": 9879064,
+  "small_dollar_pct": 7.1
  },
  "Brendan Boyle": {
   "candidate_id": "H4PA13199",
@@ -8378,7 +9392,10 @@
   "tech": 341817,
   "nra": 0,
   "special_interest_total": 3659574,
-  "grassroots": 3392757
+  "grassroots": 3392757,
+  "grassroots_small": 180324,
+  "grassroots_itemized": 3212433,
+  "small_dollar_pct": 5.3
  },
  "Dwight Evans": {
   "candidate_id": "H6PA02171",
@@ -8402,7 +9419,10 @@
   "tech": 222262,
   "nra": 0,
   "special_interest_total": 1847435,
-  "grassroots": 2961808
+  "grassroots": 2961808,
+  "grassroots_small": 273771,
+  "grassroots_itemized": 2688037,
+  "small_dollar_pct": 9.2
  },
  "Madeleine Dean": {
   "candidate_id": "H8PA04116",
@@ -8426,7 +9446,10 @@
   "tech": 306805,
   "nra": 0,
   "special_interest_total": 2498729,
-  "grassroots": 3890188
+  "grassroots": 3890188,
+  "grassroots_small": 677671,
+  "grassroots_itemized": 3212517,
+  "small_dollar_pct": 17.4
  },
  "Mary Gay Scanlon": {
   "candidate_id": "H8PA07200",
@@ -8451,7 +9474,10 @@
   "tech": 315807,
   "nra": 0,
   "special_interest_total": 1351499,
-  "grassroots": 4632405
+  "grassroots": 4632405,
+  "grassroots_small": 755356,
+  "grassroots_itemized": 3877049,
+  "small_dollar_pct": 16.3
  },
  "Chrissy Houlahan": {
   "candidate_id": "H8PA06087",
@@ -8475,7 +9501,10 @@
   "tech": 881349,
   "nra": 0,
   "special_interest_total": 4943405,
-  "grassroots": 10595306
+  "grassroots": 10595306,
+  "grassroots_small": 1466345,
+  "grassroots_itemized": 9128961,
+  "small_dollar_pct": 13.8
  },
  "Dan Meuser": {
   "candidate_id": "H8PA10147",
@@ -8500,7 +9529,10 @@
   "tech": 132001,
   "nra": 2000,
   "special_interest_total": 1943479,
-  "grassroots": 4078381
+  "grassroots": 4078381,
+  "grassroots_small": 95903,
+  "grassroots_itemized": 3982478,
+  "small_dollar_pct": 2.4
  },
  "Scott Perry": {
   "candidate_id": "H2PA04135",
@@ -8524,7 +9556,10 @@
   "tech": 221043,
   "nra": 3000,
   "special_interest_total": 2105199,
-  "grassroots": 14369062
+  "grassroots": 14369062,
+  "grassroots_small": 5377193,
+  "grassroots_itemized": 8991869,
+  "small_dollar_pct": 37.4
  },
  "Lloyd Smucker": {
   "candidate_id": "H6PA16320",
@@ -8548,7 +9583,10 @@
   "tech": 222072,
   "nra": 2000,
   "special_interest_total": 2724843,
-  "grassroots": 2478098
+  "grassroots": 2478098,
+  "grassroots_small": 112895,
+  "grassroots_itemized": 2365203,
+  "small_dollar_pct": 4.6
  },
  "Summer Lee": {
   "candidate_id": "H2PA18200",
@@ -8572,7 +9610,10 @@
   "tech": 197950,
   "nra": 0,
   "special_interest_total": 855967,
-  "grassroots": 5117758
+  "grassroots": 5117758,
+  "grassroots_small": 1563221,
+  "grassroots_itemized": 3554537,
+  "small_dollar_pct": 30.5
  },
  "John Joyce": {
   "candidate_id": "H8PA13125",
@@ -8596,7 +9637,10 @@
   "tech": 260975,
   "nra": 0,
   "special_interest_total": 2731450,
-  "grassroots": 1597296
+  "grassroots": 1597296,
+  "grassroots_small": 41822,
+  "grassroots_itemized": 1555474,
+  "small_dollar_pct": 2.6
  },
  "Guy Reschenthaler": {
   "candidate_id": "H8PA18199",
@@ -8620,7 +9664,10 @@
   "tech": 245556,
   "nra": 0,
   "special_interest_total": 2472573,
-  "grassroots": 8419704
+  "grassroots": 8419704,
+  "grassroots_small": 3940810,
+  "grassroots_itemized": 4478893,
+  "small_dollar_pct": 46.8
  },
  "Glenn Thompson": {
   "candidate_id": "H8PA05071",
@@ -8644,7 +9691,10 @@
   "tech": 363876,
   "nra": 0,
   "special_interest_total": 3619541,
-  "grassroots": 8090915
+  "grassroots": 8090915,
+  "grassroots_small": 705801,
+  "grassroots_itemized": 7385115,
+  "small_dollar_pct": 8.7
  },
  "Mike Kelly": {
   "candidate_id": "H4PA03117",
@@ -8668,7 +9718,10 @@
   "tech": 551775,
   "nra": 0,
   "special_interest_total": 5637260,
-  "grassroots": 14911112
+  "grassroots": 14911112,
+  "grassroots_small": 1649999,
+  "grassroots_itemized": 13261113,
+  "small_dollar_pct": 11.1
  },
  "Chris Deluzio": {
   "candidate_id": "H2PA17103",
@@ -8692,7 +9745,10 @@
   "tech": 339483,
   "nra": 0,
   "special_interest_total": 2112231,
-  "grassroots": 8227875
+  "grassroots": 8227875,
+  "grassroots_small": 1761304,
+  "grassroots_itemized": 6466571,
+  "small_dollar_pct": 21.4
  },
  "Seth Magaziner": {
   "candidate_id": "H2RI02184",
@@ -8716,7 +9772,10 @@
   "tech": 215855,
   "nra": 0,
   "special_interest_total": 1608266,
-  "grassroots": 5055080
+  "grassroots": 5055080,
+  "grassroots_small": 302263,
+  "grassroots_itemized": 4752817,
+  "small_dollar_pct": 6.0
  },
  "Nancy Mace": {
   "candidate_id": "H0SC01394",
@@ -8744,7 +9803,10 @@
   "tech": 348529,
   "nra": 0,
   "special_interest_total": 3124478,
-  "grassroots": 10964540
+  "grassroots": 10964540,
+  "grassroots_small": 4201596,
+  "grassroots_itemized": 6762944,
+  "small_dollar_pct": 38.3
  },
  "Joe Wilson": {
   "candidate_id": "H2SC02059",
@@ -8768,7 +9830,10 @@
   "tech": 313015,
   "nra": 250,
   "special_interest_total": 4952185,
-  "grassroots": 11230970
+  "grassroots": 11230970,
+  "grassroots_small": 4056336,
+  "grassroots_itemized": 7174634,
+  "small_dollar_pct": 36.1
  },
  "William Timmons": {
   "candidate_id": "H8SC04250",
@@ -8792,7 +9857,10 @@
   "tech": 113700,
   "nra": 3500,
   "special_interest_total": 2093485,
-  "grassroots": 1665772
+  "grassroots": 1665772,
+  "grassroots_small": 55001,
+  "grassroots_itemized": 1610770,
+  "small_dollar_pct": 3.3
  },
  "Ralph Norman": {
   "candidate_id": "H8SC05158",
@@ -8816,7 +9884,10 @@
   "tech": 90043,
   "nra": 1000,
   "special_interest_total": 1364708,
-  "grassroots": 2986943
+  "grassroots": 2986943,
+  "grassroots_small": 448381,
+  "grassroots_itemized": 2538562,
+  "small_dollar_pct": 15.0
  },
  "James Clyburn": {
   "candidate_id": "H2SC02042",
@@ -8841,7 +9912,10 @@
   "tech": 2172477,
   "nra": 0,
   "special_interest_total": 11068827,
-  "grassroots": 8244235
+  "grassroots": 8244235,
+  "grassroots_small": 991413,
+  "grassroots_itemized": 7252821,
+  "small_dollar_pct": 12.0
  },
  "Russell Fry": {
   "candidate_id": "H2SC07280",
@@ -8865,7 +9939,10 @@
   "tech": 58211,
   "nra": 0,
   "special_interest_total": 728575,
-  "grassroots": 2967927
+  "grassroots": 2967927,
+  "grassroots_small": 206909,
+  "grassroots_itemized": 2761018,
+  "small_dollar_pct": 7.0
  },
  "Dusty Johnson": {
   "candidate_id": "H8SD01055",
@@ -8889,7 +9966,10 @@
   "tech": 328520,
   "nra": 0,
   "special_interest_total": 3344985,
-  "grassroots": 7325145
+  "grassroots": 7325145,
+  "grassroots_small": 377543,
+  "grassroots_itemized": 6947602,
+  "small_dollar_pct": 5.2
  },
  "Diana Harshbarger": {
   "candidate_id": "H0TN01118",
@@ -8913,7 +9993,10 @@
   "tech": 143419,
   "nra": 0,
   "special_interest_total": 1342788,
-  "grassroots": 3040486
+  "grassroots": 3040486,
+  "grassroots_small": 1114255,
+  "grassroots_itemized": 1926231,
+  "small_dollar_pct": 36.6
  },
  "Tim Burchett": {
   "candidate_id": "H8TN02119",
@@ -8937,7 +10020,10 @@
   "tech": 84892,
   "nra": 0,
   "special_interest_total": 1066847,
-  "grassroots": 6629596
+  "grassroots": 6629596,
+  "grassroots_small": 2350377,
+  "grassroots_itemized": 4279219,
+  "small_dollar_pct": 35.5
  },
  "Chuck Fleischmann": {
   "candidate_id": "H0TN03254",
@@ -8961,7 +10047,10 @@
   "tech": 236950,
   "nra": 0,
   "special_interest_total": 3335273,
-  "grassroots": 7607760
+  "grassroots": 7607760,
+  "grassroots_small": 112024,
+  "grassroots_itemized": 7495737,
+  "small_dollar_pct": 1.5
  },
  "Scott DesJarlais": {
   "candidate_id": "H0TN04195",
@@ -8985,7 +10074,10 @@
   "tech": 98753,
   "nra": 23000,
   "special_interest_total": 1423964,
-  "grassroots": 3387529
+  "grassroots": 3387529,
+  "grassroots_small": 166015,
+  "grassroots_itemized": 3221514,
+  "small_dollar_pct": 4.9
  },
  "John Rose": {
   "candidate_id": "H8TN06094",
@@ -9009,7 +10101,10 @@
   "tech": 114987,
   "nra": 0,
   "special_interest_total": 2020280,
-  "grassroots": 3849621
+  "grassroots": 3849621,
+  "grassroots_small": 305367,
+  "grassroots_itemized": 3544254,
+  "small_dollar_pct": 7.9
  },
  "David Kustoff": {
   "candidate_id": "H2TN07103",
@@ -9034,7 +10129,10 @@
   "tech": 145981,
   "nra": 2500,
   "special_interest_total": 4159870,
-  "grassroots": 6534712
+  "grassroots": 6534712,
+  "grassroots_small": 155941,
+  "grassroots_itemized": 6378771,
+  "small_dollar_pct": 2.4
  },
  "Steve Cohen": {
   "candidate_id": "H6TN09068",
@@ -9059,7 +10157,10 @@
   "tech": 478481,
   "nra": 0,
   "special_interest_total": 2039316,
-  "grassroots": 3598407
+  "grassroots": 3598407,
+  "grassroots_small": 302169,
+  "grassroots_itemized": 3296237,
+  "small_dollar_pct": 8.4
  },
  "Nathaniel Moran": {
   "candidate_id": "H2TX01112",
@@ -9083,7 +10184,10 @@
   "tech": 79690,
   "nra": 0,
   "special_interest_total": 663849,
-  "grassroots": 1788637
+  "grassroots": 1788637,
+  "grassroots_small": 312200,
+  "grassroots_itemized": 1476437,
+  "small_dollar_pct": 17.5
  },
  "Keith Self": {
   "candidate_id": "H2TX00064",
@@ -9108,7 +10212,10 @@
   "tech": 57679,
   "nra": 0,
   "special_interest_total": 387675,
-  "grassroots": 1398957
+  "grassroots": 1398957,
+  "grassroots_small": 196878,
+  "grassroots_itemized": 1202079,
+  "small_dollar_pct": 14.1
  },
  "Pat Fallon": {
   "candidate_id": "H0TX04219",
@@ -9132,7 +10239,10 @@
   "tech": 66502,
   "nra": 1000,
   "special_interest_total": 704081,
-  "grassroots": 922162
+  "grassroots": 922162,
+  "grassroots_small": 74152,
+  "grassroots_itemized": 848010,
+  "small_dollar_pct": 8.0
  },
  "Lance Gooden": {
   "candidate_id": "H8TX05144",
@@ -9156,7 +10266,10 @@
   "tech": 111350,
   "nra": 0,
   "special_interest_total": 2267499,
-  "grassroots": 2601770
+  "grassroots": 2601770,
+  "grassroots_small": 51532,
+  "grassroots_itemized": 2550238,
+  "small_dollar_pct": 2.0
  },
  "Jake Ellzey": {
   "candidate_id": "H8TX06266",
@@ -9181,7 +10294,10 @@
   "tech": 170595,
   "nra": 0,
   "special_interest_total": 1825207,
-  "grassroots": 13538331
+  "grassroots": 13538331,
+  "grassroots_small": 6288671,
+  "grassroots_itemized": 7249660,
+  "small_dollar_pct": 46.5
  },
  "Morgan Luttrell": {
   "candidate_id": "H2TX08182",
@@ -9205,7 +10321,10 @@
   "tech": 70285,
   "nra": 0,
   "special_interest_total": 1316804,
-  "grassroots": 5747053
+  "grassroots": 5747053,
+  "grassroots_small": 2537495,
+  "grassroots_itemized": 3209558,
+  "small_dollar_pct": 44.2
  },
  "Michael McCaul": {
   "candidate_id": "H4TX10093",
@@ -9229,7 +10348,10 @@
   "tech": 1649103,
   "nra": 0,
   "special_interest_total": 9439490,
-  "grassroots": 10375645
+  "grassroots": 10375645,
+  "grassroots_small": 1202964,
+  "grassroots_itemized": 9172681,
+  "small_dollar_pct": 11.6
  },
  "August Pfluger": {
   "candidate_id": "H0TX11230",
@@ -9253,7 +10375,10 @@
   "tech": 245665,
   "nra": 0,
   "special_interest_total": 4089470,
-  "grassroots": 4903511
+  "grassroots": 4903511,
+  "grassroots_small": 912359,
+  "grassroots_itemized": 3991153,
+  "small_dollar_pct": 18.6
  },
  "Ronny Jackson": {
   "candidate_id": "H0TX13228",
@@ -9277,7 +10402,10 @@
   "tech": 143629,
   "nra": 0,
   "special_interest_total": 2415869,
-  "grassroots": 13991818
+  "grassroots": 13991818,
+  "grassroots_small": 7283603,
+  "grassroots_itemized": 6708216,
+  "small_dollar_pct": 52.1
  },
  "Randy Weber": {
   "candidate_id": "H2TX14149",
@@ -9301,7 +10429,10 @@
   "tech": 157053,
   "nra": 0,
   "special_interest_total": 1942702,
-  "grassroots": 4195662
+  "grassroots": 4195662,
+  "grassroots_small": 169107,
+  "grassroots_itemized": 4026556,
+  "small_dollar_pct": 4.0
  },
  "Monica De La Cruz": {
   "candidate_id": "H0TX15124",
@@ -9330,7 +10461,10 @@
   "tech": 158978,
   "nra": 0,
   "special_interest_total": 2837250,
-  "grassroots": 12539698
+  "grassroots": 12539698,
+  "grassroots_small": 5498846,
+  "grassroots_itemized": 7040852,
+  "small_dollar_pct": 43.9
  },
  "Veronica Escobar": {
   "candidate_id": "H8TX16109",
@@ -9354,7 +10488,10 @@
   "tech": 321001,
   "nra": 0,
   "special_interest_total": 1790452,
-  "grassroots": 3297239
+  "grassroots": 3297239,
+  "grassroots_small": 284414,
+  "grassroots_itemized": 3012825,
+  "small_dollar_pct": 8.6
  },
  "Pete Sessions": {
   "candidate_id": "H2TX03126",
@@ -9380,7 +10517,10 @@
   "tech": 1330488,
   "nra": 0,
   "special_interest_total": 14810605,
-  "grassroots": 13934493
+  "grassroots": 13934493,
+  "grassroots_small": 625888,
+  "grassroots_itemized": 13308605,
+  "small_dollar_pct": 4.5
  },
  "Jodey Arrington": {
   "candidate_id": "H6TX19099",
@@ -9404,7 +10544,10 @@
   "tech": 264295,
   "nra": 0,
   "special_interest_total": 4781315,
-  "grassroots": 4613454
+  "grassroots": 4613454,
+  "grassroots_small": 132245,
+  "grassroots_itemized": 4481209,
+  "small_dollar_pct": 2.9
  },
  "Joaquin Castro": {
   "candidate_id": "H2TX35011",
@@ -9428,7 +10571,10 @@
   "tech": 386477,
   "nra": 0,
   "special_interest_total": 2147309,
-  "grassroots": 4240194
+  "grassroots": 4240194,
+  "grassroots_small": 693617,
+  "grassroots_itemized": 3546578,
+  "small_dollar_pct": 16.4
  },
  "Chip Roy": {
   "candidate_id": "H8TX21307",
@@ -9452,7 +10598,10 @@
   "tech": 334163,
   "nra": 0,
   "special_interest_total": 3043677,
-  "grassroots": 10552357
+  "grassroots": 10552357,
+  "grassroots_small": 2779111,
+  "grassroots_itemized": 7773246,
+  "small_dollar_pct": 26.3
  },
  "Troy Nehls": {
   "candidate_id": "H0TX22302",
@@ -9477,7 +10626,10 @@
   "tech": 59758,
   "nra": 0,
   "special_interest_total": 1004420,
-  "grassroots": 2589984
+  "grassroots": 2589984,
+  "grassroots_small": 453419,
+  "grassroots_itemized": 2136566,
+  "small_dollar_pct": 17.5
  },
  "Beth Van Duyne": {
   "candidate_id": "H0TX24209",
@@ -9502,7 +10654,10 @@
   "tech": 364901,
   "nra": 0,
   "special_interest_total": 4345252,
-  "grassroots": 5333044
+  "grassroots": 5333044,
+  "grassroots_small": 855040,
+  "grassroots_itemized": 4478004,
+  "small_dollar_pct": 16.0
  },
  "Roger Williams": {
   "candidate_id": "H2TX33040",
@@ -9528,7 +10683,10 @@
   "tech": 303332,
   "nra": 0,
   "special_interest_total": 7377315,
-  "grassroots": 7902391
+  "grassroots": 7902391,
+  "grassroots_small": 235394,
+  "grassroots_itemized": 7666997,
+  "small_dollar_pct": 3.0
  },
  "Michael Cloud": {
   "candidate_id": "H8TX27049",
@@ -9552,7 +10710,10 @@
   "tech": 74802,
   "nra": 0,
   "special_interest_total": 812436,
-  "grassroots": 3485750
+  "grassroots": 3485750,
+  "grassroots_small": 677801,
+  "grassroots_itemized": 2807949,
+  "small_dollar_pct": 19.4
  },
  "Henry Cuellar": {
   "candidate_id": "H2TX23082",
@@ -9576,7 +10737,10 @@
   "tech": 758011,
   "nra": 2000,
   "special_interest_total": 10087303,
-  "grassroots": 12955329
+  "grassroots": 12955329,
+  "grassroots_small": 402120,
+  "grassroots_itemized": 12553210,
+  "small_dollar_pct": 3.1
  },
  "Sylvia Garcia": {
   "candidate_id": "H8TX29052",
@@ -9603,7 +10767,10 @@
   "tech": 162917,
   "nra": 0,
   "special_interest_total": 1432572,
-  "grassroots": 1637038
+  "grassroots": 1637038,
+  "grassroots_small": 122572,
+  "grassroots_itemized": 1514466,
+  "small_dollar_pct": 7.5
  },
  "Jasmine Crockett": {
   "candidate_id": "H2TX30178",
@@ -9629,7 +10796,10 @@
   "tech": 171682,
   "nra": 0,
   "special_interest_total": 864048,
-  "grassroots": 16859952
+  "grassroots": 16859952,
+  "grassroots_small": 11992117,
+  "grassroots_itemized": 4867836,
+  "small_dollar_pct": 71.1
  },
  "John Carter": {
   "candidate_id": "H2TX31044",
@@ -9653,7 +10823,10 @@
   "tech": 766906,
   "nra": 500,
   "special_interest_total": 5484257,
-  "grassroots": 7546158
+  "grassroots": 7546158,
+  "grassroots_small": 664020,
+  "grassroots_itemized": 6882137,
+  "small_dollar_pct": 8.8
  },
  "Marc Veasey": {
   "candidate_id": "H2TX33073",
@@ -9677,7 +10850,10 @@
   "tech": 684000,
   "nra": 0,
   "special_interest_total": 4712816,
-  "grassroots": 4662424
+  "grassroots": 4662424,
+  "grassroots_small": 168073,
+  "grassroots_itemized": 4494351,
+  "small_dollar_pct": 3.6
  },
  "Vicente Gonzalez": {
   "candidate_id": "H6TX15162",
@@ -9701,7 +10877,10 @@
   "tech": 315754,
   "nra": 0,
   "special_interest_total": 4365001,
-  "grassroots": 6313254
+  "grassroots": 6313254,
+  "grassroots_small": 430676,
+  "grassroots_itemized": 5882577,
+  "small_dollar_pct": 6.8
  },
  "Greg Casar": {
   "candidate_id": "H2TX35144",
@@ -9725,7 +10904,10 @@
   "tech": 113845,
   "nra": 0,
   "special_interest_total": 428230,
-  "grassroots": 2925661
+  "grassroots": 2925661,
+  "grassroots_small": 634248,
+  "grassroots_itemized": 2291414,
+  "small_dollar_pct": 21.7
  },
  "Brian Babin": {
   "candidate_id": "H6TX02079",
@@ -9750,7 +10932,10 @@
   "tech": 135501,
   "nra": 0,
   "special_interest_total": 2674235,
-  "grassroots": 3789317
+  "grassroots": 3789317,
+  "grassroots_small": 269324,
+  "grassroots_itemized": 3519994,
+  "small_dollar_pct": 7.1
  },
  "Lloyd Doggett": {
   "candidate_id": "H4TX10028",
@@ -9784,7 +10969,10 @@
   "tech": 714225,
   "nra": 0,
   "special_interest_total": 4276016,
-  "grassroots": 8229218
+  "grassroots": 8229218,
+  "grassroots_small": 1061326,
+  "grassroots_itemized": 7167892,
+  "small_dollar_pct": 12.9
  },
  "Wesley Hunt": {
   "candidate_id": "H0TX07170",
@@ -9811,7 +10999,10 @@
   "tech": 159597,
   "nra": 0,
   "special_interest_total": 4128917,
-  "grassroots": 13942827
+  "grassroots": 13942827,
+  "grassroots_small": 5239326,
+  "grassroots_itemized": 8703501,
+  "small_dollar_pct": 37.6
  },
  "Celeste Maloy": {
   "candidate_id": "H4UT02296",
@@ -9835,7 +11026,10 @@
   "tech": 28500,
   "nra": 0,
   "special_interest_total": 492839,
-  "grassroots": 1566711
+  "grassroots": 1566711,
+  "grassroots_small": 47121,
+  "grassroots_itemized": 1519590,
+  "small_dollar_pct": 3.0
  },
  "Burgess Owens": {
   "candidate_id": "H0UT04076",
@@ -9860,7 +11054,10 @@
   "tech": 161222,
   "nra": 0,
   "special_interest_total": 1715453,
-  "grassroots": 8959867
+  "grassroots": 8959867,
+  "grassroots_small": 3800998,
+  "grassroots_itemized": 5158868,
+  "small_dollar_pct": 42.4
  },
  "Becca Balint": {
   "candidate_id": "H2VT01076",
@@ -9884,7 +11081,10 @@
   "tech": 112175,
   "nra": 0,
   "special_interest_total": 408840,
-  "grassroots": 3266804
+  "grassroots": 3266804,
+  "grassroots_small": 628084,
+  "grassroots_itemized": 2638720,
+  "small_dollar_pct": 19.2
  },
  "Rob Wittman": {
   "candidate_id": "H8VA01147",
@@ -9908,7 +11108,10 @@
   "tech": 541246,
   "nra": 4500,
   "special_interest_total": 5192699,
-  "grassroots": 8589648
+  "grassroots": 8589648,
+  "grassroots_small": 1234582,
+  "grassroots_itemized": 7355066,
+  "small_dollar_pct": 14.4
  },
  "Jen Kiggans": {
   "candidate_id": "H2VA02064",
@@ -9933,7 +11136,10 @@
   "tech": 199623,
   "nra": 0,
   "special_interest_total": 2721904,
-  "grassroots": 9126017
+  "grassroots": 9126017,
+  "grassroots_small": 2360770,
+  "grassroots_itemized": 6765247,
+  "small_dollar_pct": 25.9
  },
  "Bob Good": {
   "candidate_id": "H6VA05068",
@@ -9959,7 +11165,10 @@
   "tech": 77540,
   "nra": 3000,
   "special_interest_total": 693219,
-  "grassroots": 2908874
+  "grassroots": 2908874,
+  "grassroots_small": 927184,
+  "grassroots_itemized": 1981691,
+  "small_dollar_pct": 31.9
  },
  "Ben Cline": {
   "candidate_id": "H8VA06104",
@@ -9983,7 +11192,10 @@
   "tech": 337622,
   "nra": 1000,
   "special_interest_total": 1080049,
-  "grassroots": 3091969
+  "grassroots": 3091969,
+  "grassroots_small": 338043,
+  "grassroots_itemized": 2753927,
+  "small_dollar_pct": 10.9
  },
  "Don Beyer": {
   "candidate_id": "H4VA08224",
@@ -10007,7 +11219,10 @@
   "tech": 758153,
   "nra": 0,
   "special_interest_total": 4515208,
-  "grassroots": 9474110
+  "grassroots": 9474110,
+  "grassroots_small": 757912,
+  "grassroots_itemized": 8716197,
+  "small_dollar_pct": 8.0
  },
  "Suzan DelBene": {
   "candidate_id": "H0WA08046",
@@ -10031,7 +11246,10 @@
   "tech": 2240367,
   "nra": 0,
   "special_interest_total": 7194949,
-  "grassroots": 11249005
+  "grassroots": 11249005,
+  "grassroots_small": 2341405,
+  "grassroots_itemized": 8907600,
+  "small_dollar_pct": 20.8
  },
  "Rick Larsen": {
   "candidate_id": "H0WA02080",
@@ -10055,7 +11273,10 @@
   "tech": 947309,
   "nra": 0,
   "special_interest_total": 4711311,
-  "grassroots": 7925727
+  "grassroots": 7925727,
+  "grassroots_small": 1368291,
+  "grassroots_itemized": 6557435,
+  "small_dollar_pct": 17.3
  },
  "Marie Gluesenkamp Perez": {
   "candidate_id": "H2WA03217",
@@ -10079,7 +11300,10 @@
   "tech": 854825,
   "nra": 0,
   "special_interest_total": 3485143,
-  "grassroots": 15474826
+  "grassroots": 15474826,
+  "grassroots_small": 3159854,
+  "grassroots_itemized": 12314972,
+  "small_dollar_pct": 20.4
  },
  "Dan Newhouse": {
   "candidate_id": "H4WA04104",
@@ -10103,7 +11327,10 @@
   "tech": 231113,
   "nra": 0,
   "special_interest_total": 1901929,
-  "grassroots": 4368066
+  "grassroots": 4368066,
+  "grassroots_small": 477092,
+  "grassroots_itemized": 3890973,
+  "small_dollar_pct": 10.9
  },
  "Pramila Jayapal": {
   "candidate_id": "H6WA07458",
@@ -10127,7 +11354,10 @@
   "tech": 1077866,
   "nra": 0,
   "special_interest_total": 2481165,
-  "grassroots": 13707974
+  "grassroots": 13707974,
+  "grassroots_small": 4727194,
+  "grassroots_itemized": 8980780,
+  "small_dollar_pct": 34.5
  },
  "Kim Schrier": {
   "candidate_id": "H8WA08189",
@@ -10151,7 +11381,10 @@
   "tech": 2152168,
   "nra": 0,
   "special_interest_total": 7881801,
-  "grassroots": 26304429
+  "grassroots": 26304429,
+  "grassroots_small": 4166723,
+  "grassroots_itemized": 22137706,
+  "small_dollar_pct": 15.8
  },
  "Marilyn Strickland": {
   "candidate_id": "H0WA10034",
@@ -10175,7 +11408,10 @@
   "tech": 302764,
   "nra": 0,
   "special_interest_total": 1738543,
-  "grassroots": 4512709
+  "grassroots": 4512709,
+  "grassroots_small": 458901,
+  "grassroots_itemized": 4053808,
+  "small_dollar_pct": 10.2
  },
  "Carol Miller": {
   "candidate_id": "H8WV03097",
@@ -10199,7 +11435,10 @@
   "tech": 91198,
   "nra": 1000,
   "special_interest_total": 1588302,
-  "grassroots": 2967688
+  "grassroots": 2967688,
+  "grassroots_small": 105464,
+  "grassroots_itemized": 2862224,
+  "small_dollar_pct": 3.6
  },
  "Bryan Steil": {
   "candidate_id": "H8WI01156",
@@ -10223,7 +11462,10 @@
   "tech": 377347,
   "nra": 0,
   "special_interest_total": 6179836,
-  "grassroots": 9475456
+  "grassroots": 9475456,
+  "grassroots_small": 1204646,
+  "grassroots_itemized": 8270810,
+  "small_dollar_pct": 12.7
  },
  "Mark Pocan": {
   "candidate_id": "H2WI02124",
@@ -10247,7 +11489,10 @@
   "tech": 165959,
   "nra": 0,
   "special_interest_total": 1710157,
-  "grassroots": 4150764
+  "grassroots": 4150764,
+  "grassroots_small": 1682940,
+  "grassroots_itemized": 2467824,
+  "small_dollar_pct": 40.5
  },
  "Derrick Van Orden": {
   "candidate_id": "H0WI03175",
@@ -10273,7 +11518,10 @@
   "tech": 175846,
   "nra": 0,
   "special_interest_total": 2910898,
-  "grassroots": 16642408
+  "grassroots": 16642408,
+  "grassroots_small": 6359757,
+  "grassroots_itemized": 10282651,
+  "small_dollar_pct": 38.2
  },
  "Gwen Moore": {
   "candidate_id": "H4WI04183",
@@ -10297,7 +11545,10 @@
   "tech": 181350,
   "nra": 0,
   "special_interest_total": 4699020,
-  "grassroots": 3770398
+  "grassroots": 3770398,
+  "grassroots_small": 842086,
+  "grassroots_itemized": 2928312,
+  "small_dollar_pct": 22.3
  },
  "Scott Fitzgerald": {
   "candidate_id": "H0WI05113",
@@ -10321,7 +11572,10 @@
   "tech": 91947,
   "nra": 1000,
   "special_interest_total": 1321792,
-  "grassroots": 2445117
+  "grassroots": 2445117,
+  "grassroots_small": 496527,
+  "grassroots_itemized": 1948590,
+  "small_dollar_pct": 20.3
  },
  "Glenn Grothman": {
   "candidate_id": "H4WI06048",
@@ -10345,7 +11599,10 @@
   "tech": 107065,
   "nra": 0,
   "special_interest_total": 1773664,
-  "grassroots": 6356752
+  "grassroots": 6356752,
+  "grassroots_small": 1167565,
+  "grassroots_itemized": 5189187,
+  "small_dollar_pct": 18.4
  },
  "Tom Tiffany": {
   "candidate_id": "H0WI07101",
@@ -10369,7 +11626,10 @@
   "tech": 96824,
   "nra": 3500,
   "special_interest_total": 879161,
-  "grassroots": 4305618
+  "grassroots": 4305618,
+  "grassroots_small": 893220,
+  "grassroots_itemized": 3412398,
+  "small_dollar_pct": 20.7
  },
  "Harriet Hageman": {
   "candidate_id": "H2WY00166",
@@ -10394,7 +11654,10 @@
   "tech": 89529,
   "nra": 0,
   "special_interest_total": 988176,
-  "grassroots": 8943350
+  "grassroots": 8943350,
+  "grassroots_small": 4304893,
+  "grassroots_itemized": 4638457,
+  "small_dollar_pct": 48.1
  },
  "Stacey Plaskett": {
   "candidate_id": "H2VI00082",
@@ -10418,7 +11681,10 @@
   "tech": 108165,
   "nra": 0,
   "special_interest_total": 930170,
-  "grassroots": 2278265
+  "grassroots": 2278265,
+  "grassroots_small": 125070,
+  "grassroots_itemized": 2153195,
+  "small_dollar_pct": 5.5
  },
  "Gregorio Sablan": {
   "candidate_id": "H8MP00041",
@@ -10443,7 +11709,10 @@
   "tech": 2700,
   "nra": 0,
   "special_interest_total": 70852,
-  "grassroots": 403538
+  "grassroots": 403538,
+  "grassroots_small": 64349,
+  "grassroots_itemized": 339189,
+  "small_dollar_pct": 15.9
  },
  "Abraham Hamadeh": {
   "candidate_id": "H4AZ08108",
@@ -10467,7 +11736,10 @@
   "tech": 50000,
   "nra": 0,
   "special_interest_total": 354545,
-  "grassroots": 1896150
+  "grassroots": 1896150,
+  "grassroots_small": 715040,
+  "grassroots_itemized": 1181109,
+  "small_dollar_pct": 37.7
  },
  "Adam Gray": {
   "candidate_id": "H2CA13115",
@@ -10495,7 +11767,10 @@
   "tech": 485009,
   "nra": 0,
   "special_interest_total": 1901352,
-  "grassroots": 9502897
+  "grassroots": 9502897,
+  "grassroots_small": 1791157,
+  "grassroots_itemized": 7711741,
+  "small_dollar_pct": 18.8
  },
  "Lateefah Simon": {
   "candidate_id": "H4CA12154",
@@ -10519,7 +11794,10 @@
   "tech": 95189,
   "nra": 0,
   "special_interest_total": 398516,
-  "grassroots": 3041089
+  "grassroots": 3041089,
+  "grassroots_small": 309949,
+  "grassroots_itemized": 2731140,
+  "small_dollar_pct": 10.2
  },
  "Laura Friedman": {
   "candidate_id": "H4CA30149",
@@ -10543,7 +11821,10 @@
   "tech": 197434,
   "nra": 0,
   "special_interest_total": 449263,
-  "grassroots": 2056344
+  "grassroots": 2056344,
+  "grassroots_small": 226383,
+  "grassroots_itemized": 1829961,
+  "small_dollar_pct": 11.0
  },
  "Luz Rivas": {
   "candidate_id": "H4CA29141",
@@ -10567,7 +11848,10 @@
   "tech": 40916,
   "nra": 0,
   "special_interest_total": 217973,
-  "grassroots": 873944
+  "grassroots": 873944,
+  "grassroots_small": 43276,
+  "grassroots_itemized": 830668,
+  "small_dollar_pct": 5.0
  },
  "Derek Tran": {
   "candidate_id": "H4CA45170",
@@ -10591,7 +11875,10 @@
   "tech": 271674,
   "nra": 0,
   "special_interest_total": 1253247,
-  "grassroots": 8350603
+  "grassroots": 8350603,
+  "grassroots_small": 1927496,
+  "grassroots_itemized": 6423107,
+  "small_dollar_pct": 23.1
  },
  "Dave Min": {
   "candidate_id": "H4CA47085",
@@ -10615,7 +11902,10 @@
   "tech": 530512,
   "nra": 0,
   "special_interest_total": 1823178,
-  "grassroots": 8341796
+  "grassroots": 8341796,
+  "grassroots_small": 1242806,
+  "grassroots_itemized": 7098990,
+  "small_dollar_pct": 14.9
  },
  "George Whitesides": {
   "candidate_id": "H4CA27111",
@@ -10639,7 +11929,10 @@
   "tech": 628642,
   "nra": 0,
   "special_interest_total": 2173336,
-  "grassroots": 10352689
+  "grassroots": 10352689,
+  "grassroots_small": 1928716,
+  "grassroots_itemized": 8423974,
+  "small_dollar_pct": 18.6
  },
  "Norma Torres": {
   "candidate_id": "H4CA35031",
@@ -10663,7 +11956,10 @@
   "tech": 222930,
   "nra": 0,
   "special_interest_total": 1687735,
-  "grassroots": 1352064
+  "grassroots": 1352064,
+  "grassroots_small": 120525,
+  "grassroots_itemized": 1231539,
+  "small_dollar_pct": 8.9
  },
  "Pete Aguilar": {
   "candidate_id": "H2CA31125",
@@ -10687,7 +11983,10 @@
   "tech": 1011477,
   "nra": 0,
   "special_interest_total": 7832068,
-  "grassroots": 12670070
+  "grassroots": 12670070,
+  "grassroots_small": 2794365,
+  "grassroots_itemized": 9875706,
+  "small_dollar_pct": 22.1
  },
  "Vince Fong": {
   "candidate_id": "H4CA20181",
@@ -10714,7 +12013,10 @@
   "tech": 38200,
   "nra": 0,
   "special_interest_total": 627271,
-  "grassroots": 2202121
+  "grassroots": 2202121,
+  "grassroots_small": 50398,
+  "grassroots_itemized": 2151724,
+  "small_dollar_pct": 2.3
  },
  "Lauren Boebert": {
   "candidate_id": "H0CO03165",
@@ -10738,7 +12040,10 @@
   "tech": 193199,
   "nra": 0,
   "special_interest_total": 1628330,
-  "grassroots": 14394021
+  "grassroots": 14394021,
+  "grassroots_small": 7512960,
+  "grassroots_itemized": 6881061,
+  "small_dollar_pct": 52.2
  },
  "Diana DeGette": {
   "candidate_id": "H6CO01141",
@@ -10762,7 +12067,10 @@
   "tech": 1260416,
   "nra": 0,
   "special_interest_total": 6088565,
-  "grassroots": 5377618
+  "grassroots": 5377618,
+  "grassroots_small": 709338,
+  "grassroots_itemized": 4668281,
+  "small_dollar_pct": 13.2
  },
  "Randy Fine": {
   "candidate_id": "H6FL06258",
@@ -10786,7 +12094,10 @@
   "tech": 0,
   "nra": 0,
   "special_interest_total": 465193,
-  "grassroots": 2439870
+  "grassroots": 2439870,
+  "grassroots_small": 557337,
+  "grassroots_itemized": 1882533,
+  "small_dollar_pct": 22.8
  },
  "Mike Haridopolos": {
   "candidate_id": "H4FL08168",
@@ -10812,7 +12123,10 @@
   "tech": 62015,
   "nra": 0,
   "special_interest_total": 1395306,
-  "grassroots": 5575212
+  "grassroots": 5575212,
+  "grassroots_small": 103463,
+  "grassroots_itemized": 5471750,
+  "small_dollar_pct": 1.9
  },
  "Jimmy Patronis": {
   "candidate_id": "H6FL01390",
@@ -10836,7 +12150,10 @@
   "tech": 61735,
   "nra": 0,
   "special_interest_total": 615762,
-  "grassroots": 2927247
+  "grassroots": 2927247,
+  "grassroots_small": 592786,
+  "grassroots_itemized": 2334461,
+  "small_dollar_pct": 20.3
  },
  "Brian Jack": {
   "candidate_id": "H4GA03126",
@@ -10860,7 +12177,10 @@
   "tech": 41550,
   "nra": 0,
   "special_interest_total": 634918,
-  "grassroots": 2107812
+  "grassroots": 2107812,
+  "grassroots_small": 326394,
+  "grassroots_itemized": 1781418,
+  "small_dollar_pct": 15.5
  },
  "Clay Fuller": {
   "candidate_id": "H0GA14030",
@@ -10885,7 +12205,10 @@
   "tech": 0,
   "nra": 0,
   "special_interest_total": 0,
-  "grassroots": 1219755
+  "grassroots": 1219755,
+  "grassroots_small": 184034,
+  "grassroots_itemized": 1035721,
+  "small_dollar_pct": 15.1
  },
  "Derek Schmidt": {
   "candidate_id": "H4KS02164",
@@ -10909,7 +12232,10 @@
   "tech": 11249,
   "nra": 0,
   "special_interest_total": 381183,
-  "grassroots": 1715197
+  "grassroots": 1715197,
+  "grassroots_small": 91435,
+  "grassroots_itemized": 1623761,
+  "small_dollar_pct": 5.3
  },
  "Cleo Fields": {
   "candidate_id": "H0LA08025",
@@ -10935,7 +12261,10 @@
   "tech": 39152,
   "nra": 0,
   "special_interest_total": 397945,
-  "grassroots": 0
+  "grassroots": 0,
+  "grassroots_small": 0,
+  "grassroots_itemized": 0,
+  "small_dollar_pct": null
  },
  "Tom Barrett": {
   "candidate_id": "H2MI07123",
@@ -10960,7 +12289,10 @@
   "tech": 56509,
   "nra": 0,
   "special_interest_total": 1289695,
-  "grassroots": 8667832
+  "grassroots": 8667832,
+  "grassroots_small": 3690270,
+  "grassroots_itemized": 4977561,
+  "small_dollar_pct": 42.6
  },
  "Kristen McDonald Rivet": {
   "candidate_id": "H4MI08218",
@@ -10984,7 +12316,10 @@
   "tech": 253138,
   "nra": 0,
   "special_interest_total": 1347279,
-  "grassroots": 8563196
+  "grassroots": 8563196,
+  "grassroots_small": 1367737,
+  "grassroots_itemized": 7195458,
+  "small_dollar_pct": 16.0
  },
  "Bob Onder": {
   "candidate_id": "H8MO09146",
@@ -11009,7 +12344,10 @@
   "tech": 6543,
   "nra": 0,
   "special_interest_total": 297790,
-  "grassroots": 1440076
+  "grassroots": 1440076,
+  "grassroots_small": 129793,
+  "grassroots_itemized": 1310283,
+  "small_dollar_pct": 9.0
  },
  "Troy Downing": {
   "candidate_id": "H4MT02098",
@@ -11035,7 +12373,10 @@
   "tech": 31907,
   "nra": 0,
   "special_interest_total": 467891,
-  "grassroots": 3036315
+  "grassroots": 3036315,
+  "grassroots_small": 1001656,
+  "grassroots_itemized": 2034659,
+  "small_dollar_pct": 33.0
  },
  "Maggie Goodlander": {
   "candidate_id": "H4NH02399",
@@ -11059,7 +12400,10 @@
   "tech": 270543,
   "nra": 0,
   "special_interest_total": 1665070,
-  "grassroots": 6698863
+  "grassroots": 6698863,
+  "grassroots_small": 212456,
+  "grassroots_itemized": 6486407,
+  "small_dollar_pct": 3.2
  },
  "LaMonica McIver": {
   "candidate_id": "H4NJ10176",
@@ -11083,7 +12427,10 @@
   "tech": 5900,
   "nra": 0,
   "special_interest_total": 118452,
-  "grassroots": 2003254
+  "grassroots": 2003254,
+  "grassroots_small": 1100936,
+  "grassroots_itemized": 902317,
+  "small_dollar_pct": 55.0
  },
  "Laura Gillen": {
   "candidate_id": "H2NY04244",
@@ -11108,7 +12455,10 @@
   "tech": 452699,
   "nra": 0,
   "special_interest_total": 2709805,
-  "grassroots": 9493015
+  "grassroots": 9493015,
+  "grassroots_small": 1419373,
+  "grassroots_itemized": 8073642,
+  "small_dollar_pct": 15.0
  },
  "Josh Riley": {
   "candidate_id": "H8NY22177",
@@ -11132,7 +12482,10 @@
   "tech": 940692,
   "nra": 0,
   "special_interest_total": 3115158,
-  "grassroots": 15291076
+  "grassroots": 15291076,
+  "grassroots_small": 3437107,
+  "grassroots_itemized": 11853969,
+  "small_dollar_pct": 22.5
  },
  "John Mannion": {
   "candidate_id": "H4NY22085",
@@ -11156,7 +12509,10 @@
   "tech": 174256,
   "nra": 0,
   "special_interest_total": 760687,
-  "grassroots": 5074212
+  "grassroots": 5074212,
+  "grassroots_small": 1033401,
+  "grassroots_itemized": 4040811,
+  "small_dollar_pct": 20.4
  },
  "Claudia Tenney": {
   "candidate_id": "H4NY22051",
@@ -11182,7 +12538,10 @@
   "tech": 239777,
   "nra": 0,
   "special_interest_total": 4270712,
-  "grassroots": 8413693
+  "grassroots": 8413693,
+  "grassroots_small": 2318174,
+  "grassroots_itemized": 6095519,
+  "small_dollar_pct": 27.6
  },
  "Jerrold Nadler": {
   "candidate_id": "H2NY17071",
@@ -11208,7 +12567,10 @@
   "tech": 2156951,
   "nra": 0,
   "special_interest_total": 6542660,
-  "grassroots": 9827162
+  "grassroots": 9827162,
+  "grassroots_small": 801789,
+  "grassroots_itemized": 9025372,
+  "small_dollar_pct": 8.2
  },
  "Deborah Ross": {
   "candidate_id": "H0NC02125",
@@ -11234,7 +12596,10 @@
   "tech": 939724,
   "nra": 0,
   "special_interest_total": 3941630,
-  "grassroots": 18543380
+  "grassroots": 18543380,
+  "grassroots_small": 5385053,
+  "grassroots_itemized": 13158328,
+  "small_dollar_pct": 29.0
  },
  "Addison McDowell": {
   "candidate_id": "H4NC06177",
@@ -11258,7 +12623,10 @@
   "tech": 4444,
   "nra": 0,
   "special_interest_total": 367838,
-  "grassroots": 1219001
+  "grassroots": 1219001,
+  "grassroots_small": 35962,
+  "grassroots_itemized": 1183039,
+  "small_dollar_pct": 3.0
  },
  "Pat Harrigan": {
   "candidate_id": "H2NC13243",
@@ -11282,7 +12650,10 @@
   "tech": 45021,
   "nra": 0,
   "special_interest_total": 715736,
-  "grassroots": 2268531
+  "grassroots": 2268531,
+  "grassroots_small": 327038,
+  "grassroots_itemized": 1941494,
+  "small_dollar_pct": 14.4
  },
  "Brad Knott": {
   "candidate_id": "H4NC13116",
@@ -11306,7 +12677,10 @@
   "tech": 47900,
   "nra": 0,
   "special_interest_total": 533906,
-  "grassroots": 1805708
+  "grassroots": 1805708,
+  "grassroots_small": 67539,
+  "grassroots_itemized": 1738170,
+  "small_dollar_pct": 3.7
  },
  "Julie Fedorchak": {
   "candidate_id": "H4ND00061",
@@ -11330,7 +12704,10 @@
   "tech": 20628,
   "nra": 0,
   "special_interest_total": 446649,
-  "grassroots": 1714196
+  "grassroots": 1714196,
+  "grassroots_small": 55100,
+  "grassroots_itemized": 1659096,
+  "small_dollar_pct": 3.2
  },
  "Troy Balderson": {
   "candidate_id": "H8OH12180",
@@ -11354,7 +12731,10 @@
   "tech": 345587,
   "nra": 0,
   "special_interest_total": 2906509,
-  "grassroots": 4591720
+  "grassroots": 4591720,
+  "grassroots_small": 383323,
+  "grassroots_itemized": 4208397,
+  "small_dollar_pct": 8.3
  },
  "David Taylor": {
   "candidate_id": "H4OH02248",
@@ -11379,7 +12759,10 @@
   "tech": 8592,
   "nra": 0,
   "special_interest_total": 131613,
-  "grassroots": 971649
+  "grassroots": 971649,
+  "grassroots_small": 177113,
+  "grassroots_itemized": 794536,
+  "small_dollar_pct": 18.2
  },
  "Michael Rulli": {
   "candidate_id": "H4OH06165",
@@ -11403,7 +12786,10 @@
   "tech": 4229,
   "nra": 0,
   "special_interest_total": 254792,
-  "grassroots": 864588
+  "grassroots": 864588,
+  "grassroots_small": 46793,
+  "grassroots_itemized": 817794,
+  "small_dollar_pct": 5.4
  },
  "Val Hoyle": {
   "candidate_id": "H2OR04095",
@@ -11427,7 +12813,10 @@
   "tech": 140377,
   "nra": 0,
   "special_interest_total": 751995,
-  "grassroots": 3805199
+  "grassroots": 3805199,
+  "grassroots_small": 710025,
+  "grassroots_itemized": 3095174,
+  "small_dollar_pct": 18.7
  },
  "Janelle Bynum": {
   "candidate_id": "H4OR05304",
@@ -11451,7 +12840,10 @@
   "tech": 400547,
   "nra": 0,
   "special_interest_total": 2604976,
-  "grassroots": 8751892
+  "grassroots": 8751892,
+  "grassroots_small": 2332097,
+  "grassroots_itemized": 6419795,
+  "small_dollar_pct": 26.6
  },
  "Ryan Mackenzie": {
   "candidate_id": "H8PA15195",
@@ -11478,7 +12870,10 @@
   "tech": 28862,
   "nra": 0,
   "special_interest_total": 497874,
-  "grassroots": 2597619
+  "grassroots": 2597619,
+  "grassroots_small": 794199,
+  "grassroots_itemized": 1803420,
+  "small_dollar_pct": 30.6
  },
  "Robert Bresnahan": {
   "candidate_id": "H4PA08124",
@@ -11502,7 +12897,10 @@
   "tech": 308650,
   "nra": 0,
   "special_interest_total": 1441514,
-  "grassroots": 3674874
+  "grassroots": 3674874,
+  "grassroots_small": 1306653,
+  "grassroots_itemized": 2368221,
+  "small_dollar_pct": 35.6
  },
  "Sheri Biggs": {
   "candidate_id": "H4SC01313",
@@ -11526,7 +12924,10 @@
   "tech": 4400,
   "nra": 0,
   "special_interest_total": 183861,
-  "grassroots": 493047
+  "grassroots": 493047,
+  "grassroots_small": 14578,
+  "grassroots_itemized": 478469,
+  "small_dollar_pct": 3.0
  },
  "Matt Van Epps": {
   "candidate_id": "H6TN07161",
@@ -11550,7 +12951,10 @@
   "tech": 0,
   "nra": 0,
   "special_interest_total": 12778,
-  "grassroots": 1665150
+  "grassroots": 1665150,
+  "grassroots_small": 419392,
+  "grassroots_itemized": 1245758,
+  "small_dollar_pct": 25.2
  },
  "Brandon Gill": {
   "candidate_id": "H4TX26149",
@@ -11574,7 +12978,10 @@
   "tech": 51525,
   "nra": 0,
   "special_interest_total": 361007,
-  "grassroots": 4284039
+  "grassroots": 4284039,
+  "grassroots_small": 2254487,
+  "grassroots_itemized": 2029552,
+  "small_dollar_pct": 52.6
  },
  "Craig Goldman": {
   "candidate_id": "H4TX12065",
@@ -11598,7 +13005,10 @@
   "tech": 47695,
   "nra": 0,
   "special_interest_total": 1198138,
-  "grassroots": 2681395
+  "grassroots": 2681395,
+  "grassroots_small": 73069,
+  "grassroots_itemized": 2608326,
+  "small_dollar_pct": 2.7
  },
  "Dan Crenshaw": {
   "candidate_id": "H8TX02166",
@@ -11622,7 +13032,10 @@
   "tech": 630743,
   "nra": 0,
   "special_interest_total": 7307987,
-  "grassroots": 36844939
+  "grassroots": 36844939,
+  "grassroots_small": 18970987,
+  "grassroots_itemized": 17873952,
+  "small_dollar_pct": 51.5
  },
  "Julie Johnson": {
   "candidate_id": "H4TX32089",
@@ -11646,7 +13059,10 @@
   "tech": 58363,
   "nra": 0,
   "special_interest_total": 586303,
-  "grassroots": 3114549
+  "grassroots": 3114549,
+  "grassroots_small": 389121,
+  "grassroots_itemized": 2725428,
+  "small_dollar_pct": 12.5
  },
  "Blake Moore": {
   "candidate_id": "H0UT01205",
@@ -11670,7 +13086,10 @@
   "tech": 154000,
   "nra": 2500,
   "special_interest_total": 2266784,
-  "grassroots": 3292086
+  "grassroots": 3292086,
+  "grassroots_small": 49251,
+  "grassroots_itemized": 3242834,
+  "small_dollar_pct": 1.5
  },
  "Mike Kennedy": {
   "candidate_id": "H4UT03260",
@@ -11696,7 +13115,10 @@
   "tech": 12910,
   "nra": 0,
   "special_interest_total": 344202,
-  "grassroots": 1297565
+  "grassroots": 1297565,
+  "grassroots_small": 127122,
+  "grassroots_itemized": 1170443,
+  "small_dollar_pct": 9.8
  },
  "Jennifer McClellan": {
   "candidate_id": "H4VA04066",
@@ -11720,7 +13142,10 @@
   "tech": 112381,
   "nra": 0,
   "special_interest_total": 505932,
-  "grassroots": 2467715
+  "grassroots": 2467715,
+  "grassroots_small": 707263,
+  "grassroots_itemized": 1760452,
+  "small_dollar_pct": 28.7
  },
  "Suhas Subramanyam": {
   "candidate_id": "H4VA10279",
@@ -11744,7 +13169,10 @@
   "tech": 245500,
   "nra": 0,
   "special_interest_total": 731504,
-  "grassroots": 3128082
+  "grassroots": 3128082,
+  "grassroots_small": 273957,
+  "grassroots_itemized": 2854126,
+  "small_dollar_pct": 8.8
  },
  "James Walkinshaw": {
   "candidate_id": "H6VA11066",
@@ -11768,7 +13196,10 @@
   "tech": 4400,
   "nra": 0,
   "special_interest_total": 49425,
-  "grassroots": 1802370
+  "grassroots": 1802370,
+  "grassroots_small": 392033,
+  "grassroots_itemized": 1410338,
+  "small_dollar_pct": 21.8
  },
  "Emily Randall": {
   "candidate_id": "H4WA06117",
@@ -11792,7 +13223,10 @@
   "tech": 93619,
   "nra": 0,
   "special_interest_total": 290701,
-  "grassroots": 2424293
+  "grassroots": 2424293,
+  "grassroots_small": 643422,
+  "grassroots_itemized": 1780871,
+  "small_dollar_pct": 26.5
  },
  "Michael Baumgartner": {
   "candidate_id": "H4WA05234",
@@ -11818,7 +13252,10 @@
   "tech": 27547,
   "nra": 0,
   "special_interest_total": 453721,
-  "grassroots": 3388312
+  "grassroots": 3388312,
+  "grassroots_small": 790582,
+  "grassroots_itemized": 2597729,
+  "small_dollar_pct": 23.3
  },
  "Riley Moore": {
   "candidate_id": "H4WV02205",
@@ -11842,7 +13279,10 @@
   "tech": 11455,
   "nra": 0,
   "special_interest_total": 411756,
-  "grassroots": 1404231
+  "grassroots": 1404231,
+  "grassroots_small": 362146,
+  "grassroots_itemized": 1042086,
+  "small_dollar_pct": 25.8
  },
  "Tony Wied": {
   "candidate_id": "H4WI08119",
@@ -11866,7 +13306,10 @@
   "tech": 5075,
   "nra": 0,
   "special_interest_total": 190190,
-  "grassroots": 801185
+  "grassroots": 801185,
+  "grassroots_small": 204213,
+  "grassroots_itemized": 596972,
+  "small_dollar_pct": 25.5
  },
  "Eleanor Holmes Norton": {
   "candidate_id": "H0DC00058",
@@ -11891,7 +13334,10 @@
   "tech": 90021,
   "nra": 0,
   "special_interest_total": 1225084,
-  "grassroots": 1650072
+  "grassroots": 1650072,
+  "grassroots_small": 153037,
+  "grassroots_itemized": 1497035,
+  "small_dollar_pct": 9.3
  },
  "James Moylan": {
   "candidate_id": "H2GU01031",
@@ -11915,7 +13361,10 @@
   "tech": 8850,
   "nra": 0,
   "special_interest_total": 89950,
-  "grassroots": 497319
+  "grassroots": 497319,
+  "grassroots_small": 18800,
+  "grassroots_itemized": 478519,
+  "small_dollar_pct": 3.8
  },
  "Shomari Figures": {
   "candidate_id": "H4AL02170",
@@ -11941,7 +13390,10 @@
   "tech": 77539,
   "nra": 0,
   "special_interest_total": 540424,
-  "grassroots": 2606898
+  "grassroots": 2606898,
+  "grassroots_small": 552847,
+  "grassroots_itemized": 2054052,
+  "small_dollar_pct": 21.2
  },
  "Steny Hoyer": {
   "candidate_id": "H2MD05155",
@@ -11965,7 +13417,10 @@
   "tech": 2476730,
   "nra": 0,
   "special_interest_total": 20948074,
-  "grassroots": 11676603
+  "grassroots": 11676603,
+  "grassroots_small": 395179,
+  "grassroots_itemized": 11281424,
+  "small_dollar_pct": 3.4
  },
  "Kweisi Mfume": {
   "candidate_id": "H6MD07020",
@@ -11992,7 +13447,10 @@
   "tech": 211757,
   "nra": 0,
   "special_interest_total": 1328200,
-  "grassroots": 2300865
+  "grassroots": 2300865,
+  "grassroots_small": 193238,
+  "grassroots_itemized": 2107627,
+  "small_dollar_pct": 8.4
  },
  "Andy Ogles": {
   "candidate_id": "H2TN05446",
@@ -12017,7 +13475,10 @@
   "tech": 30404,
   "nra": 1000,
   "special_interest_total": 617330,
-  "grassroots": 1891898
+  "grassroots": 1891898,
+  "grassroots_small": 261887,
+  "grassroots_itemized": 1630012,
+  "small_dollar_pct": 13.8
  },
  "Brad Sherman": {
   "candidate_id": "H6CA24113",
@@ -12041,7 +13502,10 @@
   "tech": 1209862,
   "nra": 0,
   "special_interest_total": 10031376,
-  "grassroots": 11601327
+  "grassroots": 11601327,
+  "grassroots_small": 353474,
+  "grassroots_itemized": 11247854,
+  "small_dollar_pct": 3.0
  },
  "Sam Liccardo": {
   "candidate_id": "H4CA16197",
@@ -12065,7 +13529,10 @@
   "tech": 713400,
   "nra": 0,
   "special_interest_total": 2431622,
-  "grassroots": 7392288
+  "grassroots": 7392288,
+  "grassroots_small": 97107,
+  "grassroots_itemized": 7295181,
+  "small_dollar_pct": 1.3
  },
  "Ben Ray Luján": {
   "candidate_id": "S0NM00058",
@@ -12090,7 +13557,10 @@
   "tech": 1508007,
   "nra": 0,
   "special_interest_total": 5961755,
-  "grassroots": 16296471
+  "grassroots": 16296471,
+  "grassroots_small": 4734901,
+  "grassroots_itemized": 11561570,
+  "small_dollar_pct": 29.1
  },
  "Linda Sánchez": {
   "candidate_id": "H2CA39078",
@@ -12117,7 +13587,10 @@
   "tech": 897606,
   "nra": 0,
   "special_interest_total": 5696103,
-  "grassroots": 7506767
+  "grassroots": 7506767,
+  "grassroots_small": 715847,
+  "grassroots_itemized": 6790919,
+  "small_dollar_pct": 9.5
  },
  "Nanette Barragán": {
   "candidate_id": "H6CA44103",
@@ -12141,7 +13614,10 @@
   "tech": 530815,
   "nra": 0,
   "special_interest_total": 2266326,
-  "grassroots": 4100179
+  "grassroots": 4100179,
+  "grassroots_small": 791239,
+  "grassroots_itemized": 3308940,
+  "small_dollar_pct": 19.3
  },
  "Mario Díaz-Balart": {
   "candidate_id": "H2FL25018",
@@ -12165,7 +13641,10 @@
   "tech": 652186,
   "nra": 5500,
   "special_interest_total": 4514225,
-  "grassroots": 8373559
+  "grassroots": 8373559,
+  "grassroots_small": 56061,
+  "grassroots_itemized": 8317498,
+  "small_dollar_pct": 0.7
  },
  "Carlos Giménez": {
   "candidate_id": "H0FL26036",
@@ -12190,7 +13669,10 @@
   "tech": 83712,
   "nra": 0,
   "special_interest_total": 1566825,
-  "grassroots": 3153967
+  "grassroots": 3153967,
+  "grassroots_small": 280557,
+  "grassroots_itemized": 2873410,
+  "small_dollar_pct": 8.9
  },
  "Chuy García": {
   "candidate_id": "H8IL04134",
@@ -12214,7 +13696,10 @@
   "tech": 85003,
   "nra": 0,
   "special_interest_total": 569377,
-  "grassroots": 1931153
+  "grassroots": 1931153,
+  "grassroots_small": 215642,
+  "grassroots_itemized": 1715510,
+  "small_dollar_pct": 11.2
  },
  "Nydia Velázquez": {
   "candidate_id": "H2NY00010",
@@ -12238,7 +13723,10 @@
   "tech": 320280,
   "nra": 0,
   "special_interest_total": 3931006,
-  "grassroots": 3574975
+  "grassroots": 3574975,
+  "grassroots_small": 228965,
+  "grassroots_itemized": 3346010,
+  "small_dollar_pct": 6.4
  },
  "Pablo Hernández": {
   "candidate_id": "H4PR01010",
@@ -12262,7 +13750,10 @@
   "tech": 18679,
   "nra": 0,
   "special_interest_total": 185902,
-  "grassroots": 2261689
+  "grassroots": 2261689,
+  "grassroots_small": 358688,
+  "grassroots_itemized": 1903000,
+  "small_dollar_pct": 15.9
  },
  "Shontel Brown": {
   "candidate_id": "H2OH11169",
@@ -12288,7 +13779,10 @@
   "tech": 152996,
   "nra": 0,
   "special_interest_total": 6112656,
-  "grassroots": 4533191
+  "grassroots": 4533191,
+  "grassroots_small": 557158,
+  "grassroots_itemized": 3976033,
+  "small_dollar_pct": 12.3
  },
  "Elise Stefanik": {
   "candidate_id": "H4NY21079",
@@ -12312,7 +13806,10 @@
   "tech": 904266,
   "nra": 2000,
   "special_interest_total": 9882181,
-  "grassroots": 30071951
+  "grassroots": 30071951,
+  "grassroots_small": 14797668,
+  "grassroots_itemized": 15274284,
+  "small_dollar_pct": 49.2
  },
  "Ted Budd": {
   "candidate_id": "S2NC00505",
@@ -12338,7 +13835,10 @@
   "tech": 330129,
   "nra": 1000,
   "special_interest_total": 5651385,
-  "grassroots": 15790258
+  "grassroots": 15790258,
+  "grassroots_small": 4901852,
+  "grassroots_itemized": 10888406,
+  "small_dollar_pct": 31.0
  },
  "Jack Reed": {
   "candidate_id": "S6RI00163",
@@ -12363,7 +13863,10 @@
   "tech": 912999,
   "nra": 0,
   "special_interest_total": 8665342,
-  "grassroots": 8873173
+  "grassroots": 8873173,
+  "grassroots_small": 379483,
+  "grassroots_itemized": 8493690,
+  "small_dollar_pct": 4.3
  },
  "Ted Cruz": {
   "candidate_id": "S2TX00312",
@@ -12389,7 +13892,10 @@
   "tech": 3592310,
   "nra": 0,
   "special_interest_total": 38448227,
-  "grassroots": 150842996
+  "grassroots": 150842996,
+  "grassroots_small": 67634715,
+  "grassroots_itemized": 83208281,
+  "small_dollar_pct": 44.8
  },
  "Bernie Sanders": {
   "candidate_id": "S4VT00033",
@@ -12420,7 +13926,10 @@
   "tech": 23961943,
   "nra": 0,
   "special_interest_total": 58086750,
-  "grassroots": 82063439
+  "grassroots": 82063439,
+  "grassroots_small": 56982790,
+  "grassroots_itemized": 25080649,
+  "small_dollar_pct": 69.4
  },
  "Barry Moore": {
   "candidate_id": "H8AL02171",
@@ -12446,7 +13955,10 @@
   "tech": 40244,
   "nra": 1000,
   "special_interest_total": 589609,
-  "grassroots": 4268459
+  "grassroots": 4268459,
+  "grassroots_small": 472457,
+  "grassroots_itemized": 3796002,
+  "small_dollar_pct": 11.1
  },
  "Rick Crawford": {
   "candidate_id": "H0AR01083",
@@ -12470,7 +13982,10 @@
   "tech": 210225,
   "nra": 3000,
   "special_interest_total": 1824287,
-  "grassroots": 4253517
+  "grassroots": 4253517,
+  "grassroots_small": 436995,
+  "grassroots_itemized": 3816523,
+  "small_dollar_pct": 10.3
  },
  "French Hill": {
   "candidate_id": "H4AR02141",
@@ -12494,7 +14009,10 @@
   "tech": 396408,
   "nra": 0,
   "special_interest_total": 9699070,
-  "grassroots": 11443626
+  "grassroots": 11443626,
+  "grassroots_small": 439873,
+  "grassroots_itemized": 11003752,
+  "small_dollar_pct": 3.8
  },
  "Steve Womack": {
   "candidate_id": "H0AR03055",
@@ -12518,7 +14036,10 @@
   "tech": 573277,
   "nra": 2000,
   "special_interest_total": 3674058,
-  "grassroots": 5540387
+  "grassroots": 5540387,
+  "grassroots_small": 488578,
+  "grassroots_itemized": 5051810,
+  "small_dollar_pct": 8.8
  },
  "Ro Khanna": {
   "candidate_id": "H4CA12055",
@@ -12543,7 +14064,10 @@
   "tech": 4070314,
   "nra": 0,
   "special_interest_total": 14647618,
-  "grassroots": 44093978
+  "grassroots": 44093978,
+  "grassroots_small": 3323433,
+  "grassroots_itemized": 40770545,
+  "small_dollar_pct": 7.5
  },
  "María Elvira Salazar": {
   "candidate_id": "H8FL27185",
@@ -12569,7 +14093,10 @@
   "tech": 340043,
   "nra": 0,
   "special_interest_total": 3894880,
-  "grassroots": 10174902
+  "grassroots": 10174902,
+  "grassroots_small": 1838669,
+  "grassroots_itemized": 8336232,
+  "small_dollar_pct": 18.1
  },
  "Buddy Carter": {
   "candidate_id": "H4GA01039",
@@ -12594,7 +14121,10 @@
   "tech": 439767,
   "nra": 0,
   "special_interest_total": 4937841,
-  "grassroots": 7248452
+  "grassroots": 7248452,
+  "grassroots_small": 1011916,
+  "grassroots_itemized": 6236536,
+  "small_dollar_pct": 14.0
  },
  "Hank Johnson": {
   "candidate_id": "H6GA04129",
@@ -12620,7 +14150,10 @@
   "tech": 618544,
   "nra": 0,
   "special_interest_total": 1805399,
-  "grassroots": 1590074
+  "grassroots": 1590074,
+  "grassroots_small": 344215,
+  "grassroots_itemized": 1245858,
+  "small_dollar_pct": 21.6
  },
  "Austin Scott": {
   "candidate_id": "H0GA08099",
@@ -12644,7 +14177,10 @@
   "tech": 191200,
   "nra": 6794,
   "special_interest_total": 2658515,
-  "grassroots": 3633012
+  "grassroots": 3633012,
+  "grassroots_small": 194289,
+  "grassroots_itemized": 3438723,
+  "small_dollar_pct": 5.3
  },
  "Bill Foster": {
   "candidate_id": "H8IL14067",
@@ -12668,7 +14204,10 @@
   "tech": 885732,
   "nra": 0,
   "special_interest_total": 8143142,
-  "grassroots": 19456064
+  "grassroots": 19456064,
+  "grassroots_small": 2745373,
+  "grassroots_itemized": 16710692,
+  "small_dollar_pct": 14.1
  },
  "André Carson": {
   "candidate_id": "H8IN07184",
@@ -12692,7 +14231,10 @@
   "tech": 228584,
   "nra": 0,
   "special_interest_total": 2795077,
-  "grassroots": 4819997
+  "grassroots": 4819997,
+  "grassroots_small": 482974,
+  "grassroots_itemized": 4337023,
+  "small_dollar_pct": 10.0
  },
  "Ashley Hinson": {
   "candidate_id": "H0IA01174",
@@ -12718,7 +14260,10 @@
   "tech": 432311,
   "nra": 0,
   "special_interest_total": 4311449,
-  "grassroots": 18207242
+  "grassroots": 18207242,
+  "grassroots_small": 5344268,
+  "grassroots_itemized": 12862974,
+  "small_dollar_pct": 29.4
  },
  "Brett Guthrie": {
   "candidate_id": "H8KY02031",
@@ -12742,7 +14287,10 @@
   "tech": 1374668,
   "nra": 0,
   "special_interest_total": 9096825,
-  "grassroots": 6240109
+  "grassroots": 6240109,
+  "grassroots_small": 424737,
+  "grassroots_itemized": 5815372,
+  "small_dollar_pct": 6.8
  },
  "Andy Barr": {
   "candidate_id": "H0KY06104",
@@ -12768,7 +14316,10 @@
   "tech": 478269,
   "nra": 3500,
   "special_interest_total": 12269769,
-  "grassroots": 20819905
+  "grassroots": 20819905,
+  "grassroots_small": 2152509,
+  "grassroots_itemized": 18667396,
+  "small_dollar_pct": 10.3
  },
  "Mike Johnson": {
   "candidate_id": "H6LA04138",
@@ -12792,7 +14343,10 @@
   "tech": 682065,
   "nra": 0,
   "special_interest_total": 7435546,
-  "grassroots": 26007008
+  "grassroots": 26007008,
+  "grassroots_small": 9368799,
+  "grassroots_itemized": 16638209,
+  "small_dollar_pct": 36.0
  },
  "Jack Bergman": {
   "candidate_id": "H6MI01226",
@@ -12816,7 +14370,10 @@
   "tech": 240771,
   "nra": 0,
   "special_interest_total": 2467230,
-  "grassroots": 4024417
+  "grassroots": 4024417,
+  "grassroots_small": 960689,
+  "grassroots_itemized": 3063728,
+  "small_dollar_pct": 23.9
  },
  "Trent Kelly": {
   "candidate_id": "H6MS01131",
@@ -12840,7 +14397,10 @@
   "tech": 138519,
   "nra": 2000,
   "special_interest_total": 1682942,
-  "grassroots": 3133665
+  "grassroots": 3133665,
+  "grassroots_small": 247077,
+  "grassroots_itemized": 2886588,
+  "small_dollar_pct": 7.9
  },
  "Mike Ezell": {
   "candidate_id": "H2MS04258",
@@ -12864,7 +14424,10 @@
   "tech": 42143,
   "nra": 0,
   "special_interest_total": 564030,
-  "grassroots": 1947254
+  "grassroots": 1947254,
+  "grassroots_small": 76584,
+  "grassroots_itemized": 1870670,
+  "small_dollar_pct": 3.9
  },
  "Tom Kean Jr.": {
   "candidate_id": "H0NJ07089",
@@ -12891,7 +14454,10 @@
   "tech": 599367,
   "nra": 0,
   "special_interest_total": 7543042,
-  "grassroots": 5002393
+  "grassroots": 5002393,
+  "grassroots_small": 368611,
+  "grassroots_itemized": 4633782,
+  "small_dollar_pct": 7.4
  },
  "Gabe Vasquez": {
   "candidate_id": "H2NM02191",
@@ -12915,7 +14481,10 @@
   "tech": 458364,
   "nra": 0,
   "special_interest_total": 2286319,
-  "grassroots": 10816473
+  "grassroots": 10816473,
+  "grassroots_small": 2193603,
+  "grassroots_itemized": 8622870,
+  "small_dollar_pct": 20.3
  },
  "Dave Joyce": {
   "candidate_id": "H2OH03125",
@@ -12939,7 +14508,10 @@
   "tech": 474232,
   "nra": 0,
   "special_interest_total": 4844430,
-  "grassroots": 3383056
+  "grassroots": 3383056,
+  "grassroots_small": 218847,
+  "grassroots_itemized": 3164209,
+  "small_dollar_pct": 6.5
  },
  "Gabe Amo": {
   "candidate_id": "H4RI01265",
@@ -12963,7 +14535,10 @@
   "tech": 99380,
   "nra": 0,
   "special_interest_total": 743607,
-  "grassroots": 2806060
+  "grassroots": 2806060,
+  "grassroots_small": 174895,
+  "grassroots_itemized": 2631164,
+  "small_dollar_pct": 6.2
  },
  "Lizzie Fletcher": {
   "candidate_id": "H8TX07140",
@@ -12987,7 +14562,10 @@
   "tech": 863468,
   "nra": 0,
   "special_interest_total": 5828586,
-  "grassroots": 13235196
+  "grassroots": 13235196,
+  "grassroots_small": 1727970,
+  "grassroots_itemized": 11507226,
+  "small_dollar_pct": 13.1
  },
  "Al Green": {
   "candidate_id": "H4TX09095",
@@ -13012,7 +14590,10 @@
   "tech": 155042,
   "nra": 0,
   "special_interest_total": 1565678,
-  "grassroots": 3962641
+  "grassroots": 3962641,
+  "grassroots_small": 455632,
+  "grassroots_itemized": 3507009,
+  "small_dollar_pct": 11.5
  },
  "Tony Gonzales": {
   "candidate_id": "H0TX35015",
@@ -13037,7 +14618,10 @@
   "tech": 0,
   "nra": 0,
   "special_interest_total": 12000,
-  "grassroots": 6804334
+  "grassroots": 6804334,
+  "grassroots_small": 1397917,
+  "grassroots_itemized": 5406418,
+  "small_dollar_pct": 20.5
  },
  "Morgan Griffith": {
   "candidate_id": "H0VA09055",
@@ -13061,7 +14645,10 @@
   "tech": 517076,
   "nra": 2000,
   "special_interest_total": 3064903,
-  "grassroots": 4094526
+  "grassroots": 4094526,
+  "grassroots_small": 583050,
+  "grassroots_itemized": 3511476,
+  "small_dollar_pct": 14.2
  },
  "Bobby Scott": {
   "candidate_id": "H2VA10026",
@@ -13087,7 +14674,10 @@
   "tech": 314990,
   "nra": 0,
   "special_interest_total": 1894913,
-  "grassroots": 871129
+  "grassroots": 871129,
+  "grassroots_small": 214397,
+  "grassroots_itemized": 656732,
+  "small_dollar_pct": 24.6
  },
  "Adam Smith": {
   "candidate_id": "H6WA09025",
@@ -13113,7 +14703,10 @@
   "tech": 1334541,
   "nra": 0,
   "special_interest_total": 6434125,
-  "grassroots": 6698323
+  "grassroots": 6698323,
+  "grassroots_small": 588231,
+  "grassroots_itemized": 6110091,
+  "small_dollar_pct": 8.8
  },
  "Gabe Evans": {
   "candidate_id": "H4CO08034",
@@ -13138,7 +14731,10 @@
   "tech": 68874,
   "nra": 0,
   "special_interest_total": 1426802,
-  "grassroots": 3575086
+  "grassroots": 3575086,
+  "grassroots_small": 1128537,
+  "grassroots_itemized": 2446549,
+  "small_dollar_pct": 31.6
  },
  "Nellie Pou": {
   "candidate_id": "H4NJ09194",
@@ -13162,7 +14758,10 @@
   "tech": 7250,
   "nra": 0,
   "special_interest_total": 152416,
-  "grassroots": 1792234
+  "grassroots": 1792234,
+  "grassroots_small": 242269,
+  "grassroots_itemized": 1549965,
+  "small_dollar_pct": 13.5
  },
  "Eugene Vindman": {
   "candidate_id": "H4VA07234",
@@ -13186,7 +14785,10 @@
   "tech": 510808,
   "nra": 0,
   "special_interest_total": 2136270,
-  "grassroots": 28662155
+  "grassroots": 28662155,
+  "grassroots_small": 17656722,
+  "grassroots_itemized": 11005433,
+  "small_dollar_pct": 61.6
  },
  "Angie Craig": {
   "candidate_id": "H6MN02131",
@@ -13212,7 +14814,10 @@
   "tech": 1383272,
   "nra": 0,
   "special_interest_total": 8497877,
-  "grassroots": 31117888
+  "grassroots": 31117888,
+  "grassroots_small": 6158735,
+  "grassroots_itemized": 24959153,
+  "small_dollar_pct": 19.8
  },
  "John McGuire": {
   "candidate_id": "H0VA07133",
@@ -13238,7 +14843,10 @@
   "tech": 65153,
   "nra": 0,
   "special_interest_total": 873185,
-  "grassroots": 2927707
+  "grassroots": 2927707,
+  "grassroots_small": 604404,
+  "grassroots_itemized": 2323303,
+  "small_dollar_pct": 20.6
  },
  "Gil Cisneros": {
   "candidate_id": "H8CA39174",
@@ -13263,7 +14871,10 @@
   "tech": 574810,
   "nra": 0,
   "special_interest_total": 2246623,
-  "grassroots": 5352474
+  "grassroots": 5352474,
+  "grassroots_small": 989657,
+  "grassroots_itemized": 4362817,
+  "small_dollar_pct": 18.5
  },
  "Kimberlyn King-Hinds": {
   "candidate_id": "H4MP01022",
@@ -13287,7 +14898,10 @@
   "tech": 0,
   "nra": 0,
   "special_interest_total": 0,
-  "grassroots": 107875
+  "grassroots": 107875,
+  "grassroots_small": 21463,
+  "grassroots_itemized": 86412,
+  "small_dollar_pct": 19.9
  },
  "Christian Menefee": {
   "candidate_id": "H6TX18232",
@@ -13311,7 +14925,10 @@
   "tech": 0,
   "nra": 0,
   "special_interest_total": 0,
-  "grassroots": 3399375
+  "grassroots": 3399375,
+  "grassroots_small": 700826,
+  "grassroots_itemized": 2698549,
+  "small_dollar_pct": 20.6
  },
  "Analilia Mejia": {
   "candidate_id": "H6NJ11286",
@@ -13335,7 +14952,10 @@
   "tech": 0,
   "nra": 0,
   "special_interest_total": 0,
-  "grassroots": 1453169
+  "grassroots": 1453169,
+  "grassroots_small": 633740,
+  "grassroots_itemized": 819429,
+  "small_dollar_pct": 43.6
  },
  "Alan Armstrong": {
   "candidate_id": "S4SC00232",
@@ -13362,7 +14982,10 @@
   "tech": 0,
   "nra": 0,
   "special_interest_total": 0,
-  "grassroots": 0
+  "grassroots": 0,
+  "grassroots_small": 0,
+  "grassroots_itemized": 0,
+  "small_dollar_pct": null
  },
  "Nancy Pelosi": {
   "candidate_id": "H8CA05035",
@@ -13386,7 +15009,10 @@
   "tech": 4417556,
   "nra": 0,
   "special_interest_total": 19208377,
-  "grassroots": 70749609
+  "grassroots": 70749609,
+  "grassroots_small": 38878670,
+  "grassroots_itemized": 31870939,
+  "small_dollar_pct": 55.0
  },
  "Amata Coleman Radewagen": {
   "candidate_id": "H4AS00036",
@@ -13412,7 +15038,10 @@
   "tech": 12308,
   "nra": 0,
   "special_interest_total": 34983,
-  "grassroots": 524336
+  "grassroots": 524336,
+  "grassroots_small": 30084,
+  "grassroots_itemized": 494252,
+  "small_dollar_pct": 5.7
  },
  "Graham Platner": {
   "candidate_id": "S6ME00373",
@@ -13438,7 +15067,10 @@
   "tech": 0,
   "nra": 0,
   "special_interest_total": 0,
-  "grassroots": 20666360
+  "grassroots": 20666360,
+  "grassroots_small": 11786279,
+  "grassroots_itemized": 8880081,
+  "small_dollar_pct": 57.0
  },
  "James Talarico": {
   "candidate_id": "S6TX00479",
@@ -13464,7 +15096,10 @@
   "tech": 40630,
   "nra": 0,
   "special_interest_total": 408183,
-  "grassroots": 65585742
+  "grassroots": 65585742,
+  "grassroots_small": 36717034,
+  "grassroots_itemized": 28868708,
+  "small_dollar_pct": 56.0
  },
  "Ken Paxton": {
   "candidate_id": "S6TX00388",
@@ -13491,7 +15126,10 @@
   "tech": 110175,
   "nra": 0,
   "special_interest_total": 2065733,
-  "grassroots": 9020178
+  "grassroots": 9020178,
+  "grassroots_small": 1764118,
+  "grassroots_itemized": 7256060,
+  "small_dollar_pct": 19.6
  },
  "Roy Cooper": {
   "candidate_id": "S6NC00407",
@@ -13517,7 +15155,10 @@
   "tech": 0,
   "nra": 0,
   "special_interest_total": 0,
-  "grassroots": 13115398
+  "grassroots": 13115398,
+  "grassroots_small": 4748620,
+  "grassroots_itemized": 8366778,
+  "small_dollar_pct": 36.2
  },
  "Michael Whatley": {
   "candidate_id": "S6NC00415",
@@ -13543,7 +15184,10 @@
   "tech": 333712,
   "nra": 0,
   "special_interest_total": 2642820,
-  "grassroots": 5463948
+  "grassroots": 5463948,
+  "grassroots_small": 1774216,
+  "grassroots_itemized": 3689732,
+  "small_dollar_pct": 32.5
  },
  "Mary Peltola": {
   "candidate_id": "H2AK01158",
@@ -13569,7 +15213,10 @@
   "tech": 799596,
   "nra": 0,
   "special_interest_total": 3321473,
-  "grassroots": 18013082
+  "grassroots": 18013082,
+  "grassroots_small": 7769567,
+  "grassroots_itemized": 10243516,
+  "small_dollar_pct": 43.1
  },
  "Sherrod Brown": {
   "candidate_id": "S6OH00163",
@@ -13595,7 +15242,10 @@
   "tech": 5891410,
   "nra": 0,
   "special_interest_total": 31199357,
-  "grassroots": 31146133
+  "grassroots": 31146133,
+  "grassroots_small": 13527788,
+  "grassroots_itemized": 17618346,
+  "small_dollar_pct": 43.4
  },
  "Josh Turek": {
   "candidate_id": "",
@@ -13619,6 +15269,9 @@
   "tech": 0,
   "nra": 0,
   "special_interest_total": 0,
-  "grassroots": 5835817
+  "grassroots": 5835817,
+  "grassroots_small": 2726556,
+  "grassroots_itemized": 3109261,
+  "small_dollar_pct": 46.7
  }
 }

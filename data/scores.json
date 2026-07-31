@@ -6374,8 +6374,8 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Jim Jordan": {
-    "pct": 100,
-    "lbl": "High Risk",
+    "pct": 20,
+    "lbl": "Low Risk",
     "vto": false,
     "col": "#b91c1c",
     "super_pac_total": 711711,

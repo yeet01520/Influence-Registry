@@ -1,0 +1,459 @@
+{
+ "confirmed": [
+  {
+   "id": "H0GA03017",
+   "office": "House GA",
+   "fec_name": "BROUN, PAUL COLLINS",
+   "member": "Mike Collins",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'BROUN' not at end of 'Mike Collins'"
+  },
+  {
+   "id": "H0IA01174",
+   "office": "House IA",
+   "fec_name": "ARENHOLZ, ASHLEY HINSON",
+   "member": "Ashley Hinson",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'ARENHOLZ' not at end of 'Ashley Hinson'"
+  },
+  {
+   "id": "H2NY01190",
+   "office": "House NY",
+   "fec_name": "NICK, LALOTA",
+   "member": "Nick LaLota",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'NICK' not at end of 'Nick LaLota'"
+  },
+  {
+   "id": "H2OH03125",
+   "office": "House OH",
+   "fec_name": "BEATTY, JOYCE",
+   "member": "Dave Joyce",
+   "verdict": "CONFIRMED",
+   "reason": "ID also claimed by Joyce Beatty, who matches the FEC name; surname 'BEATTY' not at end of 'Dave Joyce'",
+   "also_claimed_by": [
+    "Joyce Beatty"
+   ]
+  },
+  {
+   "id": "H2VA10026",
+   "office": "House VA",
+   "fec_name": "BOWDEN, SCOTT R",
+   "member": "Bobby Scott",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'BOWDEN' not at end of 'Bobby Scott'"
+  },
+  {
+   "id": "H4AS00036",
+   "office": "House AS",
+   "fec_name": "AMATA, AUMUA",
+   "member": "Amata Coleman Radewagen",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'AMATA' not at end of 'Amata Coleman Radewagen'"
+  },
+  {
+   "id": "H4PR01010",
+   "office": "House PR",
+   "fec_name": "HERNANDEZ RIVERA, PABLO JOSE",
+   "member": "Pablo Hernández",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'HERNANDEZ RIVERA' not at end of 'Pablo Hernández'"
+  },
+  {
+   "id": "H6MI18022",
+   "office": "House MI",
+   "fec_name": "BLANCHARD, JAMES JOHNSTON",
+   "member": "John James",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'BLANCHARD' not at end of 'John James'"
+  },
+  {
+   "id": "H6TX35087",
+   "office": "House TX",
+   "fec_name": "DE LA CRUZ, CARLOS JR.",
+   "member": "Ted Cruz",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'DE LA CRUZ' not at end of 'Ted Cruz'"
+  },
+  {
+   "id": "H6VA05068",
+   "office": "House VA",
+   "fec_name": "GOODE, VIRGIL H. JR.",
+   "member": "Bob Good",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'GOODE' not at end of 'Bob Good'"
+  },
+  {
+   "id": "S0MT00181",
+   "office": "Senate MT",
+   "fec_name": "GIESE, SUSAN GOOD",
+   "member": "Bob Good",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'GIESE' not at end of 'Bob Good'"
+  },
+  {
+   "id": "S0NC00376",
+   "office": "Senate NC",
+   "fec_name": "BELL-MOORE, KATHERINE",
+   "member": "Tim Moore",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'BELL MOORE' not at end of 'Tim Moore'"
+  },
+  {
+   "id": "S2CA00344",
+   "office": "Senate CA",
+   "fec_name": "DAVIS, GRAY",
+   "member": "Adam Gray",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'DAVIS' not at end of 'Adam Gray'"
+  },
+  {
+   "id": "S2TX00312",
+   "office": "Senate TX",
+   "fec_name": "CRUZ, RAFAEL EDWARD  TED",
+   "member": "Monica De La Cruz",
+   "verdict": "CONFIRMED",
+   "reason": "ID also claimed by Ted Cruz, who matches the FEC name; surname matches but given names ['RAFAEL', 'EDWARD', 'TED'] vs 'MONICA' (best 0.17)",
+   "also_claimed_by": [
+    "Ted Cruz"
+   ]
+  },
+  {
+   "id": "S4VA00312",
+   "office": "Senate VA",
+   "fec_name": "PARKINSON, SCOTT THOMAS",
+   "member": "Bobby Scott",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'PARKINSON' not at end of 'Bobby Scott'"
+  },
+  {
+   "id": "S6GA00010",
+   "office": "Senate GA",
+   "fec_name": "GARRETT, DAVID CLYDE III",
+   "member": "Andrew Clyde",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'GARRETT' not at end of 'Andrew Clyde'"
+  },
+  {
+   "id": "S6GA00101",
+   "office": "Senate GA",
+   "fec_name": "BROUN, PAUL COLLINS",
+   "member": "Mike Collins",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'BROUN' not at end of 'Mike Collins'"
+  },
+  {
+   "id": "S6IA00314",
+   "office": "Senate IA",
+   "fec_name": "ARENHOLZ, ASHLEY HINSON",
+   "member": "Ashley Hinson",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'ARENHOLZ' not at end of 'Ashley Hinson'"
+  },
+  {
+   "id": "S6OH00163",
+   "office": "Senate OH",
+   "fec_name": "BROWN, SHERROD",
+   "member": "Shontel Brown",
+   "verdict": "CONFIRMED",
+   "reason": "ID also claimed by Sherrod Brown, who matches the FEC name; surname matches but given names ['SHERROD'] vs 'SHONTEL' (best 0.43)",
+   "also_claimed_by": [
+    "Sherrod Brown"
+   ]
+  },
+  {
+   "id": "S8CA00028",
+   "office": "Senate CA",
+   "fec_name": "FONG EU, MARCH",
+   "member": "Vince Fong",
+   "verdict": "CONFIRMED",
+   "reason": "surname 'FONG EU' not at end of 'Vince Fong'"
+  }
+ ],
+ "suspect": [
+  {
+   "id": "H0CA03078",
+   "office": "House CA",
+   "fec_name": "BERA, AMERISH",
+   "member": "Ami Bera",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['AMERISH'] vs 'AMI' (best 0.60)"
+  },
+  {
+   "id": "H4AK00024",
+   "office": "House AK",
+   "fec_name": "BEGICH, MARGARET (PEGGE)",
+   "member": "Nick Begich",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['MARGARET', 'PEGGE'] vs 'NICK' (best 0.00)"
+  },
+  {
+   "id": "H4GA01039",
+   "office": "House GA",
+   "fec_name": "CARTER, EARL LEROY",
+   "member": "Buddy Carter",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['EARL', 'LEROY'] vs 'BUDDY' (best 0.20)"
+  },
+  {
+   "id": "H8IL04134",
+   "office": "House IL",
+   "fec_name": "GARCIA, JESUS",
+   "member": "Chuy García",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['JESUS'] vs 'CHUY' (best 0.22)"
+  },
+  {
+   "id": "H8TX06266",
+   "office": "House TX",
+   "fec_name": "ELLZEY, JOHN KEVIN SR.",
+   "member": "Jake Ellzey",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['JOHN', 'KEVIN'] vs 'JAKE' (best 0.44)"
+  },
+  {
+   "id": "H8VT01016",
+   "office": "House VT",
+   "fec_name": "SANDERS, BERNARD",
+   "member": "Bernie Sanders",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['BERNARD'] vs 'BERNIE' (best 0.62)"
+  },
+  {
+   "id": "S0FL00437",
+   "office": "Senate FL",
+   "fec_name": "BEAN, BOBBIE",
+   "member": "Aaron Bean",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['BOBBIE'] vs 'AARON' (best 0.18)"
+  },
+  {
+   "id": "S0GA00492",
+   "office": "Senate GA",
+   "fec_name": "JOHNSON, ARTHUR WAYNE",
+   "member": "Hank Johnson",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['ARTHUR', 'WAYNE'] vs 'HANK' (best 0.44)"
+  },
+  {
+   "id": "S0NV00153",
+   "office": "Senate NV",
+   "fec_name": "TITUS, ROBIN LEE MD",
+   "member": "Dina Titus",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['ROBIN', 'LEE'] vs 'DINA' (best 0.44)"
+  },
+  {
+   "id": "S0TX00381",
+   "office": "Senate TX",
+   "fec_name": "GARCIA, ANNE",
+   "member": "Sylvia Garcia",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['ANNE'] vs 'SYLVIA' (best 0.20)"
+  },
+  {
+   "id": "S2CA00302",
+   "office": "Senate CA",
+   "fec_name": "MATSUI, ROBERT T",
+   "member": "Doris Matsui",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['ROBERT', 'T'] vs 'DORIS' (best 0.18)"
+  },
+  {
+   "id": "S2OH00501",
+   "office": "Senate OH",
+   "fec_name": "TAYLOR, CHAD A",
+   "member": "David Taylor",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['CHAD', 'A'] vs 'DAVID' (best 0.44)"
+  },
+  {
+   "id": "S4FL00223",
+   "office": "Senate FL",
+   "fec_name": "CASTOR, BETTY",
+   "member": "Kathy Castor",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['BETTY'] vs 'KATHY' (best 0.40)"
+  },
+  {
+   "id": "S4IL00339",
+   "office": "Senate IL",
+   "fec_name": "DURBIN, JEFFREY WILLIAM",
+   "member": "Dick Durbin",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['JEFFREY', 'WILLIAM'] vs 'DICK' (best 0.18)"
+  },
+  {
+   "id": "S4VT00033",
+   "office": "Senate VT",
+   "fec_name": "SANDERS, BERNARD",
+   "member": "Bernie Sanders",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['BERNARD'] vs 'BERNIE' (best 0.62)"
+  },
+  {
+   "id": "S6CA00691",
+   "office": "Senate CA",
+   "fec_name": "SANCHEZ, LORETTA",
+   "member": "Linda Sánchez",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['LORETTA'] vs 'LINDA' (best 0.33)"
+  },
+  {
+   "id": "S6GA00374",
+   "office": "Senate GA",
+   "fec_name": "CARTER, EARL LEROY",
+   "member": "Buddy Carter",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['EARL', 'LEROY'] vs 'BUDDY' (best 0.20)"
+  },
+  {
+   "id": "S6IL00482",
+   "office": "Senate IL",
+   "fec_name": "KRISHNAMOORTHI, S",
+   "member": "Raja Krishnamoorthi",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['S'] vs 'RAJA' (best 0.00)"
+  },
+  {
+   "id": "S6NJ00073",
+   "office": "Senate NJ",
+   "fec_name": "NORCROSS, DAVID F",
+   "member": "Donald Norcross",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['DAVID', 'F'] vs 'DONALD' (best 0.55)"
+  },
+  {
+   "id": "S8AK00090",
+   "office": "Senate AK",
+   "fec_name": "BEGICH, MARK",
+   "member": "Nick Begich",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['MARK'] vs 'NICK' (best 0.25)"
+  },
+  {
+   "id": "S8AL00282",
+   "office": "Senate AL",
+   "fec_name": "FIGURES, VIVIAN DAVIS",
+   "member": "Shomari Figures",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['VIVIAN', 'DAVIS'] vs 'SHOMARI' (best 0.33)"
+  },
+  {
+   "id": "S8GA00057",
+   "office": "Senate GA",
+   "fec_name": "BISHOP, BILL (UNREG)",
+   "member": "Sanford Bishop",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['BILL', 'UNREG'] vs 'SANFORD' (best 0.33)"
+  },
+  {
+   "id": "S8WA00020",
+   "office": "Senate WA",
+   "fec_name": "SMITH, DOUGLAS J",
+   "member": "Adam Smith",
+   "verdict": "SUSPECT",
+   "reason": "surname matches but given names ['DOUGLAS', 'J'] vs 'ADAM' (best 0.36)"
+  }
+ ],
+ "needs_review": [
+  "Mike Collins",
+  "Ashley Hinson",
+  "Nick LaLota",
+  "Dave Joyce",
+  "Bobby Scott",
+  "Amata Coleman Radewagen",
+  "Pablo Hernández",
+  "Bob Good"
+ ],
+ "proposals": {
+  "Mike Collins": [],
+  "Ashley Hinson": [
+   {
+    "id": "S6IA00314",
+    "fec_name": "ARENHOLZ, ASHLEY HINSON",
+    "office": "Senate",
+    "state": "IA",
+    "district": "00",
+    "years": [
+     2026
+    ],
+    "name_verdict": "mismatch"
+   },
+   {
+    "id": "H0IA01174",
+    "fec_name": "ARENHOLZ, ASHLEY HINSON",
+    "office": "House",
+    "state": "IA",
+    "district": "02",
+    "years": [
+     2022,
+     2024,
+     2026
+    ],
+    "name_verdict": "mismatch"
+   }
+  ],
+  "Nick LaLota": [
+   {
+    "id": "H2NY01190",
+    "fec_name": "NICK, LALOTA",
+    "office": "House",
+    "state": "NY",
+    "district": "01",
+    "years": [
+     2022,
+     2024,
+     2026
+    ],
+    "name_verdict": "mismatch"
+   }
+  ],
+  "Dave Joyce": [],
+  "Bobby Scott": [
+   {
+    "id": "H6GA02115",
+    "fec_name": "SCOTT, BOBBY L.",
+    "office": "House",
+    "state": "GA",
+    "district": "02",
+    "years": [
+     2016
+    ],
+    "name_verdict": "ok"
+   }
+  ],
+  "Amata Coleman Radewagen": [],
+  "Pablo Hernández": [
+   {
+    "id": "H4PR01010",
+    "fec_name": "HERNANDEZ RIVERA, PABLO JOSE",
+    "office": "House",
+    "state": "PR",
+    "district": "00",
+    "years": [
+     2024,
+     2028
+    ],
+    "name_verdict": "mismatch"
+   }
+  ],
+  "Bob Good": [
+   {
+    "id": "H0CA18100",
+    "fec_name": "GOODWYN, BOB",
+    "office": "House",
+    "state": "CA",
+    "district": "18",
+    "years": [
+     2020
+    ],
+    "name_verdict": "mismatch"
+   }
+  ]
+ },
+ "lookup_failed": [
+  "H8MD01023"
+ ],
+ "committed": false
+}

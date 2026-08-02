@@ -3219,7 +3219,9 @@
   "all_candidate_ids": [
    "H2AL03032"
   ],
-  "committees": [],
+  "committees": [
+   "C00367862"
+  ],
   "source": "FEC_v7",
   "total_raised": "",
   "aipac": 1033286,
@@ -4283,7 +4285,9 @@
   "all_candidate_ids": [
    "H2CA36439"
   ],
-  "committees": [],
+  "committees": [
+   "C00502575"
+  ],
   "source": "FEC_v7",
   "total_raised": "",
   "aipac": 220069,
@@ -10798,7 +10802,10 @@
   "all_candidate_ids": [
    "H8OH05036"
   ],
-  "committees": [],
+  "committees": [
+   "C00221689",
+   "C00438697"
+  ],
   "source": "FEC_v7",
   "total_raised": "",
   "aipac": 75397,
@@ -14843,7 +14850,9 @@
   "all_candidate_ids": [
    "H4LA06211"
   ],
-  "committees": [],
+  "committees": [
+   "C00868513"
+  ],
   "source": "FEC_v7",
   "total_raised": "",
   "aipac": 0,
@@ -16890,7 +16899,9 @@
   ],
   "committees": [
    "C00639096",
-   "C00720375"
+   "C00720375",
+   "C00954974",
+   "C00903518"
   ],
   "source": "FEC_v7",
   "total_raised": 6780067,
@@ -17493,6 +17504,10 @@
    "S6NJ00271"
   ],
   "committees": [
+   "C00703058",
+   "C00763250",
+   "C00702738",
+   "C00775650",
    "C00410365"
   ],
   "source": "FEC_v7",
@@ -17827,6 +17842,7 @@
   ],
   "committees": [
    "C00849844",
+   "C00856633",
    "C00857805"
   ],
   "source": "FEC_v7",
@@ -18360,6 +18376,7 @@
    "S6NC00415"
   ],
   "committees": [
+   "C00909416",
    "C00913996"
   ],
   "race": "NC-Sen 2026",

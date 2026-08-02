@@ -3406,10 +3406,10 @@
   "small_dollar_pct": 8.8,
   "ie_support_total": 0,
   "ie_oppose_total": 0,
-  "individual_total": 10964239,
-  "pac_total": 4092815,
-  "party_total": 41132,
-  "pac_pct": 27
+  "individual_total": 201459,
+  "pac_total": 63647,
+  "party_total": 0,
+  "pac_pct": 24
  },
  "David Schweikert": {
   "candidate_id": "H4AZ06045",
@@ -3912,10 +3912,10 @@
   "small_dollar_pct": 12.1,
   "ie_support_total": 3380,
   "ie_oppose_total": 140000,
-  "individual_total": 5190698,
-  "pac_total": 8582927,
+  "individual_total": 5078345,
+  "pac_total": 8563927,
   "party_total": 633,
-  "pac_pct": 62
+  "pac_pct": 63
  },
  "Adelita Grijalva": {
   "candidate_id": "H6AZ07121",
@@ -5310,7 +5310,7 @@
   "small_dollar_pct": 1.5,
   "ie_support_total": 1414614,
   "ie_oppose_total": 0,
-  "individual_total": 2307210,
+  "individual_total": 2307120,
   "pac_total": 2339400,
   "party_total": 5000,
   "pac_pct": 50
@@ -5579,10 +5579,10 @@
   "small_dollar_pct": 16.1,
   "ie_support_total": 25511,
   "ie_oppose_total": 0,
-  "individual_total": 22509444,
-  "pac_total": 6140129,
-  "party_total": 6703,
-  "pac_pct": 21
+  "individual_total": 6334561,
+  "pac_total": 5245275,
+  "party_total": 0,
+  "pac_pct": 45
  },
  "Laurel Lee": {
   "candidate_id": "H2FL15241",
@@ -6115,9 +6115,9 @@
   "ie_support_total": 112807,
   "ie_oppose_total": 1073807,
   "individual_total": 1729987,
-  "pac_total": 545981,
+  "pac_total": 524261,
   "party_total": 6000,
-  "pac_pct": 24
+  "pac_pct": 23
  },
  "Mike Collins": {
   "candidate_id": "H0GA03017",
@@ -9225,7 +9225,7 @@
   "small_dollar_pct": 13.4,
   "ie_support_total": 1497094,
   "ie_oppose_total": 8693317,
-  "individual_total": 8954939,
+  "individual_total": 8931902,
   "pac_total": 7107107,
   "party_total": 33980,
   "pac_pct": 44
@@ -12698,12 +12698,12 @@
   "grassroots_small": 5498846,
   "grassroots_itemized": 7040852,
   "small_dollar_pct": 43.9,
-  "ie_support_total": 11690425,
-  "ie_oppose_total": 7584388,
-  "individual_total": 162616987,
-  "pac_total": 7558168,
-  "party_total": 36937,
-  "pac_pct": 4
+  "ie_support_total": 2130803,
+  "ie_oppose_total": 1606238,
+  "individual_total": 12539698,
+  "pac_total": 2603670,
+  "party_total": 23300,
+  "pac_pct": 17
  },
  "Veronica Escobar": {
   "candidate_id": "H8TX16109",
@@ -13071,10 +13071,10 @@
   "small_dollar_pct": 7.5,
   "ie_support_total": 719804,
   "ie_oppose_total": 0,
-  "individual_total": 1637038,
+  "individual_total": 1622355,
   "pac_total": 3237363,
   "party_total": 4433,
-  "pac_pct": 66
+  "pac_pct": 67
  },
  "Jasmine Crockett": {
   "candidate_id": "H2TX30178",
@@ -14286,10 +14286,10 @@
   "small_dollar_pct": 18.8,
   "ie_support_total": 3958427,
   "ie_oppose_total": 15653241,
-  "individual_total": 11026988,
-  "pac_total": 2649343,
+  "individual_total": 9502897,
+  "pac_total": 2497470,
   "party_total": 25688,
-  "pac_pct": 19
+  "pac_pct": 21
  },
  "Lateefah Simon": {
   "candidate_id": "H4CA12154",
@@ -14585,10 +14585,10 @@
   "small_dollar_pct": 2.3,
   "ie_support_total": 683993,
   "ie_oppose_total": 0,
-  "individual_total": 2426315,
+  "individual_total": 2202121,
   "pac_total": 1766837,
   "party_total": 0,
-  "pac_pct": 42
+  "pac_pct": 45
  },
  "Lauren Boebert": {
   "candidate_id": "H0CO03165",
@@ -16253,10 +16253,10 @@
   "small_dollar_pct": 21.2,
   "ie_support_total": 2630457,
   "ie_oppose_total": 86475,
-  "individual_total": 2659266,
-  "pac_total": 1481182,
+  "individual_total": 2366268,
+  "pac_total": 1444199,
   "party_total": 5468,
-  "pac_pct": 36
+  "pac_pct": 38
  },
  "Steny Hoyer": {
   "candidate_id": "H2MD05155",
@@ -16491,10 +16491,10 @@
   "small_dollar_pct": 9.5,
   "ie_support_total": 378182,
   "ie_oppose_total": 750,
-  "individual_total": 7586667,
-  "pac_total": 11157427,
+  "individual_total": 4723862,
+  "pac_total": 10755341,
   "party_total": 590,
-  "pac_pct": 60
+  "pac_pct": 69
  },
  "Nanette Barragán": {
   "candidate_id": "H6CA44103",
@@ -16722,12 +16722,12 @@
   "grassroots_small": 557158,
   "grassroots_itemized": 3976033,
   "small_dollar_pct": 12.3,
-  "ie_support_total": 31578631,
-  "ie_oppose_total": 195368481,
-  "individual_total": 170668865,
-  "pac_total": 15911873,
-  "party_total": 142644,
-  "pac_pct": 9
+  "ie_support_total": 2878410,
+  "ie_oppose_total": 355498,
+  "individual_total": 4533191,
+  "pac_total": 2649749,
+  "party_total": 2700,
+  "pac_pct": 37
  },
  "Elise Stefanik": {
   "candidate_id": "H4NY21079",
@@ -16858,10 +16858,10 @@
   "grassroots_small": 67634715,
   "grassroots_itemized": 83208281,
   "small_dollar_pct": 44.8,
-  "ie_support_total": 11910907,
-  "ie_oppose_total": 5990435,
-  "individual_total": 150843002,
-  "pac_total": 5149498,
+  "ie_support_total": 9559622,
+  "ie_oppose_total": 5978150,
+  "individual_total": 150077290,
+  "pac_total": 4954498,
   "party_total": 13637,
   "pac_pct": 3
  },
@@ -17171,7 +17171,7 @@
   "small_dollar_pct": 21.6,
   "ie_support_total": 1573,
   "ie_oppose_total": 0,
-  "individual_total": 1590074,
+  "individual_total": 1588799,
   "pac_total": 4485376,
   "party_total": 1917,
   "pac_pct": 74
@@ -17843,9 +17843,9 @@
   "small_dollar_pct": 8.8,
   "ie_support_total": 10071,
   "ie_oppose_total": 0,
-  "individual_total": 8057218,
-  "pac_total": 9032339,
-  "party_total": 49096,
+  "individual_total": 8041035,
+  "pac_total": 9032325,
+  "party_total": 47749,
   "pac_pct": 53
  },
  "Gabe Evans": {

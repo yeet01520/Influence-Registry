@@ -19,7 +19,7 @@
     "H6MI18022"
    ],
    "member_candidates": [
-    "S8MI00372"
+    "H2MI10150"
    ]
   },
   {
@@ -45,6 +45,28 @@
    ]
   },
   {
+   "committee": "C00150227",
+   "member": "Bobby Scott",
+   "cmt_name": "BOWDEN FOR CONGRESS",
+   "cmt_candidates": [
+    "H2VA10026"
+   ],
+   "member_candidates": [
+    "H6VA01117"
+   ]
+  },
+  {
+   "committee": "C00182758",
+   "member": "Nick Begich",
+   "cmt_name": "BEGICH FOR CONGRESS COMMITTEE",
+   "cmt_candidates": [
+    "H4AK00024"
+   ],
+   "member_candidates": [
+    "H2AK01083"
+   ]
+  },
+  {
    "committee": "C00194480",
    "member": "Andrew Clyde",
    "cmt_name": "GARRETT FOR SENATE CAMPAIGN COMMITTEE",
@@ -53,6 +75,17 @@
    ],
    "member_candidates": [
     "H0GA09246"
+   ]
+  },
+  {
+   "committee": "C00203075",
+   "member": "Nick Begich",
+   "cmt_name": "BEGICH FOR CONGRESS/1986",
+   "cmt_candidates": [
+    "H4AK00024"
+   ],
+   "member_candidates": [
+    "H2AK01083"
    ]
   },
   {
@@ -89,6 +122,17 @@
    ]
   },
   {
+   "committee": "C00239269",
+   "member": "Mike Collins",
+   "cmt_name": "FRIENDS OF PAUL BROUN",
+   "cmt_candidates": [
+    "H0GA03017"
+   ],
+   "member_candidates": [
+    "H4GA10071"
+   ]
+  },
+  {
    "committee": "C00250282",
    "member": "Doris Matsui",
    "cmt_name": "MATSUI FOR SENATE COMMITTEE",
@@ -122,14 +166,72 @@
    ]
   },
   {
-   "committee": "C00435974",
-   "member": "Andy Harris",
-   "cmt_name": "ANDY HARRIS FOR CONGRESS",
+   "committee": "C00259754",
+   "member": "Mike Collins",
+   "cmt_name": "FRIENDS OF PAUL BROUN '92",
    "cmt_candidates": [
-    "H8MD01094"
+    "H0GA03017"
    ],
    "member_candidates": [
-    "H8MD01023"
+    "H4GA10071"
+   ]
+  },
+  {
+   "committee": "C00301697",
+   "member": "Mike Collins",
+   "cmt_name": "PAUL BROUN FOR U S SENATE",
+   "cmt_candidates": [
+    "S6GA00101"
+   ],
+   "member_candidates": [
+    "H4GA10071"
+   ]
+  },
+  {
+   "committee": "C00351742",
+   "member": "Tom Kean Jr.",
+   "cmt_name": "KEAN FOR CONGRESS",
+   "cmt_candidates": [
+    "H0NJ07089"
+   ],
+   "member_candidates": [
+    "H0NJ07261",
+    "S6NJ00271"
+   ]
+  },
+  {
+   "committee": "C00364810",
+   "member": "Keith Self",
+   "cmt_name": "KEITH SELF ELECTION COMMITTEE",
+   "cmt_candidates": [
+    "H2TX00064"
+   ],
+   "member_candidates": [
+    "H2TX03290"
+   ]
+  },
+  {
+   "committee": "C00392175",
+   "member": "Dick Durbin",
+   "cmt_name": "DURBIN FOR SENATE",
+   "cmt_candidates": [
+    "S4IL00339"
+   ],
+   "member_candidates": [
+    "H2IL20026",
+    "S6IL00151"
+   ]
+  },
+  {
+   "committee": "C00432955",
+   "member": "Mike Collins",
+   "cmt_name": "PAUL BROUN COMMITTEE",
+   "cmt_candidates": [
+    "H8GA10049",
+    "S6GA00101"
+   ],
+   "member_candidates": [
+    "H4GA10071"
    ]
   },
   {
@@ -151,7 +253,19 @@
     "S8AK00090"
    ],
    "member_candidates": [
-    "H4AK00024"
+    "H2AK01083"
+   ]
+  },
+  {
+   "committee": "C00457929",
+   "member": "Tom Kean Jr.",
+   "cmt_name": "FRIENDS OF TOM KEAN",
+   "cmt_candidates": [
+    "H0NJ07089"
+   ],
+   "member_candidates": [
+    "H0NJ07261",
+    "S6NJ00271"
    ]
   },
   {
@@ -162,7 +276,7 @@
     "S8AK00090"
    ],
    "member_candidates": [
-    "H4AK00024"
+    "H2AK01083"
    ]
   },
   {
@@ -184,7 +298,7 @@
     "S0NH00235"
    ],
    "member_candidates": [
-    "H4PA03117"
+    "H0PA03271"
    ]
   },
   {
@@ -199,6 +313,17 @@
    ]
   },
   {
+   "committee": "C00481101",
+   "member": "Rick Allen",
+   "cmt_name": "RICK ALLEN FOR CONGRESS",
+   "cmt_candidates": [
+    "H0GA02241"
+   ],
+   "member_candidates": [
+    "H2GA12121"
+   ]
+  },
+  {
    "committee": "C00492785",
    "member": "Monica De La Cruz",
    "cmt_name": "TED CRUZ FOR SENATE",
@@ -210,6 +335,39 @@
    ]
   },
   {
+   "committee": "C00505065",
+   "member": "Glenn Ivey",
+   "cmt_name": "GLENN IVEY FOR CONGRESS",
+   "cmt_candidates": [
+    "H2MD04232"
+   ],
+   "member_candidates": [
+    "H2MD04315"
+   ]
+  },
+  {
+   "committee": "C00506790",
+   "member": "Rick Allen",
+   "cmt_name": "RICK ALLEN FOR CONGRESS 2012",
+   "cmt_candidates": [
+    "H0GA02241"
+   ],
+   "member_candidates": [
+    "H2GA12121"
+   ]
+  },
+  {
+   "committee": "C00507368",
+   "member": "Dave Joyce",
+   "cmt_name": "BEATTY FOR CONGRESS",
+   "cmt_candidates": [
+    "H2OH03125"
+   ],
+   "member_candidates": [
+    "H2OH14064"
+   ]
+  },
+  {
    "committee": "C00578344",
    "member": "Linda Sánchez",
    "cmt_name": "LORETTA SANCHEZ FOR SENATE",
@@ -218,6 +376,28 @@
    ],
    "member_candidates": [
     "H2CA39078"
+   ]
+  },
+  {
+   "committee": "C00651208",
+   "member": "John James",
+   "cmt_name": "JOHN JAMES FOR SENATE, INC.",
+   "cmt_candidates": [
+    "S8MI00372"
+   ],
+   "member_candidates": [
+    "H2MI10150"
+   ]
+  },
+  {
+   "committee": "C00705756",
+   "member": "John James",
+   "cmt_name": "MICHIGAN SENATE REPUBLICAN NOMINEE FUND - JOHN JAMES",
+   "cmt_candidates": [
+    "S8MI00372"
+   ],
+   "member_candidates": [
+    "H2MI10150"
    ]
   },
   {
@@ -240,6 +420,61 @@
    ],
    "member_candidates": [
     "H8TX29052"
+   ]
+  },
+  {
+   "committee": "C00791293",
+   "member": "Keith Self",
+   "cmt_name": "SELF FOR CONGRESS",
+   "cmt_candidates": [
+    "H2TX00064"
+   ],
+   "member_candidates": [
+    "H2TX03290"
+   ]
+  },
+  {
+   "committee": "C00792283",
+   "member": "Glenn Ivey",
+   "cmt_name": "GLENN F. IVEY FOR CONGRESS",
+   "cmt_candidates": [
+    "H2MD04232"
+   ],
+   "member_candidates": [
+    "H2MD04315"
+   ]
+  },
+  {
+   "committee": "C00806547",
+   "member": "Laura Gillen",
+   "cmt_name": "GILLEN FOR CONGRESS",
+   "cmt_candidates": [
+    "H2NY04244"
+   ],
+   "member_candidates": [
+    "H4NY04158"
+   ]
+  },
+  {
+   "committee": "C00836569",
+   "member": "Bobby Scott",
+   "cmt_name": "PARKINSON FOR SENATE",
+   "cmt_candidates": [
+    "S4VA00312"
+   ],
+   "member_candidates": [
+    "H6VA01117"
+   ]
+  },
+  {
+   "committee": "C00840165",
+   "member": "Laura Gillen",
+   "cmt_name": "GILLEN FOR NY",
+   "cmt_candidates": [
+    "H2NY04244"
+   ],
+   "member_candidates": [
+    "H4NY04158"
    ]
   },
   {
@@ -276,8 +511,16 @@
  ],
  "unlinked": [],
  "needs_review": [
-  "Andy Harris",
+  "John James",
+  "Bobby Scott",
+  "Nick Begich",
+  "Mike Collins",
+  "Keith Self",
   "Mike Kelly",
+  "Rick Allen",
+  "Glenn Ivey",
+  "Dave Joyce",
+  "Laura Gillen",
   "Josh Turek"
  ],
  "lookup_failed": [],

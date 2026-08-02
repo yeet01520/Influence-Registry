@@ -1,0 +1,70 @@
+name: Add Missing Candidate IDs
+
+# Adds official FEC candidate IDs that are missing from a member's
+# all_candidate_ids, verified at runtime against legislators-current.json.
+# Only ADDS; never removes an id and never changes a primary.
+#
+# WHY: validate_data.py found members whose grassroots and individual_total
+# disagreed wildly. Roger Marshall was at 7.49x because his Senate committee
+# was on file but his Senate candidate ID was not, so the committee side
+# counted the candidacy and the candidate side did not.
+#
+# Presidential IDs are excluded and reported rather than added: folding a
+# presidential campaign into a congressional member's career totals is a
+# methodology decision, not a data fix.
+#
+# ORDER AFTER THIS:
+#   1. Rebuild Committees From FEC        commit=true
+#   2. Fix Committee IDs and Refresh Totals  commit=true refresh=true
+#   3. Refresh PAC vs Individual Split    commit=true resume=false
+#   4. Validate Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit:
+        description: 'Write changes to data/fec.json? ("true" to commit, anything else = dry run)'
+        required: false
+        default: 'false'
+
+jobs:
+  add-missing-ids:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Read from the environment, not a shell comparison against
+      # ${{ github.event.inputs.* }}, which does not evaluate reliably in a
+      # run block.
+      - name: Add missing candidate IDs
+        env:
+          COMMIT_INPUT: ${{ github.event.inputs.commit }}
+        run: python3 scripts/add_missing_candidate_ids.py
+
+      - name: Commit updated data
+        if: ${{ always() }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f data/fec.json.addids.bak data/fec.json.tmp
+          git add data/fec.json
+          echo "--- staged ---"
+          git status --short
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Add missing official FEC candidate IDs"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi

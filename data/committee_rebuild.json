@@ -1,240 +1,294 @@
 {
  "changed": [
   {
-   "member": "Mike Rogers",
-   "before": [],
+   "member": "Roger Marshall",
+   "before": [
+    "C00576173"
+   ],
    "after": [
-    "C00367862"
+    "C00576173",
+    "C00705814"
    ],
    "added": [
     {
-     "id": "C00367862",
-     "name": "MIKE ROGERS FOR CONGRESS"
+     "id": "C00705814",
+     "name": "KANSAS SENATE REPUBLICAN NOMINEE FUND - ROGER MARSHALL"
     }
    ],
    "removed": [],
    "dropped_not_own": [
     {
-     "id": "C00452946",
-     "name": "2008 ROMP III",
-     "designation": "Joint fundraising committee"
-    },
-    {
-     "id": "C00548487",
-     "name": "MIKE ROGERS VICTORY",
-     "designation": "Joint fundraising committee"
-    },
-    {
-     "id": "C00610055",
-     "name": "MIKE ROGERS VICTORY",
-     "designation": "Joint fundraising committee"
-    }
-   ]
-  },
-  {
-   "member": "Raul Ruiz",
-   "before": [],
-   "after": [
-    "C00502575"
-   ],
-   "added": [
-    {
-     "id": "C00502575",
-     "name": "DR. RAUL RUIZ FOR CONGRESS"
-    }
-   ],
-   "removed": [],
-   "dropped_not_own": [
-    {
-     "id": "C00887588",
-     "name": "DEMOCRATS VOTE",
+     "id": "C00632323",
+     "name": "DEFEND OUR CONSERVATIVE SENATE PAC (DOC'S PAC)",
      "designation": "Leadership PAC"
-    },
-    {
-     "id": "C00525402",
-     "name": "RUIZ VICTORY FUND",
-     "designation": "Joint fundraising committee"
     }
    ]
   },
   {
-   "member": "Bob Latta",
-   "before": [],
+   "member": "Bill Cassidy",
+   "before": [
+    "C00543983"
+   ],
    "after": [
-    "C00221689",
-    "C00438697"
+    "C00543983",
+    "C00451807"
    ],
    "added": [
     {
-     "id": "C00221689",
-     "name": "BOB LATTA FOR CONGRESS COMMITTEE"
-    },
-    {
-     "id": "C00438697",
-     "name": "LATTA FOR CONGRESS"
+     "id": "C00451807",
+     "name": "BILL CASSIDY FOR CONGRESS"
     }
    ],
    "removed": [],
    "dropped_not_own": [
     {
-     "id": "C00528091",
-     "name": "2012 JORDAN-LATTA-VICTORY COMMITTEE",
+     "id": "C00701243",
+     "name": "2019 SENATORS CLASSIC COMMITTEE",
      "designation": "Joint fundraising committee"
     },
     {
-     "id": "C00438820",
-     "name": "OH-5 CONGRESSIONAL VICTORY COMMITTEE",
+     "id": "C00565556",
+     "name": "BARRASSO CASSIDY VICTORY COMMITTEE",
      "designation": "Joint fundraising committee"
     },
     {
-     "id": "C00459131",
-     "name": "TWO FOR NORTHWEST OHIO",
+     "id": "C00568451",
+     "name": "CASSIDY FOR SENATE VICTORY COMMITTEE",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00552703",
+     "name": "CASSIDY PALAZZO VICTORY FUND",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00568055",
+     "name": "CASSIDY PERDUE SULLIVAN TILLIS VICTORY FUND (CPST VICTORY FUND)",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00563783",
+     "name": "CASSIDY ROUNDS VICTORY COMMITTEE",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00564203",
+     "name": "CASSIDY VICTORY",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00547554",
+     "name": "CASSIDY VICTORY COMMITTEE",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00695353",
+     "name": "DEFEND THE SENATE",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00563858",
+     "name": "FOUNDERS SENATE CANDIDATE COMMITTEE",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00563130",
+     "name": "GOP VICTORY FUND 2014",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00566661",
+     "name": "SIX IN '14 FUND",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00477091",
+     "name": "BOUSTANY-CASSIDY HEALTHCARE COMMITTEE",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00458562",
+     "name": "HOUSE REPUBLICAN FRESHMEN 2009",
      "designation": "Joint fundraising committee"
     }
    ]
   },
   {
-   "member": "Cleo Fields",
-   "before": [],
-   "after": [
-    "C00868513"
-   ],
-   "added": [
-    {
-     "id": "C00868513",
-     "name": "CLEO FIELDS FOR CONGRESS"
-    }
-   ],
-   "removed": [],
-   "dropped_not_own": []
-  },
-  {
-   "member": "Barry Moore",
+   "member": "Kevin Cramer",
    "before": [
-    "C00639096",
-    "C00720375"
+    "C00504704",
+    "C00305003",
+    "C00337287"
    ],
    "after": [
-    "C00639096",
-    "C00720375",
-    "C00954974",
-    "C00903518"
+    "C00504704",
+    "C00305003",
+    "C00337287",
+    "C00474569"
    ],
    "added": [
     {
-     "id": "C00954974",
-     "name": "BARRY MOORE FOR SENATE"
-    },
-    {
-     "id": "C00903518",
-     "name": "MOORE FOR AL SENATE REPUBLICAN NOMINEE FUND 2026"
-    }
-   ],
-   "removed": [],
-   "dropped_not_own": []
-  },
-  {
-   "member": "Tom Kean Jr.",
-   "before": [
-    "C00410365"
-   ],
-   "after": [
-    "C00703058",
-    "C00763250",
-    "C00702738",
-    "C00775650",
-    "C00410365"
-   ],
-   "added": [
-    {
-     "id": "C00703058",
-     "name": "KEAN FOR CONGRESS INC"
-    },
-    {
-     "id": "C00763250",
-     "name": "KEAN FOR CONGRESS RECOUNT FUND"
-    },
-    {
-     "id": "C00702738",
-     "name": "KEAN FOR NJ-07"
-    },
-    {
-     "id": "C00775650",
-     "name": "KEAN FOR NJ-07 2022"
+     "id": "C00474569",
+     "name": "CRAMER FOR CONGRESS"
     }
    ],
    "removed": [],
    "dropped_not_own": [
     {
-     "id": "C00429837",
-     "name": "2006 FINISH LINE CANDIDATE FUND",
+     "id": "C00689471",
+     "name": "FOUNDERS COMMITTEE; THE",
      "designation": "Joint fundraising committee"
     },
     {
-     "id": "C00428474",
-     "name": "2006 OPEN SEAT AND CHALLENGER FUND",
+     "id": "C00684548",
+     "name": "KEEP THE MAJORITY",
      "designation": "Joint fundraising committee"
     },
     {
-     "id": "C00423665",
-     "name": "2006 SENATORS CLASSIC COMMITTEE",
+     "id": "C00683029",
+     "name": "KEEP THE SENATE RED 2018",
      "designation": "Joint fundraising committee"
     },
     {
-     "id": "C00423749",
-     "name": "GOOD GOVERNMENT FUND",
+     "id": "C00652081",
+     "name": "PROTECTING THE MAJORITY COMMITTEE",
      "designation": "Joint fundraising committee"
     },
     {
-     "id": "C00429142",
-     "name": "GOP MAJORITY FUND 2006",
+     "id": "C00686105",
+     "name": "TEAM CRAMER ND",
      "designation": "Joint fundraising committee"
     },
     {
-     "id": "C00426916",
-     "name": "KEAN MAJORITY COMMITTEE",
+     "id": "C00686741",
+     "name": "WINSOME LEADERS II",
      "designation": "Joint fundraising committee"
     },
     {
-     "id": "C00425702",
-     "name": "KEAN-NJ VICTORY 06",
+     "id": "C00565861",
+     "name": "CRAMER VICTORY FUND",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00525360",
+     "name": "YOUNG GUNS 2012 ROUND 3",
      "designation": "Joint fundraising committee"
     }
    ]
   },
   {
-   "member": "Gabe Evans",
+   "member": "Peter Welch",
    "before": [
-    "C00849844",
-    "C00857805"
+    "C00795252",
+    "C00413179"
    ],
    "after": [
-    "C00849844",
-    "C00856633",
-    "C00857805"
+    "C00795252",
+    "C00413179",
+    "C00216721"
    ],
    "added": [
     {
-     "id": "C00856633",
-     "name": "EVANS FOR CO-08 REPUBLICAN NOMINEE FUND 2024"
+     "id": "C00216721",
+     "name": "WELCH FOR CONGRESS COMMITTEE"
     }
    ],
    "removed": [],
-   "dropped_not_own": []
+   "dropped_not_own": [
+    {
+     "id": "C00428482",
+     "name": "SEND BERNIE AND PETER TO WASHINGTON 2006",
+     "designation": "Joint fundraising committee"
+    }
+   ]
   },
   {
-   "member": "Michael Whatley",
+   "member": "Tom McClintock",
    "before": [
-    "C00913996"
+    "C00446815"
    ],
    "after": [
-    "C00909416",
-    "C00913996"
+    "C00446815",
+    "C00235671",
+    "C00235663",
+    "C00263095",
+    "C00197467"
    ],
    "added": [
     {
-     "id": "C00909416",
-     "name": "WHATLEY FOR NC SENATE REPUBLICAN NOMINEE FUND 2026"
+     "id": "C00235671",
+     "name": "FRIENDS OF MCCLINTOCK COMMITTEE"
+    },
+    {
+     "id": "C00235663",
+     "name": "MCCLINTOCK COMMITTEE"
+    },
+    {
+     "id": "C00263095",
+     "name": "MCCLINTOCK FOR ASSEMBLY/AUTHORIZED COMMITTEE"
+    },
+    {
+     "id": "C00197467",
+     "name": "MCCLINTOCK FOR CONGRESS COMMITTEE"
+    }
+   ],
+   "removed": [],
+   "dropped_not_own": [
+    {
+     "id": "C00458562",
+     "name": "HOUSE REPUBLICAN FRESHMEN 2009",
+     "designation": "Joint fundraising committee"
+    }
+   ]
+  },
+  {
+   "member": "Mark Harris",
+   "before": [
+    "C00850404",
+    "C00545434"
+   ],
+   "after": [
+    "C00850404",
+    "C00545434",
+    "C00613281",
+    "C00649236"
+   ],
+   "added": [
+    {
+     "id": "C00613281",
+     "name": "MARK HARRIS FOR CONGRESS"
+    },
+    {
+     "id": "C00649236",
+     "name": "MARK HARRIS FOR CONGRESS"
+    }
+   ],
+   "removed": [],
+   "dropped_not_own": [
+    {
+     "id": "C00875880",
+     "name": "AMERICA'S AWAKENING PAC",
+     "designation": "Leadership PAC"
+    }
+   ]
+  },
+  {
+   "member": "John McGuire",
+   "before": [
+    "C00727594",
+    "C00856831",
+    "C00900118"
+   ],
+   "after": [
+    "C00727594",
+    "C00856831",
+    "C00900118",
+    "C00793505"
+   ],
+   "added": [
+    {
+     "id": "C00793505",
+     "name": "JOHN MCGUIRE FOR VIRGINIA"
     }
    ],
    "removed": [],
@@ -271,6 +325,6 @@
    "reason": "FEC returned no authorized committees"
   }
  ],
- "unchanged_count": 538,
+ "unchanged_count": 539,
  "committed": true
 }

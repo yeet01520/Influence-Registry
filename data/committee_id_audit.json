@@ -510,16 +510,153 @@
   }
  ],
  "unlinked": [],
+ "repaired": [
+  {
+   "member": "John James",
+   "removed": [
+    "C00047621",
+    "C00651208",
+    "C00705756"
+   ],
+   "added": [
+    {
+     "id": "C00798694",
+     "name": "JAMES FOR MI-10"
+    },
+    {
+     "id": "C00803502",
+     "name": "JOHN JAMES FOR CONGRESS, INC."
+    }
+   ]
+  },
+  {
+   "member": "Bobby Scott",
+   "removed": [
+    "C00150227",
+    "C00836569"
+   ],
+   "added": [
+    {
+     "id": "C00204669",
+     "name": "BOBBY SCOTT FOR CONGRESS"
+    },
+    {
+     "id": "C00256925",
+     "name": "SCOTT FOR CONGRESS"
+    }
+   ]
+  },
+  {
+   "member": "Nick Begich",
+   "removed": [
+    "C00182758",
+    "C00203075",
+    "C00446260",
+    "C00458059"
+   ],
+   "added": [
+    {
+     "id": "C00792341",
+     "name": "ALASKANS FOR NICK BEGICH"
+    },
+    {
+     "id": "C00856617",
+     "name": "BEGICH FOR AK-AL REPUBLICAN NOMINEE FUND 2024"
+    }
+   ]
+  },
+  {
+   "member": "Mike Collins",
+   "removed": [
+    "C00239269",
+    "C00259754",
+    "C00301697",
+    "C00432955"
+   ],
+   "added": [
+    {
+     "id": "C00544684",
+     "name": "MIKE COLLINS FOR SENATE"
+    }
+   ]
+  },
+  {
+   "member": "Mike Kelly",
+   "removed": [
+    "C00464297"
+   ],
+   "added": [
+    {
+     "id": "C00493577",
+     "name": "GREAT EIGHT COMMITTEE"
+    },
+    {
+     "id": "C00545806",
+     "name": "KELLY-THOMPSON VICTORY FUND"
+    },
+    {
+     "id": "C00578716",
+     "name": "KELLY-THOMPSON VICTORY FUND"
+    },
+    {
+     "id": "C00474189",
+     "name": "MIKE KELLY FOR CONGRESS"
+    },
+    {
+     "id": "C00495242",
+     "name": "PA + 5 COMMITTEE"
+    }
+   ]
+  },
+  {
+   "member": "Rick Allen",
+   "removed": [
+    "C00481101",
+    "C00506790"
+   ],
+   "added": [
+    {
+     "id": "C00504019",
+     "name": "RICK W. ALLEN FOR CONGRESS"
+    },
+    {
+     "id": "C00565457",
+     "name": "YOUNG GUNS  DAY II 2014"
+    }
+   ]
+  },
+  {
+   "member": "Dave Joyce",
+   "removed": [
+    "C00507368"
+   ],
+   "added": [
+    {
+     "id": "C00523985",
+     "name": "(FRESHMAN HOLD'EM JFC) FRESHMAN HOLD'EM, STUTZMAN FOR CONGRESS, TOM REED FOR CONGRESS, DENHAM FOR CONGRESS, BENISHEK FOR CONGRESS, INC., RODNEY FOR CONGRESS, DUFFY FOR CONGRES, CHRIS GIBSON FOR..."
+    },
+    {
+     "id": "C00527457",
+     "name": "FRIENDS OF DAVE JOYCE"
+    },
+    {
+     "id": "C00546440",
+     "name": "JOYCE VICTORY COMMITTEE"
+    },
+    {
+     "id": "C00543975",
+     "name": "PATRIOT DAY I"
+    },
+    {
+     "id": "C00529867",
+     "name": "YOUNG GUNS 2012 ROUND 4"
+    }
+   ]
+  }
+ ],
  "needs_review": [
-  "John James",
-  "Bobby Scott",
-  "Nick Begich",
-  "Mike Collins",
   "Keith Self",
-  "Mike Kelly",
-  "Rick Allen",
   "Glenn Ivey",
-  "Dave Joyce",
   "Laura Gillen",
   "Josh Turek"
  ],

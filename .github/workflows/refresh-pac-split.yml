@@ -1,0 +1,102 @@
+name: Refresh PAC vs Individual Split (FEC)
+
+# Adds pac_total, individual_total, party_total, pac_pct, ie_support_total,
+# and ie_oppose_total to every member in data/fec.json, pulled directly from
+# the FEC API. Fixes the misleading blended sector data (e.g. Bernie Sanders
+# showing large "pharma"/"tech" totals that are actually individual donations,
+# not PAC money). Run manually from the Actions tab.
+#
+# RECOMMENDED FIRST RUN:
+#   commit = true, limit = 10
+# That proves the whole path including the write and the git push in about two
+# minutes, instead of discovering a write bug after an hour.
+#
+# THEN:
+#   commit = true, limit = (blank), resume = true
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit:
+        description: 'Write changes to data/fec.json? ("true" to commit, anything else = dry-run only)'
+        required: false
+        default: 'false'
+      limit:
+        description: 'Only process the first N members (blank = all). Use 10 for a smoke test.'
+        required: false
+        default: ''
+      resume:
+        description: 'Skip members that already have a split ("true" to resume a killed run)'
+        required: false
+        default: 'false'
+      save_every:
+        description: 'Save data/fec.json every N updated members'
+        required: false
+        default: '25'
+
+jobs:
+  refresh-pac-split:
+    runs-on: ubuntu-latest
+    # The FEC personal key is capped at 1,000 calls/hour. Worst case (if the
+    # multi-cycle probe fails and we need 6 calls per candidate) is ~3,300
+    # calls, which is over three hours of budget. 350 minutes is just under the
+    # 360 minute GitHub ceiling. The script stops itself at 330 minutes so the
+    # commit step below always gets to run.
+    timeout-minutes: 350
+    permissions:
+      contents: write     # needed so the workflow can commit the updated JSON
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run PAC/individual/IE split pull
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+          COMMIT_INPUT: ${{ github.event.inputs.commit }}
+          LIMIT_INPUT: ${{ github.event.inputs.limit }}
+          RESUME_INPUT: ${{ github.event.inputs.resume }}
+          SAVE_EVERY_INPUT: ${{ github.event.inputs.save_every }}
+        run: |
+          ARGS=""
+          if [ "$COMMIT_INPUT" = "true" ]; then
+            echo "Running in COMMIT mode."
+            ARGS="$ARGS --commit"
+          else
+            echo "Running in DRY-RUN mode (no write). Re-run with commit=true to save."
+          fi
+          if [ "$RESUME_INPUT" = "true" ]; then
+            ARGS="$ARGS --resume"
+          fi
+          if [ -n "$LIMIT_INPUT" ]; then
+            ARGS="$ARGS --limit $LIMIT_INPUT"
+          fi
+          if [ -n "$SAVE_EVERY_INPUT" ]; then
+            ARGS="$ARGS --save-every $SAVE_EVERY_INPUT"
+          fi
+          ARGS="$ARGS --max-minutes 330"
+          echo "Args: $ARGS"
+          python3 scripts/fetch_pac_individual_split.py $ARGS
+
+      # always() so that a budget abort (exit 2) or an early stop (exit 3)
+      # still commits whatever the incremental saves already put on disk.
+      # The job still shows red, but the work is not thrown away.
+      - name: Commit updated data
+        if: ${{ always() && github.event.inputs.commit == 'true' }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fec.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Add FEC PAC/individual/IE split to fec.json (auto)"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi

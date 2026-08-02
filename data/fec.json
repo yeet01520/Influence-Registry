@@ -240,7 +240,8 @@
  "Tom Cotton": {
   "candidate_id": "S4AR00103",
   "all_candidate_ids": [
-   "S4AR00103"
+   "S4AR00103",
+   "H2AR04083"
   ],
   "committees": [
    "C00705939",
@@ -852,7 +853,8 @@
  "Jim Banks": {
   "candidate_id": "S4IN00196",
   "all_candidate_ids": [
-   "S4IN00196"
+   "S4IN00196",
+   "H6IN03229"
   ],
   "committees": [
    "C00829416",
@@ -991,7 +993,8 @@
  "Roger Marshall": {
   "candidate_id": "H6KS01179",
   "all_candidate_ids": [
-   "H6KS01179"
+   "H6KS01179",
+   "S0KS00315"
   ],
   "committees": [
    "C00576173"
@@ -1093,7 +1096,8 @@
  "Bill Cassidy": {
   "candidate_id": "S4LA00107",
   "all_candidate_ids": [
-   "S4LA00107"
+   "S4LA00107",
+   "H8LA00017"
   ],
   "committees": [
    "C00543983"
@@ -2115,7 +2119,8 @@
   "candidate_id": "S8ND00120",
   "all_candidate_ids": [
    "S8ND00120",
-   "H6ND00074"
+   "H6ND00074",
+   "H0ND01026"
   ],
   "committees": [
    "C00504704",
@@ -2633,7 +2638,8 @@
  "John Curtis": {
   "candidate_id": "S4UT00282",
   "all_candidate_ids": [
-   "S4UT00282"
+   "S4UT00282",
+   "H8UT03238"
   ],
   "committees": [
    "C00850545",
@@ -2668,7 +2674,8 @@
   "candidate_id": "S2VT00235",
   "all_candidate_ids": [
    "S2VT00235",
-   "H6VT00160"
+   "H6VT00160",
+   "H8VT00034"
   ],
   "committees": [
    "C00795252",
@@ -3416,7 +3423,8 @@
  "David Schweikert": {
   "candidate_id": "H4AZ06045",
   "all_candidate_ids": [
-   "H4AZ06045"
+   "H4AZ06045",
+   "H8AZ05097"
   ],
   "committees": [
    "C00287672",
@@ -3822,7 +3830,8 @@
  "Tom McClintock": {
   "candidate_id": "H8CA04152",
   "all_candidate_ids": [
-   "H8CA04152"
+   "H8CA04152",
+   "H6CA21135"
   ],
   "committees": [
    "C00446815"
@@ -5559,7 +5568,8 @@
  "Kathy Castor": {
   "candidate_id": "H6FL11126",
   "all_candidate_ids": [
-   "H6FL11126"
+   "H6FL11126",
+   "H6FL11134"
   ],
   "committees": [
    "C00410761"
@@ -5826,7 +5836,8 @@
  "Lois Frankel": {
   "candidate_id": "H2FL14053",
   "all_candidate_ids": [
-   "H2FL14053"
+   "H2FL14053",
+   "H2FL22080"
   ],
   "committees": [
    "C00494856",
@@ -9233,7 +9244,8 @@
   "candidate_id": "H2NV02395",
   "all_candidate_ids": [
    "H2NV02395",
-   "S0NV00237"
+   "S0NV00237",
+   "H1NV02017"
   ],
   "committees": [
    "C00496760",
@@ -10541,7 +10553,8 @@
   "candidate_id": "H4NC08066",
   "all_candidate_ids": [
    "H4NC08066",
-   "S4NC00154"
+   "S4NC00154",
+   "H6NC09200"
   ],
   "committees": [
    "C00850404",
@@ -10974,7 +10987,8 @@
  "Michael Turner": {
   "candidate_id": "H2OH03067",
   "all_candidate_ids": [
-   "H2OH03067"
+   "H2OH03067",
+   "H2OH03091"
   ],
   "committees": [
    "C00373001"
@@ -14957,7 +14971,8 @@
  "Bob Onder": {
   "candidate_id": "H8MO09146",
   "all_candidate_ids": [
-   "H8MO09146"
+   "H8MO09146",
+   "H4MO03221"
   ],
   "committees": [
    "C00446799",
@@ -16296,7 +16311,8 @@
   "candidate_id": "H6MD07020",
   "all_candidate_ids": [
    "H6MD07020",
-   "S6MD03185"
+   "S6MD03185",
+   "H0MD07114"
   ],
   "committees": [
    "C00726372",
@@ -17211,7 +17227,8 @@
  "Bill Foster": {
   "candidate_id": "H8IL14067",
   "all_candidate_ids": [
-   "H8IL14067"
+   "H8IL14067",
+   "H2IL11124"
   ],
   "committees": [
    "C00435099"
@@ -17986,7 +18003,8 @@
  "John McGuire": {
   "candidate_id": "H0VA07133",
   "all_candidate_ids": [
-   "H0VA07133"
+   "H0VA07133",
+   "H2VA07196"
   ],
   "committees": [
    "C00727594",
@@ -18021,7 +18039,8 @@
  "Gil Cisneros": {
   "candidate_id": "H8CA39174",
   "all_candidate_ids": [
-   "H8CA39174"
+   "H8CA39174",
+   "H4CA31170"
   ],
   "committees": [
    "C00650648",

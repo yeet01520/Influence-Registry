@@ -1,0 +1,105 @@
+name: Fix Committee IDs and Refresh Totals
+
+# Two steps, in the only order that works:
+#
+#   1. audit_committee_ids.py  strips committees that FEC says belong to a
+#      different candidate. total_raised and grassroots are computed from the
+#      `committees` array, so this has to happen first.
+#   2. refresh_total_raised.py recomputes total_raised from what is left.
+#
+# WHY BOTH ARE NEEDED
+# -------------------
+# refresh_total_raised.py already resolves committees that appear under more
+# than one member, and credits only the true owner. But there are just 4 such
+# committees in the file. The larger problem is committees that sit under ONE
+# member and still belong to somebody else: Doris Matsui carrying what appears
+# to be Robert Matsui's committee, for instance. Those are never "shared", so
+# that ownership check never fires and the money is credited to the wrong
+# member. Only a per-committee lookup finds them, which is step 1.
+#
+# This matters beyond one field: the B2 score divides by total_raised, so a
+# member carrying someone else's committee has a wrong headline score.
+#
+# RECOMMENDED ORDER:
+#   1. commit = false                 read the audit findings, change nothing
+#   2. commit = true, refresh = false apply the strips, check the diff
+#   3. commit = true, refresh = true  recompute totals
+#
+# Doing all three at once works too, but step 2 is where a bad strip would be
+# easiest to spot before it propagates into the money figures.
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit:
+        description: 'Write changes to data/fec.json? ("true" to commit, anything else = report only)'
+        required: false
+        default: 'false'
+      refresh:
+        description: 'Also recompute total_raised after stripping? ("true" to run)'
+        required: false
+        default: 'false'
+      limit:
+        description: 'Only check the first N committees (blank = all). Use 40 for a smoke test.'
+        required: false
+        default: ''
+
+jobs:
+  fix-committees:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Inputs are read from the environment by the script itself. Do not move
+      # them into a shell comparison: ${{ github.event.inputs.* }} does not
+      # evaluate reliably inside a run block.
+      - name: Audit committee ownership
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+          COMMIT_INPUT: ${{ github.event.inputs.commit }}
+          LIMIT_INPUT: ${{ github.event.inputs.limit }}
+        run: python3 scripts/audit_committee_ids.py
+
+      # continue-on-error above is not used, but the audit exits 3 on a
+      # report-only run that found problems, so this step is gated on the
+      # inputs rather than on job status.
+      - name: Recompute total_raised
+        if: ${{ always() && github.event.inputs.commit == 'true' && github.event.inputs.refresh == 'true' }}
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python3 scripts/refresh_total_raised.py
+
+      - name: Commit updated data
+        if: ${{ always() }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f data/fec.json.committees.bak data/fec.json.tmp data/fec.json.progress
+          git add data/fec.json data/committee_id_audit.json
+          echo "--- staged ---"
+          git status --short
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Committee ownership audit and total_raised refresh"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
+
+      - name: Upload findings
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: committee-id-audit
+          path: data/committee_id_audit.json

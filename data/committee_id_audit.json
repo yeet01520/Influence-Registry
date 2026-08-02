@@ -520,14 +520,15 @@
    ],
    "added": [
     {
-     "id": "C00798694",
-     "name": "JAMES FOR MI-10"
-    },
-    {
      "id": "C00803502",
      "name": "JOHN JAMES FOR CONGRESS, INC."
+    },
+    {
+     "id": "C00798694",
+     "name": "JAMES FOR MI-10"
     }
-   ]
+   ],
+   "skipped_not_own": []
   },
   {
    "member": "Bobby Scott",
@@ -544,7 +545,8 @@
      "id": "C00256925",
      "name": "SCOTT FOR CONGRESS"
     }
-   ]
+   ],
+   "skipped_not_own": []
   },
   {
    "member": "Nick Begich",
@@ -563,7 +565,8 @@
      "id": "C00856617",
      "name": "BEGICH FOR AK-AL REPUBLICAN NOMINEE FUND 2024"
     }
-   ]
+   ],
+   "skipped_not_own": []
   },
   {
    "member": "Mike Collins",
@@ -578,7 +581,8 @@
      "id": "C00544684",
      "name": "MIKE COLLINS FOR SENATE"
     }
-   ]
+   ],
+   "skipped_not_own": []
   },
   {
    "member": "Mike Kelly",
@@ -587,24 +591,30 @@
    ],
    "added": [
     {
+     "id": "C00474189",
+     "name": "MIKE KELLY FOR CONGRESS"
+    }
+   ],
+   "skipped_not_own": [
+    {
      "id": "C00493577",
-     "name": "GREAT EIGHT COMMITTEE"
+     "name": "GREAT EIGHT COMMITTEE",
+     "designation": "Joint fundraising committee"
     },
     {
      "id": "C00545806",
-     "name": "KELLY-THOMPSON VICTORY FUND"
+     "name": "KELLY-THOMPSON VICTORY FUND",
+     "designation": "Joint fundraising committee"
     },
     {
      "id": "C00578716",
-     "name": "KELLY-THOMPSON VICTORY FUND"
-    },
-    {
-     "id": "C00474189",
-     "name": "MIKE KELLY FOR CONGRESS"
+     "name": "KELLY-THOMPSON VICTORY FUND",
+     "designation": "Joint fundraising committee"
     },
     {
      "id": "C00495242",
-     "name": "PA + 5 COMMITTEE"
+     "name": "PA + 5 COMMITTEE",
+     "designation": "Joint fundraising committee"
     }
    ]
   },
@@ -618,10 +628,13 @@
     {
      "id": "C00504019",
      "name": "RICK W. ALLEN FOR CONGRESS"
-    },
+    }
+   ],
+   "skipped_not_own": [
     {
      "id": "C00565457",
-     "name": "YOUNG GUNS  DAY II 2014"
+     "name": "YOUNG GUNS  DAY II 2014",
+     "designation": "Joint fundraising committee"
     }
    ]
   },
@@ -632,24 +645,30 @@
    ],
    "added": [
     {
-     "id": "C00523985",
-     "name": "(FRESHMAN HOLD'EM JFC) FRESHMAN HOLD'EM, STUTZMAN FOR CONGRESS, TOM REED FOR CONGRESS, DENHAM FOR CONGRESS, BENISHEK FOR CONGRESS, INC., RODNEY FOR CONGRESS, DUFFY FOR CONGRES, CHRIS GIBSON FOR..."
-    },
-    {
      "id": "C00527457",
      "name": "FRIENDS OF DAVE JOYCE"
+    }
+   ],
+   "skipped_not_own": [
+    {
+     "id": "C00523985",
+     "name": "(FRESHMAN HOLD'EM JFC) FRESHMAN HOLD'EM, STUTZMAN FOR CONGRESS, TOM REED FOR CONGRESS, DENHAM FOR CONGRESS, BENISHEK FOR CONGRESS, INC., RODNEY FOR CONGRESS, DUFFY FOR CONGRES, CHRIS GIBSON FOR...",
+     "designation": "Joint fundraising committee"
     },
     {
      "id": "C00546440",
-     "name": "JOYCE VICTORY COMMITTEE"
+     "name": "JOYCE VICTORY COMMITTEE",
+     "designation": "Joint fundraising committee"
     },
     {
      "id": "C00543975",
-     "name": "PATRIOT DAY I"
+     "name": "PATRIOT DAY I",
+     "designation": "Joint fundraising committee"
     },
     {
      "id": "C00529867",
-     "name": "YOUNG GUNS 2012 ROUND 4"
+     "name": "YOUNG GUNS 2012 ROUND 4",
+     "designation": "Joint fundraising committee"
     }
    ]
   }

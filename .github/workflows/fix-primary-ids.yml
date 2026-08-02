@@ -1,0 +1,72 @@
+name: Fix Primary Candidate IDs
+
+# Replaces 13 wrong PRIMARY candidate IDs in data/fec.json with the official
+# ones from unitedstates/congress-legislators.
+#
+# RUN THIS BEFORE "Fix Committee IDs and Refresh Totals". The committee audit
+# decides ownership by intersecting a committee's authorized candidates with
+# the member's candidate IDs. If the candidate ID is itself wrong, a committee
+# belonging to that same wrong person agrees with it and passes. Dave Joyce
+# holds both Joyce Beatty's candidate ID and her committee, so the two
+# corroborate each other and nothing looks broken until the ID is fixed.
+#
+# No FEC API key needed. The script fetches the official legislator file
+# directly and refuses to apply anything it cannot verify against it.
+#
+# FULL ORDER FROM HERE:
+#   1. Fix Primary Candidate IDs        (this one)
+#   2. Fix Committee IDs and Refresh Totals, commit=true refresh=true
+#   3. Refresh PAC vs Individual Split, commit=true resume=false
+#   4. The grassroots / v7 refresh
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit:
+        description: 'Write changes to data/fec.json? ("true" to commit, anything else = dry run)'
+        required: false
+        default: 'false'
+
+jobs:
+  fix-primary-ids:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Read from the environment, not from a shell comparison against
+      # ${{ github.event.inputs.* }}, which does not evaluate reliably inside
+      # a run block.
+      - name: Fix primary candidate IDs
+        env:
+          COMMIT_INPUT: ${{ github.event.inputs.commit }}
+        run: python3 scripts/fix_primary_candidate_ids.py
+
+      # always(), because the script exits 3 when it refuses a correction and
+      # a refusal should not discard the ones it did apply.
+      - name: Commit updated data
+        if: ${{ always() }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f data/fec.json.primaryids.bak data/fec.json.tmp
+          git add data/fec.json
+          echo "--- staged ---"
+          git status --short
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Correct 13 wrong primary candidate IDs from official legislator data"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi

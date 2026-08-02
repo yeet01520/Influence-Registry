@@ -1,0 +1,59 @@
+name: Validate Data
+
+# Runs scripts/validate_data.py against data/fec.json and fails when the file
+# contains values that cannot be true.
+#
+# WHY IT RUNS AUTOMATICALLY
+# Every serious error in this dataset so far was found by accident, weeks after
+# it started rendering on the site. The FEC double-count was caught by a guard
+# in an unrelated script. Contaminated candidate IDs were caught by that same
+# guard. Wrong primary IDs were only found by comparing against an official
+# roster on a hunch. A transparency site's only asset is that its numbers are
+# right, so the checks run on every change to the data rather than waiting for
+# someone to get suspicious.
+#
+# ERRORS fail the run: contributions exceeding receipts, a stored percentage
+# that disagrees with its own components, a roster member with no record.
+# WARNINGS do not fail it: two sources disagreeing, missing committees, records
+# for non-incumbent candidates. That split keeps the check meaningful instead
+# of permanently red and therefore ignored.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/fec.json'
+      - 'data/senate.json'
+      - 'data/house.json'
+      - 'scripts/validate_data.py'
+  workflow_dispatch:
+  schedule:
+    # Weekly, so a problem introduced by an outside data source rather than by
+    # a commit still surfaces on its own.
+    - cron: '0 13 * * 1'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate fec.json
+        run: python3 scripts/validate_data.py
+
+      # always(), because the findings file is most worth keeping precisely
+      # when the run failed.
+      - name: Upload findings
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-audit
+          path: data/data_audit.json

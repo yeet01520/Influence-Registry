@@ -1,0 +1,72 @@
+name: Strip Reviewed Candidate IDs
+
+# Applies the hand-reviewed removals listed inside
+# scripts/strip_reviewed_ids.py to data/fec.json.
+#
+# These are the SUSPECT findings from Audit Candidate IDs, where the surname
+# matches the member but the given name does not. That bucket is ambiguous by
+# nature, because many members file under a legal name they do not go by, so
+# the audit reports them and a human decides. This applies that decision.
+#
+# Almost all of them turned out to be relatives: Doris Matsui carrying Robert
+# Matsui, Kathy Castor carrying Betty Castor, Linda Sanchez carrying Loretta
+# Sanchez, Shomari Figures carrying Vivian Davis Figures.
+#
+# No API calls, so it finishes in seconds. Every removal is cross-checked
+# against data/candidate_id_audit.json before it is applied.
+#
+# AFTER THIS: re-run "Refresh PAC vs Individual Split" and the sector refresh.
+# Removing an ID does not recompute money that is already stored.
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit:
+        description: 'Write changes to data/fec.json? ("true" to commit, anything else = dry run)'
+        required: false
+        default: 'false'
+
+jobs:
+  strip-reviewed-ids:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # The script reads COMMIT_INPUT from the environment itself. Do not move
+      # this into a shell comparison: ${{ github.event.inputs.* }} does not
+      # evaluate reliably inside a run block, which silently turned four
+      # earlier commit runs into dry runs.
+      - name: Strip reviewed IDs
+        env:
+          COMMIT_INPUT: ${{ github.event.inputs.commit }}
+        run: python3 scripts/strip_reviewed_ids.py
+
+      # always(), because the script exits 3 if it refuses any removal, and a
+      # refusal should not throw away the removals it did apply.
+      - name: Commit updated data
+        if: ${{ always() }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f data/fec.json.stripreviewed.bak data/fec.json.tmp
+          git add data/fec.json
+          echo "--- staged ---"
+          git status --short
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Strip reviewed contaminated candidate IDs from fec.json"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi

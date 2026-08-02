@@ -1,0 +1,94 @@
+name: Audit Candidate IDs (FEC)
+
+# Checks every candidate_id / all_candidate_ids entry in data/fec.json against
+# the name the FEC has registered for that ID, and reports (or removes) IDs
+# that belong to somebody else.
+#
+# Background: fec.json had IDs filed under the wrong member because whatever
+# built those lists matched on a single name token. Confirmed cases include
+# Monica De La Cruz holding Ted Cruz's Senate ID and Dave Joyce holding Joyce
+# Beatty's House ID. Wrong IDs silently import a stranger's money.
+#
+# RECOMMENDED ORDER:
+#   1. commit = false            report only, read the findings
+#   2. commit = true             strip only the CONFIRMED entries
+#   3. re-run Refresh PAC vs Individual Split, and your sector refresh,
+#      because removing an ID does not recompute the money already stored.
+#
+# ~650 lookups, roughly 6 to 10 minutes.
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit:
+        description: 'Write changes to data/fec.json? ("true" to commit, anything else = report only)'
+        required: false
+        default: 'false'
+      limit:
+        description: 'Only check the first N candidate IDs (blank = all). Use 40 for a smoke test.'
+        required: false
+        default: ''
+
+jobs:
+  audit-candidate-ids:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # The script reads COMMIT_INPUT / LIMIT_INPUT from the environment
+      # itself, so there is no shell arg-building step that can silently
+      # change the mode. The log prints which values it resolved.
+      - name: Run candidate ID audit
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+          COMMIT_INPUT: ${{ github.event.inputs.commit }}
+          LIMIT_INPUT: ${{ github.event.inputs.limit }}
+        run: python3 scripts/audit_candidate_ids.py
+
+      # always(), because a report-only run that finds contamination exits 3
+      # on purpose so the run shows red. The findings file should still be
+      # committed and the artifact should still upload in that case.
+      #
+      # Both files are staged UNCONDITIONALLY. An earlier version gated
+      # `git add data/fec.json` on a shell comparison against
+      # ${{ github.event.inputs.commit }}, which does not evaluate correctly
+      # inside a run block. The result: the script wrote fec.json, the add
+      # skipped it, and `git rebase` aborted with "You have unstaged changes"
+      # so nothing was ever pushed. Staging both is safe either way, because
+      # in report-only mode fec.json is untouched and git stages nothing for
+      # it. That interpolation is only trustworthy in an `if:` expression,
+      # which is where it is still used above.
+      - name: Commit results
+        if: ${{ always() }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f data/fec.json.idaudit.bak data/fec.json.tmp
+          git add data/fec.json data/candidate_id_audit.json
+          echo "--- staged ---"
+          git status --short
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Candidate ID audit: findings and any confirmed-wrong ID strips"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
+
+      - name: Upload findings
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: candidate-id-audit
+          path: data/candidate_id_audit.json

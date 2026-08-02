@@ -1,0 +1,90 @@
+name: Rebuild Committees From FEC
+
+# Rewrites every member's `committees` array to exactly the committees FEC
+# authorizes for their candidate IDs, keeping principal (P) and authorized (A)
+# committees and dropping joint fundraising committees and leadership PACs.
+#
+# WHY
+# validate_data.py compares two independent measures of the same quantity:
+# `grassroots` (summed from the stored committees) and `individual_total`
+# (from the FEC candidate totals endpoint). 63 members disagree by more than
+# 10%, and the direction splits them cleanly:
+#
+#   53 have individual_total larger  -> stored committee list is incomplete.
+#      Jack Reed has two candidate IDs and one committee on file.
+#   10 have grassroots larger        -> a joint fundraising committee is in
+#      the array. Roger Marshall's single committee raises 7.5x what FEC
+#      attributes to his candidacy, which is what a JFC looks like.
+#
+# Rebuilding from FEC's own list adds what is missing and drops what does not
+# belong, in one pass.
+#
+# ORDER:
+#   1. this workflow, commit = false     read the diff
+#   2. this workflow, commit = true      apply
+#   3. Fix Committee IDs and Refresh Totals, commit = true refresh = true
+#   4. Refresh PAC vs Individual Split, commit = true resume = false
+#   5. Validate Data                     confirm the 63 dropped
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit:
+        description: 'Write changes to data/fec.json? ("true" to commit, anything else = report only)'
+        required: false
+        default: 'false'
+      limit:
+        description: 'Only process the first N members (blank = all). Use 25 for a smoke test.'
+        required: false
+        default: ''
+
+jobs:
+  rebuild-committees:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Inputs are read from the environment by the script itself. Do not move
+      # them into a shell comparison: ${{ github.event.inputs.* }} does not
+      # evaluate reliably inside a run block.
+      - name: Rebuild committees
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+          COMMIT_INPUT: ${{ github.event.inputs.commit }}
+          LIMIT_INPUT: ${{ github.event.inputs.limit }}
+        run: python3 scripts/rebuild_committees.py
+
+      - name: Commit updated data
+        if: ${{ always() }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f data/fec.json.rebuild.bak data/fec.json.tmp
+          git add data/fec.json data/committee_rebuild.json
+          echo "--- staged ---"
+          git status --short
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Rebuild committees array from FEC authorized list"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
+
+      - name: Upload findings
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: committee-rebuild
+          path: data/committee_rebuild.json

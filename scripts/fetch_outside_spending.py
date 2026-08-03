@@ -1,39 +1,74 @@
 #!/usr/bin/env python3
 """
 fetch_outside_spending.py
+=========================
+The ONE script for outside spending. Replaces both the old
+fetch_outside_spending.py and resolve_committee_names.py.
 
-Fetches Schedule E (independent expenditures) data from the FEC API for every
-member in data/fec.json, aggregates per-member totals (supporting vs opposing)
-and the top spenders, and writes the result to data/outside_spending.json.
+Writes data/outside_spending.json and nothing else. No .before_names,
+.before_v2 or .before_v3 side files: those exist because each past fix was a
+separate pass that patched the JSON in place and left a backup behind. All of
+those passes are folded in here, so one run produces the finished file and git
+history is the only backup needed.
 
-Schedule E captures Super PAC and outside-group spending that supports or opposes
-a candidate but is NOT coordinated with the candidate's campaign. This is where
-the big-money influence often lives (Thiel's $15M to Vance via Protect Ohio Values,
-Bloomberg's spending for various Dems, Senate Leadership Fund, etc.) - none of
-which appears in the candidate's own committee receipts.
-
-Output schema per member:
+OUTPUT, PER MEMBER
+------------------
 {
-  "candidate_ids_used": ["S2OH00436", ...],
-  "total_supporting": 15234567,
-  "total_opposing": 234567,
-  "cycles": [2022, 2024],
-  "top_supporters": [
-    {"committee_id": "C00...", "committee_name": "Protect Ohio Values", "amount": 15000000},
-    ...
-  ],
-  "top_opposers": [
-    {"committee_id": "C00...", "committee_name": "Senate Majority PAC", "amount": 234567},
-    ...
-  ],
-  "fetched_at": "2026-05-07T..."
+  "candidate_ids_used": ["S4OH00192"],
+  "total_supporting":  69832691,
+  "total_opposing":    85641468,
+  "cycles":            [2024, 2026],
+  "top_supporters":    [{"committee_id", "committee_name", "amount"}, ...],
+  "top_opposers":      [...],
+  "fetched_at":        "2026-..."
 }
 
-Designed to mirror refresh_total_raised.py:
-- Same retry/backoff pattern
-- Checkpoints every 25 members to a sidecar file
-- Resumes if killed mid-run (skips members already in checkpoint)
-- Tuned for upgraded FEC API quota (7,200/hour)
+THE THREE BUGS THIS EXISTS NOT TO REPEAT
+----------------------------------------
+1. CURRENT CYCLE ONLY.
+   The schedule_e endpoints default to the current two-year period when given
+   no cycle filter. That is how this file came to report $924,425 of outside
+   spending on Bernie Moreno while FEC attributes $155.9M to his candidacy,
+   and how Thom Tillis fell from $146.9M to $1.4M. Every request below names
+   its cycle explicitly.
+
+2. NOTICE DOUBLE-COUNTING.
+   Raw Schedule E carries 24- and 48-hour notice filings later superseded by
+   the full report, so summing every row counts that money twice. Totals come
+   from schedule_e/by_candidate, FEC's own aggregation; the detail endpoint is
+   queried with is_notice=false and de-duplicated on sub_id.
+
+3. "Unknown" COMMITTEE NAMES.
+   Schedule E rows do not reliably carry committee_name, which is why a
+   separate resolve_committee_names.py pass ran afterwards. Names are resolved
+   inline from /committee/{id}/ through a run-wide cache, so a committee shared
+   by fifty members costs one lookup.
+
+WHY TOTALS AND RANKINGS USE DIFFERENT ENDPOINTS
+-----------------------------------------------
+by_candidate gives correct totals but no committee breakdown. The detail
+endpoint gives the breakdown but is easy to over-count. So totals come from
+by_candidate, and detail rows are used ONLY to rank who spent the most. If the
+detail pull is incomplete the list is shorter; the totals stay right.
+
+Useful consequence: these totals match ie_support_total / ie_oppose_total in
+fec.json by construction, since that field is built from the same endpoint. The
+member profile and the At-a-Glance chart therefore cannot disagree, which is
+the discrepancy that prompted this rewrite.
+
+RESUME
+------
+Checkpoints every SAVE_EVERY members and skips members already recorded, so a
+killed run picks up where it stopped. For a CLEAN rebuild delete both
+data/outside_spending.json.progress and data/outside_spending.json first.
+Merging a fresh run into an existing file is what left 339 entries on the
+narrow window while 214 kept career-wide data.
+
+USAGE
+-----
+  export FEC_API_KEY="..."
+  python3 scripts/fetch_outside_spending.py
+  python3 scripts/fetch_outside_spending.py --limit 10    # smoke test
 """
 
 import json
@@ -46,18 +81,28 @@ from urllib.parse import urlencode
 import urllib.request
 import urllib.error
 
-# ---------- Tunables (mirror refresh_total_raised.py) ----------
-SLEEP_BETWEEN_CALLS = 0.6   # seconds; 6,000/hr safely under 7,200 limit
-SAVE_EVERY          = 25    # checkpoint every N members
+# ---------- Tunables ----------
+SLEEP_BETWEEN_CALLS = 0.6    # 6,000/hr, safely under the 7,200 upgraded limit
+SAVE_EVERY          = 25     # checkpoint every N members
 MAX_RETRIES         = 5
-RATE_LIMIT_WAIT     = 30    # seconds
-TOP_N_SPENDERS      = 5     # how many top supporters/opposers to keep per member
+RATE_LIMIT_WAIT     = 30     # seconds
+TOP_N_SPENDERS      = 5
+CYCLES              = [2018, 2020, 2022, 2024, 2026]
 
 API_BASE   = "https://api.open.fec.gov/v1"
 DATA_DIR   = Path(__file__).resolve().parent.parent / "data"
 FEC_FILE   = DATA_DIR / "fec.json"
 OUT_FILE   = DATA_DIR / "outside_spending.json"
 PROG_FILE  = DATA_DIR / "outside_spending.json.progress"
+
+LIMIT = None
+if "--limit" in sys.argv:
+    _i = sys.argv.index("--limit")
+    if _i + 1 < len(sys.argv) and sys.argv[_i + 1].isdigit():
+        LIMIT = int(sys.argv[_i + 1])
+
+_NAME_CACHE = {}
+_STATS = {"calls": 0, "name_lookups": 0, "name_cache_hits": 0}
 
 
 def get_api_key():
@@ -68,188 +113,161 @@ def get_api_key():
 
 
 def fec_get(path, params, api_key):
-    """GET from FEC API with retries. Returns parsed JSON or None on failure."""
+    """GET from the FEC API with retries. Returns parsed JSON or None."""
     params = {**params, "api_key": api_key}
     url = f"{API_BASE}{path}?{urlencode(params)}"
     for attempt in range(1, MAX_RETRIES + 1):
         try:
+            _STATS["calls"] += 1
             req = urllib.request.Request(url, headers={"User-Agent": "InfluenceRegistry/1.0"})
-            with urllib.request.urlopen(req, timeout=30) as resp:
-                return json.loads(resp.read().decode("utf-8"))
+            with urllib.request.urlopen(req, timeout=40) as resp:
+                return json.loads(resp.read())
         except urllib.error.HTTPError as e:
             if e.code == 429:
-                # Rate limited; wait longer
                 wait = RATE_LIMIT_WAIT * attempt
-                print(f"      rate-limited (429), sleep {wait}s...", flush=True)
+                print(f"      rate limited (429), waiting {wait}s", flush=True)
                 time.sleep(wait)
-                continue
-            if 500 <= e.code < 600:
-                print(f"      HTTP {e.code} on attempt {attempt}, retry...", flush=True)
-                time.sleep(2 * attempt)
-                continue
-            # 4xx other than 429: don't retry, candidate may not exist
-            print(f"      HTTP {e.code} (not retrying): {url[:100]}", flush=True)
-            return None
-        except (urllib.error.URLError, TimeoutError) as e:
-            print(f"      network error attempt {attempt}: {e}, retry...", flush=True)
-            time.sleep(2 * attempt)
-        except Exception as e:
-            print(f"      unexpected error attempt {attempt}: {e}", flush=True)
-            time.sleep(2 * attempt)
-    print(f"      FAILED after {MAX_RETRIES} attempts", flush=True)
+            elif e.code in (400, 404, 422):
+                return None
+            elif attempt < MAX_RETRIES:
+                time.sleep(2 ** attempt)
+            else:
+                print(f"      FAILED after {MAX_RETRIES} attempts: HTTP {e.code}", flush=True)
+                return None
+        except Exception:
+            if attempt < MAX_RETRIES:
+                time.sleep(2 ** attempt)
+            else:
+                return None
     return None
 
 
-def fetch_outside_spending_for_candidate(cand_id, api_key):
+def committee_name(cid, fallback, api_key):
     """
-    Fetch all Schedule E records for a candidate and aggregate by:
-    - support vs oppose totals
-    - top spending committees in each direction
-    - cycles covered
-    
-    Uses the schedule_e endpoint with candidate_id_checked filter.
-    Paginates through all results.
+    Resolve a committee's display name, cached for the whole run.
+
+    Schedule E often omits committee_name, which is why a separate pass used to
+    run afterwards and leave a .before_names backup. Doing it here costs one
+    lookup per committee for the entire file rather than one per member.
     """
-    by_committee_support = {}  # committee_id -> {name, amount}
-    by_committee_oppose  = {}
-    total_support = 0
-    total_oppose  = 0
+    if fallback and fallback != "Unknown":
+        return fallback
+    if not cid:
+        return "Unknown"
+    if cid in _NAME_CACHE:
+        _STATS["name_cache_hits"] += 1
+        return _NAME_CACHE[cid] or "Unknown"
+    _STATS["name_lookups"] += 1
+    data = fec_get(f"/committee/{cid}/", {}, api_key)
+    res = (data or {}).get("results") or []
+    name = (res[0].get("name") or res[0].get("committee_name")) if res else None
+    _NAME_CACHE[cid] = name
+    time.sleep(SLEEP_BETWEEN_CALLS)
+    return name or "Unknown"
+
+
+def candidate_totals(cand_id, api_key):
+    """Authoritative support/oppose totals. Returns (support, oppose, cycles)."""
+    support = oppose = 0.0
     cycles_seen = set()
-    
-    page = 1
-    while True:
-        params = {
-            "candidate_id": cand_id,
-            "per_page": 100,
-            "page": page,
-            "sort": "-expenditure_date",
-        }
-        data = fec_get("/schedules/schedule_e/", params, api_key)
-        if not data or "results" not in data:
-            break
-        
-        results = data["results"]
-        if not results:
-            break
-        
-        for r in results:
-            amt = r.get("expenditure_amount") or 0
+    for cycle in CYCLES:
+        data = fec_get("/schedules/schedule_e/by_candidate/",
+                       {"candidate_id": cand_id, "cycle": cycle, "per_page": 100}, api_key)
+        for r in ((data or {}).get("results") or []):
+            amt = float(r.get("total") or 0)
             if amt <= 0:
                 continue
-            so = (r.get("support_oppose_indicator") or "").upper()
-            cid = r.get("committee_id")
-            cname = r.get("committee", {}).get("name") if isinstance(r.get("committee"), dict) else None
-            cname = cname or r.get("committee_name") or "Unknown"
-            cycle = r.get("election_cycle") or r.get("report_year")
-            if cycle:
-                cycles_seen.add(int(cycle))
-            
-            if so == "S":
-                total_support += amt
-                if cid:
-                    if cid not in by_committee_support:
-                        by_committee_support[cid] = {"name": cname, "amount": 0}
-                    by_committee_support[cid]["amount"] += amt
-            elif so == "O":
-                total_oppose += amt
-                if cid:
-                    if cid not in by_committee_oppose:
-                        by_committee_oppose[cid] = {"name": cname, "amount": 0}
-                    by_committee_oppose[cid]["amount"] += amt
-        
-        # Pagination check
-        pagination = data.get("pagination", {})
-        pages = pagination.get("pages", 1)
-        if page >= pages:
-            break
-        page += 1
+            cycles_seen.add(cycle)
+            if (r.get("support_oppose_indicator") or "").upper() == "O":
+                oppose += amt
+            else:
+                support += amt
         time.sleep(SLEEP_BETWEEN_CALLS)
-    
-    # Build top-N lists, sorted by amount desc
-    top_support = sorted(
-        [{"committee_id": cid, "committee_name": v["name"], "amount": int(v["amount"])}
-         for cid, v in by_committee_support.items()],
-        key=lambda x: x["amount"], reverse=True
-    )[:TOP_N_SPENDERS]
-    top_oppose = sorted(
-        [{"committee_id": cid, "committee_name": v["name"], "amount": int(v["amount"])}
-         for cid, v in by_committee_oppose.items()],
-        key=lambda x: x["amount"], reverse=True
-    )[:TOP_N_SPENDERS]
-    
-    return {
-        "total_supporting": int(total_support),
-        "total_opposing": int(total_oppose),
-        "cycles": sorted(cycles_seen),
-        "top_supporters": top_support,
-        "top_opposers": top_oppose,
-    }
+    return support, oppose, cycles_seen
 
 
-def fetch_member_outside_spending(name, fec_record, api_key):
-    """Aggregate outside spending across all of a member's candidate IDs."""
-    cand_ids = fec_record.get("all_candidate_ids") or [fec_record.get("candidate_id")]
+def candidate_top_spenders(cand_id, api_key):
+    """Rank the committees behind the spending. Detail rows only, never totals."""
+    sup, opp = {}, {}
+    seen = set()
+    for cycle in CYCLES:
+        page = 1
+        while True:
+            data = fec_get("/schedules/schedule_e/", {
+                "candidate_id": cand_id, "cycle": cycle, "is_notice": "false",
+                "per_page": 100, "page": page, "sort": "-expenditure_date",
+            }, api_key)
+            results = (data or {}).get("results") or []
+            if not results:
+                break
+            for r in results:
+                amt = r.get("expenditure_amount") or 0
+                if amt <= 0:
+                    continue
+                row = r.get("sub_id") or "|".join(str(r.get(k)) for k in
+                        ("transaction_id", "committee_id", "expenditure_date", "expenditure_amount"))
+                if row in seen:
+                    continue
+                seen.add(row)
+                cid = r.get("committee_id")
+                if not cid:
+                    continue
+                raw = r.get("committee", {}).get("name") if isinstance(r.get("committee"), dict) else None
+                raw = raw or r.get("committee_name")
+                bucket = opp if (r.get("support_oppose_indicator") or "").upper() == "O" else sup
+                if cid not in bucket:
+                    bucket[cid] = {"name": raw, "amount": 0}
+                bucket[cid]["amount"] += amt
+                if raw and raw != "Unknown" and not bucket[cid]["name"]:
+                    bucket[cid]["name"] = raw
+            pagination = (data or {}).get("pagination") or {}
+            if page >= (pagination.get("pages") or 1):
+                break
+            page += 1
+            time.sleep(SLEEP_BETWEEN_CALLS)
+        time.sleep(SLEEP_BETWEEN_CALLS)
+    return sup, opp
+
+
+def top_list(bucket, api_key):
+    top = sorted(bucket.items(), key=lambda kv: kv[1]["amount"], reverse=True)[:TOP_N_SPENDERS]
+    return [{"committee_id": cid,
+             "committee_name": committee_name(cid, v["name"], api_key),
+             "amount": int(v["amount"])} for cid, v in top]
+
+
+def fetch_member(rec, api_key):
+    cand_ids = rec.get("all_candidate_ids") or [rec.get("candidate_id")]
     cand_ids = [c for c in cand_ids if c]
     if not cand_ids:
         return None
-    
-    total_support = 0
-    total_oppose  = 0
-    all_cycles    = set()
-    merged_support = {}
-    merged_oppose  = {}
-    
+    total_s = total_o = 0.0
+    cycles = set()
+    sup_all, opp_all = {}, {}
     for cid in cand_ids:
-        result = fetch_outside_spending_for_candidate(cid, api_key)
-        if result is None:
-            continue
-        total_support += result["total_supporting"]
-        total_oppose  += result["total_opposing"]
-        all_cycles.update(result["cycles"])
-        # Merge top spenders across cand_ids
-        for entry in result["top_supporters"]:
-            cid2 = entry["committee_id"]
-            if cid2 not in merged_support:
-                merged_support[cid2] = {"name": entry["committee_name"], "amount": 0}
-            merged_support[cid2]["amount"] += entry["amount"]
-        for entry in result["top_opposers"]:
-            cid2 = entry["committee_id"]
-            if cid2 not in merged_oppose:
-                merged_oppose[cid2] = {"name": entry["committee_name"], "amount": 0}
-            merged_oppose[cid2]["amount"] += entry["amount"]
-        time.sleep(SLEEP_BETWEEN_CALLS)
-    
-    top_support = sorted(
-        [{"committee_id": cid, "committee_name": v["name"], "amount": v["amount"]}
-         for cid, v in merged_support.items()],
-        key=lambda x: x["amount"], reverse=True
-    )[:TOP_N_SPENDERS]
-    top_oppose = sorted(
-        [{"committee_id": cid, "committee_name": v["name"], "amount": v["amount"]}
-         for cid, v in merged_oppose.items()],
-        key=lambda x: x["amount"], reverse=True
-    )[:TOP_N_SPENDERS]
-    
+        s, o, cyc = candidate_totals(cid, api_key)
+        total_s += s
+        total_o += o
+        cycles |= cyc
+        sup, opp = candidate_top_spenders(cid, api_key)
+        for src, dst in ((sup, sup_all), (opp, opp_all)):
+            for k, v in src.items():
+                if k not in dst:
+                    dst[k] = {"name": v["name"], "amount": 0}
+                dst[k]["amount"] += v["amount"]
+                dst[k]["name"] = dst[k]["name"] or v["name"]
     return {
         "candidate_ids_used": cand_ids,
-        "total_supporting": total_support,
-        "total_opposing": total_oppose,
-        "cycles": sorted(all_cycles),
-        "top_supporters": top_support,
-        "top_opposers": top_oppose,
+        "total_supporting": int(round(total_s)),
+        "total_opposing": int(round(total_o)),
+        "cycles": sorted(cycles),
+        "top_supporters": top_list(sup_all, api_key),
+        "top_opposers": top_list(opp_all, api_key),
         "fetched_at": datetime.now(timezone.utc).isoformat(),
     }
 
 
 def load_progress():
-    """Load existing outside_spending.json if present (resume across workflow runs)."""
-    if OUT_FILE.exists():
-        try:
-            return json.loads(OUT_FILE.read_text())
-        except Exception as e:
-            print(f"WARN: could not parse existing {OUT_FILE.name}: {e}", flush=True)
-            return {}
-    # Fall back to sidecar file (for backwards compat with old runs)
     if PROG_FILE.exists():
         try:
             return json.loads(PROG_FILE.read_text())
@@ -259,87 +277,69 @@ def load_progress():
 
 
 def save_progress(out_data):
-    """Write checkpoint atomically to the actual output file so it gets committed."""
-    tmp = OUT_FILE.with_suffix(".tmp")
+    tmp = PROG_FILE.with_suffix(".ptmp")
     tmp.write_text(json.dumps(out_data, indent=2))
-    tmp.replace(OUT_FILE)
+    tmp.replace(PROG_FILE)
+    tmp2 = OUT_FILE.with_suffix(".jtmp")
+    tmp2.write_text(json.dumps(out_data, indent=2))
+    tmp2.replace(OUT_FILE)
 
 
 def main():
     api_key = get_api_key()
     fec_data = json.loads(FEC_FILE.read_text())
-    members = list(fec_data.keys())
+    members = [k for k in fec_data.keys() if k != "_meta"]
+    if LIMIT:
+        members = members[:LIMIT]
     print(f"Loaded {len(members)} members from {FEC_FILE.name}", flush=True)
-    
-    # Resume from progress file if present
+    print(f"Cycles: {CYCLES}", flush=True)
+
     out_data = load_progress()
-    done_count = len(out_data)
-    if done_count > 0:
-        print(f"Resuming: {done_count} members already done", flush=True)
-    
-    skipped_no_id = 0
-    fetched_now = 0
-    failed = []
-    
+    if out_data:
+        print(f"Resuming: {len(out_data)} already done. Delete {PROG_FILE.name} "
+              f"and {OUT_FILE.name} for a clean rebuild.", flush=True)
+
+    started = time.time()
+    fetched = skipped = 0
+
     for i, name in enumerate(members, 1):
         if name in out_data:
             continue
-        rec = fec_data[name]
-        cand_ids = rec.get("all_candidate_ids") or [rec.get("candidate_id")]
-        cand_ids = [c for c in cand_ids if c]
-        if not cand_ids:
-            print(f"[{i:4d}/{len(members)}] {name:<35} (no candidate_id; skip)", flush=True)
-            skipped_no_id += 1
-            out_data[name] = {
-                "candidate_ids_used": [],
-                "total_supporting": 0,
-                "total_opposing": 0,
-                "cycles": [],
-                "top_supporters": [],
-                "top_opposers": [],
-                "fetched_at": datetime.now(timezone.utc).isoformat(),
-                "note": "no candidate_id available",
-            }
-            continue
-        
-        result = fetch_member_outside_spending(name, rec, api_key)
+        result = fetch_member(fec_data[name], api_key)
         if result is None:
-            print(f"[{i:4d}/{len(members)}] {name:<35} FAILED", flush=True)
-            failed.append(name)
+            print(f"[{i:4d}/{len(members)}] {name:<34} (no candidate_id; skip)", flush=True)
+            skipped += 1
+            out_data[name] = {"candidate_ids_used": [], "total_supporting": 0,
+                              "total_opposing": 0, "cycles": [], "top_supporters": [],
+                              "top_opposers": [], "note": "no candidate_id available",
+                              "fetched_at": datetime.now(timezone.utc).isoformat()}
             continue
-        
         out_data[name] = result
-        fetched_now += 1
-        sup = result["total_supporting"]
-        opp = result["total_opposing"]
-        n_top = len(result["top_supporters"])
-        print(
-            f"[{i:4d}/{len(members)}] {name:<35} "
-            f"support=${sup:>14,}  oppose=${opp:>10,}  "
-            f"top_spenders={n_top}",
-            flush=True,
-        )
-        
-        if fetched_now % SAVE_EVERY == 0:
+        fetched += 1
+        print(f"[{i:4d}/{len(members)}] {name:<34} "
+              f"support=${result['total_supporting']:>13,}  "
+              f"oppose=${result['total_opposing']:>13,}  "
+              f"cycles={result['cycles']}", flush=True)
+        if fetched % SAVE_EVERY == 0:
             save_progress(out_data)
-            print(f"      ── Saved progress ({len(out_data)} total) ──", flush=True)
-        
-        time.sleep(SLEEP_BETWEEN_CALLS)
-    
-    # Final save: write to actual output file (and clean up progress)
+            print(f"      \u2500\u2500 Saved ({len(out_data)} total, "
+                  f"{(time.time()-started)/60:.0f} min, {_STATS['calls']} calls) \u2500\u2500", flush=True)
+
     OUT_FILE.write_text(json.dumps(out_data, indent=2))
     if PROG_FILE.exists():
         PROG_FILE.unlink()
-    
+
+    unknown = sum(1 for v in out_data.values() if isinstance(v, dict)
+                  for lst in (v.get("top_supporters", []), v.get("top_opposers", []))
+                  for c in lst if c.get("committee_name") == "Unknown")
+
     print("=" * 70, flush=True)
-    print(f"Done. {len(out_data)} members in output file.", flush=True)
-    print(f"  newly fetched: {fetched_now}", flush=True)
-    print(f"  skipped (no candidate_id): {skipped_no_id}", flush=True)
-    print(f"  failed: {len(failed)}", flush=True)
-    if failed:
-        print("  failed names:", flush=True)
-        for n in failed:
-            print(f"    - {n}", flush=True)
+    print(f"Done. {len(out_data)} members in {OUT_FILE.name}.", flush=True)
+    print(f"  newly fetched: {fetched}   skipped (no candidate_id): {skipped}", flush=True)
+    print(f"  API calls: {_STATS['calls']}   committee lookups: {_STATS['name_lookups']} "
+          f"(cache hits {_STATS['name_cache_hits']})", flush=True)
+    print(f"  committees still named Unknown: {unknown}", flush=True)
+    print(f"  elapsed: {(time.time()-started)/60:.0f} min", flush=True)
 
 
 if __name__ == "__main__":

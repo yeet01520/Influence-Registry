@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-08-01T19:29:41.729400+00:00",
+    "generated_at": "2026-08-03T15:20:48.356985+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -305,7 +305,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Jon Ossoff": {
-    "pct": 14,
+    "pct": 13,
     "lbl": "Clean",
     "vto": false,
     "col": "#16a34a",
@@ -577,7 +577,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Bill Cassidy": {
-    "pct": 66,
+    "pct": 64,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
@@ -1134,7 +1134,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Sherrod Brown": {
-    "pct": 29,
+    "pct": 28,
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
@@ -1150,7 +1150,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Bernie Moreno": {
-    "pct": 75,
+    "pct": 72,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
@@ -1472,7 +1472,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Peter Welch": {
-    "pct": 86,
+    "pct": 87,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -1669,10 +1669,10 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Mike Rogers": {
-    "pct": 94,
-    "lbl": "High Risk",
+    "pct": 78,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#b91c1c",
+    "col": "#ea580c",
     "super_pac_total": 1033286,
     "any_corporate": true,
     "reasons": [
@@ -1683,7 +1683,7 @@
       "Defense",
       "Tech"
     ],
-    "score_basis": "No FEC committee totals; manual editorial score based on record."
+    "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Robert Aderholt": {
     "pct": 100,
@@ -1754,7 +1754,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Nick Begich": {
-    "pct": 52,
+    "pct": 59,
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
@@ -2050,7 +2050,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Tom McClintock": {
-    "pct": 24,
+    "pct": 28,
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
@@ -2378,10 +2378,10 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Raul Ruiz": {
-    "pct": 89,
-    "lbl": "High Risk",
+    "pct": 59,
+    "lbl": "Some Corporate",
     "vto": false,
-    "col": "#b91c1c",
+    "col": "#d97706",
     "super_pac_total": 220069,
     "any_corporate": true,
     "reasons": [
@@ -2392,7 +2392,7 @@
       "Defense",
       "Tech"
     ],
-    "score_basis": "No FEC committee totals; manual editorial score based on record."
+    "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Julia Brownley": {
     "pct": 59,
@@ -2429,7 +2429,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Jimmy Gomez": {
-    "pct": 96,
+    "pct": 98,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -2480,7 +2480,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Linda S\u00e1nchez": {
-    "pct": 95,
+    "pct": 100,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -2831,7 +2831,7 @@
     "score_basis": "No FEC committee totals; manual editorial score based on record."
   },
   "John Larson": {
-    "pct": 95,
+    "pct": 94,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -3524,7 +3524,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Andrew Clyde": {
-    "pct": 91,
+    "pct": 85,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -3541,7 +3541,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Mike Collins": {
-    "pct": 42,
+    "pct": 55,
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
@@ -3575,7 +3575,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Rick Allen": {
-    "pct": 74,
+    "pct": 70,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
@@ -3589,7 +3589,7 @@
       "Defense",
       "Tech"
     ],
-    "score_basis": "No FEC committee totals; manual editorial score based on record."
+    "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "David Scott": {
     "pct": 100,
@@ -4002,10 +4002,10 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Marlin Stutzman": {
-    "pct": 62,
-    "lbl": "Moderate Risk",
+    "pct": 54,
+    "lbl": "Some Corporate",
     "vto": false,
-    "col": "#ea580c",
+    "col": "#d97706",
     "super_pac_total": 48892,
     "any_corporate": true,
     "reasons": [
@@ -4889,10 +4889,10 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "John James": {
-    "pct": 11,
-    "lbl": "Clean",
+    "pct": 25,
+    "lbl": "Low Risk",
     "vto": false,
-    "col": "#16a34a",
+    "col": "#ca8a04",
     "super_pac_total": 268355,
     "any_corporate": true,
     "reasons": [
@@ -4950,7 +4950,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Brad Finstad": {
-    "pct": 80,
+    "pct": 81,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -4967,7 +4967,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Angie Craig": {
-    "pct": 49,
+    "pct": 48,
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
@@ -5274,7 +5274,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Ryan Zinke": {
-    "pct": 27,
+    "pct": 29,
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
@@ -5357,7 +5357,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Dina Titus": {
-    "pct": 75,
+    "pct": 71,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
@@ -5558,7 +5558,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Tom Kean Jr.": {
-    "pct": 72,
+    "pct": 63,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
@@ -5575,10 +5575,10 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Rob Menendez": {
-    "pct": 48,
-    "lbl": "Some Corporate",
+    "pct": 39,
+    "lbl": "Low Risk",
     "vto": false,
-    "col": "#d97706",
+    "col": "#ca8a04",
     "super_pac_total": 609027,
     "any_corporate": true,
     "reasons": [
@@ -6385,7 +6385,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Bob Latta": {
-    "pct": 86,
+    "pct": 92,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -6399,7 +6399,7 @@
       "Defense",
       "Tech"
     ],
-    "score_basis": "No FEC committee totals; manual editorial score based on record."
+    "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Mike Carey": {
     "pct": 93,
@@ -6487,7 +6487,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Dave Joyce": {
-    "pct": 100,
+    "pct": 88,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -6975,10 +6975,10 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Mike Kelly": {
-    "pct": 48,
-    "lbl": "Some Corporate",
+    "pct": 97,
+    "lbl": "High Risk",
     "vto": false,
-    "col": "#d97706",
+    "col": "#b91c1c",
     "super_pac_total": 50545,
     "any_corporate": true,
     "reasons": [
@@ -7352,7 +7352,7 @@
     "score_basis": "No FEC committee totals; manual editorial score based on record."
   },
   "Keith Self": {
-    "pct": 51,
+    "pct": 58,
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
@@ -7993,7 +7993,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Becca Balint": {
-    "pct": 33,
+    "pct": 34,
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
@@ -8164,10 +8164,10 @@
     "score_basis": "No FEC committee totals; manual editorial score based on record."
   },
   "Bobby Scott": {
-    "pct": 20,
-    "lbl": "Low Risk",
+    "pct": 100,
+    "lbl": "High Risk",
     "vto": false,
-    "col": "#ca8a04",
+    "col": "#b91c1c",
     "super_pac_total": 1500,
     "any_corporate": true,
     "reasons": [
@@ -8967,7 +8967,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Shomari Figures": {
-    "pct": 60,
+    "pct": 62,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
@@ -9011,10 +9011,10 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Adam Gray": {
-    "pct": 64,
-    "lbl": "Moderate Risk",
+    "pct": 41,
+    "lbl": "Some Corporate",
     "vto": false,
-    "col": "#ea580c",
+    "col": "#d97706",
     "super_pac_total": 60523,
     "any_corporate": true,
     "reasons": [
@@ -9163,7 +9163,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Vince Fong": {
-    "pct": 76,
+    "pct": 71,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
@@ -9357,10 +9357,10 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Cleo Fields": {
-    "pct": 53,
-    "lbl": "Some Corporate",
+    "pct": 24,
+    "lbl": "Low Risk",
     "vto": false,
-    "col": "#d97706",
+    "col": "#ca8a04",
     "super_pac_total": 1500,
     "any_corporate": true,
     "reasons": [
@@ -9371,7 +9371,7 @@
       "Defense",
       "Tech"
     ],
-    "score_basis": "No FEC committee totals; manual editorial score based on record."
+    "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Kweisi Mfume": {
     "pct": 84,
@@ -9391,7 +9391,7 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Bob Onder": {
-    "pct": 88,
+    "pct": 87,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
@@ -9469,10 +9469,10 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Laura Gillen": {
-    "pct": 49,
-    "lbl": "Some Corporate",
+    "pct": 64,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#d97706",
+    "col": "#ea580c",
     "super_pac_total": 359704,
     "any_corporate": true,
     "reasons": [
@@ -10140,7 +10140,7 @@
     "reasons": []
   },
   "John McGuire": {
-    "pct": 51,
+    "pct": 41,
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",

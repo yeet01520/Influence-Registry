@@ -1,0 +1,68 @@
+name: Restore Own Candidate IDs
+
+# Puts back candidate IDs that fix_primary_candidate_ids.py removed even
+# though FEC says they belong to the member.
+#
+# WHY: that script treated "absent from the official congress-legislators id
+# list" as "wrong". For 5 members the stored id really did belong to somebody
+# else. For 7 others it was simply an older id the official file omits, and
+# removing it deleted their money. Once total_raised moved to the candidate
+# route, Glenn Ivey, Keith Self and Laura Gillen dropped to $0 raised, because
+# their replacement ids have no FEC filings at all.
+#
+# Every restoration is re-checked against FEC at runtime: the registered
+# surname must match the member. Ids belonging to other people stay removed
+# and are listed in the script so nobody re-adds them by mistake.
+#
+# AFTER THIS:
+#   1. Fix Committee IDs and Refresh Totals   commit=true refresh=true
+#   2. Refresh PAC vs Individual Split        commit=true resume=false
+#   3. Validate Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit:
+        description: 'Write changes to data/fec.json? ("true" to commit, anything else = dry run)'
+        required: false
+        default: 'false'
+
+jobs:
+  restore-ids:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Restore candidate IDs
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+          COMMIT_INPUT: ${{ github.event.inputs.commit }}
+        run: python3 scripts/restore_own_candidate_ids.py
+
+      - name: Commit updated data
+        if: ${{ always() }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f data/fec.json.restoreids.bak data/fec.json.tmp
+          git add data/fec.json
+          echo "--- staged ---"
+          git status --short
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Restore candidate IDs FEC confirms belong to the member"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi

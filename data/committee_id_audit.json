@@ -1,72 +1,6 @@
 {
  "confirmed": [
   {
-   "committee": "C00364810",
-   "member": "Keith Self",
-   "cmt_name": "KEITH SELF ELECTION COMMITTEE",
-   "cmt_candidates": [
-    "H2TX00064"
-   ],
-   "member_candidates": [
-    "H2TX03290"
-   ]
-  },
-  {
-   "committee": "C00505065",
-   "member": "Glenn Ivey",
-   "cmt_name": "GLENN IVEY FOR CONGRESS",
-   "cmt_candidates": [
-    "H2MD04232"
-   ],
-   "member_candidates": [
-    "H2MD04315"
-   ]
-  },
-  {
-   "committee": "C00791293",
-   "member": "Keith Self",
-   "cmt_name": "SELF FOR CONGRESS",
-   "cmt_candidates": [
-    "H2TX00064"
-   ],
-   "member_candidates": [
-    "H2TX03290"
-   ]
-  },
-  {
-   "committee": "C00792283",
-   "member": "Glenn Ivey",
-   "cmt_name": "GLENN F. IVEY FOR CONGRESS",
-   "cmt_candidates": [
-    "H2MD04232"
-   ],
-   "member_candidates": [
-    "H2MD04315"
-   ]
-  },
-  {
-   "committee": "C00806547",
-   "member": "Laura Gillen",
-   "cmt_name": "GILLEN FOR CONGRESS",
-   "cmt_candidates": [
-    "H2NY04244"
-   ],
-   "member_candidates": [
-    "H4NY04158"
-   ]
-  },
-  {
-   "committee": "C00840165",
-   "member": "Laura Gillen",
-   "cmt_name": "GILLEN FOR NY",
-   "cmt_candidates": [
-    "H2NY04244"
-   ],
-   "member_candidates": [
-    "H4NY04158"
-   ]
-  },
-  {
    "committee": "C00915645",
    "member": "Josh Turek",
    "cmt_name": "JOSH TUREK FOR IOWA",
@@ -79,9 +13,6 @@
  "unlinked": [],
  "repaired": [],
  "needs_review": [
-  "Keith Self",
-  "Glenn Ivey",
-  "Laura Gillen",
   "Josh Turek"
  ],
  "lookup_failed": [],

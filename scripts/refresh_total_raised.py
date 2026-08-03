@@ -1,0 +1,391 @@
+#!/usr/bin/env python3
+"""
+refresh_total_raised.py
+=======================
+Refreshes the `total_raised` field for every member in data/fec.json
+using FEC's authoritative /committee/{id}/totals/ endpoint, which
+returns the official summary totals filed by each committee.
+
+The existing v7 `total_raised` field is the sum of Schedule A
+itemized receipts seen during the original walk, which significantly
+undercounts (it's typically $1-2M for senators who actually raised
+hundreds of millions). This script replaces those values with the
+official cycle-by-cycle totals summed across every authorized committee.
+
+USAGE (in GitHub Actions):
+  Reads FEC_API_KEY from environment.
+  Reads/writes data/fec.json in the repo root.
+
+USAGE (locally):
+  export FEC_API_KEY="your_key_here"
+  python3 refresh_total_raised.py
+"""
+
+import os
+import sys
+import json
+import time
+import urllib.request
+import urllib.parse
+import urllib.error
+
+API_KEY = os.environ.get("FEC_API_KEY")
+if not API_KEY:
+    sys.exit("ERROR: FEC_API_KEY environment variable not set")
+
+BASE = "https://api.open.fec.gov/v1"
+
+SCRIPT_DIR  = os.path.dirname(os.path.abspath(__file__))
+REPO_ROOT   = os.path.dirname(SCRIPT_DIR)
+FEC_FILE    = os.path.join(REPO_ROOT, "data", "fec.json")
+PROGRESS    = os.path.join(REPO_ROOT, "data", "fec.json.progress")
+
+# Tunables
+# FEC API limit (upgraded tier): 7,200 requests/hour = 1 per 0.5 seconds.
+# We use 0.6s for a small safety margin.
+SLEEP_BETWEEN_CALLS = 0.6    # seconds — 1 call per 0.6s = 6,000/hour, safely under upgraded limit
+SAVE_EVERY          = 25     # save progress every N members
+MAX_RETRIES         = 5      # retries on transient errors
+RATE_LIMIT_WAIT     = 30     # seconds to wait if we still hit a 429 somehow
+
+
+def fetch_candidate_total(candidate_id):
+    """
+    Query /candidate/{id}/totals/ and sum receipts and individual contributions
+    across the cycles FEC attributes to this CANDIDACY.
+
+    WHY THIS EXISTS, AND WHY IT REPLACED THE COMMITTEE ROUTE
+    --------------------------------------------------------
+    total_raised used to be summed from the member's `committees` array. That
+    breaks whenever FEC does not link a member's older principal committee to
+    their candidate ID, which is common for long-serving members whose
+    committee was re-registered.
+
+    Sherrod Brown is the clean example. FEC lists 26 committees for
+    S6OH00163, and exactly ONE is a principal campaign committee: "Friends of
+    Sherrod Brown", first filed recently. The committee that raised most of
+    his money across 2006, 2012 and 2018 is not linked at all. So the
+    committee route reported $38,566,234 while FEC attributes $204,488,591 to
+    the candidacy. His contributions then exceeded his receipts by 4.66x,
+    which is arithmetically impossible and cannot be fixed by rebuilding the
+    committee list, because the link simply is not there.
+
+    individual_total, pac_total and party_total already come from this
+    endpoint. Taking receipts from here too means every money figure on a
+    member comes from ONE source, so contributions can no longer exceed
+    receipts as an artifact of mixing two.
+
+    DUPLICATE ROWS
+    --------------
+    This endpoint returns each cycle TWICE: once with the cycle number and
+    once with cycle=None carrying identical values. Summing every row doubles
+    everything. Verified on AOC: 10 rows for 5 cycles. Only rows carrying a
+    cycle are counted, and each cycle is counted once.
+
+    Returns (receipts, individual, itemized, unitemized) or (None, None, None, None).
+    """
+    url = f"{BASE}/candidate/{candidate_id}/totals/?" + urllib.parse.urlencode({
+        "api_key":  API_KEY,
+        "per_page": 100,
+    })
+    for attempt in range(MAX_RETRIES):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "InfluenceRegistry/1.0"})
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                data = json.loads(resp.read())
+            rows, seen = [], set()
+            for r in (data.get("results") or []):
+                cyc = r.get("cycle")
+                if cyc is None or cyc in seen:
+                    continue
+                seen.add(cyc)
+                rows.append(r)
+            total      = sum((r.get("receipts") or 0) for r in rows)
+            itemized   = sum((r.get("individual_itemized_contributions") or 0) for r in rows)
+            unitemized = sum((r.get("individual_unitemized_contributions") or 0) for r in rows)
+            return total, itemized + unitemized, itemized, unitemized
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                wait = RATE_LIMIT_WAIT * (attempt + 1)
+                print(f"      rate limited (429), waiting {wait}s")
+                time.sleep(wait)
+            elif e.code in (400, 404, 422):
+                return None, None, None, None
+            elif attempt < MAX_RETRIES - 1:
+                time.sleep(2 ** attempt)
+            else:
+                print(f"      FAILED after {MAX_RETRIES} attempts: HTTP {e.code}")
+                return None, None, None, None
+        except (urllib.error.URLError, TimeoutError):
+            if attempt < MAX_RETRIES - 1:
+                time.sleep(2 ** attempt)
+            else:
+                return None, None, None, None
+    return None, None, None, None
+
+
+def fetch_committee_total(committee_id):
+    """
+    Query /committee/{id}/totals/ and sum receipts and individual contributions
+    across all cycles. Returns (total_raised, individual_contributions) tuple.
+    individual_contributions sums itemized + unitemized to cover all donors.
+    """
+    url = f"{BASE}/committee/{committee_id}/totals/?" + urllib.parse.urlencode({
+        "api_key":  API_KEY,
+        "per_page": 100,
+    })
+    for attempt in range(MAX_RETRIES):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "InfluenceRegistry/1.0"})
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                data = json.loads(resp.read())
+            results = data.get("results") or []
+            total = sum((cycle.get("receipts") or 0) for cycle in results)
+            itemized = sum((cycle.get("individual_itemized_contributions") or 0) for cycle in results)
+            unitemized = sum((cycle.get("individual_unitemized_contributions") or 0) for cycle in results)
+            indiv = itemized + unitemized
+            return total, indiv, itemized, unitemized
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                # Rate limited. Wait a long time before retrying.
+                # FEC's hourly bucket needs to drain.
+                wait = RATE_LIMIT_WAIT * (attempt + 1)
+                print(f"      rate limited (429), waiting {wait}s")
+                time.sleep(wait)
+            elif attempt < MAX_RETRIES - 1:
+                wait = 2 ** attempt
+                print(f"      retry {attempt + 1} after {wait}s (HTTP {e.code})")
+                time.sleep(wait)
+            else:
+                print(f"      FAILED after {MAX_RETRIES} attempts: HTTP {e.code}")
+                return None, None
+        except (urllib.error.URLError, TimeoutError) as e:
+            if attempt < MAX_RETRIES - 1:
+                wait = 2 ** attempt
+                print(f"      retry {attempt + 1} after {wait}s ({type(e).__name__})")
+                time.sleep(wait)
+            else:
+                print(f"      FAILED after {MAX_RETRIES} attempts: {e}")
+                return None
+        except Exception as e:
+            print(f"      unexpected error: {e}")
+            return None
+    return None
+
+
+
+
+def fetch_committee_candidate_ids(committee_id):
+    """
+    Return the set of candidate IDs officially linked to a committee, via
+    /committee/{id}/candidates/. Used to decide which member a committee's
+    money really belongs to when the same committee is (wrongly) attached to
+    multiple members in fec.json — a symptom of same-surname candidate-ID
+    contamination. Returns an empty set on failure (caller treats as 'unknown').
+    """
+    url = f"{BASE}/committee/{committee_id}/candidates/?" + urllib.parse.urlencode({
+        "api_key":  API_KEY,
+        "per_page": 100,
+    })
+    for attempt in range(MAX_RETRIES):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "InfluenceRegistry/1.0"})
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                data = json.loads(resp.read())
+            return {
+                c.get("candidate_id")
+                for c in (data.get("results") or [])
+                if c.get("candidate_id")
+            }
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                wait = RATE_LIMIT_WAIT * (attempt + 1)
+                print(f"      rate limited (429) on candidates, waiting {wait}s")
+                time.sleep(wait)
+            elif attempt < MAX_RETRIES - 1:
+                time.sleep(2 ** attempt)
+            else:
+                return set()
+        except Exception:
+            if attempt < MAX_RETRIES - 1:
+                time.sleep(2 ** attempt)
+            else:
+                return set()
+    return set()
+
+
+def build_shared_committee_map(fec):
+    """
+    Find committees attached to more than one member in fec.json. These are
+    contaminated assignments (a committee belongs to exactly one candidate),
+    so summing them into every listed member would inflate total_raised. We
+    return {committee_id: set(member_names)} for only the shared ones, so the
+    main loop can resolve true ownership via the FEC before counting them.
+    """
+    from collections import defaultdict
+    cmte_members = defaultdict(set)
+    for nm, ent in fec.items():
+        if nm == "_meta" or not isinstance(ent, dict):
+            continue
+        for c in ent.get("committees") or []:
+            cmte_members[c].add(nm)
+    return {c: m for c, m in cmte_members.items() if len(m) > 1}
+
+
+def main():
+    if not os.path.exists(FEC_FILE):
+        sys.exit(f"ERROR: {FEC_FILE} not found")
+
+    with open(FEC_FILE) as f:
+        fec = json.load(f)
+
+    print(f"Loaded {len(fec)} members from {FEC_FILE}")
+
+    # ── Resolve ownership of shared/contaminated committees ────────────────
+    # A committee that appears under multiple members really belongs to just
+    # one of them. Look up each shared committee's true candidate(s) once, and
+    # build a set of (committee_id, member_name) pairs we are ALLOWED to count.
+    # For a shared committee, only the member whose candidate_id is officially
+    # linked to it gets credited; the others skip it (no double-count).
+    shared = build_shared_committee_map(fec)
+    if shared:
+        print(f"Resolving ownership of {len(shared)} shared committee(s) to avoid double-counting...")
+    allowed_pairs = set()   # (committee_id, member_name) we may count
+    for cmte, members in shared.items():
+        owners = fetch_committee_candidate_ids(cmte)
+        time.sleep(SLEEP_BETWEEN_CALLS)
+        matched_any = False
+        for nm in members:
+            cid = (fec.get(nm) or {}).get("candidate_id")
+            if cid and cid in owners:
+                allowed_pairs.add((cmte, nm))
+                matched_any = True
+        # If the FEC lookup found no match (or failed), fall back to crediting
+        # the single member whose name sorts first, so the money isn't dropped
+        # entirely — flagged in the log for manual review.
+        if not matched_any:
+            fallback = sorted(members)[0]
+            allowed_pairs.add((cmte, fallback))
+            print(f"  [review] committee {cmte}: no candidate match among "
+                  f"{sorted(members)}; credited to {fallback}")
+
+    def may_count(cmte, member):
+        """True unless this is a shared committee not owned by this member."""
+        if cmte not in shared:
+            return True
+        return (cmte, member) in allowed_pairs
+
+    # Resume support: if a previous progress file exists, use it
+    completed = set()
+    if os.path.exists(PROGRESS):
+        with open(PROGRESS) as f:
+            try:
+                completed = set(json.load(f))
+                print(f"Resuming — {len(completed)} members already done\n")
+            except Exception:
+                completed = set()
+
+    failures = []
+    updates  = 0
+    total    = len(fec)
+
+    for i, (name, entry) in enumerate(sorted(fec.items())):
+        if name in completed:
+            continue
+
+        # Driven by CANDIDATE IDs, not the committees array. See
+        # fetch_candidate_total for why. The committees array is still used
+        # elsewhere; it is simply no longer the source of money figures.
+        cand_ids, seen_ids = [], set()
+        for key in ("all_candidate_ids", "candidate_id"):
+            val = entry.get(key)
+            vals = val if isinstance(val, list) else ([val] if isinstance(val, str) and val else [])
+            for cid in vals:
+                if cid and cid not in seen_ids:
+                    seen_ids.add(cid)
+                    cand_ids.append(cid)
+        if not cand_ids:
+            print(f"[{i + 1:3d}/{total}] {name:<36} skip (no candidate IDs)")
+            continue
+
+        print(f"[{i + 1:3d}/{total}] {name:<36}", end=" ", flush=True)
+
+        new_total   = 0
+        new_indiv   = 0
+        new_item    = 0
+        new_unitem  = 0
+        any_failed  = False
+        for cid in cand_ids:
+            c_total, c_indiv, c_item, c_unitem = fetch_candidate_total(cid)
+            if c_total is None:
+                any_failed = True
+                continue
+            new_total  += c_total
+            new_indiv  += c_indiv
+            new_item   += c_item
+            new_unitem += c_unitem
+            time.sleep(SLEEP_BETWEEN_CALLS)
+
+        if any_failed and new_total == 0:
+            failures.append(name)
+            print(f"✗ all candidate lookups failed")
+            continue
+
+        # Six members carry total_raised as an empty string rather than a
+        # number (Mike Rogers, Raul Ruiz, Rick Allen, Bob Latta, Cleo Fields,
+        # Alan Armstrong). Comparing a str to an int below raises TypeError
+        # and kills the run mid-way, which is what happened at member 431 of
+        # 551. Coerce to a number for the delta display only; the value being
+        # written is new_total and is unaffected.
+        old_total = entry.get("total_raised", 0)
+        if not isinstance(old_total, (int, float)):
+            try:
+                old_total = int(float(old_total))
+            except (TypeError, ValueError):
+                old_total = 0
+        entry["total_raised"]        = round(new_total)
+        entry["grassroots"]          = round(new_indiv)
+        entry["grassroots_small"]    = round(new_unitem)   # sub-$200 unitemized = true small-dollar
+        entry["grassroots_itemized"] = round(new_item)     # >$200 itemized individual donors
+        # small-dollar share of individual money (None if no individual data)
+        entry["small_dollar_pct"]    = (round(new_unitem / new_indiv * 100, 1)
+                                        if new_indiv > 0 else None)
+
+        updates += 1
+        completed.add(name)
+
+
+        delta_pct = ""
+        if old_total > 0:
+            delta = (new_total / old_total) - 1
+            delta_pct = f" ({delta:+.0%})"
+        print(f"${old_total:>12,} -> ${round(new_total):>14,}{delta_pct}")
+
+        # Save progress periodically
+        if updates % SAVE_EVERY == 0:
+            with open(FEC_FILE, "w") as f:
+                json.dump(fec, f, indent=2)
+            with open(PROGRESS, "w") as f:
+                json.dump(sorted(completed), f)
+            print(f"  ──── Saved progress ({updates} updated) ────")
+
+    # Final save
+    with open(FEC_FILE, "w") as f:
+        json.dump(fec, f, indent=2)
+
+    # Clean up progress file on successful completion
+    if os.path.exists(PROGRESS):
+        os.remove(PROGRESS)
+
+    print(f"\n{'='*60}")
+    print(f"Done. Updated {updates} of {total} members.")
+    if failures:
+        print(f"\n{len(failures)} members failed and were left unchanged:")
+        for f in failures[:20]:
+            print(f"  - {f}")
+        if len(failures) > 20:
+            print(f"  ... and {len(failures) - 20} more")
+
+
+if __name__ == "__main__":
+    main()

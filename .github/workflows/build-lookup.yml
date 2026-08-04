@@ -1,0 +1,62 @@
+name: Build Lookup Data
+
+# Regenerates data/lookup.json, the small file behind the state lookup on the
+# landing page.
+#
+# WHY IT RUNS ON PUSH RATHER THAN ON A SCHEDULE:
+# lookup.json is DERIVED from fec.json, scores.json and outside_spending.json.
+# The moment any refresh workflow commits new data, the landing page would be
+# quoting figures the rest of the site no longer shows. Rebuilding on the same
+# push keeps them in step without anyone remembering to run anything.
+#
+# It cannot loop: the paths filter below does not include data/lookup.json, and
+# pushes made with GITHUB_TOKEN do not trigger further workflow runs.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/fec.json'
+      - 'data/scores.json'
+      - 'data/outside_spending.json'
+      - 'data/senate.json'
+      - 'data/house.json'
+      - 'data/bioguide.json'
+      - 'scripts/build_lookup.py'
+  workflow_dispatch:
+
+jobs:
+  build-lookup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build lookup.json
+        run: python3 scripts/build_lookup.py
+
+      - name: Commit updated data
+        if: ${{ always() }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/lookup.json
+          echo "--- staged ---"
+          git status --short
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Rebuild lookup.json from refreshed data"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi

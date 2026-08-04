@@ -1,0 +1,74 @@
+name: Refresh Challengers
+
+# Rebuilds data/challengers.json from FEC filings and stubs the new names into
+# data/fec.json so the existing money pipelines pick them up.
+#
+# A challenger card renders money from fec.json, not challengers.json. Adding a
+# name to challengers.json alone produces an empty card, which is why this
+# writes to both.
+#
+# RUN DRY FIRST. Thousands of people file for federal office each cycle and
+# most raise nothing, so the script filters by receipts. The right floor
+# depends on what this cycle looks like, so dry_run prints the distribution at
+# several cutoffs and writes nothing. Set MIN_SENATE / MIN_HOUSE in the script
+# from that, then run for real.
+#
+# AFTER A REAL RUN the new names have no money until the pipelines fill them
+# in: Rebuild Committees, Fix Committee IDs and Refresh Totals, Refresh PAC vs
+# Individual Split, Refresh Outside Spending.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Report the receipts distribution without writing ("true" to preview)'
+        required: false
+        default: 'true'
+  schedule:
+    # Monthly. Filings move fast during primary season, and a stale challenger
+    # list is more misleading than a short one.
+    - cron: '0 5 8 * *'
+
+jobs:
+  refresh-challengers:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch challengers
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+          DRY_RUN_INPUT: ${{ github.event.inputs.dry_run }}
+        run: |
+          if [ "$DRY_RUN_INPUT" = "false" ]; then
+            python3 scripts/fetch_challengers.py
+          else
+            python3 scripts/fetch_challengers.py --dry-run
+          fi
+
+      - name: Commit updated data
+        if: ${{ always() }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/challengers.json data/fec.json
+          echo "--- staged ---"
+          git status --short
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Refresh challengers from FEC filings"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi

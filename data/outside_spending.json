@@ -26863,5 +26863,4034 @@
     ],
     "top_opposers": [],
     "fetched_at": "2026-08-04T03:13:21.136546+00:00"
+  },
+  "Suhas Subramanyam": {
+    "candidate_ids_used": [
+      "H4VA10279"
+    ],
+    "total_supporting": 691590,
+    "total_opposing": 0,
+    "cycles": [
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00876391",
+        "committee_name": "THE IMPACT FUND",
+        "amount": 584469
+      },
+      {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 106947
+      },
+      {
+        "committee_id": "C00509521",
+        "committee_name": "DEMOCRATIC ASIAN AMERICANS OF VIRGINIA",
+        "amount": 140
+      },
+      {
+        "committee_id": "C00802389",
+        "committee_name": "GIVEGREEN UNITED ACTION",
+        "amount": 23
+      },
+      {
+        "committee_id": "C00483693",
+        "committee_name": "SIERRA CLUB INDEPENDENT ACTION",
+        "amount": 10
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T04:20:12.725862+00:00"
+  },
+  "James Walkinshaw": {
+    "candidate_ids_used": [
+      "H6VA11066"
+    ],
+    "total_supporting": 2714859,
+    "total_opposing": 2790,
+    "cycles": [
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00904623",
+        "committee_name": "OVERSIGHT ACTION FUND",
+        "amount": 1718446
+      },
+      {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 1012792
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C90013525",
+        "committee_name": "HERITAGE ACTION FOR AMERICA",
+        "amount": 2790
+      }
+    ],
+    "fetched_at": "2026-08-04T04:20:17.016796+00:00"
+  },
+  "Emily Randall": {
+    "candidate_ids_used": [
+      "H4WA06117"
+    ],
+    "total_supporting": 2683049,
+    "total_opposing": 0,
+    "cycles": [
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 1491280
+      },
+      {
+        "committee_id": "C00550970",
+        "committee_name": "EQUALITY PAC",
+        "amount": 908463
+      },
+      {
+        "committee_id": "C00879379",
+        "committee_name": "PENINSULA NEIGHBORS PAC",
+        "amount": 223769
+      },
+      {
+        "committee_id": "C00871368",
+        "committee_name": "PROJECT 218",
+        "amount": 62024
+      },
+      {
+        "committee_id": "C00742080",
+        "committee_name": "PLANNED PARENTHOOD ALLIANCE PAC , SERVING WA, AK, ID, HI, IN, KY",
+        "amount": 7976
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T04:21:46.119418+00:00"
+  },
+  "Michael Baumgartner": {
+    "candidate_ids_used": [
+      "H4WA05234",
+      "S2WA00288"
+    ],
+    "total_supporting": 82772,
+    "total_opposing": 13395,
+    "cycles": [
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00835967",
+        "committee_name": "CONSERVATIVES FOR AMERICAN EXCELLENCE INC.",
+        "amount": 82772
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00948059",
+        "committee_name": "FIRE HOUSE PAC",
+        "amount": 9945
+      },
+      {
+        "committee_id": "C00926675",
+        "committee_name": "TOGETHER FOR WORKING PEOPLE",
+        "amount": 3450
+      }
+    ],
+    "fetched_at": "2026-08-04T04:21:54.242357+00:00"
+  },
+  "Riley Moore": {
+    "candidate_ids_used": [
+      "H4WV02205"
+    ],
+    "total_supporting": 1112749,
+    "total_opposing": 0,
+    "cycles": [
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00836221",
+        "committee_name": "DEFEND AMERICAN JOBS",
+        "amount": 726377
+      },
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 267473
+      },
+      {
+        "committee_id": "C00835967",
+        "committee_name": "CONSERVATIVES FOR AMERICAN EXCELLENCE INC.",
+        "amount": 66382
+      },
+      {
+        "committee_id": "C00824292",
+        "committee_name": "AMERICAN LEADERSHIP PAC",
+        "amount": 31566
+      },
+      {
+        "committee_id": "C00559740",
+        "committee_name": "GOPAC ELECTION FUND",
+        "amount": 20025
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T04:21:58.818944+00:00"
+  },
+  "Tony Wied": {
+    "candidate_ids_used": [
+      "H4WI08119"
+    ],
+    "total_supporting": 5523,
+    "total_opposing": 693193,
+    "cycles": [
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00509893",
+        "committee_name": "NATIONAL RIGHT TO LIFE VICTORY FUND",
+        "amount": 4142
+      },
+      {
+        "committee_id": "C00053553",
+        "committee_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "amount": 1380
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00874503",
+        "committee_name": "SPEAK FREE OR DIE PAC",
+        "amount": 693192
+      }
+    ],
+    "fetched_at": "2026-08-04T04:22:02.900153+00:00"
+  },
+  "Eleanor Holmes Norton": {
+    "candidate_ids_used": [
+      "H0DC00058"
+    ],
+    "total_supporting": 694,
+    "total_opposing": 0,
+    "cycles": [
+      2000,
+      2006,
+      2008,
+      2018,
+      2020,
+      2022
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00402289",
+        "committee_name": "DC FOR DEMOCRACY PAC",
+        "amount": 562
+      },
+      {
+        "committee_id": "C00489799",
+        "committee_name": "PLANNED PARENTHOOD VOTES",
+        "amount": 195
+      },
+      {
+        "committee_id": "C00029447",
+        "committee_name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+        "amount": 21
+      },
+      {
+        "committee_id": "C90004185",
+        "committee_name": "NARAL Pro-Choice America",
+        "amount": 6
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T04:24:48.239661+00:00"
+  },
+  "James Moylan": {
+    "candidate_ids_used": [
+      "H2GU01031"
+    ],
+    "total_supporting": 0,
+    "total_opposing": 0,
+    "cycles": [],
+    "top_supporters": [],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T04:24:54.249429+00:00"
+  },
+  "Shomari Figures": {
+    "candidate_ids_used": [
+      "H4AL02170"
+    ],
+    "total_supporting": 2630457,
+    "total_opposing": 86475,
+    "cycles": [
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 2408433
+      },
+      {
+        "committee_id": "C00844530",
+        "committee_name": "ROLLING SEA ACTION FUND",
+        "amount": 125000
+      },
+      {
+        "committee_id": "C00814202",
+        "committee_name": "NEW SOUTHERN MAJORITY IE PAC",
+        "amount": 69178
+      },
+      {
+        "committee_id": "C00866418",
+        "committee_name": "IMPACT 65",
+        "amount": 20000
+      },
+      {
+        "committee_id": "C00877886",
+        "committee_name": "1000 WOMEN STRONG PAC",
+        "amount": 4910
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00875005",
+        "committee_name": "PROGRESS FOR ALABAMA",
+        "amount": 46600
+      },
+      {
+        "committee_id": "C00866673",
+        "committee_name": "ALABAMA FAMILIES PAC",
+        "amount": 39875
+      }
+    ],
+    "fetched_at": "2026-08-04T04:24:58.630663+00:00"
+  },
+  "Steny Hoyer": {
+    "candidate_ids_used": [
+      "H2MD05155"
+    ],
+    "total_supporting": 21286,
+    "total_opposing": 10,
+    "cycles": [
+      1986,
+      1988,
+      1992,
+      1994,
+      2000,
+      2002,
+      2008,
+      2010,
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00172296",
+        "committee_name": "NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC",
+        "amount": 12807
+      },
+      {
+        "committee_id": "C00489815",
+        "committee_name": "NEA ADVOCACY FUND",
+        "amount": 6378
+      },
+      {
+        "committee_id": "C90019951",
+        "committee_name": "VOTE YES ON QUESTION 2",
+        "amount": 3900
+      },
+      {
+        "committee_id": "C00135368",
+        "committee_name": "SIERRA CLUB POLITICAL COMMITTEE",
+        "amount": 360
+      },
+      {
+        "committee_id": "C00489799",
+        "committee_name": "PLANNED PARENTHOOD VOTES",
+        "amount": 195
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00857540",
+        "committee_name": "ALLIANCE FOR ACCOUNTABILITY",
+        "amount": 9
+      }
+    ],
+    "fetched_at": "2026-08-04T04:27:55.515212+00:00"
+  },
+  "Kweisi Mfume": {
+    "candidate_ids_used": [
+      "H6MD07020",
+      "S6MD03185",
+      "H0MD07114"
+    ],
+    "total_supporting": 10664,
+    "total_opposing": 0,
+    "cycles": [
+      1986,
+      1988,
+      1992,
+      1994,
+      2006,
+      2020,
+      2022,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C90019951",
+        "committee_name": "VOTE YES ON QUESTION 2",
+        "amount": 9000
+      },
+      {
+        "committee_id": "C00172296",
+        "committee_name": "NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC",
+        "amount": 1139
+      },
+      {
+        "committee_id": "C00427039",
+        "committee_name": "PROGRESSIVE NEIGHBORS MD",
+        "amount": 238
+      },
+      {
+        "committee_id": "C00183616",
+        "committee_name": "MARYLAND FREEZE VOTER, INC",
+        "amount": 105
+      },
+      {
+        "committee_id": "C00489815",
+        "committee_name": "NEA ADVOCACY FUND",
+        "amount": 92
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T04:31:11.047956+00:00"
+  },
+  "Andy Ogles": {
+    "candidate_ids_used": [
+      "H2TN05446"
+    ],
+    "total_supporting": 1745704,
+    "total_opposing": 887493,
+    "cycles": [
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00745208",
+        "committee_name": "USA FREEDOM FUND",
+        "amount": 786500
+      },
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 547948
+      },
+      {
+        "committee_id": "C00794396",
+        "committee_name": "SCHOOL FREEDOM FUND",
+        "amount": 164397
+      },
+      {
+        "committee_id": "C00816843",
+        "committee_name": "VOLUNTEERS FOR FREEDOM PAC",
+        "amount": 84675
+      },
+      {
+        "committee_id": "C00662221",
+        "committee_name": "HOUSE FREEDOM ACTION",
+        "amount": 60252
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00820308",
+        "committee_name": "CONSERVATIVE AMERICANS PAC",
+        "amount": 705702
+      },
+      {
+        "committee_id": "C00806083",
+        "committee_name": "TENNESSEE CONSERVATIVES PAC",
+        "amount": 130683
+      },
+      {
+        "committee_id": "C00821009",
+        "committee_name": "GOVERNMENT OF THE PEOPLE",
+        "amount": 51042
+      },
+      {
+        "committee_id": "C00857540",
+        "committee_name": "ALLIANCE FOR ACCOUNTABILITY",
+        "amount": 65
+      }
+    ],
+    "fetched_at": "2026-08-04T04:31:18.518107+00:00"
+  },
+  "Brad Sherman": {
+    "candidate_ids_used": [
+      "H6CA24113"
+    ],
+    "total_supporting": 2761876,
+    "total_opposing": 383332,
+    "cycles": [
+      1996,
+      1998,
+      2000,
+      2002,
+      2006,
+      2008,
+      2010,
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00914838",
+        "committee_name": "VALLEY-WESTSIDE UNITED PAC",
+        "amount": 940000
+      },
+      {
+        "committee_id": "C00488742",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND",
+        "amount": 936867
+      },
+      {
+        "committee_id": "C00030718",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+        "amount": 594278
+      },
+      {
+        "committee_id": "C00508960",
+        "committee_name": "CALIFORNIANS FOR INTERGITY IN GOVERNMENT",
+        "amount": 224191
+      },
+      {
+        "committee_id": "C00509075",
+        "committee_name": "CITIZENS FOR PROSPERITY AND GOOD GOVERNMENT",
+        "amount": 45202
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00945824",
+        "committee_name": "NEW ERA LEADERSHIP",
+        "amount": 388332
+      }
+    ],
+    "fetched_at": "2026-08-04T04:31:52.565910+00:00"
+  },
+  "Sam Liccardo": {
+    "candidate_ids_used": [
+      "H4CA16197"
+    ],
+    "total_supporting": 2220310,
+    "total_opposing": 250000,
+    "cycles": [
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00865725",
+        "committee_name": "NEIGHBORS FOR RESULTS",
+        "amount": 2050422
+      },
+      {
+        "committee_id": "C00365536",
+        "committee_name": "CHC BOLD PAC",
+        "amount": 271062
+      },
+      {
+        "committee_id": "C00859660",
+        "committee_name": "NEW DEMOCRAT MAJORITY",
+        "amount": 200000
+      },
+      {
+        "committee_id": "C00854299",
+        "committee_name": "BOLD AMERICA",
+        "amount": 134844
+      },
+      {
+        "committee_id": "C00865352",
+        "committee_name": "NEW LEADERS 2024",
+        "amount": 4427
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00891077",
+        "committee_name": "LET'S GET IT DONE PAC",
+        "amount": 355235
+      },
+      {
+        "committee_id": "C00701797",
+        "committee_name": "EQUALITY CALIFORNIA VOTES",
+        "amount": 350000
+      }
+    ],
+    "fetched_at": "2026-08-04T04:31:57.292864+00:00"
+  },
+  "Ben Ray Luj\u00e1n": {
+    "candidate_ids_used": [
+      "S0NM00058",
+      "H8NM03196"
+    ],
+    "total_supporting": 1561496,
+    "total_opposing": 404480,
+    "cycles": [
+      2008,
+      2010,
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00343459",
+        "committee_name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC",
+        "amount": 25502
+      },
+      {
+        "committee_id": "C00252940",
+        "committee_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+        "amount": 9787
+      },
+      {
+        "committee_id": "C00678839",
+        "committee_name": "INDIVISIBLE ACTION",
+        "amount": 9762
+      },
+      {
+        "committee_id": "C90020306",
+        "committee_name": "DREAMS IN ACTION NM",
+        "amount": 8200
+      },
+      {
+        "committee_id": "C90011008",
+        "committee_name": "ENVIRONMENT NEW MEXICO",
+        "amount": 946
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T04:33:25.383385+00:00"
+  },
+  "Linda S\u00e1nchez": {
+    "candidate_ids_used": [
+      "H2CA39078"
+    ],
+    "total_supporting": 378384,
+    "total_opposing": 750,
+    "cycles": [
+      2002,
+      2006,
+      2008,
+      2010,
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00854299",
+        "committee_name": "BOLD AMERICA",
+        "amount": 300000
+      },
+      {
+        "committee_id": "C00030718",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+        "amount": 51478
+      },
+      {
+        "committee_id": "C00568444",
+        "committee_name": "CENTER FORWARD COMMITTEE",
+        "amount": 23666
+      },
+      {
+        "committee_id": "C00523498",
+        "committee_name": "COURAGE CALIFORNIA SUPER PAC",
+        "amount": 2716
+      },
+      {
+        "committee_id": "C00687491",
+        "committee_name": "PLANNED PARENTHOOD ADVOCACY PROJECT LOS ANGELES COUNTY ACTION FUND",
+        "amount": 564
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00522458",
+        "committee_name": "TOGETHER WE THRIVE",
+        "amount": 750
+      }
+    ],
+    "fetched_at": "2026-08-04T04:33:52.884189+00:00"
+  },
+  "Nanette Barrag\u00e1n": {
+    "candidate_ids_used": [
+      "H6CA44103"
+    ],
+    "total_supporting": 470322,
+    "total_opposing": 27411,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00473918",
+        "committee_name": "WOMEN VOTE!",
+        "amount": 337269
+      },
+      {
+        "committee_id": "C00809236",
+        "committee_name": "AMERICA UNITED",
+        "amount": 100000
+      },
+      {
+        "committee_id": "C00548461",
+        "committee_name": "CLIMATE HAWKS VOTE POLITICAL ACTION",
+        "amount": 17864
+      },
+      {
+        "committee_id": "C00562777",
+        "committee_name": "LATINO VICTORY FUND",
+        "amount": 11284
+      },
+      {
+        "committee_id": "C00523498",
+        "committee_name": "COURAGE CALIFORNIA SUPER PAC",
+        "amount": 2672
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00625848",
+        "committee_name": "CALIFORNIA PROGRESS COALITION",
+        "amount": 27411
+      }
+    ],
+    "fetched_at": "2026-08-04T04:34:06.453234+00:00"
+  },
+  "Mario D\u00edaz-Balart": {
+    "candidate_ids_used": [
+      "H2FL25018"
+    ],
+    "total_supporting": 18951,
+    "total_opposing": 835888,
+    "cycles": [
+      2002,
+      2008,
+      2010,
+      2012,
+      2018,
+      2020
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00075820",
+        "committee_name": "NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE",
+        "amount": 10162
+      },
+      {
+        "committee_id": "C00111278",
+        "committee_name": "NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE",
+        "amount": 5971
+      },
+      {
+        "committee_id": "C00053553",
+        "committee_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "amount": 4549
+      },
+      {
+        "committee_id": "C90017989",
+        "committee_name": "CARE ACTION",
+        "amount": 1000
+      },
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE",
+        "amount": 688
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE",
+        "amount": 488125
+      },
+      {
+        "committee_id": "C00540443",
+        "committee_name": "GIFFORDS PAC",
+        "amount": 207699
+      },
+      {
+        "committee_id": "C00683599",
+        "committee_name": "CHANGE NOW",
+        "amount": 98912
+      },
+      {
+        "committee_id": "C00495028",
+        "committee_name": "HOUSE MAJORITY PAC",
+        "amount": 32364
+      },
+      {
+        "committee_id": "C00641530",
+        "committee_name": "SUNSHINEPAC",
+        "amount": 20000
+      }
+    ],
+    "fetched_at": "2026-08-04T04:35:21.290512+00:00"
+  },
+  "Carlos Gim\u00e9nez": {
+    "candidate_ids_used": [
+      "H0FL26036"
+    ],
+    "total_supporting": 1055664,
+    "total_opposing": 7549640,
+    "cycles": [
+      2020,
+      2022
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00733402",
+        "committee_name": "SOUTH FLORIDA RESIDENTS FIRST",
+        "amount": 588530
+      },
+      {
+        "committee_id": "C00504530",
+        "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+        "amount": 376599
+      },
+      {
+        "committee_id": "C00691949",
+        "committee_name": "FIREFIGHTERS SUPPORT ASSOCIATION PAC",
+        "amount": 59000
+      },
+      {
+        "committee_id": "C00030718",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+        "amount": 12550
+      },
+      {
+        "committee_id": "C00760868",
+        "committee_name": "MIAMI-DADE JEWISH ALLIANCE FOR POSITIVE LEADERSHIP",
+        "amount": 11520
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00495028",
+        "committee_name": "HOUSE MAJORITY PAC",
+        "amount": 3294827
+      },
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DCCC",
+        "amount": 2645078
+      },
+      {
+        "committee_id": "C00486845",
+        "committee_name": "LCV VICTORY FUND",
+        "amount": 763962
+      },
+      {
+        "committee_id": "C00473918",
+        "committee_name": "WOMEN VOTE!",
+        "amount": 462100
+      },
+      {
+        "committee_id": "C00740225",
+        "committee_name": "NRDC ACTION VOTES",
+        "amount": 120000
+      }
+    ],
+    "fetched_at": "2026-08-04T04:35:30.095292+00:00"
+  },
+  "Chuy Garc\u00eda": {
+    "candidate_ids_used": [
+      "H8IL04134"
+    ],
+    "total_supporting": 236460,
+    "total_opposing": 0,
+    "cycles": [
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00801514",
+        "committee_name": "PROTECT OUR FUTURE PAC",
+        "amount": 199854
+      },
+      {
+        "committee_id": "C00809236",
+        "committee_name": "AMERICA UNITED",
+        "amount": 32000
+      },
+      {
+        "committee_id": "C00673251",
+        "committee_name": "CHICAGO LATINO PUBLIC AFFAIRS COMMITTEE",
+        "amount": 3437
+      },
+      {
+        "committee_id": "C00522458",
+        "committee_name": "TOGETHER WE THRIVE",
+        "amount": 750
+      },
+      {
+        "committee_id": "C00489799",
+        "committee_name": "PLANNED PARENTHOOD VOTES",
+        "amount": 195
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T04:35:43.714421+00:00"
+  },
+  "Nydia Vel\u00e1zquez": {
+    "candidate_ids_used": [
+      "H2NY00010"
+    ],
+    "total_supporting": 13533,
+    "total_opposing": 28000,
+    "cycles": [
+      2000,
+      2002,
+      2006,
+      2010,
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C90017195",
+        "committee_name": "NEW YORK STATE IMMIGRANT ACTION FUND",
+        "amount": 12549
+      },
+      {
+        "committee_id": "C90010513",
+        "committee_name": "ENVIRONMENT AMERICA INC",
+        "amount": 419
+      },
+      {
+        "committee_id": "C00135368",
+        "committee_name": "SIERRA CLUB POLITICAL COMMITTEE",
+        "amount": 210
+      },
+      {
+        "committee_id": "C00350991",
+        "committee_name": "NEW YORK STATE COMMITTEE OF THE WORKING FAMILIES PARTY",
+        "amount": 150
+      },
+      {
+        "committee_id": "C90018045",
+        "committee_name": "UNITED WE DREAM ACTION",
+        "amount": 139
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00575829",
+        "committee_name": "COMMUNITY ACTION NOW",
+        "amount": 27899
+      },
+      {
+        "committee_id": "C00486837",
+        "committee_name": "INNOVATION PAC",
+        "amount": 100
+      }
+    ],
+    "fetched_at": "2026-08-04T04:37:07.734803+00:00"
+  },
+  "Pablo Hern\u00e1ndez": {
+    "candidate_ids_used": [
+      "H4PR01010"
+    ],
+    "total_supporting": 0,
+    "total_opposing": 0,
+    "cycles": [],
+    "top_supporters": [],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T04:37:11.632291+00:00"
+  },
+  "Shontel Brown": {
+    "candidate_ids_used": [
+      "H2OH11169"
+    ],
+    "total_supporting": 2881043,
+    "total_opposing": 355498,
+    "cycles": [
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00801514",
+        "committee_name": "PROTECT OUR FUTURE PAC",
+        "amount": 1010178
+      },
+      {
+        "committee_id": "C00710848",
+        "committee_name": "DMFI PAC",
+        "amount": 819748
+      },
+      {
+        "committee_id": "C00799031",
+        "committee_name": "UNITED DEMOCRACY PROJECT (UDP)",
+        "amount": 83172
+      },
+      {
+        "committee_id": "C00409730",
+        "committee_name": "NEW DEMOCRAT COALITION ACTION FUND",
+        "amount": 50000
+      },
+      {
+        "committee_id": "C00684969",
+        "committee_name": "JDCA PAC",
+        "amount": 43136
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00802660",
+        "committee_name": "JUSTICE FOR ALL OF US ACTION FUND",
+        "amount": 74998
+      },
+      {
+        "committee_id": "C00764977",
+        "committee_name": "THE DEMOCRATIC ACTION PAC",
+        "amount": 25000
+      }
+    ],
+    "fetched_at": "2026-08-04T04:37:23.127043+00:00"
+  },
+  "Elise Stefanik": {
+    "candidate_ids_used": [
+      "H4NY21079"
+    ],
+    "total_supporting": 947637,
+    "total_opposing": 172871,
+    "cycles": [
+      2014,
+      2016,
+      2018,
+      2020,
+      2022
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00563171",
+        "committee_name": "NEW YORK 2014",
+        "amount": 372266
+      },
+      {
+        "committee_id": "C90014838",
+        "committee_name": "CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.",
+        "amount": 219916
+      },
+      {
+        "committee_id": "C00608943",
+        "committee_name": "CLEARPATH ACTION, INC.",
+        "amount": 167826
+      },
+      {
+        "committee_id": "C00760124",
+        "committee_name": "NATIONAL VICTORY ACTION FUND",
+        "amount": 120000
+      },
+      {
+        "committee_id": "C90014895",
+        "committee_name": "ENVIRONMENTAL DEFENSE ACTION FUND",
+        "amount": 29935
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00725820",
+        "committee_name": "THE LINCOLN PROJECT",
+        "amount": 133616
+      },
+      {
+        "committee_id": "C00647966",
+        "committee_name": "RURAL FREEDOM NETWORK",
+        "amount": 20000
+      },
+      {
+        "committee_id": "C00746073",
+        "committee_name": "MEIDASTOUCH",
+        "amount": 9856
+      },
+      {
+        "committee_id": "C00749143",
+        "committee_name": "DEFEAT BY TWEET",
+        "amount": 6300
+      },
+      {
+        "committee_id": "C90012071",
+        "committee_name": "PEOPLE FOR THE AMERICAN WAY",
+        "amount": 5000
+      }
+    ],
+    "fetched_at": "2026-08-04T04:37:38.103547+00:00"
+  },
+  "Ted Budd": {
+    "candidate_ids_used": [
+      "S2NC00505",
+      "H6NC13129"
+    ],
+    "total_supporting": 23933357,
+    "total_opposing": 18512672,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 1080562
+      },
+      {
+        "committee_id": "C00487470",
+        "committee_name": "CLUB FOR GROWTH ACTION",
+        "amount": 499185
+      },
+      {
+        "committee_id": "C00741710",
+        "committee_name": "NRA VICTORY FUND, INC.",
+        "amount": 209481
+      },
+      {
+        "committee_id": "C00053553",
+        "committee_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "amount": 201966
+      },
+      {
+        "committee_id": "C00552851",
+        "committee_name": "HOUSE FREEDOM FUND",
+        "amount": 157893
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00484642",
+        "committee_name": "SMP",
+        "amount": 1923452
+      },
+      {
+        "committee_id": "C00495028",
+        "committee_name": "HOUSE MAJORITY PAC",
+        "amount": 553392
+      },
+      {
+        "committee_id": "C00473918",
+        "committee_name": "WOMEN VOTE!",
+        "amount": 141109
+      },
+      {
+        "committee_id": "C00573261",
+        "committee_name": "END CITIZENS UNITED",
+        "amount": 138441
+      },
+      {
+        "committee_id": "C00486845",
+        "committee_name": "LCV VICTORY FUND",
+        "amount": 115427
+      }
+    ],
+    "fetched_at": "2026-08-04T04:39:48.921397+00:00"
+  },
+  "Jack Reed": {
+    "candidate_ids_used": [
+      "S6RI00163",
+      "H0RI02071"
+    ],
+    "total_supporting": 76044,
+    "total_opposing": 4116,
+    "cycles": [
+      1992,
+      1994,
+      1996,
+      2002,
+      2014,
+      2020,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00027466",
+        "committee_name": "NATIONAL REPUBLICAN SENATORIAL COMMITTEE",
+        "amount": 79889
+      },
+      {
+        "committee_id": "C00489799",
+        "committee_name": "PLANNED PARENTHOOD VOTES",
+        "amount": 123
+      },
+      {
+        "committee_id": "C00001636",
+        "committee_name": "TRANSPORTATION POLITICAL EDUCATION LEAGUE",
+        "amount": 90
+      },
+      {
+        "committee_id": "C90010513",
+        "committee_name": "ENVIRONMENT AMERICA INC",
+        "amount": 59
+      },
+      {
+        "committee_id": "C90005471",
+        "committee_name": "PLANNED PARENTHOOD ACTION FUND INC",
+        "amount": 42
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00528307",
+        "committee_name": "PATRIOT VOICES PAC",
+        "amount": 8231
+      },
+      {
+        "committee_id": "C00325076",
+        "committee_name": "CAMPAIGN FOR WORKING FAMILIES",
+        "amount": 65
+      }
+    ],
+    "fetched_at": "2026-08-04T04:41:48.216284+00:00"
+  },
+  "Ted Cruz": {
+    "candidate_ids_used": [
+      "S2TX00312"
+    ],
+    "total_supporting": 12653473,
+    "total_opposing": 11850583,
+    "cycles": [
+      2012,
+      2018,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00448696",
+        "committee_name": "SENATE CONSERVATIVES FUND",
+        "amount": 369120
+      },
+      {
+        "committee_id": "C00796045",
+        "committee_name": "TRUTH AND COURAGE PAC",
+        "amount": 278478
+      },
+      {
+        "committee_id": "C00747121",
+        "committee_name": "RED SENATE",
+        "amount": 252155
+      },
+      {
+        "committee_id": "C00883322",
+        "committee_name": "THE L & C COALITION",
+        "amount": 110880
+      },
+      {
+        "committee_id": "C00508002",
+        "committee_name": "ENDORSE LIBERTY, INC",
+        "amount": 43120
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00689919",
+        "committee_name": "TEXAS FOREVER",
+        "amount": 2300407
+      },
+      {
+        "committee_id": "C00865444",
+        "committee_name": "WINSENATE",
+        "amount": 1373567
+      },
+      {
+        "committee_id": "C00689232",
+        "committee_name": "VOTER AWARENESS PROJECT",
+        "amount": 403825
+      },
+      {
+        "committee_id": "C00510941",
+        "committee_name": "TEXAS CONSERVATIVES FUND",
+        "amount": 360830
+      },
+      {
+        "committee_id": "C00879221",
+        "committee_name": "CRUSH MAGA PAC",
+        "amount": 340000
+      }
+    ],
+    "fetched_at": "2026-08-04T04:43:20.394557+00:00"
+  },
+  "Bernie Sanders": {
+    "candidate_ids_used": [
+      "S4VT00033",
+      "H8VT01016"
+    ],
+    "total_supporting": 26182,
+    "total_opposing": 1666413,
+    "cycles": [
+      1992,
+      1994,
+      1996,
+      2000,
+      2002,
+      2006,
+      2012,
+      2018,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00053553",
+        "committee_name": "NRA POLITICAL VICTORY FUND",
+        "amount": 32948
+      },
+      {
+        "committee_id": "C00176214",
+        "committee_name": "INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND",
+        "amount": 2850
+      },
+      {
+        "committee_id": "C90004185",
+        "committee_name": "NARAL PRO-CHOICE AMERICA",
+        "amount": 1276
+      },
+      {
+        "committee_id": "C00490375",
+        "committee_name": "NATIONAL NURSES UNITED FOR PATIENT PROTECTION",
+        "amount": 520
+      },
+      {
+        "committee_id": "C00419572",
+        "committee_name": "DEMOCRATIC SOCIALISTS OF AMERICA PAC",
+        "amount": 413
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00574533",
+        "committee_name": "FUTURE45",
+        "amount": 1659893
+      },
+      {
+        "committee_id": "C00528307",
+        "committee_name": "PATRIOT VOICES PAC",
+        "amount": 6214
+      },
+      {
+        "committee_id": "C00284018",
+        "committee_name": "VERMONT RIGHT TO LIFE COMMITTEE INC POLITICAL COMMITTEE",
+        "amount": 305
+      }
+    ],
+    "fetched_at": "2026-08-04T04:46:47.878678+00:00"
+  },
+  "Barry Moore": {
+    "candidate_ids_used": [
+      "H8AL02171",
+      "S6AL00476"
+    ],
+    "total_supporting": 13964758,
+    "total_opposing": 1555434,
+    "cycles": [
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00836221",
+        "committee_name": "DEFEND AMERICAN JOBS",
+        "amount": 4399403
+      },
+      {
+        "committee_id": "C00930438",
+        "committee_name": "ALABAMA FREEDOM FUND",
+        "amount": 3092423
+      },
+      {
+        "committee_id": "C00915181",
+        "committee_name": "FELLOWSHIP PAC",
+        "amount": 350000
+      },
+      {
+        "committee_id": "C00487470",
+        "committee_name": "CLUB FOR GROWTH ACTION",
+        "amount": 229449
+      },
+      {
+        "committee_id": "C00448696",
+        "committee_name": "SENATE CONSERVATIVES FUND",
+        "amount": 209818
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00855213",
+        "committee_name": "SOUTH ALABAMA CONSERVATIVES PAC",
+        "amount": 937164
+      },
+      {
+        "committee_id": "C00835967",
+        "committee_name": "CONSERVATIVES FOR AMERICAN EXCELLENCE INC.",
+        "amount": 647251
+      },
+      {
+        "committee_id": "C00906685",
+        "committee_name": "ALABAMA CONSERVATIVES",
+        "amount": 3018
+      }
+    ],
+    "fetched_at": "2026-08-04T04:47:49.831168+00:00"
+  },
+  "Rick Crawford": {
+    "candidate_ids_used": [
+      "H0AR01083"
+    ],
+    "total_supporting": 11761,
+    "total_opposing": 1786434,
+    "cycles": [
+      2010,
+      2012,
+      2014,
+      2016,
+      2018
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00111278",
+        "committee_name": "NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE",
+        "amount": 4839
+      },
+      {
+        "committee_id": "C90011669",
+        "committee_name": "AMERICANS FOR JOB SECURITY",
+        "amount": 3227
+      },
+      {
+        "committee_id": "C90011701",
+        "committee_name": "REVERE AMERICA",
+        "amount": 2149
+      },
+      {
+        "committee_id": "C90011289",
+        "committee_name": "AMERICANS FOR TAX REFORM",
+        "amount": 1905
+      },
+      {
+        "committee_id": "C90011230",
+        "committee_name": "AMERICAN ACTION NETWORK INC",
+        "amount": 418
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE",
+        "amount": 1786605
+      },
+      {
+        "committee_id": "C00495028",
+        "committee_name": "HOUSE MAJORITY PAC",
+        "amount": 14943
+      },
+      {
+        "committee_id": "C00487470",
+        "committee_name": "CLUB FOR GROWTH ACTION",
+        "amount": 970
+      },
+      {
+        "committee_id": "C90015025",
+        "committee_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
+        "amount": 861
+      }
+    ],
+    "fetched_at": "2026-08-04T04:48:08.017104+00:00"
+  },
+  "French Hill": {
+    "candidate_ids_used": [
+      "H4AR02141"
+    ],
+    "total_supporting": 1429938,
+    "total_opposing": 5215977,
+    "cycles": [
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00836221",
+        "committee_name": "DEFEND AMERICAN JOBS",
+        "amount": 524945
+      },
+      {
+        "committee_id": "C90013301",
+        "committee_name": "NATIONAL RIFLE ASSOCIATION INSTITUTE FOR LEGISLATIVE ACTION",
+        "amount": 495345
+      },
+      {
+        "committee_id": "C00489856",
+        "committee_name": "ESAFUND",
+        "amount": 154387
+      },
+      {
+        "committee_id": "C90017583",
+        "committee_name": "AMERICAN BANKERS ASSOCIATION",
+        "amount": 125000
+      },
+      {
+        "committee_id": "C00875450",
+        "committee_name": "CENTER FORWARD INITIATIVE INC",
+        "amount": 49460
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE",
+        "amount": 2787537
+      },
+      {
+        "committee_id": "C00495028",
+        "committee_name": "HOUSE MAJORITY PAC",
+        "amount": 1412100
+      },
+      {
+        "committee_id": "C00473918",
+        "committee_name": "WOMEN VOTE!",
+        "amount": 601976
+      },
+      {
+        "committee_id": "C90012956",
+        "committee_name": "PATRIOT MAJORITY USA",
+        "amount": 280453
+      },
+      {
+        "committee_id": "C00626861",
+        "committee_name": "WORKING FAMILIES PARTY INDEPENDENT EXPENDITURE COMMITTEE",
+        "amount": 75828
+      }
+    ],
+    "fetched_at": "2026-08-04T04:48:25.574822+00:00"
+  },
+  "Steve Womack": {
+    "candidate_ids_used": [
+      "H0AR03055"
+    ],
+    "total_supporting": 165849,
+    "total_opposing": 16020,
+    "cycles": [
+      2010,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00772152",
+        "committee_name": "ELECT PRINCIPLED VETERANS FUND (EPV FUND)",
+        "amount": 160500
+      },
+      {
+        "committee_id": "C00111278",
+        "committee_name": "NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE",
+        "amount": 6557
+      },
+      {
+        "committee_id": "C00509893",
+        "committee_name": "NATIONAL RIGHT TO LIFE VICTORY FUND",
+        "amount": 8
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00856559",
+        "committee_name": "CONSERVATIVES FOR ACTION PAC",
+        "amount": 17142
+      },
+      {
+        "committee_id": "C90015025",
+        "committee_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
+        "amount": 861
+      },
+      {
+        "committee_id": "C00489799",
+        "committee_name": "PLANNED PARENTHOOD VOTES",
+        "amount": 123
+      }
+    ],
+    "fetched_at": "2026-08-04T04:48:43.682808+00:00"
+  },
+  "Ro Khanna": {
+    "candidate_ids_used": [
+      "H4CA12055"
+    ],
+    "total_supporting": 250216,
+    "total_opposing": 38108,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00566679",
+        "committee_name": "CALIFORNIANS FOR INNOVATION",
+        "amount": 177089
+      },
+      {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 108545
+      },
+      {
+        "committee_id": "C00382283",
+        "committee_name": "OHLONE AREA UNITED DEMOCRATIC CAMPAIGN",
+        "amount": 13246
+      },
+      {
+        "committee_id": "C00664938",
+        "committee_name": "UNITED POLICE OFFICERS ASSOCIATION",
+        "amount": 5500
+      },
+      {
+        "committee_id": "C00755496",
+        "committee_name": "HE'S GOTTA GO PAC",
+        "amount": 4107
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00853119",
+        "committee_name": "VIABLE PAC",
+        "amount": 75000
+      },
+      {
+        "committee_id": "C00755496",
+        "committee_name": "HE'S GOTTA GO PAC",
+        "amount": 2357
+      }
+    ],
+    "fetched_at": "2026-08-04T04:48:57.004651+00:00"
+  },
+  "Mar\u00eda Elvira Salazar": {
+    "candidate_ids_used": [
+      "H8FL27185"
+    ],
+    "total_supporting": 1348300,
+    "total_opposing": 86318,
+    "cycles": [
+      2020,
+      2022,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 873539
+      },
+      {
+        "committee_id": "C00742130",
+        "committee_name": "LATINO VOTE FOR AMERICA PAC",
+        "amount": 127420
+      },
+      {
+        "committee_id": "C00651091",
+        "committee_name": "LEADERSHIP FOR A STRONG AMERICA",
+        "amount": 127267
+      },
+      {
+        "committee_id": "C00888867",
+        "committee_name": "LATINOS FOR CONSERVATIVE VALUES",
+        "amount": 71252
+      },
+      {
+        "committee_id": "C00801803",
+        "committee_name": "AMERICA FOR EVERYONE",
+        "amount": 60000
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00824920",
+        "committee_name": "UNITED FOR SOUTH FLORIDA",
+        "amount": 70000
+      },
+      {
+        "committee_id": "C00489799",
+        "committee_name": "PLANNED PARENTHOOD VOTES",
+        "amount": 115
+      }
+    ],
+    "fetched_at": "2026-08-04T04:49:51.693903+00:00"
+  },
+  "Buddy Carter": {
+    "candidate_ids_used": [
+      "H4GA01039",
+      "S6GA00374"
+    ],
+    "total_supporting": 87438,
+    "total_opposing": 888126,
+    "cycles": [
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00560532",
+        "committee_name": "PRESCRIPTION FOR AMERICA'S FUTURE",
+        "amount": 78153
+      },
+      {
+        "committee_id": "C00053553",
+        "committee_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "amount": 9268
+      },
+      {
+        "committee_id": "C00424143",
+        "committee_name": "ALLIANCE FOR PHARMACY COMPOUNDING PAC (COMP PAC)",
+        "amount": 5000
+      },
+      {
+        "committee_id": "C00111278",
+        "committee_name": "NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE",
+        "amount": 8
+      },
+      {
+        "committee_id": "C00509893",
+        "committee_name": "NATIONAL RIGHT TO LIFE VICTORY FUND",
+        "amount": 8
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00844613",
+        "committee_name": "WIN IT BACK PAC",
+        "amount": 488717
+      },
+      {
+        "committee_id": "C00487470",
+        "committee_name": "CLUB FOR GROWTH ACTION",
+        "amount": 387929
+      },
+      {
+        "committee_id": "C00560615",
+        "committee_name": "AMERICAN JOBS COUNCIL FEDERAL POLITICAL ACTION INC",
+        "amount": 9867
+      },
+      {
+        "committee_id": "C90015025",
+        "committee_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
+        "amount": 861
+      },
+      {
+        "committee_id": "C00522458",
+        "committee_name": "TOGETHER WE THRIVE",
+        "amount": 750
+      }
+    ],
+    "fetched_at": "2026-08-04T04:50:21.610032+00:00"
+  },
+  "Hank Johnson": {
+    "candidate_ids_used": [
+      "H6GA04129"
+    ],
+    "total_supporting": 1929,
+    "total_opposing": 0,
+    "cycles": [
+      2008,
+      2010,
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00522458",
+        "committee_name": "TOGETHER WE THRIVE",
+        "amount": 750
+      },
+      {
+        "committee_id": "C00612820",
+        "committee_name": "COMMUNITY CHANGE VOTERS",
+        "amount": 461
+      },
+      {
+        "committee_id": "C00489799",
+        "committee_name": "PLANNED PARENTHOOD VOTES",
+        "amount": 360
+      },
+      {
+        "committee_id": "C00135368",
+        "committee_name": "SIERRA CLUB POLITICAL COMMITTEE",
+        "amount": 360
+      },
+      {
+        "committee_id": "C00489815",
+        "committee_name": "NEA ADVOCACY FUND",
+        "amount": 67
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T04:51:28.524269+00:00"
+  },
+  "Austin Scott": {
+    "candidate_ids_used": [
+      "H0GA08099"
+    ],
+    "total_supporting": 17160,
+    "total_opposing": 45681,
+    "cycles": [
+      2010,
+      2016,
+      2018,
+      2020,
+      2022,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00053553",
+        "committee_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "amount": 10115
+      },
+      {
+        "committee_id": "C00300426",
+        "committee_name": "SOUTHEAST COTTON COMMITTEE (SECC) SOUTHERN COTTONGROWERS INC/SE COTTON GINNERS ASSN",
+        "amount": 5000
+      },
+      {
+        "committee_id": "C90011669",
+        "committee_name": "AMERICANS FOR JOB SECURITY",
+        "amount": 3653
+      },
+      {
+        "committee_id": "C90011289",
+        "committee_name": "AMERICANS FOR TAX REFORM",
+        "amount": 2867
+      },
+      {
+        "committee_id": "C00541433",
+        "committee_name": "HUNTER ACTION FUND (HAF)",
+        "amount": 506
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE",
+        "amount": 42321
+      },
+      {
+        "committee_id": "C00821439",
+        "committee_name": "MAHA PAC",
+        "amount": 1748
+      },
+      {
+        "committee_id": "C90015025",
+        "committee_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
+        "amount": 861
+      },
+      {
+        "committee_id": "C00522458",
+        "committee_name": "TOGETHER WE THRIVE",
+        "amount": 750
+      }
+    ],
+    "fetched_at": "2026-08-04T04:51:46.476310+00:00"
+  },
+  "Bill Foster": {
+    "candidate_ids_used": [
+      "H8IL14067",
+      "H2IL11124"
+    ],
+    "total_supporting": 1268782,
+    "total_opposing": 5421044,
+    "cycles": [
+      2008,
+      2010,
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00030718",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+        "amount": 796891
+      },
+      {
+        "committee_id": "C00004036",
+        "committee_name": "SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION (SEIU COPE)",
+        "amount": 236386
+      },
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE",
+        "amount": 109901
+      },
+      {
+        "committee_id": "C00871368",
+        "committee_name": "PROJECT 218",
+        "amount": 62305
+      },
+      {
+        "committee_id": "C00710848",
+        "committee_name": "DMFI PAC",
+        "amount": 40851
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00075820",
+        "committee_name": "NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE",
+        "amount": 3567338
+      },
+      {
+        "committee_id": "C00487470",
+        "committee_name": "CLUB FOR GROWTH ACTION",
+        "amount": 758156
+      },
+      {
+        "committee_id": "C00523589",
+        "committee_name": "AMERICAN UNITY PAC INC",
+        "amount": 528534
+      },
+      {
+        "committee_id": "C00488494",
+        "committee_name": "NEW PROSPERITY FOUNDATION; THE",
+        "amount": 282149
+      },
+      {
+        "committee_id": "C90011677",
+        "committee_name": "AMERICAN FUTURE FUND",
+        "amount": 193453
+      }
+    ],
+    "fetched_at": "2026-08-04T04:52:36.182636+00:00"
+  },
+  "Andr\u00e9 Carson": {
+    "candidate_ids_used": [
+      "H8IN07184"
+    ],
+    "total_supporting": 410052,
+    "total_opposing": 16952,
+    "cycles": [
+      2008,
+      2010,
+      2012,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE",
+        "amount": 269725
+      },
+      {
+        "committee_id": "C00004036",
+        "committee_name": "SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION (SEIU COPE)",
+        "amount": 150000
+      },
+      {
+        "committee_id": "C00742080",
+        "committee_name": "PLANNED PARENTHOOD ALLIANCE PAC , SERVING WA, AK, ID, HI, IN, KY",
+        "amount": 1875
+      },
+      {
+        "committee_id": "C00135368",
+        "committee_name": "SIERRA CLUB POLITICAL COMMITTEE",
+        "amount": 330
+      },
+      {
+        "committee_id": "C90004185",
+        "committee_name": "NARAL Pro-Choice America",
+        "amount": 131
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00808196",
+        "committee_name": "LEADERSHIP FOR INDIANA PAC",
+        "amount": 16951
+      }
+    ],
+    "fetched_at": "2026-08-04T04:54:24.060447+00:00"
+  },
+  "Ashley Hinson": {
+    "candidate_ids_used": [
+      "H0IA01174",
+      "S6IA00314"
+    ],
+    "total_supporting": 3027008,
+    "total_opposing": 4380777,
+    "cycles": [
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION)",
+        "amount": 877180
+      },
+      {
+        "committee_id": "C00571703",
+        "committee_name": "SLF PAC",
+        "amount": 643423
+      },
+      {
+        "committee_id": "C00750182",
+        "committee_name": "OPPORTUNITY MATTERS FUND, INC.",
+        "amount": 546677
+      },
+      {
+        "committee_id": "C00504530",
+        "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+        "amount": 399433
+      },
+      {
+        "committee_id": "C00608943",
+        "committee_name": "CLEARPATH ACTION FUND, INC.",
+        "amount": 234878
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00495028",
+        "committee_name": "HOUSE MAJORITY PAC",
+        "amount": 1548774
+      },
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DCCC",
+        "amount": 756369
+      },
+      {
+        "committee_id": "C00492140",
+        "committee_name": "AB PAC",
+        "amount": 536861
+      },
+      {
+        "committee_id": "C00473918",
+        "committee_name": "WOMEN VOTE!",
+        "amount": 170746
+      },
+      {
+        "committee_id": "C90011172",
+        "committee_name": "AMERICAN FEDERATION OF STATE COUNTY AND MUNICIPAL EMPLOYEES AFL-CIO",
+        "amount": 117714
+      }
+    ],
+    "fetched_at": "2026-08-04T04:54:43.035463+00:00"
+  },
+  "Brett Guthrie": {
+    "candidate_ids_used": [
+      "H8KY02031"
+    ],
+    "total_supporting": 124799,
+    "total_opposing": 622125,
+    "cycles": [
+      2008,
+      2010,
+      2012,
+      2016,
+      2018,
+      2020,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C90011578",
+        "committee_name": "AMERICAN CHEMISTRY COUNCIL, INC",
+        "amount": 80276
+      },
+      {
+        "committee_id": "C00343137",
+        "committee_name": "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS",
+        "amount": 32000
+      },
+      {
+        "committee_id": "C00053553",
+        "committee_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "amount": 9286
+      },
+      {
+        "committee_id": "C00111278",
+        "committee_name": "NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE",
+        "amount": 2378
+      },
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE",
+        "amount": 752
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE",
+        "amount": 630705
+      },
+      {
+        "committee_id": "C90015025",
+        "committee_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
+        "amount": 861
+      },
+      {
+        "committee_id": "C00522458",
+        "committee_name": "TOGETHER WE THRIVE",
+        "amount": 750
+      }
+    ],
+    "fetched_at": "2026-08-04T04:55:05.158788+00:00"
+  },
+  "Andy Barr": {
+    "candidate_ids_used": [
+      "H0KY06104",
+      "S6KY00286"
+    ],
+    "total_supporting": 15992894,
+    "total_opposing": 10832316,
+    "cycles": [
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00836221",
+        "committee_name": "DEFEND AMERICAN JOBS",
+        "amount": 7276846
+      },
+      {
+        "committee_id": "C00896365",
+        "committee_name": "KEEP AMERICA GREAT PAC, INC.",
+        "amount": 5675607
+      },
+      {
+        "committee_id": "C00488742",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND",
+        "amount": 736529
+      },
+      {
+        "committee_id": "C00916692",
+        "committee_name": "AMERICAN MISSION",
+        "amount": 676369
+      },
+      {
+        "committee_id": "C00915181",
+        "committee_name": "FELLOWSHIP PAC",
+        "amount": 628597
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00844613",
+        "committee_name": "WIN IT BACK PAC",
+        "amount": 4439887
+      },
+      {
+        "committee_id": "C00898130",
+        "committee_name": "FIGHT FOR KENTUCKY",
+        "amount": 3841708
+      },
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE",
+        "amount": 622966
+      },
+      {
+        "committee_id": "C00659011",
+        "committee_name": "WITH HONOR FUND, INC.",
+        "amount": 605195
+      },
+      {
+        "committee_id": "C00418897",
+        "committee_name": "VOTEVETS",
+        "amount": 507418
+      }
+    ],
+    "fetched_at": "2026-08-04T04:57:07.358452+00:00"
+  },
+  "Mike Johnson": {
+    "candidate_ids_used": [
+      "H6LA04138"
+    ],
+    "total_supporting": 151083,
+    "total_opposing": 121756,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00524181",
+        "committee_name": "SENATE CONSERVATIVES ACTION",
+        "amount": 56914
+      },
+      {
+        "committee_id": "C00609917",
+        "committee_name": "PROTECT LOUISIANA, INC.",
+        "amount": 47179
+      },
+      {
+        "committee_id": "C00499020",
+        "committee_name": "FREEDOMWORKS FOR AMERICA",
+        "amount": 21079
+      },
+      {
+        "committee_id": "C00448696",
+        "committee_name": "SENATE CONSERVATIVES FUND",
+        "amount": 14673
+      },
+      {
+        "committee_id": "C00619445",
+        "committee_name": "WARRIOR PAC",
+        "amount": 8103
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00618074",
+        "committee_name": "FIGHTING FOR LOUISIANA",
+        "amount": 107000
+      },
+      {
+        "committee_id": "C00556860",
+        "committee_name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA VOTES PAC",
+        "amount": 6644
+      },
+      {
+        "committee_id": "C00738674",
+        "committee_name": "REPRODUCTIVE FREEDOM FOR ALL FREEDOM FUND",
+        "amount": 5000
+      },
+      {
+        "committee_id": "C00787945",
+        "committee_name": "BLUEWAVEAMERICA LLC",
+        "amount": 1500
+      },
+      {
+        "committee_id": "C90015025",
+        "committee_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
+        "amount": 861
+      }
+    ],
+    "fetched_at": "2026-08-04T04:57:19.813101+00:00"
+  },
+  "Jack Bergman": {
+    "candidate_ids_used": [
+      "H6MI01226"
+    ],
+    "total_supporting": 568754,
+    "total_opposing": 2386213,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00075820",
+        "committee_name": "NRCC",
+        "amount": 424045
+      },
+      {
+        "committee_id": "C00173153",
+        "committee_name": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC)",
+        "amount": 68310
+      },
+      {
+        "committee_id": "C00041160",
+        "committee_name": "MICHIGAN REPUBLICAN PARTY",
+        "amount": 39585
+      },
+      {
+        "committee_id": "C00523241",
+        "committee_name": "SPECIAL OPERATIONS FOR AMERICA",
+        "amount": 35000
+      },
+      {
+        "committee_id": "C00053553",
+        "committee_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "amount": 11083
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00495028",
+        "committee_name": "HOUSE MAJORITY PAC",
+        "amount": 1330879
+      },
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DCCC",
+        "amount": 962332
+      },
+      {
+        "committee_id": "C00681726",
+        "committee_name": "GREAT LAKES, GREAT JOBS",
+        "amount": 108600
+      },
+      {
+        "committee_id": "C00488437",
+        "committee_name": "CONCERNED TAXPAYERS OF AMERICA",
+        "amount": 5007
+      },
+      {
+        "committee_id": "C90015025",
+        "committee_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
+        "amount": 861
+      }
+    ],
+    "fetched_at": "2026-08-04T04:57:33.054236+00:00"
+  },
+  "Trent Kelly": {
+    "candidate_ids_used": [
+      "H6MS01131"
+    ],
+    "total_supporting": 928,
+    "total_opposing": 862,
+    "cycles": [
+      2016,
+      2018,
+      2022
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00493221",
+        "committee_name": "THE GUARDIAN FUND",
+        "amount": 902
+      },
+      {
+        "committee_id": "C00111278",
+        "committee_name": "NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE",
+        "amount": 13
+      },
+      {
+        "committee_id": "C00509893",
+        "committee_name": "NATIONAL RIGHT TO LIFE VICTORY FUND",
+        "amount": 13
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C90015025",
+        "committee_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
+        "amount": 861
+      }
+    ],
+    "fetched_at": "2026-08-04T04:58:29.294420+00:00"
+  },
+  "Mike Ezell": {
+    "candidate_ids_used": [
+      "H2MS04258"
+    ],
+    "total_supporting": 92852,
+    "total_opposing": 37400,
+    "cycles": [
+      2022,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00715433",
+        "committee_name": "CONSTITUTIONAL LEADERSHIP PAC",
+        "amount": 91500
+      },
+      {
+        "committee_id": "C00493221",
+        "committee_name": "THE GUARDIAN FUND",
+        "amount": 722
+      },
+      {
+        "committee_id": "C00570416",
+        "committee_name": "GATORPAC",
+        "amount": 630
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00816355",
+        "committee_name": "CONSERVATIVE CHAMPIONS PAC",
+        "amount": 37400
+      }
+    ],
+    "fetched_at": "2026-08-04T04:58:35.279975+00:00"
+  },
+  "Tom Kean Jr.": {
+    "candidate_ids_used": [
+      "H0NJ07261",
+      "S6NJ00271",
+      "H0NJ07089"
+    ],
+    "total_supporting": 776471,
+    "total_opposing": 3002518,
+    "cycles": [
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00879510",
+        "committee_name": "AMERICA PAC",
+        "amount": 940814
+      },
+      {
+        "committee_id": "C00504530",
+        "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+        "amount": 202436
+      },
+      {
+        "committee_id": "C00739565",
+        "committee_name": "JERSEY REAL",
+        "amount": 127197
+      },
+      {
+        "committee_id": "C00030718",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+        "amount": 86067
+      },
+      {
+        "committee_id": "C00691949",
+        "committee_name": "FIREFIGHTERS SUPPORT ASSOCIATION PAC",
+        "amount": 28750
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00495028",
+        "committee_name": "HMP",
+        "amount": 4318081
+      },
+      {
+        "committee_id": "C00886614",
+        "committee_name": "YOUR COMMUNITY PAC",
+        "amount": 289000
+      },
+      {
+        "committee_id": "C00822379",
+        "committee_name": "MODERATE PARTY INDEPENDENT FUND",
+        "amount": 120000
+      },
+      {
+        "committee_id": "C00740225",
+        "committee_name": "NRDC ACTION VOTES",
+        "amount": 54837
+      },
+      {
+        "committee_id": "C90015140",
+        "committee_name": "AFT SOLIDARITY",
+        "amount": 8300
+      }
+    ],
+    "fetched_at": "2026-08-04T04:58:53.919553+00:00"
+  },
+  "Gabe Vasquez": {
+    "candidate_ids_used": [
+      "H2NM02191"
+    ],
+    "total_supporting": 1291720,
+    "total_opposing": 12362417,
+    "cycles": [
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C90018177",
+        "committee_name": "THE WILDERNESS SOCIETY ACTION FUND",
+        "amount": 250258
+      },
+      {
+        "committee_id": "C00606962",
+        "committee_name": "WFP NATIONAL PAC",
+        "amount": 146922
+      },
+      {
+        "committee_id": "C00797340",
+        "committee_name": "BLUE CD2 NEW MEXICO USA",
+        "amount": 51852
+      },
+      {
+        "committee_id": "C00887042",
+        "committee_name": "WORKERS EN ACCION PAC",
+        "amount": 17781
+      },
+      {
+        "committee_id": "C90011156",
+        "committee_name": "WORKING AMERICA",
+        "amount": 15181
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00504530",
+        "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+        "amount": 2193215
+      },
+      {
+        "committee_id": "C00075820",
+        "committee_name": "NRCC",
+        "amount": 1247055
+      },
+      {
+        "committee_id": "C00879510",
+        "committee_name": "AMERICA PAC",
+        "amount": 245229
+      },
+      {
+        "committee_id": "C00883322",
+        "committee_name": "THE L & C COALITION",
+        "amount": 50000
+      },
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 29432
+      }
+    ],
+    "fetched_at": "2026-08-04T04:59:13.135512+00:00"
+  },
+  "Dave Joyce": {
+    "candidate_ids_used": [
+      "H2OH14064"
+    ],
+    "total_supporting": 1148168,
+    "total_opposing": 75649,
+    "cycles": [
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00540203",
+        "committee_name": "DEFENDING MAIN STREET SUPERPAC INC",
+        "amount": 402935
+      },
+      {
+        "committee_id": "C00173153",
+        "committee_name": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC)",
+        "amount": 315550
+      },
+      {
+        "committee_id": "C90013145",
+        "committee_name": "US CHAMBER OF COMMERCE",
+        "amount": 250000
+      },
+      {
+        "committee_id": "C00106146",
+        "committee_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+        "amount": 149410
+      },
+      {
+        "committee_id": "C00680983",
+        "committee_name": "NO LABELS ACTION, INC.",
+        "amount": 68249
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00611202",
+        "committee_name": "FREEDOM FOR ALL PAC",
+        "amount": 43009
+      },
+      {
+        "committee_id": "C00499020",
+        "committee_name": "FREEDOMWORKS FOR AMERICA",
+        "amount": 15797
+      },
+      {
+        "committee_id": "C00540898",
+        "committee_name": "TEA PARTY PATRIOTS CITIZENS FUND",
+        "amount": 12428
+      },
+      {
+        "committee_id": "C90015025",
+        "committee_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
+        "amount": 5845
+      },
+      {
+        "committee_id": "C00489799",
+        "committee_name": "PLANNED PARENTHOOD VOTES",
+        "amount": 123
+      }
+    ],
+    "fetched_at": "2026-08-04T05:00:17.103802+00:00"
+  },
+  "Gabe Amo": {
+    "candidate_ids_used": [
+      "H4RI01265"
+    ],
+    "total_supporting": 75444,
+    "total_opposing": 0,
+    "cycles": [
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00774463",
+        "committee_name": "DEMOCRATS SERVE",
+        "amount": 72463
+      },
+      {
+        "committee_id": "C00710848",
+        "committee_name": "DMFI PAC",
+        "amount": 2800
+      },
+      {
+        "committee_id": "C00486845",
+        "committee_name": "LCV VICTORY FUND",
+        "amount": 129
+      },
+      {
+        "committee_id": "C00802389",
+        "committee_name": "GIVEGREEN UNITED ACTION",
+        "amount": 41
+      },
+      {
+        "committee_id": "C00483693",
+        "committee_name": "SIERRA CLUB INDEPENDENT ACTION",
+        "amount": 10
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T05:00:23.123409+00:00"
+  },
+  "Lizzie Fletcher": {
+    "candidate_ids_used": [
+      "H8TX07140"
+    ],
+    "total_supporting": 1873557,
+    "total_opposing": 8190862,
+    "cycles": [
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00532705",
+        "committee_name": "INDEPENDENCE USA PAC",
+        "amount": 1320323
+      },
+      {
+        "committee_id": "C00672576",
+        "committee_name": "BLACK ECONOMIC ALLIANCE PAC",
+        "amount": 39588
+      },
+      {
+        "committee_id": "C00580068",
+        "committee_name": "PROGRESSIVE TURNOUT PROJECT",
+        "amount": 38517
+      },
+      {
+        "committee_id": "C00030718",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+        "amount": 20705
+      },
+      {
+        "committee_id": "C90009358",
+        "committee_name": "HUMANE SOCIETY LEGISLATIVE FUND",
+        "amount": 19533
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00504530",
+        "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+        "amount": 3442384
+      },
+      {
+        "committee_id": "C00530766",
+        "committee_name": "WOMEN SPEAK OUT PAC",
+        "amount": 350804
+      },
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION)",
+        "amount": 148432
+      },
+      {
+        "committee_id": "C00625566",
+        "committee_name": "VALOR AMERICA",
+        "amount": 64067
+      },
+      {
+        "committee_id": "C00053553",
+        "committee_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "amount": 4165
+      }
+    ],
+    "fetched_at": "2026-08-04T05:01:24.047204+00:00"
+  },
+  "Al Green": {
+    "candidate_ids_used": [
+      "H4TX09095"
+    ],
+    "total_supporting": 1186,
+    "total_opposing": 47524,
+    "cycles": [
+      2010,
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00522458",
+        "committee_name": "TOGETHER WE THRIVE",
+        "amount": 750
+      },
+      {
+        "committee_id": "C00489799",
+        "committee_name": "PLANNED PARENTHOOD VOTES",
+        "amount": 317
+      },
+      {
+        "committee_id": "C00004036",
+        "committee_name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+        "amount": 110
+      },
+      {
+        "committee_id": "C00135368",
+        "committee_name": "SIERRA CLUB POLITICAL COMMITTEE",
+        "amount": 50
+      },
+      {
+        "committee_id": "C00235853",
+        "committee_name": "HUMAN RIGHTS CAMPAIGN PAC",
+        "amount": 22
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 47162
+      },
+      {
+        "committee_id": "C00432260",
+        "committee_name": "CLUB FOR GROWTH PAC",
+        "amount": 362
+      }
+    ],
+    "fetched_at": "2026-08-04T05:02:32.383516+00:00"
+  },
+  "Tony Gonzales": {
+    "candidate_ids_used": [
+      "H0TX35015"
+    ],
+    "total_supporting": 2795130,
+    "total_opposing": 5828262,
+    "cycles": [
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00826263",
+        "committee_name": "HISPANIC LEADERSHIP ALLIANCE",
+        "amount": 508640
+      },
+      {
+        "committee_id": "C00772152",
+        "committee_name": "ELECT PRINCIPLED VETERANS FUND (EPV FUND)",
+        "amount": 434209
+      },
+      {
+        "committee_id": "C00030718",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+        "amount": 294980
+      },
+      {
+        "committee_id": "C00659011",
+        "committee_name": "WITH HONOR FUND, INC.",
+        "amount": 248577
+      },
+      {
+        "committee_id": "C00864926",
+        "committee_name": "AMERICA LEADS ACTION INC.",
+        "amount": 124990
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00495028",
+        "committee_name": "HOUSE MAJORITY PAC",
+        "amount": 2610725
+      },
+      {
+        "committee_id": "C00000935",
+        "committee_name": "DCCC",
+        "amount": 623654
+      },
+      {
+        "committee_id": "C00486845",
+        "committee_name": "LCV VICTORY FUND",
+        "amount": 163361
+      },
+      {
+        "committee_id": "C90011172",
+        "committee_name": "AMERICAN FEDERATION OF STATE COUNTY AND MUNICIPAL EMPLOYEES AFL-CIO",
+        "amount": 128092
+      },
+      {
+        "committee_id": "C00688655",
+        "committee_name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
+        "amount": 114467
+      }
+    ],
+    "fetched_at": "2026-08-04T05:03:01.741252+00:00"
+  },
+  "Morgan Griffith": {
+    "candidate_ids_used": [
+      "H0VA09055"
+    ],
+    "total_supporting": 130354,
+    "total_opposing": 1612,
+    "cycles": [
+      2010,
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00075820",
+        "committee_name": "NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE",
+        "amount": 94066
+      },
+      {
+        "committee_id": "C00111278",
+        "committee_name": "NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE",
+        "amount": 16351
+      },
+      {
+        "committee_id": "C00552851",
+        "committee_name": "HOUSE FREEDOM FUND",
+        "amount": 6731
+      },
+      {
+        "committee_id": "C90011669",
+        "committee_name": "AMERICANS FOR JOB SECURITY",
+        "amount": 5647
+      },
+      {
+        "committee_id": "C00455444",
+        "committee_name": "AMERICANS IN CONTACT PAC",
+        "amount": 4711
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C90015025",
+        "committee_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
+        "amount": 861
+      },
+      {
+        "committee_id": "C00522458",
+        "committee_name": "TOGETHER WE THRIVE",
+        "amount": 750
+      }
+    ],
+    "fetched_at": "2026-08-04T05:03:23.876028+00:00"
+  },
+  "Bobby Scott": {
+    "candidate_ids_used": [
+      "H6VA01117"
+    ],
+    "total_supporting": 9351,
+    "total_opposing": 0,
+    "cycles": [
+      1992,
+      2000,
+      2002,
+      2004,
+      2006,
+      2008,
+      2010,
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00155952",
+        "committee_name": "DEMOCRATIC PARTY OF VIRGINIA",
+        "amount": 2409
+      },
+      {
+        "committee_id": "C00523621",
+        "committee_name": "UNITED WE CAN",
+        "amount": 2315
+      },
+      {
+        "committee_id": "C00265546",
+        "committee_name": "SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND",
+        "amount": 983
+      },
+      {
+        "committee_id": "C00522458",
+        "committee_name": "TOGETHER WE THRIVE",
+        "amount": 750
+      },
+      {
+        "committee_id": "C00135368",
+        "committee_name": "SIERRA CLUB POLITICAL COMMITTEE",
+        "amount": 380
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T05:04:51.104052+00:00"
+  },
+  "Adam Smith": {
+    "candidate_ids_used": [
+      "H6WA09025"
+    ],
+    "total_supporting": 81884,
+    "total_opposing": 28564,
+    "cycles": [
+      1996,
+      1998,
+      2000,
+      2002,
+      2006,
+      2010,
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C90004185",
+        "committee_name": "NARAL",
+        "amount": 48958
+      },
+      {
+        "committee_id": "C00101592",
+        "committee_name": "PUGET SOUND ENERGY INC GOOD GOVERNMENT COMMITTEE - FEDERAL",
+        "amount": 7820
+      },
+      {
+        "committee_id": "C00742080",
+        "committee_name": "PLANNED PARENTHOOD ALLIANCE PAC , SERVING WA, AK, ID, HI, IN, KY",
+        "amount": 6062
+      },
+      {
+        "committee_id": "C00111278",
+        "committee_name": "NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE",
+        "amount": 5543
+      },
+      {
+        "committee_id": "C00688994",
+        "committee_name": "TOGETHER FOR PROGRESS PAC",
+        "amount": 4011
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C90011313",
+        "committee_name": "SUSAN B ANTHONY LIST INC",
+        "amount": 19953
+      },
+      {
+        "committee_id": "C90011685",
+        "committee_name": "THE 60 PLUS ASSOCIATION",
+        "amount": 6122
+      },
+      {
+        "committee_id": "C90011701",
+        "committee_name": "REVERE AMERICA",
+        "amount": 1639
+      },
+      {
+        "committee_id": "C90011883",
+        "committee_name": "AMERICANS FOR LIMITED GOVERNMENT",
+        "amount": 850
+      }
+    ],
+    "fetched_at": "2026-08-04T05:05:24.208721+00:00"
+  },
+  "Gabe Evans": {
+    "candidate_ids_used": [
+      "H4CO08034"
+    ],
+    "total_supporting": 2101773,
+    "total_opposing": 10486327,
+    "cycles": [
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 412667
+      },
+      {
+        "committee_id": "C00879510",
+        "committee_name": "AMERICA PAC",
+        "amount": 319302
+      },
+      {
+        "committee_id": "C00523241",
+        "committee_name": "SPECIAL OPERATIONS FOR AMERICA",
+        "amount": 23620
+      },
+      {
+        "committee_id": "C00504530",
+        "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+        "amount": 17948
+      },
+      {
+        "committee_id": "C00570226",
+        "committee_name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+        "amount": 12000
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00495028",
+        "committee_name": "HMP",
+        "amount": 4597693
+      },
+      {
+        "committee_id": "C00692319",
+        "committee_name": "VPP",
+        "amount": 283945
+      },
+      {
+        "committee_id": "C00707844",
+        "committee_name": "EDF ACTION VOTES",
+        "amount": 246208
+      },
+      {
+        "committee_id": "C00365536",
+        "committee_name": "CHC BOLD PAC",
+        "amount": 217150
+      },
+      {
+        "committee_id": "C00885707",
+        "committee_name": "MAINSTREAM COLORADO FUND",
+        "amount": 189000
+      }
+    ],
+    "fetched_at": "2026-08-04T05:05:36.106638+00:00"
+  },
+  "Nellie Pou": {
+    "candidate_ids_used": [
+      "H4NJ09194"
+    ],
+    "total_supporting": 193,
+    "total_opposing": 0,
+    "cycles": [
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00802389",
+        "committee_name": "GIVEGREEN UNITED ACTION",
+        "amount": 182
+      },
+      {
+        "committee_id": "C00483693",
+        "committee_name": "SIERRA CLUB INDEPENDENT ACTION",
+        "amount": 10
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T05:05:40.171234+00:00"
+  },
+  "Eugene Vindman": {
+    "candidate_ids_used": [
+      "H4VA07234"
+    ],
+    "total_supporting": 2278126,
+    "total_opposing": 3895345,
+    "cycles": [
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00495028",
+        "committee_name": "HMP",
+        "amount": 1048554
+      },
+      {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 889852
+      },
+      {
+        "committee_id": "C00418897",
+        "committee_name": "VOTEVETS",
+        "amount": 514784
+      },
+      {
+        "committee_id": "C00486845",
+        "committee_name": "LCV VICTORY FUND",
+        "amount": 335735
+      },
+      {
+        "committee_id": "C00685693",
+        "committee_name": "CASA IN ACTION PAC",
+        "amount": 124071
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00504530",
+        "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+        "amount": 2144553
+      },
+      {
+        "committee_id": "C00668905",
+        "committee_name": "AMERICAN PATRIOTS PAC",
+        "amount": 1524017
+      },
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 203875
+      },
+      {
+        "committee_id": "C00825885",
+        "committee_name": "PATRIOTS FOR A BRIGHTER AMERICA",
+        "amount": 22900
+      }
+    ],
+    "fetched_at": "2026-08-04T05:05:44.713308+00:00"
+  },
+  "Angie Craig": {
+    "candidate_ids_used": [
+      "H6MN02131",
+      "S6MN00499"
+    ],
+    "total_supporting": 4275870,
+    "total_opposing": 13427610,
+    "cycles": [
+      2018,
+      2020,
+      2022,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00568444",
+        "committee_name": "CENTER FORWARD COMMITTEE",
+        "amount": 1229749
+      },
+      {
+        "committee_id": "C00835959",
+        "committee_name": "FAIRSHAKE",
+        "amount": 973501
+      },
+      {
+        "committee_id": "C00770149",
+        "committee_name": "SHIELD PAC",
+        "amount": 324950
+      },
+      {
+        "committee_id": "C00692319",
+        "committee_name": "VPP",
+        "amount": 284052
+      },
+      {
+        "committee_id": "C00550970",
+        "committee_name": "EQUALITY PAC",
+        "amount": 176219
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00504530",
+        "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+        "amount": 5286757
+      },
+      {
+        "committee_id": "C00075820",
+        "committee_name": "NRCC",
+        "amount": 4599814
+      },
+      {
+        "committee_id": "C00685719",
+        "committee_name": "DLGA",
+        "amount": 1150778
+      },
+      {
+        "committee_id": "C00634261",
+        "committee_name": "DEFEND US PAC",
+        "amount": 222871
+      },
+      {
+        "committee_id": "C00912477",
+        "committee_name": "CLEAR VOICE MINNESOTA",
+        "amount": 121000
+      }
+    ],
+    "fetched_at": "2026-08-04T05:06:18.679657+00:00"
+  },
+  "John McGuire": {
+    "candidate_ids_used": [
+      "H0VA07133",
+      "H2VA07196"
+    ],
+    "total_supporting": 0,
+    "total_opposing": 0,
+    "cycles": [],
+    "top_supporters": [
+      {
+        "committee_id": "C00668905",
+        "committee_name": "AMERICAN PATRIOTS PAC",
+        "amount": 1432028
+      },
+      {
+        "committee_id": "C00540203",
+        "committee_name": "DEFENDING MAIN STREET SUPERPAC INC.",
+        "amount": 451991
+      },
+      {
+        "committee_id": "C00523241",
+        "committee_name": "SPECIAL OPERATIONS FOR AMERICA",
+        "amount": 50000
+      },
+      {
+        "committee_id": "C00872200",
+        "committee_name": "VIRGINIA PATRIOTS FOR FREEDOM",
+        "amount": 30000
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00748475",
+        "committee_name": "CONSERVATIVE OUTSIDER PAC INC",
+        "amount": 2130152
+      },
+      {
+        "committee_id": "C00662221",
+        "committee_name": "HOUSE FREEDOM ACTION",
+        "amount": 642904
+      },
+      {
+        "committee_id": "C00587022",
+        "committee_name": "COURAGEOUS CONSERVATIVES PAC",
+        "amount": 70678
+      },
+      {
+        "committee_id": "C00873638",
+        "committee_name": "CHAMPIONS OF FREEDOM PAC",
+        "amount": 49904
+      },
+      {
+        "committee_id": "C00742635",
+        "committee_name": "GUN RIGHTS AMERICA",
+        "amount": 13212
+      }
+    ],
+    "fetched_at": "2026-08-04T05:06:29.131769+00:00"
+  },
+  "Gil Cisneros": {
+    "candidate_ids_used": [
+      "H8CA39174",
+      "H4CA31170"
+    ],
+    "total_supporting": 2838691,
+    "total_opposing": 6281032,
+    "cycles": [
+      2018,
+      2020,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00488742",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND",
+        "amount": 729748
+      },
+      {
+        "committee_id": "C00687830",
+        "committee_name": "CALIFORNIANS FOR CHANGE",
+        "amount": 295154
+      },
+      {
+        "committee_id": "C00659011",
+        "committee_name": "WITH HONOR FUND, INC.",
+        "amount": 253249
+      },
+      {
+        "committee_id": "C00687848",
+        "committee_name": "PLANNED PARENTHOOD OF ORANGE AND SAN BERNARDINO COUNTIES' COMMUNITY ACTION FUND PAC",
+        "amount": 50823
+      },
+      {
+        "committee_id": "C00030718",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+        "amount": 46400
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00740555",
+        "committee_name": "SAVECALIFORNIANOW",
+        "amount": 85594
+      },
+      {
+        "committee_id": "C00504530",
+        "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+        "amount": 20000
+      },
+      {
+        "committee_id": "C00158402",
+        "committee_name": "REPUBLICAN PARTY OF ORANGE COUNTY (FEDERAL)",
+        "amount": 12000
+      },
+      {
+        "committee_id": "C90016973",
+        "committee_name": "GREENPEACE, INC.",
+        "amount": 1373
+      }
+    ],
+    "fetched_at": "2026-08-04T05:07:00.111984+00:00"
+  },
+  "Kimberlyn King-Hinds": {
+    "candidate_ids_used": [
+      "H4MP01022"
+    ],
+    "total_supporting": 0,
+    "total_opposing": 0,
+    "cycles": [],
+    "top_supporters": [],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T05:07:04.039007+00:00"
+  },
+  "Christian Menefee": {
+    "candidate_ids_used": [
+      "H6TX18232"
+    ],
+    "total_supporting": 7065646,
+    "total_opposing": 0,
+    "cycles": [
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 6471279
+      },
+      {
+        "committee_id": "C00843110",
+        "committee_name": "LEADERS WE DESERVE",
+        "amount": 286584
+      },
+      {
+        "committee_id": "C00871368",
+        "committee_name": "PROJECT 218",
+        "amount": 199999
+      },
+      {
+        "committee_id": "C00513176",
+        "committee_name": "CONGRESSIONAL PROGRESSIVE CAUCUS PAC",
+        "amount": 100000
+      },
+      {
+        "committee_id": "C00756940",
+        "committee_name": "TEXAS ORGANIZING PROJECT POLITICAL ACTION COMMITTEE",
+        "amount": 7771
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T05:07:06.452754+00:00"
+  },
+  "Analilia Mejia": {
+    "candidate_ids_used": [
+      "H6NJ11286"
+    ],
+    "total_supporting": 476619,
+    "total_opposing": 0,
+    "cycles": [
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00606962",
+        "committee_name": "WORKING FAMILIES PARTY PAC",
+        "amount": 283269
+      },
+      {
+        "committee_id": "C00513176",
+        "committee_name": "CONGRESSIONAL PROGRESSIVE CAUCUS PAC",
+        "amount": 50000
+      },
+      {
+        "committee_id": "C00685552",
+        "committee_name": "MEDICARE FOR ALL",
+        "amount": 50000
+      },
+      {
+        "committee_id": "C90019969",
+        "committee_name": "GARDEN STATE FORWARD",
+        "amount": 40000
+      },
+      {
+        "committee_id": "C00879080",
+        "committee_name": "CITIZENS AGAINST AIPAC CORRUPTION",
+        "amount": 35000
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T05:07:08.849017+00:00"
+  },
+  "Alan Armstrong": {
+    "candidate_ids_used": [],
+    "total_supporting": 0,
+    "total_opposing": 0,
+    "cycles": [],
+    "top_supporters": [],
+    "top_opposers": [],
+    "note": "no candidate_id available",
+    "fetched_at": "2026-08-04T05:07:08.849072+00:00"
+  },
+  "Nancy Pelosi": {
+    "candidate_ids_used": [
+      "H8CA05035"
+    ],
+    "total_supporting": 34490,
+    "total_opposing": 2295079,
+    "cycles": [
+      1988,
+      1990,
+      1992,
+      1994,
+      1996,
+      1998,
+      2000,
+      2002,
+      2006,
+      2008,
+      2010,
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00553560",
+        "committee_name": "VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY)",
+        "amount": 14739
+      },
+      {
+        "committee_id": "C00392928",
+        "committee_name": "SAN FRANCISCO DEMOCRATIC COUNTY CENTRAL COMMITTEE",
+        "amount": 9584
+      },
+      {
+        "committee_id": "C90021387",
+        "committee_name": "COALITION TO GROW SAN FRANCISCO - GROW SF PAC",
+        "amount": 6421
+      },
+      {
+        "committee_id": "C00705277",
+        "committee_name": "ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC",
+        "amount": 3128
+      },
+      {
+        "committee_id": "C00244418",
+        "committee_name": "VOTER GUIDE",
+        "amount": 2504
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00574533",
+        "committee_name": "FUTURE45",
+        "amount": 1910480
+      },
+      {
+        "committee_id": "C00553560",
+        "committee_name": "VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY)",
+        "amount": 456596
+      },
+      {
+        "committee_id": "C00504530",
+        "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+        "amount": 75000
+      },
+      {
+        "committee_id": "C00667865",
+        "committee_name": "POLICE OFFICERS DEFENSE ALLIANCE LLC",
+        "amount": 50000
+      },
+      {
+        "committee_id": "C00662072",
+        "committee_name": "DRAIN THE DC SWAMP PAC",
+        "amount": 36666
+      }
+    ],
+    "fetched_at": "2026-08-04T05:07:55.311062+00:00"
+  },
+  "Amata Coleman Radewagen": {
+    "candidate_ids_used": [
+      "H4AS00036"
+    ],
+    "total_supporting": 265,
+    "total_opposing": 0,
+    "cycles": [
+      2022
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00771865",
+        "committee_name": "AMERICAN VETERANS SUPPORT GROUP PAC",
+        "amount": 265
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T05:08:09.255806+00:00"
+  },
+  "Graham Platner": {
+    "candidate_ids_used": [
+      "S6ME00373"
+    ],
+    "total_supporting": 423203,
+    "total_opposing": 9230161,
+    "cycles": [
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00620021",
+        "committee_name": "COMMON DEFENSE ACTION FUND",
+        "amount": 219000
+      },
+      {
+        "committee_id": "C00752147",
+        "committee_name": "MAINE PEOPLE",
+        "amount": 96485
+      },
+      {
+        "committee_id": "C00490375",
+        "committee_name": "NATIONAL NURSES UNITED FOR PATIENT PROTECTION",
+        "amount": 50606
+      },
+      {
+        "committee_id": "C00913178",
+        "committee_name": "LEAGUE OF LABOR VOTERS",
+        "amount": 50000
+      },
+      {
+        "committee_id": "C00835041",
+        "committee_name": "FORWARD BLUE",
+        "amount": 5611
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00894709",
+        "committee_name": "PINE TREE RESULTS PAC",
+        "amount": 8861536
+      },
+      {
+        "committee_id": "C00571703",
+        "committee_name": "SLF PAC",
+        "amount": 250000
+      },
+      {
+        "committee_id": "C00946921",
+        "committee_name": "LEAD MAINE COMMITTEE, INC.",
+        "amount": 102625
+      },
+      {
+        "committee_id": "C99002396",
+        "committee_name": "AMERICAN POLITICAL ACTION COMMITTEE",
+        "amount": 15000
+      },
+      {
+        "committee_id": "C00811166",
+        "committee_name": "THE SENTINEL ACTION FUND",
+        "amount": 1000
+      }
+    ],
+    "fetched_at": "2026-08-04T05:09:11.768320+00:00"
+  },
+  "James Talarico": {
+    "candidate_ids_used": [
+      "S6TX00479"
+    ],
+    "total_supporting": 4143535,
+    "total_opposing": 763010,
+    "cycles": [
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00918268",
+        "committee_name": "LONE STAR RISING PAC",
+        "amount": 3980261
+      },
+      {
+        "committee_id": "C00562777",
+        "committee_name": "LATINO VICTORY FUND",
+        "amount": 82500
+      },
+      {
+        "committee_id": "C00835041",
+        "committee_name": "FORWARD BLUE",
+        "amount": 33355
+      },
+      {
+        "committee_id": "C00909994",
+        "committee_name": "FIELD TEAM 6, INC.",
+        "amount": 13250
+      },
+      {
+        "committee_id": "C00640300",
+        "committee_name": "ACTIVATE AMERICA",
+        "amount": 10749
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00930099",
+        "committee_name": "FORWARD TEXAS",
+        "amount": 505023
+      },
+      {
+        "committee_id": "C00901223",
+        "committee_name": "LONE STAR LIBERTY PAC",
+        "amount": 200000
+      },
+      {
+        "committee_id": "C00844613",
+        "committee_name": "WIN IT BACK PAC",
+        "amount": 42986
+      },
+      {
+        "committee_id": "C99002396",
+        "committee_name": "AMERICAN POLITICAL ACTION COMMITTEE",
+        "amount": 15000
+      }
+    ],
+    "fetched_at": "2026-08-04T05:09:29.726309+00:00"
+  },
+  "Ken Paxton": {
+    "candidate_ids_used": [
+      "S6TX00388"
+    ],
+    "total_supporting": 1282974,
+    "total_opposing": 26905075,
+    "cycles": [
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00901223",
+        "committee_name": "LONE STAR LIBERTY PAC",
+        "amount": 770070
+      },
+      {
+        "committee_id": "C00915181",
+        "committee_name": "FELLOWSHIP PAC",
+        "amount": 500000
+      },
+      {
+        "committee_id": "C00747121",
+        "committee_name": "RED SENATE",
+        "amount": 7614
+      },
+      {
+        "committee_id": "C00817122",
+        "committee_name": "GOA VICTORY FUND",
+        "amount": 1985
+      },
+      {
+        "committee_id": "C00587022",
+        "committee_name": "COURAGEOUS CONSERVATIVES PAC",
+        "amount": 1500
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00542217",
+        "committee_name": "TEXANS FOR A CONSERVATIVE MAJORITY",
+        "amount": 11881353
+      },
+      {
+        "committee_id": "C00948695",
+        "committee_name": "TEXANS DEMANDING ACCOUNTABILITY",
+        "amount": 1853480
+      },
+      {
+        "committee_id": "C00918268",
+        "committee_name": "LONE STAR RISING PAC",
+        "amount": 105409
+      },
+      {
+        "committee_id": "C00940502",
+        "committee_name": "LONE STAR VOICES",
+        "amount": 2213
+      }
+    ],
+    "fetched_at": "2026-08-04T05:10:31.956457+00:00"
+  },
+  "Roy Cooper": {
+    "candidate_ids_used": [
+      "S6NC00407"
+    ],
+    "total_supporting": 63348,
+    "total_opposing": 1231592,
+    "cycles": [
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00835041",
+        "committee_name": "FORWARD BLUE",
+        "amount": 22116
+      },
+      {
+        "committee_id": "C90023284",
+        "committee_name": "MODSQUAD ACTION",
+        "amount": 15000
+      },
+      {
+        "committee_id": "C00909994",
+        "committee_name": "FIELD TEAM 6, INC.",
+        "amount": 13059
+      },
+      {
+        "committee_id": "C00640300",
+        "committee_name": "ACTIVATE AMERICA",
+        "amount": 9102
+      },
+      {
+        "committee_id": "C00710848",
+        "committee_name": "DMFI PAC",
+        "amount": 2651
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 662640
+      },
+      {
+        "committee_id": "C00571703",
+        "committee_name": "SLF PAC",
+        "amount": 560551
+      },
+      {
+        "committee_id": "C00747121",
+        "committee_name": "RED SENATE",
+        "amount": 9400
+      }
+    ],
+    "fetched_at": "2026-08-04T05:11:34.644828+00:00"
+  },
+  "Michael Whatley": {
+    "candidate_ids_used": [
+      "S6NC00415"
+    ],
+    "total_supporting": 3736593,
+    "total_opposing": 0,
+    "cycles": [
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 3127168
+      },
+      {
+        "committee_id": "C00571703",
+        "committee_name": "SLF PAC",
+        "amount": 657772
+      },
+      {
+        "committee_id": "C00747121",
+        "committee_name": "RED SENATE",
+        "amount": 1651
+      }
+    ],
+    "top_opposers": [],
+    "fetched_at": "2026-08-04T05:11:54.077889+00:00"
+  },
+  "Mary Peltola": {
+    "candidate_ids_used": [
+      "H2AK01158"
+    ],
+    "total_supporting": 6501148,
+    "total_opposing": 9411338,
+    "cycles": [
+      2022,
+      2024
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00825091",
+        "committee_name": "VOTE ALASKA BEFORE PARTY",
+        "amount": 1717805
+      },
+      {
+        "committee_id": "C00757294",
+        "committee_name": "INDEPENDENT ALASKA",
+        "amount": 684847
+      },
+      {
+        "committee_id": "C00806075",
+        "committee_name": "ALASKANS FOR BRISTOL BAY ACTION",
+        "amount": 662877
+      },
+      {
+        "committee_id": "C00707844",
+        "committee_name": "EDF ACTION VOTES",
+        "amount": 171017
+      },
+      {
+        "committee_id": "C00863472",
+        "committee_name": "EDW ACTION FUND",
+        "amount": 75000
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00504530",
+        "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+        "amount": 2518355
+      },
+      {
+        "committee_id": "C00487470",
+        "committee_name": "CLUB FOR GROWTH ACTION",
+        "amount": 1047226
+      },
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 108226
+      },
+      {
+        "committee_id": "C00844613",
+        "committee_name": "WIN IT BACK PAC",
+        "amount": 83506
+      },
+      {
+        "committee_id": "C00879510",
+        "committee_name": "AMERICA PAC",
+        "amount": 76798
+      }
+    ],
+    "fetched_at": "2026-08-04T05:12:17.839732+00:00"
+  },
+  "Sherrod Brown": {
+    "candidate_ids_used": [
+      "S6OH00163"
+    ],
+    "total_supporting": 53424893,
+    "total_opposing": 249470034,
+    "cycles": [
+      2012,
+      2018,
+      2024,
+      2026
+    ],
+    "top_supporters": [
+      {
+        "committee_id": "C00744920",
+        "committee_name": "CFFE PAC",
+        "amount": 910000
+      },
+      {
+        "committee_id": "C00609388",
+        "committee_name": "BLACK PAC",
+        "amount": 831306
+      },
+      {
+        "committee_id": "C00488742",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND",
+        "amount": 629100
+      },
+      {
+        "committee_id": "C00625533",
+        "committee_name": "NEW AMERICAN JOBS FUND",
+        "amount": 557371
+      },
+      {
+        "committee_id": "C00523621",
+        "committee_name": "SERVICE EMPLOYEES INTERNATIONAL UNION PEA - FEDERAL",
+        "amount": 241828
+      }
+    ],
+    "top_opposers": [
+      {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 1689408
+      },
+      {
+        "committee_id": "C00912865",
+        "committee_name": "OHIO FLYER PAC",
+        "amount": 1664222
+      },
+      {
+        "committee_id": "C00834630",
+        "committee_name": "BUCKEYE VALUES PAC",
+        "amount": 1650000
+      },
+      {
+        "committee_id": "C00571703",
+        "committee_name": "SENATE LEADERSHIP FUND",
+        "amount": 1273591
+      },
+      {
+        "committee_id": "C00686865",
+        "committee_name": "METOO OHIO",
+        "amount": 712004
+      }
+    ],
+    "fetched_at": "2026-08-04T05:18:12.061560+00:00"
+  },
+  "Josh Turek": {
+    "candidate_ids_used": [],
+    "total_supporting": 0,
+    "total_opposing": 0,
+    "cycles": [],
+    "top_supporters": [],
+    "top_opposers": [],
+    "note": "no candidate_id available",
+    "fetched_at": "2026-08-04T05:18:12.061638+00:00"
   }
 }

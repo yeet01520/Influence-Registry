@@ -5,7 +5,7 @@ compute_scores.py
 Compute the Special Interest Money Score for every official in The Influence Registry,
 matching the live-site logic exactly. Output: data/scores.json.
 
-This script is the single source of truth for scores. Both the live site (index.html)
+This script is the single source of truth for scores. Both the live site (app.html)
 and the static page generator (generate_static_pages.py) read this file. When you want
 to change scoring logic, change it here, regenerate scores.json, and both surfaces
 update automatically.

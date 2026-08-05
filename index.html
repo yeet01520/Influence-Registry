@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Influence Registry — Follow the money in Congress</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:opsz,wght@10..72,600;10..72,700;10..72,900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap');
+
+/* ============ FOUR PALETTES ============ */
+/* Each sets base (surface/text) + one accent + risk ramp.
+   Base stays neutral (no dominant red/blue) for nonpartisan feel. */
+
+
+
+:root{
+  --ink:#15161b;--hdr-bg:#26272e; --ink2:#20222a; --line-d:#2e313b;
+  --paper:#f6f4ef; --line:#e4ded1;
+  --text:#1c1d22; --muted:#6d6a60;
+  --accent:#b8862b; --accent-d:#976c1e;
+  --r-clean:#57c07a; --r-low:#9cc766; --r-some:#e6bd4d; --r-mod:#e39a45; --r-high:#dc6a4f;
+  --step-num:#b8862b;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;scroll-padding-top:112px}
+/* Below 720px the tab bar pins to the very top and the header no longer
+   stacks above it, so less space needs reserving. */
+@media(max-width:720px){html{scroll-padding-top:52px}}
+body{font-family:'Inter',-apple-system,sans-serif;color:var(--text);background:var(--paper);line-height:1.6;-webkit-font-smoothing:antialiased;transition:background .3s}
+.mono{font-family:'JetBrains Mono',monospace}
+.wrap{max-width:1140px;margin:0 auto;padding:0 24px}
+
+/* ---------- header ---------- */
+header{background:var(--hdr-bg);color:#fff;position:sticky;top:0;z-index:50;border-bottom:1px solid var(--line-d);transition:background .3s}
+.hd{display:flex;align-items:center;justify-content:space-between;height:62px}
+.brand{display:flex;flex-direction:column;line-height:1.1}
+.brand b{font-family:'Noto Serif Display',serif;font-weight:900;font-size:20px;letter-spacing:-.3px}
+.brand span{font-size:9.5px;letter-spacing:3px;color:#8b93a2;text-transform:uppercase;margin-top:2px}
+.nav{display:flex;gap:26px;align-items:center}
+.nav a{color:#c3c9d4;text-decoration:none;font-size:14px;font-weight:500;transition:color .15s}
+.nav a:hover{color:#fff}
+.nav .cta{background:var(--accent);color:#fff;padding:9px 18px;border-radius:8px;font-weight:600}
+.nav .cta:hover{background:var(--accent-d);color:#fff}
+@media(max-width:720px){.nav a:not(.cta){display:none}}
+
+/* ---------- hero ---------- */
+.hero{background:var(--ink);color:#fff;padding:76px 0 88px;position:relative;overflow:hidden;transition:background .3s}
+.hero:after{content:"";position:absolute;inset:0;background:
+  radial-gradient(900px 400px at 78% -10%, color-mix(in srgb, var(--accent) 20%, transparent), transparent 70%);pointer-events:none}
+.eyebrow{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--accent);font-weight:700;margin-bottom:20px}
+.hero h1{font-family:'Noto Serif Display',serif;font-weight:700;font-size:clamp(34px,5vw,58px);line-height:1.04;letter-spacing:-1px;max-width:15ch}
+.hero h1 em{font-style:italic;color:var(--accent);font-weight:700}
+.hero p.lede{font-size:clamp(16px,2vw,19px);color:#c3c9d4;max-width:56ch;margin:22px 0 34px}
+.hero-cta{display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+.btn{display:inline-flex;align-items:center;gap:9px;padding:14px 26px;border-radius:10px;font-weight:600;font-size:15px;text-decoration:none;transition:transform .15s,background .15s}
+.btn-primary{background:var(--accent);color:#fff}
+.btn-primary:hover{background:var(--accent-d);transform:translateY(-2px)}
+.btn-ghost{color:#fff;border:1px solid var(--line-d)}
+.btn-ghost:hover{border-color:#5a6272;background:rgba(255,255,255,.04)}
+
+.hero-stat{margin-top:56px;display:flex;gap:44px;flex-wrap:wrap;align-items:flex-end;
+  border-top:1px solid var(--line-d);padding-top:30px}
+.bignum{font-family:'Noto Serif Display',serif;font-weight:900;font-size:clamp(52px,9vw,104px);line-height:.9;letter-spacing:-3px;color:#fff}
+.bignum small{color:var(--accent);font-size:.5em;vertical-align:top;font-weight:700}
+.bigcap{font-size:14px;color:#98a0ae;max-width:34ch;padding-bottom:8px}
+.bigcap b{color:#fff;font-weight:600}
+
+/* ---------- sections ---------- */
+section{padding:72px 0}
+.sec-eyebrow{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--accent);font-weight:700;margin-bottom:12px}
+.sec-title{font-family:'Noto Serif Display',serif;font-weight:700;font-size:clamp(26px,3.5vw,38px);letter-spacing:-.5px;line-height:1.1;max-width:20ch}
+.sec-intro{color:var(--muted);font-size:16px;max-width:56ch;margin-top:14px}
+
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:44px}
+@media(max-width:820px){.steps{grid-template-columns:1fr}}
+.step{background:#fff;border:1px solid var(--line);border-radius:14px;padding:26px 24px}
+.step .n{font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:700;color:var(--step-num);
+  border:1.5px solid var(--step-num);width:34px;height:34px;border-radius:9px;display:flex;align-items:center;justify-content:center;margin-bottom:16px}
+.step h3{font-size:18px;font-weight:700;margin-bottom:8px;letter-spacing:-.2px}
+.step p{font-size:14.5px;color:var(--muted)}
+
+.data-band{background:var(--ink);color:#fff;transition:background .3s}
+.data-band .sec-intro{color:#a8afbc}
+.dist{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin-top:40px}
+@media(max-width:820px){.dist{grid-template-columns:1fr 1fr}}
+.dcell{background:var(--ink2);border:1px solid var(--line-d);border-radius:12px;padding:20px 16px;text-align:center}
+.dcell .num{font-family:'Noto Serif Display',serif;font-weight:900;font-size:38px;line-height:1;letter-spacing:-1px}
+.dcell .lbl{font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#98a0ae;margin-top:8px}
+.dcell.clean .num{color:var(--r-clean)}
+.dcell.low .num{color:var(--r-low)}
+.dcell.some .num{color:var(--r-some)}
+.dcell.mod .num{color:var(--r-mod)}
+.dcell.high .num{color:var(--r-high)}
+
+.scorers{margin-top:44px}
+.scorers h4{font-size:13px;letter-spacing:1.5px;text-transform:uppercase;color:#98a0ae;margin-bottom:18px;font-family:'JetBrains Mono',monospace}
+.party-cols{display:grid;grid-template-columns:1fr 1fr;gap:26px}
+@media(max-width:820px){.party-cols{grid-template-columns:1fr;gap:22px}}
+.party-head{display:flex;align-items:center;gap:8px;font-size:12px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:#c3c9d4;margin-bottom:12px}
+.pdot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+.pdot.R{background:#d66} .pdot.D{background:#6a9fe0}
+.srow{display:flex;flex-direction:column;gap:10px}
+.schip{display:flex;align-items:center;gap:12px;background:var(--ink2);border:1px solid var(--line-d);border-radius:100px;padding:8px 18px 8px 8px;color:inherit;text-decoration:none;cursor:pointer;transition:border-color .15s,background .15s,transform .15s}
+a.schip:hover,a.schip:focus-visible{border-color:#c62828;background:#20242c;transform:translateY(-1px)}
+a.schip.dem:hover,a.schip.dem:focus-visible{border-color:#1d4ed8}
+a.schip:focus-visible{outline:2px solid #b8862b;outline-offset:2px}
+@media (prefers-reduced-motion:reduce){a.schip{transition:none}a.schip:hover,a.schip:focus-visible{transform:none}}
+.schip img{width:40px;height:40px;border-radius:50%;object-fit:cover;object-position:top center;box-shadow:0 0 0 2px var(--ink2),0 0 0 4px #c62828}
+.schip.dem img{box-shadow:0 0 0 2px var(--ink2),0 0 0 4px #1d4ed8}
+.schip .snm{font-size:14px;font-weight:600}
+.schip .ssc{font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:700;color:var(--r-high)}
+.schip .sd{font-size:11px;color:#98a0ae;margin-top:1px}
+
+.close-cta{text-align:center;padding:88px 0}
+.close-cta h2{font-family:'Noto Serif Display',serif;font-weight:700;font-size:clamp(28px,4vw,44px);letter-spacing:-.6px;max-width:18ch;margin:0 auto 22px;line-height:1.08}
+.close-cta p{color:var(--muted);max-width:48ch;margin:0 auto 30px;font-size:16px}
+
+footer{background:var(--ink);color:#8b93a2;padding:40px 0;border-top:1px solid var(--line-d);font-size:13px;transition:background .3s}
+.ft{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;align-items:center}
+.ft .np{max-width:60ch;line-height:1.6}
+.ft .np b{color:#c3c9d4}
+.ft a{color:#98a0ae;text-decoration:none}.ft a:hover{color:#fff}
+
+/* Capitol image hero layer */
+.hero{position:relative;overflow:hidden}
+.hero .hero-img{position:absolute;top:0;right:0;bottom:0;width:64%;z-index:0;overflow:hidden}
+.hero .hero-img img{width:100%;height:100%;object-fit:cover;object-position:28% 32%;display:block}
+.hero .hero-img:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg, var(--ink) 0%, rgba(21,22,27,.72) 34%, rgba(21,22,27,.15) 72%, rgba(21,22,27,.45) 100%)}
+.hero .hero-veil{position:absolute;inset:0;z-index:1;pointer-events:none;background:linear-gradient(180deg, rgba(21,22,27,.5) 0%, transparent 22%, transparent 74%, rgba(21,22,27,.9) 100%)}
+.hero .wrap{position:relative;z-index:2}
+.hero h1{text-shadow:0 2px 30px rgba(0,0,0,.5)}
+.hero .lede{text-shadow:0 1px 20px rgba(0,0,0,.6)}
+@media(max-width:820px){.hero .hero-img{width:100%;background-position:60% 30%}
+  .hero .hero-img:after{background:linear-gradient(180deg,rgba(21,22,27,.4),rgba(21,22,27,.82) 60%,var(--ink))}}
+
+/* tool tab bar on landing */
+.toolbar-tabs{background:var(--hdr-bg);border-top:1px solid var(--line-d);position:sticky;top:62px;z-index:40}
+.toolbar-tabs .tt-in{max-width:1140px;margin:0 auto;display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;padding:0 32px}
+.toolbar-tabs .tt-in::-webkit-scrollbar{display:none}
+.toolbar-tabs a{flex:0 0 auto;padding:12px 15px;font-size:11px;letter-spacing:1.2px;text-transform:uppercase;
+  font-weight:600;color:#8b93a2;text-decoration:none;border-bottom:2px solid transparent;white-space:nowrap;transition:color .15s,border-color .15s;font-family:'JetBrains Mono',monospace}
+.toolbar-tabs a:hover{color:#e6dcc8}
+.toolbar-tabs a.on{color:var(--accent);border-bottom-color:var(--accent)}
+@media(max-width:720px){.toolbar-tabs{top:0}.toolbar-tabs .tt-in{padding:0 16px}.toolbar-tabs a{padding:11px 12px;font-size:10px}}
+
+/* how-it-works: centered, larger, balanced header */
+#how{padding:88px 0 92px}
+#how .sec-head{max-width:680px;margin:0 auto 52px;text-align:center}
+#how .sec-eyebrow{margin-bottom:14px}
+#how .sec-title{font-size:clamp(30px,4vw,44px);max-width:none;margin:0 auto}
+#how .sec-intro{max-width:60ch;margin:16px auto 0;font-size:17px}
+#how .steps{margin-top:0}
+#how .step{padding:30px 26px}
+#how .step h3{font-size:19px}
+#how .step p{font-size:15px;line-height:1.6}
+
+/* ---------- state lookup ---------- */
+.lookup{background:var(--paper,#f3f1ec);padding:34px 0 40px;border-bottom:1px solid #dde1e7;
+        scroll-margin-top:112px}
+@media(max-width:720px){.lookup{scroll-margin-top:52px}}
+.lookup .lk-eyebrow{font-size:11px;letter-spacing:1.6px;text-transform:uppercase;color:#8a929c;margin-bottom:8px}
+.lookup h2{font-size:clamp(21px,3vw,28px);line-height:1.2;margin:0 0 6px;letter-spacing:-.3px;color:#1b1f24}
+.lookup .lk-sub{font-size:14px;color:#5a636e;margin:0 0 16px;max-width:56ch}
+.lk-select{width:100%;max-width:420px;font-size:17px;padding:13px 12px;border:1px solid #dde1e7;
+           border-radius:10px;background:#fff;color:#1b1f24;cursor:pointer}
+.lk-card{background:#fff;border:1px solid #dde1e7;border-radius:12px;overflow:hidden;
+         margin-bottom:12px;box-shadow:0 1px 4px rgba(0,0,0,.05)}
+.lk-stripe{height:5px}
+.lk-in{padding:14px 15px 15px}
+.lk-top{display:flex;gap:12px;align-items:center}
+.lk-av{width:58px;height:58px;border-radius:50%;overflow:hidden;flex-shrink:0;
+       border:1px solid #dde1e7;background:#e7e4dd}
+.lk-av img{width:100%;height:100%;object-fit:cover;display:block}
+.lk-nm{font-size:18px;font-weight:700;line-height:1.2;color:#1b1f24}
+.lk-role{font-size:13px;color:#5a636e;margin-top:2px}
+.lk-verdict{font-size:15.5px;line-height:1.5;margin-top:12px;color:#1b1f24}
+.lk-why{font-size:12.5px;color:#5a636e;margin-top:7px;line-height:1.5}
+.lk-facts{display:flex;gap:14px;flex-wrap:wrap;font-size:12px;color:#8a929c;
+          margin-top:11px;border-top:1px solid #e3e6eb;padding-top:9px}
+.lk-facts b{color:#1b1f24;font-variant-numeric:tabular-nums}
+.lk-cta{font-size:13px;color:#1a3a8a;margin-top:11px;display:inline-block;text-decoration:none}
+.lk-cta:hover{text-decoration:underline}
+.lk-group{font-size:11px;color:#8a929c;text-transform:uppercase;letter-spacing:1.2px;margin:18px 0 8px}
+.lk-note{font-size:12px;color:#8a929c;margin-top:14px;line-height:1.6;max-width:64ch}
+@media(max-width:600px){.lookup{padding:26px 0 30px}}
+
+/* hero mobile spacing fix — kill the dead gap */
+@media(max-width:820px){
+  .hero{padding:44px 0 52px}
+  .hero-cta{gap:12px}
+  .hero-cta .btn{width:100%;justify-content:center}
+  .hero-stat{margin-top:32px;padding-top:24px;gap:20px}
+  .btn-ghost{border-color:rgba(255,255,255,.45)}
+  .hero h1{font-size:clamp(30px,7vw,44px)}
+  .hero .lede{font-size:16px;margin:18px 0 26px}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap hd">
+    <div class="brand"><b>The Influence Registry</b><span>Keep DC Honest</span></div>
+    <nav class="nav">
+      <a href="#data">The Data</a>
+      <a href="#how">How It Works</a>
+      <a href="#">About</a>
+    </nav>
+  </div>
+</header>
+<div class="toolbar-tabs">
+    <div class="tt-in">
+      <a href="app.html#overview">At A Glance</a>
+      <a href="app.html#congress">Congress</a>
+      <a href="app.html#challengers">Challengers</a>
+      <a href="app.html#court">Supreme Court</a>
+      <a href="app.html#cabinet">Cabinet</a>
+      <a href="app.html#bills">Bills</a>
+      <a href="app.html#corporate">Corporate Influence</a>
+      <a href="app.html#debt">Debt Clock</a>
+      <a href="app.html#budget">U.S. Budget</a>
+      <a href="app.html#numbers">By The Numbers</a>
+      <a href="app.html#support">Support</a>
+    </div>
+  </div>
+
+<div class="hero">
+  <div class="hero-img"><img src="assets/capitol-hero.jpg" alt="United States Capitol"></div>
+  <div class="hero-veil"></div>
+  <div class="wrap">
+    <div class="eyebrow">Nonpartisan · Sourced from FEC filings</div>
+    <h1>Who is <em>really</em> funding your representative?</h1>
+    <p class="lede">The Influence Registry scores every member of Congress by how much of their money comes from corporate PACs and special interests, not from individual donors.</p>
+    <div class="hero-cta">
+      <a href="#lookup" class="btn btn-primary" id="hero-lookup-cta">Look Up Your Representative →</a>
+      <a href="#how" class="btn btn-ghost">How The Score Works</a>
+    </div>
+    <div class="hero-stat">
+      <div class="bignum"><small>$</small>2.82<small>B</small></div>
+      <div class="bigcap">in tracked special-interest money flowing to <b>537 members</b> of Congress. Every figure traceable to a public filing.</div>
+    </div>
+  </div>
+</div>
+
+<!-- State lookup. The hero asks "who is really funding your representative?",
+     so the answer belongs on the same screen rather than behind a button.
+     Reads data/lookup.json, a ~147KB derived file, so the landing page does
+     not pull the 1.5MB of raw data the app loads. -->
+<section class="lookup" id="lookup">
+  <div class="wrap">
+    <div class="lk-eyebrow">Start here</div>
+    <h2>Find out who funds yours.</h2>
+    <p class="lk-sub">Enter your ZIP code. You get both senators and your representative, with one sentence each generated from their FEC filings.</p>
+    <div style="display:flex;gap:8px;max-width:420px;flex-wrap:wrap">
+      <input class="lk-select" id="lk-zip" inputmode="numeric" pattern="[0-9]*" maxlength="5"
+             placeholder="Enter your ZIP code" aria-label="Enter your ZIP code"
+             style="flex:1;min-width:180px">
+      <button id="lk-go" class="btn btn-primary" style="padding:13px 22px">Look up</button>
+    </div>
+    <div id="lk-err" style="font-size:13px;color:#b91c1c;margin-top:8px;min-height:18px"></div>
+    <div id="lk-out" style="margin-top:18px"></div>
+    <div class="lk-note" id="lk-note"></div>
+  </div>
+</section>
+
+<section id="data" class="data-band">
+  <div class="wrap">
+    <div class="sec-eyebrow">What The Data Shows</div>
+    <div class="sec-title">537 members, sorted by who funds them.</div>
+    <div class="sec-intro">The current distribution across the registry. <br> Only a small share of Congress runs primarily on individual donors.</div>
+    <div class="dist">
+      <div class="dcell clean"><div class="num">17</div><div class="lbl">No Corporate</div></div>
+      <div class="dcell low"><div class="num">69</div><div class="lbl">Low Risk</div></div>
+      <div class="dcell some"><div class="num">109</div><div class="lbl">Some Corporate</div></div>
+      <div class="dcell mod"><div class="num">147</div><div class="lbl">Moderate</div></div>
+      <div class="dcell high"><div class="num">192</div><div class="lbl">High Risk</div></div>
+    </div>
+    <div class="scorers">
+      <h4>Maxed-out scores come from both parties <span style="font-weight:400;font-size:13px;color:#98a0ae">(tap any name for their full profile)</span></h4>
+      <div class="party-cols">
+        <div class="party-col">
+          <div class="party-head"><span class="pdot R"></span>Republicans</div>
+          <div class="srow">
+            <a class="schip" href="app.html#member/john-thune" aria-label="Open John Thune's full profile"><img src="assets/photos/john-thune.jpg" alt=""><div><div class="snm">John Thune <span class="ssc">100</span></div><div class="sd">SD · Senate · $17.8M special-interest</div></div></a>
+            <a class="schip" href="app.html#member/chuck-grassley" aria-label="Open Chuck Grassley's full profile"><img src="assets/photos/chuck-grassley.jpg" alt=""><div><div class="snm">Chuck Grassley <span class="ssc">100</span></div><div class="sd">IA · Senate · $14.2M special-interest</div></div></a>
+            <a class="schip" href="app.html#member/mike-crapo" aria-label="Open Mike Crapo's full profile"><img src="assets/photos/mike-crapo.jpg" alt=""><div><div class="snm">Mike Crapo <span class="ssc">100</span></div><div class="sd">ID · Senate · $12.8M special-interest</div></div></a>
+          </div>
+        </div>
+        <div class="party-col">
+          <div class="party-head"><span class="pdot D"></span>Democrats</div>
+          <div class="srow">
+            <a class="schip dem" href="app.html#member/steny-hoyer" aria-label="Open Steny Hoyer's full profile"><img src="assets/photos/steny-hoyer.jpg" alt=""><div><div class="snm">Steny Hoyer <span class="ssc">100</span></div><div class="sd">MD · House · $20.9M special-interest</div></div></a>
+            <a class="schip dem" href="app.html#member/george-latimer" aria-label="Open George Latimer's full profile"><img src="assets/photos/george-latimer.jpg" alt=""><div><div class="snm">George Latimer <span class="ssc">100</span></div><div class="sd">NY · House · $20.5M special-interest</div></div></a>
+            <a class="schip dem" href="app.html#member/frank-pallone" aria-label="Open Frank Pallone's full profile"><img src="assets/photos/frank-pallone.jpg" alt=""><div><div class="snm">Frank Pallone <span class="ssc">100</span></div><div class="sd">NJ · House · $15.9M special-interest</div></div></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="how">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="sec-eyebrow">How It Works</div>
+      <div class="sec-title">One score. Traceable to the filing.</div>
+      <div class="sec-intro">Every member gets an influence score from 0 to 100. A higher score means more of their funding comes from organized money rather than individual donors.</div>
+    </div>
+    <div class="steps">
+      <div class="step"><div class="n">01</div><h3>Pull The Filings</h3><p>We start with each member's own FEC campaign finance reports, which show how much they raised in total and how much came from individuals versus PACs and committees.</p></div>
+      <div class="step"><div class="n">02</div><h3>Separate The Money</h3><p>Sorted the money into two buckets: grassroots and individual donations on one side, corporate PACs and special-interest funding on the other, broken down sector by sector.</p></div>
+      <div class="step"><div class="n">03</div><h3>Score The Reliance</h3><p>The score reflects how heavily a member leans on organized money, from corporate PACs and special interests, rather than donations from individual people. The same formula runs on every member with no hand-tuning.</p></div>
+    </div>
+  </div>
+</section>
+
+<div class="close-cta">
+  <div class="wrap">
+    <h2>Find out who funds the people who represent you.</h2>
+    <p>Free, nonpartisan, and traceable to public records. No account, no agenda.</p>
+    <a href="app.html#congress" class="btn btn-primary">Browse all 537 members →</a>
+  </div>
+</div>
+
+<footer>
+  <div class="wrap ft">
+    <div class="np"><b>Nonpartisan by design.</b> The Influence Registry applies the same scoring formula to every member of Congress regardless of party. Every figure is drawn from public FEC filings and other disclosed records.</div>
+    <div><a href="#">Methodology</a> &nbsp;·&nbsp; <a href="#">Sources</a> &nbsp;·&nbsp; <a href="#">About</a></div>
+  </div>
+</footer>
+
+
+
+<script>
+/* ── STATE LOOKUP ─────────────────────────────────────────────────────────
+   One sentence per member, chosen by rule from their own numbers. The rules
+   run in priority order so whichever fact is most unusual about a member wins,
+   and two members in the same position always get the same sentence. Nothing
+   is written per person.
+
+   Two accuracy rules learned the hard way:
+     - thresholds test the RAW value, not the displayed rounded one, so a
+       member at 49.6% never trips a claim that says "50%".
+     - a claim needs enough money behind it to be worth making; "100% AIPAC"
+       on $368K says less than it appears to. */
+(function(){
+  // Guard on the ZIP input. This used to look for 'lk-state', which the ZIP
+  // rewrite removed, so the whole block returned before doing anything.
+  var host=document.getElementById('lk-zip');
+  if(!host) return;
+  var M=[];
+  var SEC=[['aipac','AIPAC'],['fossil_fuels','oil, gas and coal'],
+           ['pharma','pharma and health care'],['tech','big tech'],
+           ['defense','defense contractors'],['finance','Wall Street']];
+
+  function usd(v){
+    if(v>=1e9) return '$'+(v/1e9).toFixed(1)+'B';
+    if(v>=1e6) return '$'+(v/1e6).toFixed(1)+'M';
+    if(v>=1e3) return '$'+Math.round(v/1e3)+'K';
+    return '$'+Math.round(v);
+  }
+  function pcol(p){ return p==='R'?'#ef4444':p==='D'?'#3b82f6':'#a855f7'; }
+  function slug(n){
+    return n.toLowerCase().replace(/[àáâãäå]/g,'a').replace(/[èéêë]/g,'e')
+      .replace(/[ìíîï]/g,'i').replace(/[òóôõö]/g,'o').replace(/[ùúûü]/g,'u')
+      .replace(/[ñ]/g,'n').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+  }
+  function photo(m){
+    var u=m.bid?'https://unitedstates.github.io/images/congress/225x275/'+m.bid+'.jpg':'';
+    return '<div class="lk-av">'+(u?'<img src="'+u+'" alt="" loading="lazy" onerror="this.parentNode.textContent=\'\'">':'')+'</div>';
+  }
+  function median(c,key){
+    var v=M.filter(function(x){return x.c===c && typeof x[key]==='number';}).map(function(x){return x[key];});
+    v.sort(function(a,b){return a-b;});
+    return v.length?v[Math.floor(v.length/2)]:0;
+  }
+  function rankIn(m,key){
+    var pool=M.filter(function(x){return x.c===m.c && typeof x[key]==='number';});
+    pool.sort(function(a,b){return b[key]-a[key];});
+    var i=0; for(;i<pool.length;i++){ if(pool[i].n===m.n) break; }
+    return {r:i+1,n:pool.length};
+  }
+  function ord(n){ return n+(n===1?'st':n===2?'nd':n===3?'rd':'th'); }
+
+  function verdict(m){
+    var chamber=m.c==='S'?'senator':'representative';
+    var ratio=m.raised?m.ie/m.raised:0;
+    var top=null,tot=0,i;
+    for(i=0;i<SEC.length;i++) tot+=(m.sec[SEC[i][0]]||0);
+    for(i=0;i<SEC.length;i++) if(!top||(m.sec[SEC[i][0]]||0)>(m.sec[top[0]]||0)) top=SEC[i];
+    var topRaw=tot?(m.sec[top[0]]||0)/tot:0, topShare=Math.round(topRaw*100);
+
+    if(ratio>=1) return {v:'Outside groups spent <b>'+usd(m.ie)+'</b> on their race, more than the '+usd(m.raised)+' their own campaign raised.',
+      w:'That money runs as ads for and against them. They cannot legally coordinate it, do not report it, and never have to answer for it.'};
+    if(typeof m.pac==='number'&&m.pac<=5) return {v:'Takes almost no PAC money: <b>'+m.pac+'%</b> of their contributions come from PACs.',
+      w:'Industry totals will still look large, because those count donations from anyone employed in a sector. The PAC share is the part that comes from organised money.'};
+    if(typeof m.pac==='number'&&m.pac>=50){ var rk=rankIn(m,'pac');
+      return {v:'<b>'+m.pac+'%</b> of their contributions come from PACs, not people.',
+        w:'That is the '+ord(rk.r)+' highest PAC share of '+rk.n+' '+chamber+'s.'}; }
+    if(typeof m.grass==='number'&&m.grass>=40) return {v:'<b>'+m.grass+'%</b> of their individual money came from small donors giving under $200.',
+      w:'The typical '+chamber+' is at '+Math.round(median(m.c,'grass'))+'%. A high small-dollar share means a base of many people rather than a few large cheques.'};
+    if(tot>=1500000&&topRaw>=0.5) return {v:'Their special-interest money is dominated by <b>'+top[1]+'</b>, '+topShare+'% of '+usd(tot)+'.',
+      w:'PAC share is '+(typeof m.pac==='number'?m.pac+'%':'not on record')+', so some of that is industry PACs and some is people who work in the industry.'};
+    if(m.ieO>=20000000) return {v:'Outside groups spent <b>'+usd(m.ieO)+'</b> attacking them.',
+      w:'Spending against a member is rarely reported, but it shapes a race as much as spending for one.'};
+    if(typeof m.pac==='number'){
+      var med=Math.round(median(m.c,'pac')), diff=m.pac-med;
+      var word=Math.abs(diff)<=3?'about average for':(diff>0?'more PAC-funded than':'less PAC-funded than');
+      return {v:'<b>'+m.pac+'%</b> of their contributions come from PACs, '+word+' the typical '+chamber+' at '+med+'%.',
+        w:'They raised '+usd(m.raised)+' in total and took '+usd(m.si)+' from tracked industries'+(top&&tot?', mostly '+top[1]:'')+'.'};
+    }
+    return {v:'Took <b>'+usd(m.si)+'</b> from tracked industries.',
+      w:'No PAC breakdown is on record for them yet, so the split between organised money and individual donors cannot be shown.'};
+  }
+
+  function card(m){
+    var v=verdict(m);
+    var role=(m.c==='S'?'Senator':'Representative')+' · '+m.st+(m.d?'-'+String(m.d).padStart(2,'0'):'');
+    return '<div class="lk-card"><div class="lk-stripe" style="background:'+pcol(m.p)+'"></div><div class="lk-in">'
+      +'<div class="lk-top">'+photo(m)+'<div><div class="lk-nm">'+m.n+'</div><div class="lk-role">'+role+'</div></div></div>'
+      +'<div class="lk-verdict">'+v.v+'</div><div class="lk-why">'+v.w+'</div>'
+      +'<div class="lk-facts"><span>Raised <b>'+usd(m.raised)+'</b></span>'
+      +'<span>PAC share <b>'+(typeof m.pac==='number'?m.pac+'%':'—')+'</b></span>'
+      +'<span>Outside money <b>'+usd(m.ie)+'</b></span>'
+      +(typeof m.grass==='number'?'<span>Small donors <b>'+m.grass+'%</b></span>':'')+'</div>'
+      +'<a class="lk-cta" href="app.html#member/'+slug(m.n)+'">See the full record →</a>'
+      +'</div></div>';
+  }
+
+  function render(st){
+    var out=document.getElementById('lk-out'), note=document.getElementById('lk-note');
+    if(!st){ out.innerHTML=''; note.textContent=''; return; }
+    var mine=M.filter(function(m){return m.st===st;});
+    var sens=mine.filter(function(m){return m.c==='S';});
+    var reps=mine.filter(function(m){return m.c==='H';}).sort(function(a,b){return (a.d||0)-(b.d||0);});
+    out.innerHTML=(sens.length?'<div class="lk-group">Your senators</div>'+sens.map(card).join(''):'')
+      +(reps.length?'<div class="lk-group">'+(reps.length===1?'Your representative':'Representatives in '+st+' ('+reps.length+')')+'</div>'
+        +reps.map(card).join(''):'');
+    note.innerHTML='Every figure comes from FEC filings and OpenSecrets. The sentence is generated from those numbers, '
+      +'so it says the same thing for anyone in the same position. It describes who paid, not how they voted.';
+    try{ history.replaceState(null,'','#lookup/'+st); }catch(e){}
+  }
+
+  // Two files: the member data, and the ZIP -> district crosswalk.
+  //
+  // ZIP codes are postal routes, not geography. About 22% of them cross
+  // congressional district lines and some span four or more, so a ZIP cannot
+  // always name one representative. Rather than guess, every district the ZIP
+  // touches is shown and labelled. Senators are never ambiguous, so those are
+  // always exact.
+  var ZIPS = null;
+  function districtsForZip(z) {
+    if (!ZIPS) return null;
+    var i = ZIPS.zips[z];
+    return (i === undefined) ? null : ZIPS.sets[i];
+  }
+
+  function renderZip(z) {
+    var out = document.getElementById('lk-out');
+    var note = document.getElementById('lk-note');
+    var err = document.getElementById('lk-err');
+    err.textContent = '';
+    out.innerHTML = ''; note.innerHTML = '';
+    if (!/^\d{5}$/.test(z)) { err.textContent = 'Enter a 5-digit ZIP code.'; return; }
+    var districts = districtsForZip(z);
+    if (!districts) { err.textContent = 'No congressional district found for ' + z + '. Check the ZIP and try again.'; return; }
+
+    var st = districts[0].split('-')[0];
+    var sens = M.filter(function (m) { return m.c === 'S' && m.st === st; });
+    var reps = [], vacant = [];
+    districts.forEach(function (d) {
+      var num = d.split('-')[1];
+      var found = M.filter(function (m) {
+        if (m.c !== 'H' || m.st !== st) return false;
+        // lookup.json stores the district as the full seat string, "CA-12",
+        // not a bare number. Comparing the raw value against "12" matched
+        // nothing, so every district came back vacant.
+        var md = m.d == null ? 'AL' : String(m.d);
+        if (md.indexOf('-') > -1) md = md.split('-').pop();
+        md = (md === 'AL') ? 'AL' : md.padStart(2, '0');
+        return md === num;
+      });
+      if (found.length) reps = reps.concat(found);
+      else vacant.push(d);
+    });
+
+    var html = '';
+    if (sens.length) html += '<div class="lk-group">Your senators \u00b7 ' + st + '</div>' + sens.map(card).join('');
+    if (districts.length > 1) {
+      html += '<div class="lk-group">Your representative \u00b7 ' + districts.length + ' possible districts</div>'
+        + '<div style="font-size:13px;color:#5a636e;line-height:1.6;margin:-2px 0 10px;max-width:62ch">'
+        + 'ZIP ' + z + ' is split across ' + districts.length + ' congressional districts ('
+        + districts.join(', ') + '), so more than one of these may be yours. '
+        + 'ZIP codes are postal routes and do not follow district lines. '
+        + '<a href="https://ziplook.house.gov/htbin/findrep" target="_blank" rel="noopener" style="color:#1a3a8a">'
+        + 'Look up your exact district on house.gov</a> using your full address.</div>';
+    } else {
+      html += '<div class="lk-group">Your representative \u00b7 ' + districts[0] + '</div>';
+    }
+    html += reps.map(card).join('');
+    vacant.forEach(function (d) {
+      html += '<div class="lk-card"><div class="lk-stripe" style="background:#8a929c"></div><div class="lk-in">'
+        + '<div class="lk-nm">' + d + ' is vacant</div>'
+        + '<div class="lk-why" style="margin-top:6px">This seat has no sitting representative. '
+        + 'A special election decides who fills it.</div></div></div>';
+    });
+    out.innerHTML = html;
+    note.innerHTML = 'Every figure comes from FEC filings and OpenSecrets. The sentence is generated from those numbers, '
+      + 'so it says the same thing for anyone in the same position. It describes who paid, not how they voted.';
+    try { history.replaceState(null, '', '#zip/' + z); } catch (e) {}
+  }
+
+  Promise.all([
+    fetch('data/lookup.json').then(function (r) { return r.json(); }),
+    fetch('data/zip_districts.json').then(function (r) { return r.json(); })
+  ]).then(function (res) {
+    M = res[0]; ZIPS = res[1];
+    var input = document.getElementById('lk-zip');
+    var go = document.getElementById('lk-go');
+    go.addEventListener('click', function () { renderZip((input.value || '').trim()); });
+    input.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') { e.preventDefault(); renderZip((input.value || '').trim()); }
+    });
+    // Look up as soon as five digits are in, so most people never press the button.
+    input.addEventListener('input', function () {
+      var v = (input.value || '').replace(/\D/g, '').slice(0, 5);
+      input.value = v;
+      if (v.length === 5) renderZip(v);
+      else { document.getElementById('lk-out').innerHTML = ''; document.getElementById('lk-err').textContent = ''; }
+    });
+    var cta = document.getElementById('hero-lookup-cta');
+    if (cta) cta.addEventListener('click', function () {
+      setTimeout(function () { try { input.focus({ preventScroll: true }); } catch (e) { input.focus(); } }, 450);
+    });
+    var h = (location.hash || '').replace('#', '');
+    if (h.indexOf('zip/') === 0) {
+      var z = h.split('/')[1];
+      if (/^\d{5}$/.test(z)) { input.value = z; renderZip(z); }
+    }
+  }).catch(function () {
+    var input = document.getElementById('lk-zip');
+    if (input) { input.disabled = true; input.placeholder = 'Lookup data unavailable'; }
+  });
+})();
+</script>
+
+</body>
+</html>

@@ -6214,7 +6214,9 @@
    "H0GA02241"
   ],
   "committees": [
-   "C00504019"
+   "C00504019",
+   "C00481101",
+   "C00506790"
   ],
   "source": "FEC_v7",
   "total_raised": 10543715,
@@ -8423,8 +8425,10 @@
    "S8MI00372"
   ],
   "committees": [
+   "C00798694",
    "C00803502",
-   "C00798694"
+   "C00651208",
+   "C00705756"
   ],
   "source": "FEC_v7",
   "total_raised": 78806464,
@@ -17554,7 +17558,9 @@
    "C00763250",
    "C00702738",
    "C00775650",
-   "C00410365"
+   "C00410365",
+   "C00457929",
+   "C00351742"
   ],
   "source": "FEC_v7",
   "total_raised": 28017141,
@@ -18557,13 +18563,18 @@
   "all_candidate_ids": [
    "S6SC04437"
   ],
-  "committees": []
+  "committees": [
+   "C00957308"
+  ]
  },
  "James Gallagher": {
   "candidate_id": "H6CA01285",
   "all_candidate_ids": [
    "H6CA01285"
   ],
-  "committees": []
+  "committees": [
+   "C00935114",
+   "C00942458"
+  ]
  }
 }

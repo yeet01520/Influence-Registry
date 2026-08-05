@@ -1,35 +1,173 @@
 {
- "changed": [],
+ "changed": [
+  {
+   "member": "Rick Allen",
+   "before": [
+    "C00504019"
+   ],
+   "after": [
+    "C00504019",
+    "C00481101",
+    "C00506790"
+   ],
+   "added": [
+    {
+     "id": "C00481101",
+     "name": "RICK ALLEN FOR CONGRESS"
+    },
+    {
+     "id": "C00506790",
+     "name": "RICK ALLEN FOR CONGRESS 2012"
+    }
+   ],
+   "removed": [],
+   "dropped_not_own": [
+    {
+     "id": "C00565457",
+     "name": "YOUNG GUNS  DAY II 2014",
+     "designation": "Joint fundraising committee"
+    }
+   ]
+  },
+  {
+   "member": "John James",
+   "before": [
+    "C00803502",
+    "C00798694"
+   ],
+   "after": [
+    "C00798694",
+    "C00803502",
+    "C00651208",
+    "C00705756"
+   ],
+   "added": [
+    {
+     "id": "C00651208",
+     "name": "JOHN JAMES FOR SENATE, INC."
+    },
+    {
+     "id": "C00705756",
+     "name": "MICHIGAN SENATE REPUBLICAN NOMINEE FUND - JOHN JAMES"
+    }
+   ],
+   "removed": [],
+   "dropped_not_own": [
+    {
+     "id": "C00689471",
+     "name": "FOUNDERS COMMITTEE; THE",
+     "designation": "Joint fundraising committee"
+    }
+   ]
+  },
+  {
+   "member": "Tom Kean Jr.",
+   "before": [
+    "C00703058",
+    "C00763250",
+    "C00702738",
+    "C00775650",
+    "C00410365"
+   ],
+   "after": [
+    "C00703058",
+    "C00763250",
+    "C00702738",
+    "C00775650",
+    "C00410365",
+    "C00457929",
+    "C00351742"
+   ],
+   "added": [
+    {
+     "id": "C00457929",
+     "name": "FRIENDS OF TOM KEAN"
+    },
+    {
+     "id": "C00351742",
+     "name": "KEAN FOR CONGRESS"
+    }
+   ],
+   "removed": [],
+   "dropped_not_own": [
+    {
+     "id": "C00429837",
+     "name": "2006 FINISH LINE CANDIDATE FUND",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00428474",
+     "name": "2006 OPEN SEAT AND CHALLENGER FUND",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00423665",
+     "name": "2006 SENATORS CLASSIC COMMITTEE",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00423749",
+     "name": "GOOD GOVERNMENT FUND",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00429142",
+     "name": "GOP MAJORITY FUND 2006",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00426916",
+     "name": "KEAN MAJORITY COMMITTEE",
+     "designation": "Joint fundraising committee"
+    },
+    {
+     "id": "C00425702",
+     "name": "KEAN-NJ VICTORY 06",
+     "designation": "Joint fundraising committee"
+    }
+   ]
+  },
+  {
+   "member": "Darline Graham",
+   "before": [],
+   "after": [
+    "C00957308"
+   ],
+   "added": [
+    {
+     "id": "C00957308",
+     "name": "DARLINE FOR SENATE"
+    }
+   ],
+   "removed": [],
+   "dropped_not_own": []
+  },
+  {
+   "member": "James Gallagher",
+   "before": [],
+   "after": [
+    "C00935114",
+    "C00942458"
+   ],
+   "added": [
+    {
+     "id": "C00935114",
+     "name": "GALLAGHER FOR CONGRESS"
+    },
+    {
+     "id": "C00942458",
+     "name": "THE GALLAGHER COMMITTEE"
+    }
+   ],
+   "removed": [],
+   "dropped_not_own": []
+  }
+ ],
  "skipped_no_ids": [
   "Alan Armstrong",
   "Josh Turek"
  ],
- "kept_existing": [
-  {
-   "member": "Glenn Ivey",
-   "committees": [
-    "C00792283",
-    "C00505065"
-   ],
-   "reason": "FEC returned no authorized committees"
-  },
-  {
-   "member": "Keith Self",
-   "committees": [
-    "C00364810",
-    "C00791293"
-   ],
-   "reason": "FEC returned no authorized committees"
-  },
-  {
-   "member": "Laura Gillen",
-   "committees": [
-    "C00806547",
-    "C00840165"
-   ],
-   "reason": "FEC returned no authorized committees"
-  }
- ],
+ "kept_existing": [],
  "unchanged_count": 546,
  "committed": true
 }

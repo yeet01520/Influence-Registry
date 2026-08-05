@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-08-04T17:28:21.014498+00:00",
+    "generated_at": "2026-08-05T16:54:41.904005+00:00",
     "schema_version": 1,
     "description": "Pre-computed Special Interest Money Scores. Source of truth for index.html and the static page generator."
   },
@@ -77,7 +77,7 @@
     "lbl": "Clean",
     "vto": false,
     "col": "#16a34a",
-    "super_pac_total": 554054,
+    "super_pac_total": 499717,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -94,7 +94,7 @@
     "lbl": "Clean",
     "vto": false,
     "col": "#16a34a",
-    "super_pac_total": 141670,
+    "super_pac_total": 99419,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -158,11 +158,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Adam Schiff": {
-    "pct": 29,
+    "pct": 24,
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 5609345,
+    "super_pac_total": 581595,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -179,7 +179,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 357996,
+    "super_pac_total": 357616,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -196,7 +196,7 @@
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 615856,
+    "super_pac_total": 599447,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -309,7 +309,7 @@
     "lbl": "Clean",
     "vto": false,
     "col": "#16a34a",
-    "super_pac_total": 944739,
+    "super_pac_total": 749509,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -326,7 +326,7 @@
     "lbl": "Clean",
     "vto": false,
     "col": "#16a34a",
-    "super_pac_total": 858927,
+    "super_pac_total": 665319,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -611,11 +611,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Susan Collins": {
-    "pct": 57,
+    "pct": 56,
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 2597354,
+    "super_pac_total": 2032354,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -665,7 +665,7 @@
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 246550,
+    "super_pac_total": 230348,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -707,11 +707,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Gary Peters": {
-    "pct": 27,
+    "pct": 26,
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 502411,
+    "super_pac_total": 232740,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -728,7 +728,7 @@
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 517272,
+    "super_pac_total": 415142,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -910,7 +910,7 @@
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 2264274,
+    "super_pac_total": 2118418,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -923,14 +923,13 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Catherine Cortez Masto": {
-    "pct": 17,
+    "pct": 16,
     "lbl": "Clean",
     "vto": false,
     "col": "#16a34a",
-    "super_pac_total": 690749,
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -1020,11 +1019,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Ben Ray Luj\u00e1n": {
-    "pct": 61,
-    "lbl": "Moderate Risk",
+    "pct": 59,
+    "lbl": "Some Corporate",
     "vto": false,
-    "col": "#ea580c",
-    "super_pac_total": 639893,
+    "col": "#d97706",
+    "super_pac_total": 93499,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -1245,7 +1244,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 173074,
+    "super_pac_total": 134978,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1292,11 +1291,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Lindsey Graham": {
-    "pct": 35,
+    "pct": 32,
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 4609193,
+    "super_pac_total": 898750,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1588,7 +1587,7 @@
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 789706,
+    "super_pac_total": 767821,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -1805,11 +1804,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Yassamin Ansari": {
-    "pct": 65,
-    "lbl": "Moderate Risk",
+    "pct": 42,
+    "lbl": "Some Corporate",
     "vto": false,
-    "col": "#ea580c",
-    "super_pac_total": 1161274,
+    "col": "#d97706",
+    "super_pac_total": 5000,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2215,11 +2214,11 @@
     "score_basis": "No FEC committee totals; manual editorial score based on record."
   },
   "Kevin Mullin": {
-    "pct": 84,
-    "lbl": "High Risk",
+    "pct": 71,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 733366,
+    "col": "#ea580c",
+    "super_pac_total": 129685,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2247,15 +2246,13 @@
     "score_basis": "No FEC committee totals; manual editorial score based on record."
   },
   "Ro Khanna": {
-    "pct": 6,
+    "pct": 5,
     "lbl": "Clean",
     "vto": false,
     "col": "#16a34a",
-    "super_pac_total": 146998,
-    "any_corporate": true,
-    "reasons": [
-      "AIPAC"
-    ],
+    "super_pac_total": 0,
+    "any_corporate": false,
+    "reasons": [],
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Zoe Lofgren": {
@@ -2429,11 +2426,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Jimmy Gomez": {
-    "pct": 98,
+    "pct": 84,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 2641199,
+    "super_pac_total": 368917,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2463,11 +2460,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Sydney Kamlager-Dove": {
-    "pct": 64,
+    "pct": 62,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 154718,
+    "super_pac_total": 66367,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2484,10 +2481,9 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 125321,
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -2577,14 +2573,13 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Nanette Barrag\u00e1n": {
-    "pct": 73,
+    "pct": 72,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 94404,
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -2708,7 +2703,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 319703,
+    "super_pac_total": 317123,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -2791,7 +2786,7 @@
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 259109,
+    "super_pac_total": 258827,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3242,7 +3237,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 555603,
+    "super_pac_total": 342042,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3322,14 +3317,13 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Debbie Wasserman Schultz": {
-    "pct": 51,
+    "pct": 47,
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 1144010,
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -3339,14 +3333,13 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Mario D\u00edaz-Balart": {
-    "pct": 84,
+    "pct": 81,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 918300,
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -3356,14 +3349,13 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Mar\u00eda Elvira Salazar": {
-    "pct": 59,
+    "pct": 58,
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 127411,
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -3373,14 +3365,13 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Carlos Gim\u00e9nez": {
-    "pct": 74,
+    "pct": 72,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 122359,
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -3460,7 +3451,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 130141,
+    "super_pac_total": 128749,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3494,7 +3485,7 @@
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 708909,
+    "super_pac_total": 705212,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3596,7 +3587,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 327786,
+    "super_pac_total": 123721,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3773,7 +3764,7 @@
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 313469,
+    "super_pac_total": 272693,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3858,7 +3849,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 418630,
+    "super_pac_total": 377779,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -3892,7 +3883,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 282623,
+    "super_pac_total": 279823,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4085,11 +4076,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Mark Messmer": {
-    "pct": 100,
+    "pct": 88,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 2852335,
+    "super_pac_total": 329491,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4170,11 +4161,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Mariannette Miller-Meeks": {
-    "pct": 82,
+    "pct": 80,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 603108,
+    "super_pac_total": 150370,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4287,11 +4278,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Morgan McGarvey": {
-    "pct": 52,
+    "pct": 51,
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 160890,
+    "super_pac_total": 108749,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4503,7 +4494,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 76071,
+    "super_pac_total": 73946,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4515,11 +4506,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Sarah Elfreth": {
-    "pct": 98,
-    "lbl": "High Risk",
+    "pct": 34,
+    "lbl": "Low Risk",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 4202730,
+    "col": "#ca8a04",
+    "super_pac_total": 20892,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4532,11 +4523,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Glenn Ivey": {
-    "pct": 100,
-    "lbl": "High Risk",
+    "pct": 72,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 7320411,
+    "col": "#ea580c",
+    "super_pac_total": 899013,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4906,11 +4897,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Haley Stevens": {
-    "pct": 100,
-    "lbl": "High Risk",
+    "pct": 48,
+    "lbl": "Some Corporate",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 36280260,
+    "col": "#d97706",
+    "super_pac_total": 1366314,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4937,7 +4928,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 2489792,
+    "super_pac_total": 221060,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -4971,7 +4962,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 710098,
+    "super_pac_total": 705463,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5025,7 +5016,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 994736,
+    "super_pac_total": 992087,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5257,14 +5248,13 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Wesley Bell": {
-    "pct": 56,
-    "lbl": "Some Corporate",
+    "pct": 16,
+    "lbl": "Clean",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 3882993,
+    "col": "#16a34a",
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -5357,11 +5347,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Dina Titus": {
-    "pct": 71,
+    "pct": 70,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 283381,
+    "super_pac_total": 202621,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5395,7 +5385,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 858493,
+    "super_pac_total": 856786,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5412,7 +5402,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 214081,
+    "super_pac_total": 213591,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5429,7 +5419,7 @@
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 823030,
+    "super_pac_total": 819719,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5461,7 +5451,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 309186,
+    "super_pac_total": 306686,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5728,7 +5718,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 605438,
+    "super_pac_total": 515878,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5840,11 +5830,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Dan Goldman": {
-    "pct": 75,
+    "pct": 74,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 998868,
+    "super_pac_total": 582104,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5874,11 +5864,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Adriano Espaillat": {
-    "pct": 72,
-    "lbl": "Moderate Risk",
+    "pct": 46,
+    "lbl": "Some Corporate",
     "vto": false,
-    "col": "#ea580c",
-    "super_pac_total": 3667411,
+    "col": "#d97706",
+    "super_pac_total": 363617,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5901,11 +5891,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Ritchie Torres": {
-    "pct": 68,
+    "pct": 67,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 2108567,
+    "super_pac_total": 2050615,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -5918,11 +5908,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "George Latimer": {
-    "pct": 100,
-    "lbl": "High Risk",
+    "pct": 50,
+    "lbl": "Some Corporate",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 19182192,
+    "col": "#d97706",
+    "super_pac_total": 2982052,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6079,11 +6069,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Don Davis": {
-    "pct": 82,
-    "lbl": "High Risk",
+    "pct": 69,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 4059404,
+    "col": "#ea580c",
+    "super_pac_total": 1490060,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6277,11 +6267,11 @@
     "score_basis": "No FEC committee totals; manual editorial score based on record."
   },
   "Valerie Foushee": {
-    "pct": 100,
-    "lbl": "High Risk",
+    "pct": 72,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 3479345,
+    "col": "#ea580c",
+    "super_pac_total": 483998,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6328,7 +6318,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 959062,
+    "super_pac_total": 957856,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -6355,7 +6345,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 198029,
+    "super_pac_total": 196709,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6457,7 +6447,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 227588,
+    "super_pac_total": 227430,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6508,7 +6498,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 391529,
+    "super_pac_total": 390509,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -6689,14 +6679,13 @@
     "score_basis": "No FEC committee totals; manual editorial score based on record."
   },
   "Maxine Dexter": {
-    "pct": 85,
-    "lbl": "High Risk",
+    "pct": 34,
+    "lbl": "Low Risk",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 2212990,
+    "col": "#ca8a04",
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -6753,7 +6742,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 466252,
+    "super_pac_total": 459445,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6770,7 +6759,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 38306,
+    "super_pac_total": 33999,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6821,7 +6810,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 110915,
+    "super_pac_total": 100632,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -6996,7 +6985,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 337595,
+    "super_pac_total": 330816,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -7008,7 +6997,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 115312,
+    "super_pac_total": 112512,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7025,7 +7014,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 108479,
+    "super_pac_total": 107179,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7475,7 +7464,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 890606,
+    "super_pac_total": 883348,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -7773,11 +7762,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Henry Cuellar": {
-    "pct": 81,
-    "lbl": "High Risk",
+    "pct": 76,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 2399841,
+    "col": "#ea580c",
+    "super_pac_total": 564211,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8688,7 +8677,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 1592822,
+    "super_pac_total": 268355,
     "any_corporate": true,
     "reasons": [
       "AIPAC"
@@ -8933,11 +8922,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "John Fetterman": {
-    "pct": 17,
+    "pct": 16,
     "lbl": "Clean",
     "vto": false,
     "col": "#16a34a",
-    "super_pac_total": 487491,
+    "super_pac_total": 264418,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -8971,7 +8960,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 63235,
+    "super_pac_total": 61835,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9231,11 +9220,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Gabe Evans": {
-    "pct": 89,
+    "pct": 84,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 724445,
+    "super_pac_total": 56292,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9248,11 +9237,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Diana DeGette": {
-    "pct": 100,
+    "pct": 99,
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 1654229,
+    "super_pac_total": 111576,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9361,10 +9350,9 @@
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 1500,
+    "super_pac_total": 0,
     "any_corporate": true,
     "reasons": [
-      "AIPAC",
       "Oil/Gas",
       "Pharma",
       "Finance",
@@ -9469,11 +9457,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Laura Gillen": {
-    "pct": 64,
+    "pct": 63,
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 359704,
+    "super_pac_total": 293106,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9507,7 +9495,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 109302,
+    "super_pac_total": 109292,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9541,7 +9529,7 @@
     "lbl": "Moderate Risk",
     "vto": false,
     "col": "#ea580c",
-    "super_pac_total": 309889,
+    "super_pac_total": 239889,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9558,7 +9546,7 @@
     "lbl": "Low Risk",
     "vto": false,
     "col": "#ca8a04",
-    "super_pac_total": 229484,
+    "super_pac_total": 228984,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9706,11 +9694,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Janelle Bynum": {
-    "pct": 47,
-    "lbl": "Some Corporate",
+    "pct": 34,
+    "lbl": "Low Risk",
     "vto": false,
-    "col": "#d97706",
-    "super_pac_total": 1454465,
+    "col": "#ca8a04",
+    "super_pac_total": 25700,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -9841,7 +9829,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 103485,
+    "super_pac_total": 101535,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -10092,7 +10080,7 @@
     "lbl": "Some Corporate",
     "vto": false,
     "col": "#d97706",
-    "super_pac_total": 372536,
+    "super_pac_total": 372340,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -10105,11 +10093,11 @@
     "score_basis": "Tracked corporate sectors: AIPAC, oil/gas, pharma, finance, defense, tech, NRA. Does not include labor, single-issue, or non-corporate PACs."
   },
   "Shontel Brown": {
-    "pct": 96,
-    "lbl": "High Risk",
+    "pct": 74,
+    "lbl": "Moderate Risk",
     "vto": false,
-    "col": "#b91c1c",
-    "super_pac_total": 5090445,
+    "col": "#ea580c",
+    "super_pac_total": 1536547,
     "any_corporate": true,
     "reasons": [
       "AIPAC",
@@ -10161,7 +10149,7 @@
     "lbl": "High Risk",
     "vto": false,
     "col": "#b91c1c",
-    "super_pac_total": 159352,
+    "super_pac_total": 158477,
     "any_corporate": true,
     "reasons": [
       "AIPAC",

@@ -18551,5 +18551,908 @@
   "grassroots_small": 2726556,
   "grassroots_itemized": 3109261,
   "small_dollar_pct": 46.7
+ },
+ "Joanna Mendoza": {
+  "candidate_id": "H6AZ06099",
+  "all_candidate_ids": [
+   "H6AZ06099"
+  ],
+  "committees": []
+ },
+ "Jonathan Nez": {
+  "candidate_id": "H4AZ02184",
+  "all_candidate_ids": [
+   "H4AZ02184"
+  ],
+  "committees": []
+ },
+ "Jonathan Treble": {
+  "candidate_id": "H6AZ01298",
+  "all_candidate_ids": [
+   "H6AZ01298"
+  ],
+  "committees": []
+ },
+ "Thomas Feely": {
+  "candidate_id": "H6AZ05190",
+  "all_candidate_ids": [
+   "H6AZ05190"
+  ],
+  "committees": []
+ },
+ "Brandon Riker": {
+  "candidate_id": "H6CA41265",
+  "all_candidate_ids": [
+   "H6CA41265"
+  ],
+  "committees": []
+ },
+ "Eric Jones": {
+  "candidate_id": "H6CA04222",
+  "all_candidate_ids": [
+   "H6CA04222"
+  ],
+  "committees": []
+ },
+ "Esther Varet": {
+  "candidate_id": "H6CA40309",
+  "all_candidate_ids": [
+   "H6CA40309"
+  ],
+  "committees": []
+ },
+ "Jake Levine": {
+  "candidate_id": "H6CA32207",
+  "all_candidate_ids": [
+   "H6CA32207"
+  ],
+  "committees": []
+ },
+ "Jim Desmond": {
+  "candidate_id": "H6CA49128",
+  "all_candidate_ids": [
+   "H6CA49128"
+  ],
+  "committees": []
+ },
+ "Kevin Lincoln Ii.": {
+  "candidate_id": "H4CA09093",
+  "all_candidate_ids": [
+   "H4CA09093"
+  ],
+  "committees": []
+ },
+ "Rakhi Israni": {
+  "candidate_id": "H6CA14171",
+  "all_candidate_ids": [
+   "H6CA14171"
+  ],
+  "committees": []
+ },
+ "Randy Villegas": {
+  "candidate_id": "H6CA22190",
+  "all_candidate_ids": [
+   "H6CA22190"
+  ],
+  "committees": []
+ },
+ "Scott Wiener": {
+  "candidate_id": "H8CA11116",
+  "all_candidate_ids": [
+   "H8CA11116"
+  ],
+  "committees": []
+ },
+ "Vin Kruttiventi": {
+  "candidate_id": "H4CA14093",
+  "all_candidate_ids": [
+   "H4CA14093"
+  ],
+  "committees": []
+ },
+ "Eileen Laubacher": {
+  "candidate_id": "H6CO04202",
+  "all_candidate_ids": [
+   "H6CO04202"
+  ],
+  "committees": []
+ },
+ "Jessica Killin": {
+  "candidate_id": "H6CO05324",
+  "all_candidate_ids": [
+   "H6CO05324"
+  ],
+  "committees": []
+ },
+ "Manny Rutinel": {
+  "candidate_id": "H6CO08013",
+  "all_candidate_ids": [
+   "H6CO08013"
+  ],
+  "committees": []
+ },
+ "Shannon Bird": {
+  "candidate_id": "H6CO08047",
+  "all_candidate_ids": [
+   "H6CO08047"
+  ],
+  "committees": []
+ },
+ "Luke Bronin": {
+  "candidate_id": "H6CT01206",
+  "all_candidate_ids": [
+   "H6CT01206"
+  ],
+  "committees": []
+ },
+ "Kelly Williams": {
+  "candidate_id": "H2DC01029",
+  "all_candidate_ids": [
+   "H2DC01029"
+  ],
+  "committees": []
+ },
+ "Belinda Keiser": {
+  "candidate_id": "H6FL22206",
+  "all_candidate_ids": [
+   "H6FL22206"
+  ],
+  "committees": []
+ },
+ "Chris Collins": {
+  "candidate_id": "H6FL19228",
+  "all_candidate_ids": [
+   "H6FL19228"
+  ],
+  "committees": []
+ },
+ "James Oberweis": {
+  "candidate_id": "H6FL19129",
+  "all_candidate_ids": [
+   "H6FL19129"
+  ],
+  "committees": []
+ },
+ "Joe Strada": {
+  "candidate_id": "H6FL11332",
+  "all_candidate_ids": [
+   "H6FL11332"
+  ],
+  "committees": []
+ },
+ "Keith Gross": {
+  "candidate_id": "H4FL01247",
+  "all_candidate_ids": [
+   "H4FL01247"
+  ],
+  "committees": []
+ },
+ "Kevin Steele": {
+  "candidate_id": "H6FL14229",
+  "all_candidate_ids": [
+   "H6FL14229"
+  ],
+  "committees": []
+ },
+ "Michael Carbonara": {
+  "candidate_id": "H6FL25035",
+  "all_candidate_ids": [
+   "H6FL25035"
+  ],
+  "committees": []
+ },
+ "Mike Beltran": {
+  "candidate_id": "H6FL14237",
+  "all_candidate_ids": [
+   "H6FL14237"
+  ],
+  "committees": []
+ },
+ "Thomas Chalifoux Jr.": {
+  "candidate_id": "H4FL09182",
+  "all_candidate_ids": [
+   "H4FL09182"
+  ],
+  "committees": []
+ },
+ "Houston Gaines": {
+  "candidate_id": "H6GA10175",
+  "all_candidate_ids": [
+   "H6GA10175"
+  ],
+  "committees": []
+ },
+ "John Cowan": {
+  "candidate_id": "H0GA14048",
+  "all_candidate_ids": [
+   "H0GA14048"
+  ],
+  "committees": []
+ },
+ "Shawn Harris": {
+  "candidate_id": "H4GA14057",
+  "all_candidate_ids": [
+   "H4GA14057"
+  ],
+  "committees": []
+ },
+ "Christina Bohannan": {
+  "candidate_id": "H2IA02111",
+  "all_candidate_ids": [
+   "H2IA02111"
+  ],
+  "committees": []
+ },
+ "Sarah Trone Garriott": {
+  "candidate_id": "H6IA03268",
+  "all_candidate_ids": [
+   "H6IA03268"
+  ],
+  "committees": []
+ },
+ "Daniel Biss": {
+  "candidate_id": "H6IL09228",
+  "all_candidate_ids": [
+   "H6IL09228"
+  ],
+  "committees": []
+ },
+ "Donna Miller": {
+  "candidate_id": "H6IL02355",
+  "all_candidate_ids": [
+   "H6IL02355"
+  ],
+  "committees": []
+ },
+ "Jason Friedman": {
+  "candidate_id": "H6IL07339",
+  "all_candidate_ids": [
+   "H6IL07339"
+  ],
+  "committees": []
+ },
+ "Katherine Abughazaleh": {
+  "candidate_id": "H6IL09178",
+  "all_candidate_ids": [
+   "H6IL09178"
+  ],
+  "committees": []
+ },
+ "Melissa Bean": {
+  "candidate_id": "H6IL08329",
+  "all_candidate_ids": [
+   "H6IL08329"
+  ],
+  "committees": []
+ },
+ "Neil Khot": {
+  "candidate_id": "H6IL08212",
+  "all_candidate_ids": [
+   "H6IL08212"
+  ],
+  "committees": []
+ },
+ "Barb Regnitz": {
+  "candidate_id": "H6IN01231",
+  "all_candidate_ids": [
+   "H6IN01231"
+  ],
+  "committees": []
+ },
+ "Adam Arquette": {
+  "candidate_id": "H6KY06259",
+  "all_candidate_ids": [
+   "H6KY06259"
+  ],
+  "committees": []
+ },
+ "Ed Gallrein": {
+  "candidate_id": "H6KY04171",
+  "all_candidate_ids": [
+   "H6KY04171"
+  ],
+  "committees": []
+ },
+ "Blake Miguez": {
+  "candidate_id": "H6LA05234",
+  "all_candidate_ids": [
+   "H6LA05234"
+  ],
+  "committees": []
+ },
+ "Michael Echols": {
+  "candidate_id": "H6LA05242",
+  "all_candidate_ids": [
+   "H6LA05242"
+  ],
+  "committees": []
+ },
+ "Daniel Koh": {
+  "candidate_id": "H8MA03072",
+  "all_candidate_ids": [
+   "H8MA03072"
+  ],
+  "committees": []
+ },
+ "John Beccia": {
+  "candidate_id": "H6MA06152",
+  "all_candidate_ids": [
+   "H6MA06152"
+  ],
+  "committees": []
+ },
+ "David Trone": {
+  "candidate_id": "H6MD08549",
+  "all_candidate_ids": [
+   "H6MD08549"
+  ],
+  "committees": []
+ },
+ "Harry Dunn": {
+  "candidate_id": "H4MD03263",
+  "all_candidate_ids": [
+   "H4MD03263"
+  ],
+  "committees": []
+ },
+ "Quincy Bareebe": {
+  "candidate_id": "H4MD05235",
+  "all_candidate_ids": [
+   "H4MD05235"
+  ],
+  "committees": []
+ },
+ "Paul Lepage": {
+  "candidate_id": "H6ME02148",
+  "all_candidate_ids": [
+   "H6ME02148"
+  ],
+  "committees": []
+ },
+ "Bridget Brink": {
+  "candidate_id": "H6MI07256",
+  "all_candidate_ids": [
+   "H6MI07256"
+  ],
+  "committees": []
+ },
+ "Matthew Maasdam": {
+  "candidate_id": "H6MI07272",
+  "all_candidate_ids": [
+   "H6MI07272"
+  ],
+  "committees": []
+ },
+ "Sean Mccann": {
+  "candidate_id": "H6MI04204",
+  "all_candidate_ids": [
+   "H6MI04204"
+  ],
+  "committees": []
+ },
+ "Jacob Johnson": {
+  "candidate_id": "H6MN01190",
+  "all_candidate_ids": [
+   "H6MN01190"
+  ],
+  "committees": []
+ },
+ "Jamie Ager": {
+  "candidate_id": "H6NC11248",
+  "all_candidate_ids": [
+   "H6NC11248"
+  ],
+  "committees": []
+ },
+ "Laurie Buckhout": {
+  "candidate_id": "H4NC01137",
+  "all_candidate_ids": [
+   "H4NC01137"
+  ],
+  "committees": []
+ },
+ "Richard Ojeda": {
+  "candidate_id": "H6NC09218",
+  "all_candidate_ids": [
+   "H6NC09218"
+  ],
+  "committees": []
+ },
+ "Sandy Roberson": {
+  "candidate_id": "H2NC02253",
+  "all_candidate_ids": [
+   "H2NC02253"
+  ],
+  "committees": []
+ },
+ "Brinker Harding": {
+  "candidate_id": "H6NE02208",
+  "all_candidate_ids": [
+   "H6NE02208"
+  ],
+  "committees": []
+ },
+ "Denise Powell": {
+  "candidate_id": "H6NE02174",
+  "all_candidate_ids": [
+   "H6NE02174"
+  ],
+  "committees": []
+ },
+ "Anthony Dilorenzo": {
+  "candidate_id": "H6NH01420",
+  "all_candidate_ids": [
+   "H6NH01420"
+  ],
+  "committees": []
+ },
+ "Maura Sullivan": {
+  "candidate_id": "H8NH01186",
+  "all_candidate_ids": [
+   "H8NH01186"
+  ],
+  "committees": []
+ },
+ "Rebecca Bennett": {
+  "candidate_id": "H6NJ07201",
+  "all_candidate_ids": [
+   "H6NJ07201"
+  ],
+  "committees": []
+ },
+ "Tina Shah": {
+  "candidate_id": "H6NJ07250",
+  "all_candidate_ids": [
+   "H6NJ07250"
+  ],
+  "committees": []
+ },
+ "David Flippo": {
+  "candidate_id": "H4NV04108",
+  "all_candidate_ids": [
+   "H4NV04108"
+  ],
+  "committees": []
+ },
+ "Marty O'Donnell": {
+  "candidate_id": "H6NV03204",
+  "all_candidate_ids": [
+   "H6NV03204"
+  ],
+  "committees": []
+ },
+ "Anthony Constantino": {
+  "candidate_id": "H6NY21157",
+  "all_candidate_ids": [
+   "H6NY21157"
+  ],
+  "committees": []
+ },
+ "Blake Gendebien": {
+  "candidate_id": "H6NY21199",
+  "all_candidate_ids": [
+   "H6NY21199"
+  ],
+  "committees": []
+ },
+ "Brad Lander": {
+  "candidate_id": "H6NY10176",
+  "all_candidate_ids": [
+   "H6NY10176"
+  ],
+  "committees": []
+ },
+ "Cait Conley": {
+  "candidate_id": "H6NY17171",
+  "all_candidate_ids": [
+   "H6NY17171"
+  ],
+  "committees": []
+ },
+ "George Conway": {
+  "candidate_id": "H6NY12347",
+  "all_candidate_ids": [
+   "H6NY12347"
+  ],
+  "committees": []
+ },
+ "John Schlossberg": {
+  "candidate_id": "H6NY12255",
+  "all_candidate_ids": [
+   "H6NY12255"
+  ],
+  "committees": []
+ },
+ "Peter Chatzky": {
+  "candidate_id": "H6NY17213",
+  "all_candidate_ids": [
+   "H6NY17213"
+  ],
+  "committees": []
+ },
+ "Bob Brooks": {
+  "candidate_id": "H6PA07188",
+  "all_candidate_ids": [
+   "H6PA07188"
+  ],
+  "committees": []
+ },
+ "Janelle Stelson": {
+  "candidate_id": "H4PA10104",
+  "all_candidate_ids": [
+   "H4PA10104"
+  ],
+  "committees": []
+ },
+ "Paige Cognetti": {
+  "candidate_id": "H6PA08293",
+  "all_candidate_ids": [
+   "H6PA08293"
+  ],
+  "committees": []
+ },
+ "Robert Harvie": {
+  "candidate_id": "H6PA01181",
+  "all_candidate_ids": [
+   "H6PA01181"
+  ],
+  "committees": []
+ },
+ "Victor Mellor": {
+  "candidate_id": "H6RI02318",
+  "all_candidate_ids": [
+   "H6RI02318"
+  ],
+  "committees": []
+ },
+ "Nancy Lacore": {
+  "candidate_id": "H6SC01359",
+  "all_candidate_ids": [
+   "H6SC01359"
+  ],
+  "committees": []
+ },
+ "Chaz Molder": {
+  "candidate_id": "H6TN05397",
+  "all_candidate_ids": [
+   "H6TN05397"
+  ],
+  "committees": []
+ },
+ "Johnny Garrett": {
+  "candidate_id": "H6TN06213",
+  "all_candidate_ids": [
+   "H6TN06213"
+  ],
+  "committees": []
+ },
+ "Justin Pearson": {
+  "candidate_id": "H6TN09449",
+  "all_candidate_ids": [
+   "H6TN09449"
+  ],
+  "committees": []
+ },
+ "Alexandra Mealer": {
+  "candidate_id": "H6TX09140",
+  "all_candidate_ids": [
+   "H6TX09140"
+  ],
+  "committees": []
+ },
+ "Bobby Pulido": {
+  "candidate_id": "H6TX15246",
+  "all_candidate_ids": [
+   "H6TX15246"
+  ],
+  "committees": []
+ },
+ "Brett Jensen": {
+  "candidate_id": "H6TX08233",
+  "all_candidate_ids": [
+   "H6TX08233"
+  ],
+  "committees": []
+ },
+ "Chris Gober": {
+  "candidate_id": "H6TX10221",
+  "all_candidate_ids": [
+   "H6TX10221"
+  ],
+  "committees": []
+ },
+ "Colin Allred": {
+  "candidate_id": "H8TX32098",
+  "all_candidate_ids": [
+   "H8TX32098"
+  ],
+  "committees": []
+ },
+ "Eric Flores": {
+  "candidate_id": "H6TX34080",
+  "all_candidate_ids": [
+   "H6TX34080"
+  ],
+  "committees": []
+ },
+ "Jessica Steinmann": {
+  "candidate_id": "H6TX08209",
+  "all_candidate_ids": [
+   "H6TX08209"
+  ],
+  "committees": []
+ },
+ "Mark Teixeira": {
+  "candidate_id": "H6TX21301",
+  "all_candidate_ids": [
+   "H6TX21301"
+  ],
+  "committees": []
+ },
+ "Paul Bondar": {
+  "candidate_id": "H6TX32191",
+  "all_candidate_ids": [
+   "H6TX32191"
+  ],
+  "committees": []
+ },
+ "Ryan Binkley": {
+  "candidate_id": "H6TX32159",
+  "all_candidate_ids": [
+   "H6TX32159"
+  ],
+  "committees": []
+ },
+ "Shaun Finnie": {
+  "candidate_id": "H6TX02251",
+  "all_candidate_ids": [
+   "H6TX02251"
+  ],
+  "committees": []
+ },
+ "Tom Sell": {
+  "candidate_id": "H6TX19206",
+  "all_candidate_ids": [
+   "H6TX19206"
+  ],
+  "committees": []
+ },
+ "Ben Mcadams": {
+  "candidate_id": "H8UT04053",
+  "all_candidate_ids": [
+   "H8UT04053"
+  ],
+  "committees": []
+ },
+ "Elaine Luria": {
+  "candidate_id": "H6VA02198",
+  "all_candidate_ids": [
+   "H6VA02198"
+  ],
+  "committees": []
+ },
+ "Shannon Taylor": {
+  "candidate_id": "H6VA01299",
+  "all_candidate_ids": [
+   "H6VA01299"
+  ],
+  "committees": []
+ },
+ "Thomas Perriello": {
+  "candidate_id": "H6VA05217",
+  "all_candidate_ids": [
+   "H6VA05217"
+  ],
+  "committees": []
+ },
+ "John Braun": {
+  "candidate_id": "H6WA03275",
+  "all_candidate_ids": [
+   "H6WA03275"
+  ],
+  "committees": []
+ },
+ "Paul Wassgren": {
+  "candidate_id": "H6WI07215",
+  "all_candidate_ids": [
+   "H6WI07215"
+  ],
+  "committees": []
+ },
+ "Rebecca Cooke": {
+  "candidate_id": "H4WI03169",
+  "all_candidate_ids": [
+   "H4WI03169"
+  ],
+  "committees": []
+ },
+ "Reid Rasner": {
+  "candidate_id": "H6WY01116",
+  "all_candidate_ids": [
+   "H6WY01116"
+  ],
+  "committees": []
+ },
+ "Stephen Friess": {
+  "candidate_id": "H6WY01165",
+  "all_candidate_ids": [
+   "H6WY01165"
+  ],
+  "committees": []
+ },
+ "Rodney Walker": {
+  "candidate_id": "S6AL00468",
+  "all_candidate_ids": [
+   "S6AL00468"
+  ],
+  "committees": []
+ },
+ "Hallie Shoffner": {
+  "candidate_id": "S6AR00199",
+  "all_candidate_ids": [
+   "S6AR00199"
+  ],
+  "committees": []
+ },
+ "Bob Chew": {
+  "candidate_id": "S6CO00556",
+  "all_candidate_ids": [
+   "S6CO00556"
+  ],
+  "committees": []
+ },
+ "Robert Chew": {
+  "candidate_id": "S6CO00549",
+  "all_candidate_ids": [
+   "S6CO00549"
+  ],
+  "committees": []
+ },
+ "Alexander Vindman": {
+  "candidate_id": "S6FL00855",
+  "all_candidate_ids": [
+   "S6FL00855"
+  ],
+  "committees": []
+ },
+ "Joshua Weil": {
+  "candidate_id": "S6FL00756",
+  "all_candidate_ids": [
+   "S6FL00756"
+  ],
+  "committees": []
+ },
+ "Michael Collins Jr.": {
+  "candidate_id": "S6GA00390",
+  "all_candidate_ids": [
+   "S6GA00390"
+  ],
+  "committees": []
+ },
+ "Joshua Turek": {
+  "candidate_id": "S6IA00298",
+  "all_candidate_ids": [
+   "S6IA00298"
+  ],
+  "committees": []
+ },
+ "Don Tracy": {
+  "candidate_id": "S6IL00615",
+  "all_candidate_ids": [
+   "S6IL00615"
+  ],
+  "committees": []
+ },
+ "Juliana Stratton": {
+  "candidate_id": "S6IL00458",
+  "all_candidate_ids": [
+   "S6IL00458"
+  ],
+  "committees": []
+ },
+ "Adam Hamilton": {
+  "candidate_id": "S6KS00312",
+  "all_candidate_ids": [
+   "S6KS00312"
+  ],
+  "committees": []
+ },
+ "Nate Morris": {
+  "candidate_id": "S6KY00302",
+  "all_candidate_ids": [
+   "S6KY00302"
+  ],
+  "committees": []
+ },
+ "John Fleming Jr.": {
+  "candidate_id": "S6LA00318",
+  "all_candidate_ids": [
+   "S6LA00318"
+  ],
+  "committees": []
+ },
+ "John Deaton": {
+  "candidate_id": "S6MA00304",
+  "all_candidate_ids": [
+   "S6MA00304"
+  ],
+  "committees": []
+ },
+ "Janet Mills": {
+  "candidate_id": "S6ME00407",
+  "all_candidate_ids": [
+   "S6ME00407"
+  ],
+  "committees": []
+ },
+ "Abdul El-Sayed": {
+  "candidate_id": "S6MI00418",
+  "all_candidate_ids": [
+   "S6MI00418"
+  ],
+  "committees": []
+ },
+ "Margaret Flanagan": {
+  "candidate_id": "S6MN00440",
+  "all_candidate_ids": [
+   "S6MN00440"
+  ],
+  "committees": []
+ },
+ "Scott Colom": {
+  "candidate_id": "S6MS00133",
+  "all_candidate_ids": [
+   "S6MS00133"
+  ],
+  "committees": []
+ },
+ "Kurt Alme": {
+  "candidate_id": "S6MT00295",
+  "all_candidate_ids": [
+   "S6MT00295"
+  ],
+  "committees": []
+ },
+ "Seth Bodnar": {
+  "candidate_id": "S6MT00287",
+  "all_candidate_ids": [
+   "S6MT00287"
+  ],
+  "committees": []
+ },
+ "Dan Osborn": {
+  "candidate_id": "S4NE00207",
+  "all_candidate_ids": [
+   "S4NE00207"
+  ],
+  "committees": []
+ },
+ "John Sununu": {
+  "candidate_id": "S6NH00208",
+  "all_candidate_ids": [
+   "S6NH00208"
+  ],
+  "committees": []
+ },
+ "Frederick Ode": {
+  "candidate_id": "S6OH00387",
+  "all_candidate_ids": [
+   "S6OH00387"
+  ],
+  "committees": []
+ },
+ "Annie Andrews": {
+  "candidate_id": "S6SC04239",
+  "all_candidate_ids": [
+   "S6SC04239"
+  ],
+  "committees": []
+ },
+ "Mark Lynch": {
+  "candidate_id": "S6SC04213",
+  "all_candidate_ids": [
+   "S6SC04213"
+  ],
+  "committees": []
  }
 }

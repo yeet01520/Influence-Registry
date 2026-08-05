@@ -1,0 +1,61 @@
+name: Build Scores
+
+# Regenerates data/scores.json from compute_scores.py.
+#
+# WHY THIS EXISTS: nothing was running the scorer. compute_scores.py could be
+# updated and uploaded and the site would keep serving the previous
+# scores.json, because that file is the single source of truth the app reads
+# and only a run rewrites it. That is how the two-score change appeared to do
+# nothing after the script was uploaded.
+#
+# Runs whenever the scorer or any of its inputs change, so the scores can never
+# drift behind the data they are computed from.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/compute_scores.py'
+      - 'data/fec.json'
+      - 'data/profiles.json'
+      - 'data/aipac.json'
+      - 'data/outside_spending.json'
+      - 'data/tags.json'
+      - 'data/sectors.json'
+  workflow_dispatch:
+
+jobs:
+  build-scores:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Compute scores
+        run: python3 scripts/compute_scores.py
+
+      - name: Commit updated data
+        if: ${{ always() }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/scores.json
+          echo "--- staged ---"
+          git status --short
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Rebuild scores.json"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi

@@ -31,7 +31,9 @@
   "individual_total": 10708967,
   "pac_total": 1461729,
   "party_total": 47350,
-  "pac_pct": 12
+  "pac_pct": 12,
+  "self_funded": 1000000,
+  "transfers_in": 340862
  },
  "Katie Britt": {
   "candidate_id": "S2AL00145",
@@ -65,7 +67,9 @@
   "individual_total": 14330501,
   "pac_total": 2906210,
   "party_total": 51200,
-  "pac_pct": 17
+  "pac_pct": 17,
+  "self_funded": 0,
+  "transfers_in": 741790
  },
  "Lisa Murkowski": {
   "candidate_id": "S4AK00099",
@@ -98,7 +102,9 @@
   "individual_total": 16679339,
   "pac_total": 11003223,
   "party_total": 103149,
-  "pac_pct": 40
+  "pac_pct": 40,
+  "self_funded": 0,
+  "transfers_in": 1315921
  },
  "Dan Sullivan": {
   "candidate_id": "S4AK00214",
@@ -128,12 +134,14 @@
   "grassroots_small": 1918299,
   "grassroots_itemized": 16400841,
   "small_dollar_pct": 10.5,
-  "ie_support_total": 472201,
+  "ie_support_total": 884780,
   "ie_oppose_total": 14206437,
-  "individual_total": 18319142,
-  "pac_total": 5778152,
+  "individual_total": 18708499,
+  "pac_total": 5901110,
   "party_total": 152500,
-  "pac_pct": 24
+  "pac_pct": 24,
+  "self_funded": 600,
+  "transfers_in": 5123621
  },
  "Mark Kelly": {
   "candidate_id": "S0AZ00350",
@@ -166,7 +174,9 @@
   "individual_total": 235460027,
   "pac_total": 2395723,
   "party_total": 51200,
-  "pac_pct": 1
+  "pac_pct": 1,
+  "self_funded": 23,
+  "transfers_in": 5255561
  },
  "Ruben Gallego": {
   "candidate_id": "S4AZ00139",
@@ -200,7 +210,9 @@
   "individual_total": 67654049,
   "pac_total": 5248522,
   "party_total": 75700,
-  "pac_pct": 7
+  "pac_pct": 7,
+  "self_funded": 5300,
+  "transfers_in": 3223417
  },
  "John Boozman": {
   "candidate_id": "S0AR00150",
@@ -235,7 +247,9 @@
   "individual_total": 10253711,
   "pac_total": 8144982,
   "party_total": 157265,
-  "pac_pct": 44
+  "pac_pct": 44,
+  "self_funded": 0,
+  "transfers_in": 1619151
  },
  "Tom Cotton": {
   "candidate_id": "S4AR00103",
@@ -270,7 +284,9 @@
   "individual_total": 28865807,
   "pac_total": 5508031,
   "party_total": 127975,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 0,
+  "transfers_in": 6909344
  },
  "Alex Padilla": {
   "candidate_id": "S2CA00955",
@@ -303,7 +319,9 @@
   "individual_total": 10799733,
   "pac_total": 2650326,
   "party_total": 3877,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 0,
+  "transfers_in": 799107
  },
  "Adam Schiff": {
   "candidate_id": "S4CA00555",
@@ -337,7 +355,9 @@
   "individual_total": 107618799,
   "pac_total": 7223968,
   "party_total": 14490,
-  "pac_pct": 6
+  "pac_pct": 6,
+  "self_funded": 0,
+  "transfers_in": 4409669
  },
  "Michael Bennet": {
   "candidate_id": "S0CO00211",
@@ -370,7 +390,9 @@
   "individual_total": 41009145,
   "pac_total": 7621727,
   "party_total": 55423,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 812529,
+  "transfers_in": 4997539
  },
  "John Hickenlooper": {
   "candidate_id": "S0CO00575",
@@ -403,7 +425,9 @@
   "individual_total": 47443959,
   "pac_total": 1865896,
   "party_total": 111600,
-  "pac_pct": 4
+  "pac_pct": 4,
+  "self_funded": 5600,
+  "transfers_in": 4241976
  },
  "Richard Blumenthal": {
   "candidate_id": "S0CT00177",
@@ -437,7 +461,9 @@
   "individual_total": 17152289,
   "pac_total": 4946084,
   "party_total": 825,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 2603297,
+  "transfers_in": 2968872
  },
  "Chris Murphy": {
   "candidate_id": "S2CT00132",
@@ -472,7 +498,9 @@
   "individual_total": 54414883,
   "pac_total": 6250772,
   "party_total": 2926,
-  "pac_pct": 10
+  "pac_pct": 10,
+  "self_funded": 100,
+  "transfers_in": 1658702
  },
  "Chris Coons": {
   "candidate_id": "S0DE00092",
@@ -505,7 +533,9 @@
   "individual_total": 14394326,
   "pac_total": 7673533,
   "party_total": 0,
-  "pac_pct": 35
+  "pac_pct": 35,
+  "self_funded": 320509,
+  "transfers_in": 1365456
  },
  "Rick Scott": {
   "candidate_id": "S8FL00273",
@@ -538,7 +568,9 @@
   "individual_total": 27589201,
   "pac_total": 2282971,
   "party_total": 57850,
-  "pac_pct": 8
+  "pac_pct": 8,
+  "self_funded": 89822150,
+  "transfers_in": 12054445
  },
  "Jon Ossoff": {
   "candidate_id": "S8GA00180",
@@ -568,12 +600,14 @@
   "grassroots_small": 139371009,
   "grassroots_itemized": 121867190,
   "small_dollar_pct": 53.4,
-  "ie_support_total": 10626726,
+  "ie_support_total": 10484994,
   "ie_oppose_total": 112069119,
   "individual_total": 261238200,
   "pac_total": 2279584,
   "party_total": 78238,
-  "pac_pct": 1
+  "pac_pct": 1,
+  "self_funded": 750000,
+  "transfers_in": 17140495
  },
  "Raphael Warnock": {
   "candidate_id": "S0GA00559",
@@ -606,7 +640,9 @@
   "individual_total": 315280363,
   "pac_total": 3005628,
   "party_total": 110713,
-  "pac_pct": 1
+  "pac_pct": 1,
+  "self_funded": 0,
+  "transfers_in": 18891617
  },
  "Brian Schatz": {
   "candidate_id": "S4HI00136",
@@ -641,7 +677,9 @@
   "individual_total": 11092058,
   "pac_total": 5241996,
   "party_total": 32805,
-  "pac_pct": 32
+  "pac_pct": 32,
+  "self_funded": 43680,
+  "transfers_in": 212612
  },
  "Mazie Hirono": {
   "candidate_id": "S2HI00106",
@@ -675,7 +713,9 @@
   "individual_total": 13406189,
   "pac_total": 5475795,
   "party_total": 43701,
-  "pac_pct": 29
+  "pac_pct": 29,
+  "self_funded": 135000,
+  "transfers_in": 543705
  },
  "Mike Crapo": {
   "candidate_id": "S8ID00027",
@@ -710,7 +750,9 @@
   "individual_total": 10576202,
   "pac_total": 13306767,
   "party_total": 51561,
-  "pac_pct": 56
+  "pac_pct": 56,
+  "self_funded": 29000,
+  "transfers_in": 2895972
  },
  "James Risch": {
   "candidate_id": "S8ID00092",
@@ -744,7 +786,9 @@
   "individual_total": 8079819,
   "pac_total": 4639548,
   "party_total": 97300,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 545201,
+  "transfers_in": 440479
  },
  "Dick Durbin": {
   "candidate_id": "S6IL00151",
@@ -778,7 +822,9 @@
   "individual_total": 31445865,
   "pac_total": 11943317,
   "party_total": 140930,
-  "pac_pct": 27
+  "pac_pct": 27,
+  "self_funded": 75000,
+  "transfers_in": 4280383
  },
  "Tammy Duckworth": {
   "candidate_id": "S6IL00292",
@@ -814,7 +860,9 @@
   "individual_total": 48017981,
   "pac_total": 6542794,
   "party_total": 73327,
-  "pac_pct": 12
+  "pac_pct": 12,
+  "self_funded": 2723,
+  "transfers_in": 5600038
  },
  "Todd Young": {
   "candidate_id": "S6IN00191",
@@ -848,7 +896,9 @@
   "individual_total": 21208729,
   "pac_total": 8086334,
   "party_total": 66310,
-  "pac_pct": 28
+  "pac_pct": 28,
+  "self_funded": 0,
+  "transfers_in": 7989840
  },
  "Jim Banks": {
   "candidate_id": "S4IN00196",
@@ -883,7 +933,9 @@
   "individual_total": 9707809,
   "pac_total": 4266917,
   "party_total": 941,
-  "pac_pct": 31
+  "pac_pct": 31,
+  "self_funded": 1125,
+  "transfers_in": 2027436
  },
  "Chuck Grassley": {
   "candidate_id": "S0IA00028",
@@ -919,7 +971,9 @@
   "individual_total": 23649458,
   "pac_total": 16275569,
   "party_total": 100681,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 0,
+  "transfers_in": 3517908
  },
  "Joni Ernst": {
   "candidate_id": "S4IA00129",
@@ -953,7 +1007,9 @@
   "individual_total": 36958545,
   "pac_total": 6322431,
   "party_total": 49950,
-  "pac_pct": 15
+  "pac_pct": 15,
+  "self_funded": 2600,
+  "transfers_in": 5781685
  },
  "Jerry Moran": {
   "candidate_id": "S0KS00091",
@@ -988,7 +1044,9 @@
   "individual_total": 10807308,
   "pac_total": 10885066,
   "party_total": 27089,
-  "pac_pct": 50
+  "pac_pct": 50,
+  "self_funded": 100,
+  "transfers_in": 6382106
  },
  "Roger Marshall": {
   "candidate_id": "H6KS01179",
@@ -1018,12 +1076,14 @@
   "grassroots_small": 963120,
   "grassroots_itemized": 7103790,
   "small_dollar_pct": 11.9,
-  "ie_support_total": 5777952,
+  "ie_support_total": 5793730,
   "ie_oppose_total": 15779958,
   "individual_total": 8066911,
   "pac_total": 5851150,
   "party_total": 118450,
-  "pac_pct": 42
+  "pac_pct": 42,
+  "self_funded": 437548,
+  "transfers_in": 1339105
  },
  "Mitch McConnell": {
   "candidate_id": "S2KY00012",
@@ -1058,7 +1118,9 @@
   "individual_total": 111336188,
   "pac_total": 21089244,
   "party_total": 97000,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 5317550,
+  "transfers_in": 12506980
  },
  "Rand Paul": {
   "candidate_id": "S0KY00156",
@@ -1092,7 +1154,9 @@
   "individual_total": 50867366,
   "pac_total": 2740616,
   "party_total": 100009,
-  "pac_pct": 5
+  "pac_pct": 5,
+  "self_funded": 0,
+  "transfers_in": 4836656
  },
  "Bill Cassidy": {
   "candidate_id": "S4LA00107",
@@ -1127,7 +1191,9 @@
   "individual_total": 26770841,
   "pac_total": 10069698,
   "party_total": 128887,
-  "pac_pct": 27
+  "pac_pct": 27,
+  "self_funded": 31713,
+  "transfers_in": 8211420
  },
  "John Kennedy": {
   "candidate_id": "S4LA00065",
@@ -1161,7 +1227,9 @@
   "individual_total": 71384659,
   "pac_total": 3887669,
   "party_total": 40750,
-  "pac_pct": 5
+  "pac_pct": 5,
+  "self_funded": 250000,
+  "transfers_in": 2597746
  },
  "Susan Collins": {
   "candidate_id": "S6ME00159",
@@ -1190,12 +1258,14 @@
   "grassroots_small": 7842272,
   "grassroots_itemized": 37352543,
   "small_dollar_pct": 17.4,
-  "ie_support_total": 10967173,
-  "ie_oppose_total": 52696683,
+  "ie_support_total": 11067823,
+  "ie_oppose_total": 52702844,
   "individual_total": 48782139,
   "pac_total": 12911169,
   "party_total": 189237,
-  "pac_pct": 21
+  "pac_pct": 21,
+  "self_funded": 1196,
+  "transfers_in": 7329171
  },
  "Angus King": {
   "candidate_id": "S2ME00109",
@@ -1228,7 +1298,9 @@
   "individual_total": 10225107,
   "pac_total": 3508355,
   "party_total": 5200,
-  "pac_pct": 26
+  "pac_pct": 26,
+  "self_funded": 157135,
+  "transfers_in": 210479
  },
  "Angela Alsobrooks": {
   "candidate_id": "S4MD00327",
@@ -1261,7 +1333,9 @@
   "individual_total": 24613369,
   "pac_total": 1628069,
   "party_total": 58400,
-  "pac_pct": 6
+  "pac_pct": 6,
+  "self_funded": 0,
+  "transfers_in": 6242800
  },
  "Elizabeth Warren": {
   "candidate_id": "S2MA00170",
@@ -1294,7 +1368,9 @@
   "individual_total": 95975649,
   "pac_total": 1220636,
   "party_total": 13285,
-  "pac_pct": 1
+  "pac_pct": 1,
+  "self_funded": 0,
+  "transfers_in": 5343873
  },
  "Ed Markey": {
   "candidate_id": "S4MA00028",
@@ -1330,7 +1406,9 @@
   "individual_total": 36344041,
   "pac_total": 7060498,
   "party_total": 95964,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 20600,
+  "transfers_in": 4012538
  },
  "Gary Peters": {
   "candidate_id": "S4MI00355",
@@ -1364,7 +1442,9 @@
   "individual_total": 64830494,
   "pac_total": 10703474,
   "party_total": 17385,
-  "pac_pct": 14
+  "pac_pct": 14,
+  "self_funded": 2300,
+  "transfers_in": 2433225
  },
  "Elissa Slotkin": {
   "candidate_id": "S4MI00470",
@@ -1399,7 +1479,9 @@
   "individual_total": 73048837,
   "pac_total": 3597371,
   "party_total": 101007,
-  "pac_pct": 5
+  "pac_pct": 5,
+  "self_funded": 10200,
+  "transfers_in": 7041900
  },
  "Amy Klobuchar": {
   "candidate_id": "S6MN00267",
@@ -1433,7 +1515,9 @@
   "individual_total": 38151725,
   "pac_total": 7541793,
   "party_total": 43075,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 0,
+  "transfers_in": 8825399
  },
  "Tina Smith": {
   "candidate_id": "S8MN00578",
@@ -1466,7 +1550,9 @@
   "individual_total": 23176887,
   "pac_total": 4428810,
   "party_total": 0,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 11000,
+  "transfers_in": 1014823
  },
  "Roger Wicker": {
   "candidate_id": "S8MS00196",
@@ -1505,7 +1591,9 @@
   "individual_total": 16832518,
   "pac_total": 11442369,
   "party_total": 67921,
-  "pac_pct": 40
+  "pac_pct": 40,
+  "self_funded": 25,
+  "transfers_in": 3951035
  },
  "Cindy Hyde-Smith": {
   "candidate_id": "S8MS00261",
@@ -1539,7 +1627,9 @@
   "individual_total": 8624289,
   "pac_total": 4159741,
   "party_total": 160444,
-  "pac_pct": 32
+  "pac_pct": 32,
+  "self_funded": 0,
+  "transfers_in": 1107692
  },
  "Josh Hawley": {
   "candidate_id": "S8MO00160",
@@ -1572,7 +1662,9 @@
   "individual_total": 29461899,
   "pac_total": 1685623,
   "party_total": 51794,
-  "pac_pct": 5
+  "pac_pct": 5,
+  "self_funded": 0,
+  "transfers_in": 9497356
  },
  "Eric Schmitt": {
   "candidate_id": "S2MO00544",
@@ -1606,7 +1698,9 @@
   "individual_total": 8933266,
   "pac_total": 1369959,
   "party_total": 5000,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 0,
+  "transfers_in": 1535428
  },
  "Steve Daines": {
   "candidate_id": "S2MT00096",
@@ -1641,7 +1735,9 @@
   "individual_total": 36795587,
   "pac_total": 8725578,
   "party_total": 175468,
-  "pac_pct": 19
+  "pac_pct": 19,
+  "self_funded": 75915,
+  "transfers_in": 4435803
  },
  "Tim Sheehy": {
   "candidate_id": "S4MT00183",
@@ -1675,7 +1771,9 @@
   "individual_total": 22866017,
   "pac_total": 1734825,
   "party_total": 70709,
-  "pac_pct": 7
+  "pac_pct": 7,
+  "self_funded": 2602762,
+  "transfers_in": 3358198
  },
  "Deb Fischer": {
   "candidate_id": "S2NE00094",
@@ -1708,7 +1806,9 @@
   "individual_total": 11013496,
   "pac_total": 7729571,
   "party_total": 112647,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 44400,
+  "transfers_in": 2064863
  },
  "Pete Ricketts": {
   "candidate_id": "S6NE00129",
@@ -1742,7 +1842,9 @@
   "individual_total": 5115695,
   "pac_total": 3222310,
   "party_total": 64100,
-  "pac_pct": 38
+  "pac_pct": 38,
+  "self_funded": 17441552,
+  "transfers_in": 4548978
  },
  "Jacky Rosen": {
   "candidate_id": "S8NV00156",
@@ -1776,7 +1878,9 @@
   "individual_total": 64651330,
   "pac_total": 5561691,
   "party_total": 121096,
-  "pac_pct": 8
+  "pac_pct": 8,
+  "self_funded": 35000,
+  "transfers_in": 9065094
  },
  "Catherine Cortez Masto": {
   "candidate_id": "S6NV00200",
@@ -1809,7 +1913,9 @@
   "individual_total": 82059220,
   "pac_total": 4989344,
   "party_total": 104500,
-  "pac_pct": 6
+  "pac_pct": 6,
+  "self_funded": 0,
+  "transfers_in": 3386591
  },
  "Jeanne Shaheen": {
   "candidate_id": "S0NH00219",
@@ -1844,7 +1950,9 @@
   "individual_total": 42345867,
   "pac_total": 7897483,
   "party_total": 114575,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 0,
+  "transfers_in": 2260155
  },
  "Maggie Hassan": {
   "candidate_id": "S6NH00091",
@@ -1877,7 +1985,9 @@
   "individual_total": 56555231,
   "pac_total": 5673379,
   "party_total": 103575,
-  "pac_pct": 9
+  "pac_pct": 9,
+  "self_funded": 0,
+  "transfers_in": 3599636
  },
  "Cory Booker": {
   "candidate_id": "S4NJ00185",
@@ -1910,7 +2020,9 @@
   "individual_total": 48741053,
   "pac_total": 3703462,
   "party_total": 3937,
-  "pac_pct": 7
+  "pac_pct": 7,
+  "self_funded": 0,
+  "transfers_in": 14700776
  },
  "Andy Kim": {
   "candidate_id": "S4NJ00466",
@@ -1944,7 +2056,9 @@
   "individual_total": 29178903,
   "pac_total": 3414314,
   "party_total": 2600,
-  "pac_pct": 10
+  "pac_pct": 10,
+  "self_funded": 1260,
+  "transfers_in": 2105922
  },
  "Martin Heinrich": {
   "candidate_id": "S2NM00088",
@@ -1978,7 +2092,9 @@
   "individual_total": 24930381,
   "pac_total": 8700244,
   "party_total": 63042,
-  "pac_pct": 26
+  "pac_pct": 26,
+  "self_funded": 0,
+  "transfers_in": 1314188
  },
  "Chuck Schumer": {
   "candidate_id": "S8NY00082",
@@ -2014,7 +2130,9 @@
   "individual_total": 109676111,
   "pac_total": 15441380,
   "party_total": 7811,
-  "pac_pct": 12
+  "pac_pct": 12,
+  "self_funded": 1000,
+  "transfers_in": 6943684
  },
  "Kirsten Gillibrand": {
   "candidate_id": "S0NY00410",
@@ -2048,7 +2166,9 @@
   "individual_total": 56181412,
   "pac_total": 8932230,
   "party_total": 5594,
-  "pac_pct": 14
+  "pac_pct": 14,
+  "self_funded": 6075,
+  "transfers_in": 8965863
  },
  "Thom Tillis": {
   "candidate_id": "S4NC00162",
@@ -2082,7 +2202,9 @@
   "individual_total": 31464729,
   "pac_total": 9464013,
   "party_total": 45900,
-  "pac_pct": 23
+  "pac_pct": 23,
+  "self_funded": 250000,
+  "transfers_in": 4435831
  },
  "John Hoeven": {
   "candidate_id": "S0ND00093",
@@ -2115,7 +2237,9 @@
   "individual_total": 5953260,
   "pac_total": 5247671,
   "party_total": 50884,
-  "pac_pct": 47
+  "pac_pct": 47,
+  "self_funded": 230626,
+  "transfers_in": 1276697
  },
  "Kevin Cramer": {
   "candidate_id": "S8ND00120",
@@ -2153,7 +2277,9 @@
   "individual_total": 10816712,
   "pac_total": 5826236,
   "party_total": 116176,
-  "pac_pct": 35
+  "pac_pct": 35,
+  "self_funded": 307,
+  "transfers_in": 1920261
  },
  "Bernie Moreno": {
   "candidate_id": "S4OH00192",
@@ -2188,7 +2314,9 @@
   "individual_total": 15537231,
   "pac_total": 1184903,
   "party_total": 53325,
-  "pac_pct": 7
+  "pac_pct": 7,
+  "self_funded": 4500838,
+  "transfers_in": 8233325
  },
  "James Lankford": {
   "candidate_id": "S4OK00232",
@@ -2222,7 +2350,9 @@
   "individual_total": 11594094,
   "pac_total": 5933831,
   "party_total": 53700,
-  "pac_pct": 34
+  "pac_pct": 34,
+  "self_funded": 220,
+  "transfers_in": 992027
  },
  "Ron Wyden": {
   "candidate_id": "S6OR00110",
@@ -2258,7 +2388,9 @@
   "individual_total": 31944009,
   "pac_total": 14425690,
   "party_total": 36171,
-  "pac_pct": 31
+  "pac_pct": 31,
+  "self_funded": 250000,
+  "transfers_in": 4132173
  },
  "Jeff Merkley": {
   "candidate_id": "S8OR00207",
@@ -2291,7 +2423,9 @@
   "individual_total": 30798864,
   "pac_total": 4265773,
   "party_total": 45915,
-  "pac_pct": 12
+  "pac_pct": 12,
+  "self_funded": 250000,
+  "transfers_in": 1527099
  },
  "Dave McCormick": {
   "candidate_id": "S2PA00661",
@@ -2326,7 +2460,9 @@
   "individual_total": 29584672,
   "pac_total": 1787194,
   "party_total": 52800,
-  "pac_pct": 6
+  "pac_pct": 6,
+  "self_funded": 22090583,
+  "transfers_in": 7190574
  },
  "Sheldon Whitehouse": {
   "candidate_id": "S6RI00221",
@@ -2359,7 +2495,9 @@
   "individual_total": 18048715,
   "pac_total": 4715105,
   "party_total": 50248,
-  "pac_pct": 21
+  "pac_pct": 21,
+  "self_funded": 360000,
+  "transfers_in": 2128117
  },
  "Lindsey Graham": {
   "candidate_id": "S0SC00149",
@@ -2391,12 +2529,14 @@
   "grassroots_small": 58135209,
   "grassroots_itemized": 75000357,
   "small_dollar_pct": 43.7,
-  "ie_support_total": 7128881,
+  "ie_support_total": 7503168,
   "ie_oppose_total": 14062408,
   "individual_total": 140688915,
   "pac_total": 11237985,
   "party_total": 193072,
-  "pac_pct": 7
+  "pac_pct": 7,
+  "self_funded": 148399,
+  "transfers_in": 10829321
  },
  "Tim Scott": {
   "candidate_id": "S4SC00240",
@@ -2431,7 +2571,9 @@
   "individual_total": 76965403,
   "pac_total": 11926899,
   "party_total": 450400,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 0,
+  "transfers_in": 3663085
  },
  "John Thune": {
   "candidate_id": "S2SD00068",
@@ -2467,7 +2609,9 @@
   "individual_total": 42328897,
   "pac_total": 14956464,
   "party_total": 412878,
-  "pac_pct": 26
+  "pac_pct": 26,
+  "self_funded": 7000,
+  "transfers_in": 4985207
  },
  "Mike Rounds": {
   "candidate_id": "S4SD00049",
@@ -2501,7 +2645,9 @@
   "individual_total": 7899462,
   "pac_total": 5835812,
   "party_total": 107400,
-  "pac_pct": 42
+  "pac_pct": 42,
+  "self_funded": 14599,
+  "transfers_in": 500611
  },
  "Bill Hagerty": {
   "candidate_id": "S0TN00169",
@@ -2529,12 +2675,14 @@
   "grassroots_small": 3121625,
   "grassroots_itemized": 14279391,
   "small_dollar_pct": 17.9,
-  "ie_support_total": 1832992,
+  "ie_support_total": 1849182,
   "ie_oppose_total": 1006805,
   "individual_total": 17401016,
   "pac_total": 3994374,
   "party_total": 112550,
-  "pac_pct": 19
+  "pac_pct": 19,
+  "self_funded": 0,
+  "transfers_in": 2756596
  },
  "Marsha Blackburn": {
   "candidate_id": "S8TN00337",
@@ -2569,7 +2717,9 @@
   "individual_total": 21340272,
   "pac_total": 11814617,
   "party_total": 60247,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 23800,
+  "transfers_in": 13923013
  },
  "John Cornyn": {
   "candidate_id": "S2TX00106",
@@ -2603,7 +2753,9 @@
   "individual_total": 59385318,
   "pac_total": 14857758,
   "party_total": 218428,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 0,
+  "transfers_in": 16121155
  },
  "Mike Lee": {
   "candidate_id": "S0UT00165",
@@ -2636,7 +2788,9 @@
   "individual_total": 21714000,
   "pac_total": 4322918,
   "party_total": 6100,
-  "pac_pct": 17
+  "pac_pct": 17,
+  "self_funded": 125000,
+  "transfers_in": 1708263
  },
  "John Curtis": {
   "candidate_id": "S4UT00282",
@@ -2671,7 +2825,9 @@
   "individual_total": 4564350,
   "pac_total": 4877390,
   "party_total": 0,
-  "pac_pct": 52
+  "pac_pct": 52,
+  "self_funded": 100000,
+  "transfers_in": 1605005
  },
  "Peter Welch": {
   "candidate_id": "S2VT00235",
@@ -2708,7 +2864,9 @@
   "individual_total": 6658337,
   "pac_total": 5731204,
   "party_total": 68133,
-  "pac_pct": 46
+  "pac_pct": 46,
+  "self_funded": 46560,
+  "transfers_in": 2304325
  },
  "Mark Warner": {
   "candidate_id": "S6VA00093",
@@ -2742,7 +2900,9 @@
   "individual_total": 48703993,
   "pac_total": 13166767,
   "party_total": 20375,
-  "pac_pct": 21
+  "pac_pct": 21,
+  "self_funded": 10726284,
+  "transfers_in": 11303328
  },
  "Tim Kaine": {
   "candidate_id": "S2VA00142",
@@ -2775,7 +2935,9 @@
   "individual_total": 41143015,
   "pac_total": 6735438,
   "party_total": 45100,
-  "pac_pct": 14
+  "pac_pct": 14,
+  "self_funded": 0,
+  "transfers_in": 13890311
  },
  "Patty Murray": {
   "candidate_id": "S2WA00189",
@@ -2809,7 +2971,9 @@
   "individual_total": 56482732,
   "pac_total": 15039620,
   "party_total": 269064,
-  "pac_pct": 21
+  "pac_pct": 21,
+  "self_funded": 8376,
+  "transfers_in": 4145308
  },
  "Maria Cantwell": {
   "candidate_id": "S8WA00194",
@@ -2845,7 +3009,9 @@
   "individual_total": 53827920,
   "pac_total": 1172875,
   "party_total": 57676,
-  "pac_pct": 2
+  "pac_pct": 2,
+  "self_funded": 15628249,
+  "transfers_in": 2201029
  },
  "Shelley Moore Capito": {
   "candidate_id": "S4WV00159",
@@ -2881,7 +3047,9 @@
   "individual_total": 18232402,
   "pac_total": 14294253,
   "party_total": 123516,
-  "pac_pct": 44
+  "pac_pct": 44,
+  "self_funded": 51000,
+  "transfers_in": 3039876
  },
  "Jim Justice": {
   "candidate_id": "S4WV00332",
@@ -2915,7 +3083,9 @@
   "individual_total": 2772587,
   "pac_total": 738550,
   "party_total": 0,
-  "pac_pct": 21
+  "pac_pct": 21,
+  "self_funded": 0,
+  "transfers_in": 1145554
  },
  "Tammy Baldwin": {
   "candidate_id": "S2WI00219",
@@ -2949,7 +3119,9 @@
   "individual_total": 101838836,
   "pac_total": 9230194,
   "party_total": 86765,
-  "pac_pct": 8
+  "pac_pct": 8,
+  "self_funded": 6341,
+  "transfers_in": 6767639
  },
  "Ron Johnson": {
   "candidate_id": "S0WI00197",
@@ -2982,7 +3154,9 @@
   "individual_total": 58473878,
   "pac_total": 5250731,
   "party_total": 169340,
-  "pac_pct": 8
+  "pac_pct": 8,
+  "self_funded": 9378014,
+  "transfers_in": 5605497
  },
  "John Barrasso": {
   "candidate_id": "S6WY00068",
@@ -3016,7 +3190,9 @@
   "individual_total": 12985352,
   "pac_total": 10901951,
   "party_total": 11716,
-  "pac_pct": 46
+  "pac_pct": 46,
+  "self_funded": 357676,
+  "transfers_in": 2689884
  },
  "Cynthia Lummis": {
   "candidate_id": "S0WY00137",
@@ -3052,7 +3228,9 @@
   "individual_total": 4111086,
   "pac_total": 3551291,
   "party_total": 94247,
-  "pac_pct": 46
+  "pac_pct": 46,
+  "self_funded": 872993,
+  "transfers_in": 653855
  },
  "Lisa Blunt Rochester": {
   "candidate_id": "S4DE00060",
@@ -3087,7 +3265,9 @@
   "individual_total": 10415928,
   "pac_total": 6892542,
   "party_total": 6546,
-  "pac_pct": 40
+  "pac_pct": 40,
+  "self_funded": 469553,
+  "transfers_in": 1961709
  },
  "Ashley Moody": {
   "candidate_id": "S6FL00640",
@@ -3115,12 +3295,14 @@
   "grassroots_small": 1383579,
   "grassroots_itemized": 3146279,
   "small_dollar_pct": 30.5,
-  "ie_support_total": 519779,
+  "ie_support_total": 536308,
   "ie_oppose_total": 36025,
-  "individual_total": 4529858,
-  "pac_total": 1977500,
+  "individual_total": 4941622,
+  "pac_total": 2021000,
   "party_total": 62000,
-  "pac_pct": 30
+  "pac_pct": 29,
+  "self_funded": 0,
+  "transfers_in": 4205780
  },
  "Jon Husted": {
   "candidate_id": "S6OH00304",
@@ -3149,12 +3331,14 @@
   "grassroots_small": 1843640,
   "grassroots_itemized": 4436372,
   "small_dollar_pct": 29.4,
-  "ie_support_total": 1918162,
+  "ie_support_total": 2898278,
   "ie_oppose_total": 23805,
   "individual_total": 6280012,
   "pac_total": 2320510,
   "party_total": 62050,
-  "pac_pct": 27
+  "pac_pct": 27,
+  "self_funded": 0,
+  "transfers_in": 5675891
  },
  "Chris Van Hollen": {
   "candidate_id": "S6MD03441",
@@ -3189,7 +3373,9 @@
   "individual_total": 24041986,
   "pac_total": 8049567,
   "party_total": 8198,
-  "pac_pct": 25
+  "pac_pct": 25,
+  "self_funded": 177163,
+  "transfers_in": 4039629
  },
  "John Fetterman": {
   "candidate_id": "S6PA00274",
@@ -3223,7 +3409,9 @@
   "individual_total": 77703662,
   "pac_total": 892073,
   "party_total": 51823,
-  "pac_pct": 1
+  "pac_pct": 1,
+  "self_funded": 29723,
+  "transfers_in": 2217468
  },
  "Mike Rogers": {
   "candidate_id": "H2AL03032",
@@ -3256,7 +3444,9 @@
   "pac_pct": 46,
   "grassroots_small": 472649,
   "grassroots_itemized": 10127466,
-  "small_dollar_pct": 4.5
+  "small_dollar_pct": 4.5,
+  "self_funded": 160000,
+  "transfers_in": 192119
  },
  "Robert Aderholt": {
   "candidate_id": "H6AL04098",
@@ -3289,7 +3479,9 @@
   "individual_total": 8377896,
   "pac_total": 8875129,
   "party_total": 68644,
-  "pac_pct": 51
+  "pac_pct": 51,
+  "self_funded": 472195,
+  "transfers_in": 60251
  },
  "Dale Strong": {
   "candidate_id": "H2AL05102",
@@ -3322,7 +3514,9 @@
   "individual_total": 2735064,
   "pac_total": 1567050,
   "party_total": 0,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 240000,
+  "transfers_in": 200300
  },
  "Gary Palmer": {
   "candidate_id": "H4AL06098",
@@ -3355,7 +3549,9 @@
   "individual_total": 5601302,
   "pac_total": 2726762,
   "party_total": 100,
-  "pac_pct": 33
+  "pac_pct": 33,
+  "self_funded": 0,
+  "transfers_in": 940518
  },
  "Terri Sewell": {
   "candidate_id": "H0AL07086",
@@ -3388,7 +3584,9 @@
   "individual_total": 5430178,
   "pac_total": 11940215,
   "party_total": 2088,
-  "pac_pct": 69
+  "pac_pct": 69,
+  "self_funded": 63000,
+  "transfers_in": 950
  },
  "Nick Begich": {
   "candidate_id": "H2AK01083",
@@ -3417,12 +3615,14 @@
   "grassroots_small": 1261390,
   "grassroots_itemized": 4618786,
   "small_dollar_pct": 21.5,
-  "ie_support_total": 4598729,
+  "ie_support_total": 4600003,
   "ie_oppose_total": 9950585,
-  "individual_total": 5880176,
-  "pac_total": 1335181,
+  "individual_total": 6022347,
+  "pac_total": 1384181,
   "party_total": 10000,
-  "pac_pct": 18
+  "pac_pct": 19,
+  "self_funded": 674570,
+  "transfers_in": 1778187
  },
  "David Schweikert": {
   "candidate_id": "H4AZ06045",
@@ -3461,7 +3661,9 @@
   "individual_total": 9240422,
   "pac_total": 6108804,
   "party_total": 38331,
-  "pac_pct": 40
+  "pac_pct": 40,
+  "self_funded": 1175439,
+  "transfers_in": 2665302
  },
  "Eli Crane": {
   "candidate_id": "H2AZ01354",
@@ -3491,12 +3693,14 @@
   "grassroots_small": 9447244,
   "grassroots_itemized": 10618424,
   "small_dollar_pct": 47.1,
-  "ie_support_total": 2246367,
-  "ie_oppose_total": 785585,
+  "ie_support_total": 2254811,
+  "ie_oppose_total": 789672,
   "individual_total": 20065668,
   "pac_total": 460100,
   "party_total": 5600,
-  "pac_pct": 2
+  "pac_pct": 2,
+  "self_funded": 100000,
+  "transfers_in": 1155544
  },
  "Yassamin Ansari": {
   "candidate_id": "H4AZ03109",
@@ -3529,7 +3733,9 @@
   "individual_total": 3099106,
   "pac_total": 512544,
   "party_total": 0,
-  "pac_pct": 14
+  "pac_pct": 14,
+  "self_funded": 545914,
+  "transfers_in": 18322
  },
  "Greg Stanton": {
   "candidate_id": "H8AZ09040",
@@ -3562,7 +3768,9 @@
   "individual_total": 9822402,
   "pac_total": 3763960,
   "party_total": 10428,
-  "pac_pct": 28
+  "pac_pct": 28,
+  "self_funded": 0,
+  "transfers_in": 122602
  },
  "Andy Biggs": {
   "candidate_id": "H6AZ05083",
@@ -3595,7 +3803,9 @@
   "individual_total": 5384315,
   "pac_total": 1079143,
   "party_total": 0,
-  "pac_pct": 17
+  "pac_pct": 17,
+  "self_funded": 150000,
+  "transfers_in": 48927
  },
  "Juan Ciscomani": {
   "candidate_id": "H2AZ02360",
@@ -3629,7 +3839,9 @@
   "individual_total": 8389430,
   "pac_total": 4109443,
   "party_total": 22000,
-  "pac_pct": 33
+  "pac_pct": 33,
+  "self_funded": 0,
+  "transfers_in": 4063929
  },
  "Paul Gosar": {
   "candidate_id": "H0AZ01259",
@@ -3657,12 +3869,14 @@
   "grassroots_small": 1122087,
   "grassroots_itemized": 3566559,
   "small_dollar_pct": 23.9,
-  "ie_support_total": 134790,
+  "ie_support_total": 134965,
   "ie_oppose_total": 95852,
   "individual_total": 4688646,
   "pac_total": 1906856,
   "party_total": 17446,
-  "pac_pct": 29
+  "pac_pct": 29,
+  "self_funded": 23497,
+  "transfers_in": 90635
  },
  "Bruce Westerman": {
   "candidate_id": "H4AR04048",
@@ -3695,7 +3909,9 @@
   "individual_total": 5491191,
   "pac_total": 5408473,
   "party_total": 5500,
-  "pac_pct": 50
+  "pac_pct": 50,
+  "self_funded": 12933,
+  "transfers_in": 936723
  },
  "Doug LaMalfa": {
   "candidate_id": "H2CA02142",
@@ -3728,7 +3944,9 @@
   "individual_total": 3975801,
   "pac_total": 2907972,
   "party_total": 9575,
-  "pac_pct": 42
+  "pac_pct": 42,
+  "self_funded": 0,
+  "transfers_in": 340989
  },
  "Jared Huffman": {
   "candidate_id": "H2CA06259",
@@ -3762,7 +3980,9 @@
   "individual_total": 4816121,
   "pac_total": 3117908,
   "party_total": 77,
-  "pac_pct": 39
+  "pac_pct": 39,
+  "self_funded": 405,
+  "transfers_in": 179226
  },
  "Kevin Kiley": {
   "candidate_id": "H2CA03157",
@@ -3796,7 +4016,9 @@
   "individual_total": 7807843,
   "pac_total": 1182513,
   "party_total": 10125,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 15,
+  "transfers_in": 1421333
  },
  "Mike Thompson": {
   "candidate_id": "H8CA01109",
@@ -3829,7 +4051,9 @@
   "individual_total": 13461432,
   "pac_total": 14906784,
   "party_total": 5685,
-  "pac_pct": 53
+  "pac_pct": 53,
+  "self_funded": 0,
+  "transfers_in": 80734
  },
  "Tom McClintock": {
   "candidate_id": "H8CA04152",
@@ -3867,7 +4091,9 @@
   "individual_total": 14614988,
   "pac_total": 2160565,
   "party_total": 32229,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 0,
+  "transfers_in": 424162
  },
  "Ami Bera": {
   "candidate_id": "H0CA03078",
@@ -3900,7 +4126,9 @@
   "individual_total": 14630037,
   "pac_total": 8300443,
   "party_total": 44632,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 627248,
+  "transfers_in": 56208
  },
  "Doris Matsui": {
   "candidate_id": "H6CA05195",
@@ -3933,7 +4161,9 @@
   "individual_total": 5078345,
   "pac_total": 8563927,
   "party_total": 633,
-  "pac_pct": 63
+  "pac_pct": 63,
+  "self_funded": 1418895,
+  "transfers_in": 0
  },
  "Adelita Grijalva": {
   "candidate_id": "H6AZ07121",
@@ -3966,7 +4196,9 @@
   "individual_total": 1841372,
   "pac_total": 435939,
   "party_total": 0,
-  "pac_pct": 19
+  "pac_pct": 19,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "John Garamendi": {
   "candidate_id": "H0CA10149",
@@ -3999,7 +4231,9 @@
   "individual_total": 5575813,
   "pac_total": 5698664,
   "party_total": 5484,
-  "pac_pct": 51
+  "pac_pct": 51,
+  "self_funded": 20000,
+  "transfers_in": 0
  },
  "Josh Harder": {
   "candidate_id": "H8CA10126",
@@ -4032,7 +4266,9 @@
   "individual_total": 26833310,
   "pac_total": 3169282,
   "party_total": 26173,
-  "pac_pct": 11
+  "pac_pct": 11,
+  "self_funded": 0,
+  "transfers_in": 1473696
  },
  "Mark DeSaulnier": {
   "candidate_id": "H0CA10073",
@@ -4066,7 +4302,9 @@
   "individual_total": 2167998,
   "pac_total": 2597799,
   "party_total": 9,
-  "pac_pct": 55
+  "pac_pct": 55,
+  "self_funded": 15000,
+  "transfers_in": 0
  },
  "Kevin Mullin": {
   "candidate_id": "H2CA14162",
@@ -4096,10 +4334,12 @@
   "small_dollar_pct": 5.3,
   "ie_support_total": 728563,
   "ie_oppose_total": 0,
-  "individual_total": 1568112,
-  "pac_total": 1156346,
+  "individual_total": 1567762,
+  "pac_total": 1154346,
   "party_total": 4,
-  "pac_pct": 42
+  "pac_pct": 42,
+  "self_funded": 115000,
+  "transfers_in": 0
  },
  "Zoe Lofgren": {
   "candidate_id": "H4CA16049",
@@ -4132,7 +4372,9 @@
   "individual_total": 9766076,
   "pac_total": 6410731,
   "party_total": 9128,
-  "pac_pct": 40
+  "pac_pct": 40,
+  "self_funded": 35876,
+  "transfers_in": 1295429
  },
  "Jimmy Panetta": {
   "candidate_id": "H6CA20152",
@@ -4165,7 +4407,9 @@
   "individual_total": 6474664,
   "pac_total": 7034659,
   "party_total": 1516,
-  "pac_pct": 52
+  "pac_pct": 52,
+  "self_funded": 380,
+  "transfers_in": 6984
  },
  "Jim Costa": {
   "candidate_id": "H4CA20082",
@@ -4198,7 +4442,9 @@
   "individual_total": 9123119,
   "pac_total": 9919469,
   "party_total": 2527,
-  "pac_pct": 52
+  "pac_pct": 52,
+  "self_funded": 242641,
+  "transfers_in": 44381
  },
  "David Valadao": {
   "candidate_id": "H2CA20094",
@@ -4228,11 +4474,13 @@
   "grassroots_itemized": 10466357,
   "small_dollar_pct": 11.9,
   "ie_support_total": 6904227,
-  "ie_oppose_total": 23213231,
+  "ie_oppose_total": 23213292,
   "individual_total": 11875967,
   "pac_total": 11373506,
   "party_total": 71594,
-  "pac_pct": 49
+  "pac_pct": 49,
+  "self_funded": 0,
+  "transfers_in": 4165170
  },
  "Jay Obernolte": {
   "candidate_id": "H0CA08135",
@@ -4265,7 +4513,9 @@
   "individual_total": 2098715,
   "pac_total": 2365493,
   "party_total": 1870,
-  "pac_pct": 53
+  "pac_pct": 53,
+  "self_funded": 1445000,
+  "transfers_in": 96199
  },
  "Salud Carbajal": {
   "candidate_id": "H6CA24303",
@@ -4298,7 +4548,9 @@
   "individual_total": 9792537,
   "pac_total": 4025858,
   "party_total": 7243,
-  "pac_pct": 29
+  "pac_pct": 29,
+  "self_funded": 0,
+  "transfers_in": 11069
  },
  "Raul Ruiz": {
   "candidate_id": "H2CA36439",
@@ -4331,7 +4583,9 @@
   "pac_pct": 38,
   "grassroots_small": 2366535,
   "grassroots_itemized": 10555245,
-  "small_dollar_pct": 18.3
+  "small_dollar_pct": 18.3,
+  "self_funded": 5000,
+  "transfers_in": 112521
  },
  "Julia Brownley": {
   "candidate_id": "H2CA00120",
@@ -4364,7 +4618,9 @@
   "individual_total": 11285923,
   "pac_total": 6384658,
   "party_total": 21978,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 0,
+  "transfers_in": 36862
  },
  "Judy Chu": {
   "candidate_id": "H0CA32101",
@@ -4397,7 +4653,9 @@
   "individual_total": 8546955,
   "pac_total": 4698896,
   "party_total": 0,
-  "pac_pct": 35
+  "pac_pct": 35,
+  "self_funded": 55000,
+  "transfers_in": 0
  },
  "Jimmy Gomez": {
   "candidate_id": "H8CA34266",
@@ -4430,7 +4688,9 @@
   "individual_total": 3761162,
   "pac_total": 4321195,
   "party_total": 33,
-  "pac_pct": 53
+  "pac_pct": 53,
+  "self_funded": 5000,
+  "transfers_in": 45800
  },
  "Ted Lieu": {
   "candidate_id": "H4CA33119",
@@ -4463,7 +4723,9 @@
   "individual_total": 9190052,
   "pac_total": 3787605,
   "party_total": 0,
-  "pac_pct": 29
+  "pac_pct": 29,
+  "self_funded": 81201,
+  "transfers_in": 592915
  },
  "Sydney Kamlager-Dove": {
   "candidate_id": "H2CA37304",
@@ -4496,7 +4758,9 @@
   "individual_total": 2051641,
   "pac_total": 1321221,
   "party_total": 2892,
-  "pac_pct": 39
+  "pac_pct": 39,
+  "self_funded": 0,
+  "transfers_in": 36756
  },
  "Mark Takano": {
   "candidate_id": "H2CA43245",
@@ -4531,7 +4795,9 @@
   "individual_total": 6487293,
   "pac_total": 3557708,
   "party_total": 31013,
-  "pac_pct": 35
+  "pac_pct": 35,
+  "self_funded": 18390,
+  "transfers_in": 98380
  },
  "Young Kim": {
   "candidate_id": "H8CA39240",
@@ -4565,7 +4831,9 @@
   "individual_total": 26186113,
   "pac_total": 6498032,
   "party_total": 45000,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 0,
+  "transfers_in": 3629909
  },
  "Ken Calvert": {
   "candidate_id": "H2CA37023",
@@ -4599,7 +4867,9 @@
   "individual_total": 17486441,
   "pac_total": 10968607,
   "party_total": 70029,
-  "pac_pct": 38
+  "pac_pct": 38,
+  "self_funded": 39269,
+  "transfers_in": 3733995
  },
  "Robert Garcia": {
   "candidate_id": "H2CA47188",
@@ -4632,7 +4902,9 @@
   "individual_total": 4176557,
   "pac_total": 1385745,
   "party_total": 0,
-  "pac_pct": 25
+  "pac_pct": 25,
+  "self_funded": 280,
+  "transfers_in": 56068
  },
  "Maxine Waters": {
   "candidate_id": "H4CA23011",
@@ -4665,7 +4937,9 @@
   "individual_total": 5489534,
   "pac_total": 5846982,
   "party_total": 28266,
-  "pac_pct": 51
+  "pac_pct": 51,
+  "self_funded": 34800,
+  "transfers_in": 0
  },
  "Lou Correa": {
   "candidate_id": "H6CA46116",
@@ -4698,7 +4972,9 @@
   "individual_total": 2411915,
   "pac_total": 4570053,
   "party_total": 0,
-  "pac_pct": 65
+  "pac_pct": 65,
+  "self_funded": 0,
+  "transfers_in": 18816
  },
  "Darrell Issa": {
   "candidate_id": "H0CA48024",
@@ -4734,7 +5010,9 @@
   "individual_total": 16315862,
   "pac_total": 7178983,
   "party_total": 18,
-  "pac_pct": 31
+  "pac_pct": 31,
+  "self_funded": 27875845,
+  "transfers_in": 3188288
  },
  "Mike Levin": {
   "candidate_id": "H8CA49058",
@@ -4767,7 +5045,9 @@
   "individual_total": 18557886,
   "pac_total": 3627160,
   "party_total": 34224,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 11526,
+  "transfers_in": 1482497
  },
  "Scott Peters": {
   "candidate_id": "H2CA52089",
@@ -4800,7 +5080,9 @@
   "individual_total": 8974688,
   "pac_total": 9640806,
   "party_total": 21234,
-  "pac_pct": 52
+  "pac_pct": 52,
+  "self_funded": 3434280,
+  "transfers_in": 1167622
  },
  "Sara Jacobs": {
   "candidate_id": "H8CA49074",
@@ -4834,7 +5116,9 @@
   "individual_total": 3040671,
   "pac_total": 744156,
   "party_total": 0,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 11546718,
+  "transfers_in": 284824
  },
  "Juan Vargas": {
   "candidate_id": "H2CA50026",
@@ -4870,7 +5154,9 @@
   "individual_total": 2815416,
   "pac_total": 5050116,
   "party_total": 9134,
-  "pac_pct": 64
+  "pac_pct": 64,
+  "self_funded": 213399,
+  "transfers_in": 143534
  },
  "Jeff Crank": {
   "candidate_id": "H6CO05142",
@@ -4904,7 +5190,9 @@
   "individual_total": 2327253,
   "pac_total": 1254475,
   "party_total": 0,
-  "pac_pct": 35
+  "pac_pct": 35,
+  "self_funded": 76773,
+  "transfers_in": 463904
  },
  "Joe Neguse": {
   "candidate_id": "H8CO02160",
@@ -4937,7 +5225,9 @@
   "individual_total": 6373168,
   "pac_total": 3336820,
   "party_total": 3923,
-  "pac_pct": 34
+  "pac_pct": 34,
+  "self_funded": 920,
+  "transfers_in": 385087
  },
  "Jeff Hurd": {
   "candidate_id": "H4CO03357",
@@ -4970,7 +5260,9 @@
   "individual_total": 4139069,
   "pac_total": 1055001,
   "party_total": 10425,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 0,
+  "transfers_in": 1053371
  },
  "Jason Crow": {
   "candidate_id": "H8CO06229",
@@ -5003,7 +5295,9 @@
   "individual_total": 14450399,
   "pac_total": 2148496,
   "party_total": 800,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 6000,
+  "transfers_in": 1301839
  },
  "Brittany Pettersen": {
   "candidate_id": "H8CO07045",
@@ -5036,7 +5330,9 @@
   "individual_total": 4332158,
   "pac_total": 2880775,
   "party_total": 12100,
-  "pac_pct": 40
+  "pac_pct": 40,
+  "self_funded": 0,
+  "transfers_in": 151708
  },
  "John Larson": {
   "candidate_id": "H8CT01046",
@@ -5069,7 +5365,9 @@
   "individual_total": 9999114,
   "pac_total": 12699886,
   "party_total": 5222,
-  "pac_pct": 56
+  "pac_pct": 56,
+  "self_funded": 39839,
+  "transfers_in": 0
  },
  "Joe Courtney": {
   "candidate_id": "H2CT02112",
@@ -5103,7 +5401,9 @@
   "individual_total": 9534754,
   "pac_total": 8198932,
   "party_total": 13043,
-  "pac_pct": 46
+  "pac_pct": 46,
+  "self_funded": 78337,
+  "transfers_in": 61066
  },
  "Rosa DeLauro": {
   "candidate_id": "H0CT03072",
@@ -5136,7 +5436,9 @@
   "individual_total": 10523870,
   "pac_total": 9975918,
   "party_total": 29544,
-  "pac_pct": 49
+  "pac_pct": 49,
+  "self_funded": 8133,
+  "transfers_in": 221617
  },
  "Jim Himes": {
   "candidate_id": "H8CT04172",
@@ -5169,7 +5471,9 @@
   "individual_total": 13488333,
   "pac_total": 9319738,
   "party_total": 5526,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 552065,
+  "transfers_in": 27823
  },
  "Jahana Hayes": {
   "candidate_id": "H8CT05245",
@@ -5202,7 +5506,9 @@
   "individual_total": 7950036,
   "pac_total": 3536494,
   "party_total": 32791,
-  "pac_pct": 31
+  "pac_pct": 31,
+  "self_funded": 0,
+  "transfers_in": 584234
  },
  "Sarah McBride": {
   "candidate_id": "H4DE00045",
@@ -5235,7 +5541,9 @@
   "individual_total": 7599463,
   "pac_total": 829450,
   "party_total": 0,
-  "pac_pct": 10
+  "pac_pct": 10,
+  "self_funded": 7,
+  "transfers_in": 298191
  },
  "Neal Dunn": {
   "candidate_id": "H6FL02208",
@@ -5268,7 +5576,9 @@
   "individual_total": 4074574,
   "pac_total": 3083891,
   "party_total": 3800,
-  "pac_pct": 43
+  "pac_pct": 43,
+  "self_funded": 658420,
+  "transfers_in": 486431
  },
  "Kat Cammack": {
   "candidate_id": "H0FL03175",
@@ -5298,10 +5608,12 @@
   "small_dollar_pct": 31.5,
   "ie_support_total": 1023018,
   "ie_oppose_total": 0,
-  "individual_total": 4164565,
-  "pac_total": 2572490,
+  "individual_total": 4227952,
+  "pac_total": 2597490,
   "party_total": 5000,
-  "pac_pct": 38
+  "pac_pct": 38,
+  "self_funded": 45000,
+  "transfers_in": 1266490
  },
  "Aaron Bean": {
   "candidate_id": "H2FL04211",
@@ -5332,10 +5644,12 @@
   "small_dollar_pct": 1.4,
   "ie_support_total": 1414614,
   "ie_oppose_total": 0,
-  "individual_total": 2307120,
-  "pac_total": 2339400,
+  "individual_total": 2361895,
+  "pac_total": 2440400,
   "party_total": 5000,
-  "pac_pct": 50
+  "pac_pct": 51,
+  "self_funded": 0,
+  "transfers_in": 242798
  },
  "John Rutherford": {
   "candidate_id": "H6FL04105",
@@ -5365,10 +5679,12 @@
   "small_dollar_pct": 2.1,
   "ie_support_total": 936112,
   "ie_oppose_total": 862,
-  "individual_total": 2275922,
-  "pac_total": 2486754,
+  "individual_total": 2294942,
+  "pac_total": 2498254,
   "party_total": 0,
-  "pac_pct": 52
+  "pac_pct": 52,
+  "self_funded": 69200,
+  "transfers_in": 272881
  },
  "Cory Mills": {
   "candidate_id": "H2FL07156",
@@ -5398,11 +5714,13 @@
   "grassroots_itemized": 1029033,
   "small_dollar_pct": 55.2,
   "ie_support_total": 28209,
-  "ie_oppose_total": 0,
-  "individual_total": 2297562,
+  "ie_oppose_total": 4086,
+  "individual_total": 2313360,
   "pac_total": 459988,
   "party_total": 10000,
-  "pac_pct": 17
+  "pac_pct": 17,
+  "self_funded": 1946140,
+  "transfers_in": 393468
  },
  "Darren Soto": {
   "candidate_id": "H6FL09179",
@@ -5432,10 +5750,12 @@
   "small_dollar_pct": 4.1,
   "ie_support_total": 968204,
   "ie_oppose_total": 15000,
-  "individual_total": 3550763,
-  "pac_total": 5709049,
+  "individual_total": 3653559,
+  "pac_total": 5790549,
   "party_total": 7508,
-  "pac_pct": 62
+  "pac_pct": 61,
+  "self_funded": 14500,
+  "transfers_in": 6166
  },
  "Maxwell Frost": {
   "candidate_id": "H2FL10259",
@@ -5465,10 +5785,12 @@
   "small_dollar_pct": 56.6,
   "ie_support_total": 1479689,
   "ie_oppose_total": 0,
-  "individual_total": 9472959,
-  "pac_total": 885206,
+  "individual_total": 9562297,
+  "pac_total": 896806,
   "party_total": 0,
-  "pac_pct": 9
+  "pac_pct": 9,
+  "self_funded": 8250,
+  "transfers_in": 67570
  },
  "Daniel Webster": {
   "candidate_id": "H0FL08208",
@@ -5503,7 +5825,9 @@
   "individual_total": 6445964,
   "pac_total": 2838421,
   "party_total": 18600,
-  "pac_pct": 31
+  "pac_pct": 31,
+  "self_funded": 385,
+  "transfers_in": 195610
  },
  "Gus Bilirakis": {
   "candidate_id": "H6FL09070",
@@ -5533,10 +5857,12 @@
   "small_dollar_pct": 9.7,
   "ie_support_total": 489161,
   "ie_oppose_total": 862,
-  "individual_total": 9315837,
-  "pac_total": 7618817,
+  "individual_total": 9365352,
+  "pac_total": 7666517,
   "party_total": 10033,
-  "pac_pct": 45
+  "pac_pct": 45,
+  "self_funded": 7500,
+  "transfers_in": 242010
  },
  "Anna Paulina Luna": {
   "candidate_id": "H0FL13158",
@@ -5568,10 +5894,12 @@
   "small_dollar_pct": 49.6,
   "ie_support_total": 2055587,
   "ie_oppose_total": 6361745,
-  "individual_total": 10328169,
-  "pac_total": 743474,
+  "individual_total": 10560149,
+  "pac_total": 753474,
   "party_total": 15000,
-  "pac_pct": 7
+  "pac_pct": 7,
+  "self_funded": 0,
+  "transfers_in": 2289654
  },
  "Kathy Castor": {
   "candidate_id": "H6FL11126",
@@ -5602,10 +5930,12 @@
   "small_dollar_pct": 16.1,
   "ie_support_total": 25511,
   "ie_oppose_total": 0,
-  "individual_total": 6334561,
-  "pac_total": 5245275,
-  "party_total": 0,
-  "pac_pct": 45
+  "individual_total": 6639452,
+  "pac_total": 5322275,
+  "party_total": 417,
+  "pac_pct": 44,
+  "self_funded": 4200,
+  "transfers_in": 0
  },
  "Laurel Lee": {
   "candidate_id": "H2FL15241",
@@ -5636,10 +5966,12 @@
   "small_dollar_pct": 2.4,
   "ie_support_total": 1520984,
   "ie_oppose_total": 78244,
-  "individual_total": 1952232,
-  "pac_total": 1944700,
+  "individual_total": 1966898,
+  "pac_total": 1986700,
   "party_total": 0,
-  "pac_pct": 50
+  "pac_pct": 50,
+  "self_funded": 165000,
+  "transfers_in": 1941879
  },
  "Vern Buchanan": {
   "candidate_id": "H6FL13148",
@@ -5672,7 +6004,9 @@
   "individual_total": 14755317,
   "pac_total": 10368073,
   "party_total": 5098,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 7936343,
+  "transfers_in": 779654
  },
  "Greg Steube": {
   "candidate_id": "H8FL17053",
@@ -5702,10 +6036,12 @@
   "small_dollar_pct": 29.9,
   "ie_support_total": 948600,
   "ie_oppose_total": 200000,
-  "individual_total": 2940701,
-  "pac_total": 2378165,
+  "individual_total": 2967620,
+  "pac_total": 2403665,
   "party_total": 200,
-  "pac_pct": 45
+  "pac_pct": 45,
+  "self_funded": 15000,
+  "transfers_in": 934459
  },
  "Scott Franklin": {
   "candidate_id": "H0FL15104",
@@ -5735,10 +6071,12 @@
   "small_dollar_pct": 8.1,
   "ie_support_total": 719949,
   "ie_oppose_total": 293579,
-  "individual_total": 2003416,
-  "pac_total": 1563100,
+  "individual_total": 2006593,
+  "pac_total": 1581100,
   "party_total": 5000,
-  "pac_pct": 44
+  "pac_pct": 44,
+  "self_funded": 550000,
+  "transfers_in": 266227
  },
  "Byron Donalds": {
   "candidate_id": "H2FL14186",
@@ -5772,7 +6110,9 @@
   "individual_total": 13038794,
   "pac_total": 1635934,
   "party_total": 0,
-  "pac_pct": 11
+  "pac_pct": 11,
+  "self_funded": 2289,
+  "transfers_in": 1548129
  },
  "Sheila Cherfilus-McCormick": {
   "candidate_id": "H8FL20032",
@@ -5802,10 +6142,12 @@
   "small_dollar_pct": 4.7,
   "ie_support_total": 66442,
   "ie_oppose_total": 88518,
-  "individual_total": 931301,
+  "individual_total": 936382,
   "pac_total": 636631,
   "party_total": 0,
-  "pac_pct": 41
+  "pac_pct": 40,
+  "self_funded": 6328811,
+  "transfers_in": 0
  },
  "Brian Mast": {
   "candidate_id": "H6FL18097",
@@ -5836,10 +6178,12 @@
   "small_dollar_pct": 45.1,
   "ie_support_total": 1524446,
   "ie_oppose_total": 1312973,
-  "individual_total": 22819982,
-  "pac_total": 3498484,
+  "individual_total": 23003840,
+  "pac_total": 3532484,
   "party_total": 7500,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 0,
+  "transfers_in": 3157329
  },
  "Lois Frankel": {
   "candidate_id": "H2FL14053",
@@ -5871,10 +6215,12 @@
   "small_dollar_pct": 16.3,
   "ie_support_total": 133675,
   "ie_oppose_total": 123956,
-  "individual_total": 10311547,
-  "pac_total": 4068856,
+  "individual_total": 10357641,
+  "pac_total": 4082856,
   "party_total": 20874,
-  "pac_pct": 28
+  "pac_pct": 28,
+  "self_funded": 548972,
+  "transfers_in": 101783
  },
  "Jared Moskowitz": {
   "candidate_id": "H2FL22171",
@@ -5904,10 +6250,12 @@
   "small_dollar_pct": 16.8,
   "ie_support_total": 677896,
   "ie_oppose_total": 0,
-  "individual_total": 4656017,
-  "pac_total": 1377608,
+  "individual_total": 4984352,
+  "pac_total": 1390608,
   "party_total": 1000,
-  "pac_pct": 23
+  "pac_pct": 22,
+  "self_funded": 305800,
+  "transfers_in": 390990
  },
  "Frederica Wilson": {
   "candidate_id": "H0FL17068",
@@ -5940,7 +6288,9 @@
   "individual_total": 1119419,
   "pac_total": 2671090,
   "party_total": 9000,
-  "pac_pct": 70
+  "pac_pct": 70,
+  "self_funded": 154750,
+  "transfers_in": 0
  },
  "Debbie Wasserman Schultz": {
   "candidate_id": "H4FL20023",
@@ -5970,10 +6320,12 @@
   "small_dollar_pct": 20.7,
   "ie_support_total": 13836,
   "ie_oppose_total": 107904,
-  "individual_total": 19881357,
-  "pac_total": 8065174,
+  "individual_total": 19974931,
+  "pac_total": 8125424,
   "party_total": 5752,
-  "pac_pct": 29
+  "pac_pct": 29,
+  "self_funded": 0,
+  "transfers_in": 740788
  },
  "Sanford Bishop": {
   "candidate_id": "H2GA02031",
@@ -6006,7 +6358,9 @@
   "individual_total": 7251617,
   "pac_total": 12607001,
   "party_total": 112455,
-  "pac_pct": 63
+  "pac_pct": 63,
+  "self_funded": 65664,
+  "transfers_in": 17000
  },
  "Nikema Williams": {
   "candidate_id": "H0GA05301",
@@ -6039,7 +6393,9 @@
   "individual_total": 1288012,
   "pac_total": 1863346,
   "party_total": 2306,
-  "pac_pct": 59
+  "pac_pct": 59,
+  "self_funded": 0,
+  "transfers_in": 126900
  },
  "Rich McCormick": {
   "candidate_id": "H0GA07273",
@@ -6073,7 +6429,9 @@
   "individual_total": 6673876,
   "pac_total": 1641150,
   "party_total": 2000,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 987509,
+  "transfers_in": 1828384
  },
  "Lucy McBath": {
   "candidate_id": "H8GA06393",
@@ -6106,7 +6464,9 @@
   "individual_total": 16407999,
   "pac_total": 2841025,
   "party_total": 18975,
-  "pac_pct": 15
+  "pac_pct": 15,
+  "self_funded": 5873,
+  "transfers_in": 791016
  },
  "Andrew Clyde": {
   "candidate_id": "H0GA09246",
@@ -6134,12 +6494,14 @@
   "grassroots_small": 240483,
   "grassroots_itemized": 1489503,
   "small_dollar_pct": 13.9,
-  "ie_support_total": 112807,
+  "ie_support_total": 120093,
   "ie_oppose_total": 1073807,
   "individual_total": 1729987,
   "pac_total": 524261,
   "party_total": 6000,
-  "pac_pct": 23
+  "pac_pct": 23,
+  "self_funded": 1629435,
+  "transfers_in": 46406
  },
  "Mike Collins": {
   "candidate_id": "H4GA10071",
@@ -6172,7 +6534,9 @@
   "individual_total": 2428982,
   "pac_total": 575800,
   "party_total": 0,
-  "pac_pct": 19
+  "pac_pct": 19,
+  "self_funded": 707200,
+  "transfers_in": 110517
  },
  "Barry Loudermilk": {
   "candidate_id": "H4GA11061",
@@ -6205,7 +6569,9 @@
   "individual_total": 2196680,
   "pac_total": 3218435,
   "party_total": 2100,
-  "pac_pct": 59
+  "pac_pct": 59,
+  "self_funded": 0,
+  "transfers_in": 145737
  },
  "Rick Allen": {
   "candidate_id": "H2GA12121",
@@ -6241,7 +6607,9 @@
   "pac_pct": 34,
   "grassroots_small": 412862,
   "grassroots_itemized": 5242216,
-  "small_dollar_pct": 7.3
+  "small_dollar_pct": 7.3,
+  "self_funded": 1867778,
+  "transfers_in": 39840
  },
  "David Scott": {
   "candidate_id": "H2GA13012",
@@ -6274,7 +6642,9 @@
   "individual_total": 2729593,
   "pac_total": 11700656,
   "party_total": 40,
-  "pac_pct": 81
+  "pac_pct": 81,
+  "self_funded": 779350,
+  "transfers_in": 0
  },
  "Ed Case": {
   "candidate_id": "H2HI02128",
@@ -6311,7 +6681,9 @@
   "individual_total": 5246171,
   "pac_total": 2429156,
   "party_total": 2500,
-  "pac_pct": 32
+  "pac_pct": 32,
+  "self_funded": 302086,
+  "transfers_in": 190450
  },
  "Jill Tokuda": {
   "candidate_id": "H2HI02581",
@@ -6344,7 +6716,9 @@
   "individual_total": 2044700,
   "pac_total": 719768,
   "party_total": 0,
-  "pac_pct": 26
+  "pac_pct": 26,
+  "self_funded": 25331,
+  "transfers_in": 49255
  },
  "Russ Fulcher": {
   "candidate_id": "H8ID01124",
@@ -6372,12 +6746,14 @@
   "grassroots_small": 172243,
   "grassroots_itemized": 1540701,
   "small_dollar_pct": 10.1,
-  "ie_support_total": 597909,
+  "ie_support_total": 601792,
   "ie_oppose_total": 750,
   "individual_total": 1712944,
   "pac_total": 1554520,
   "party_total": 4206,
-  "pac_pct": 48
+  "pac_pct": 48,
+  "self_funded": 35000,
+  "transfers_in": 3324
  },
  "Mike Simpson": {
   "candidate_id": "H8ID02064",
@@ -6410,7 +6786,9 @@
   "individual_total": 5402924,
   "pac_total": 9979228,
   "party_total": 41814,
-  "pac_pct": 65
+  "pac_pct": 65,
+  "self_funded": 183809,
+  "transfers_in": 60165
  },
  "Jonathan Jackson": {
   "candidate_id": "H2IL01349",
@@ -6443,7 +6821,9 @@
   "individual_total": 1124381,
   "pac_total": 621670,
   "party_total": 0,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 75000,
+  "transfers_in": 34570
  },
  "Robin Kelly": {
   "candidate_id": "H2IL02172",
@@ -6478,7 +6858,9 @@
   "individual_total": 4887723,
   "pac_total": 5779816,
   "party_total": 36,
-  "pac_pct": 54
+  "pac_pct": 54,
+  "self_funded": 10401,
+  "transfers_in": 2178660
  },
  "Delia Ramirez": {
   "candidate_id": "H2IL03162",
@@ -6511,7 +6893,9 @@
   "individual_total": 2359851,
   "pac_total": 1112411,
   "party_total": 1500,
-  "pac_pct": 32
+  "pac_pct": 32,
+  "self_funded": 15,
+  "transfers_in": 99431
  },
  "Mike Quigley": {
   "candidate_id": "H0IL05096",
@@ -6544,7 +6928,9 @@
   "individual_total": 4266247,
   "pac_total": 5166225,
   "party_total": 3452,
-  "pac_pct": 55
+  "pac_pct": 55,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "Sean Casten": {
   "candidate_id": "H8IL06139",
@@ -6577,7 +6963,9 @@
   "individual_total": 17384541,
   "pac_total": 4351255,
   "party_total": 30501,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 650000,
+  "transfers_in": 205196
  },
  "Danny Davis": {
   "candidate_id": "H4IL07037",
@@ -6611,7 +6999,9 @@
   "individual_total": 2455356,
   "pac_total": 4860928,
   "party_total": 18610,
-  "pac_pct": 66
+  "pac_pct": 66,
+  "self_funded": 200717,
+  "transfers_in": 4490
  },
  "Raja Krishnamoorthi": {
   "candidate_id": "H6IL08147",
@@ -6646,7 +7036,9 @@
   "individual_total": 42654116,
   "pac_total": 5690100,
   "party_total": 563,
-  "pac_pct": 12
+  "pac_pct": 12,
+  "self_funded": 24021,
+  "transfers_in": 19387820
  },
  "Jan Schakowsky": {
   "candidate_id": "H8IL09067",
@@ -6679,7 +7071,9 @@
   "individual_total": 14157218,
   "pac_total": 5014673,
   "party_total": 10500,
-  "pac_pct": 26
+  "pac_pct": 26,
+  "self_funded": 300,
+  "transfers_in": 0
  },
  "Brad Schneider": {
   "candidate_id": "H2IL10068",
@@ -6712,7 +7106,9 @@
   "individual_total": 22177174,
   "pac_total": 9118765,
   "party_total": 30439,
-  "pac_pct": 29
+  "pac_pct": 29,
+  "self_funded": 285428,
+  "transfers_in": 136646
  },
  "Mike Bost": {
   "candidate_id": "H4IL12060",
@@ -6745,7 +7141,9 @@
   "individual_total": 6589532,
   "pac_total": 7313654,
   "party_total": 10560,
-  "pac_pct": 53
+  "pac_pct": 53,
+  "self_funded": 0,
+  "transfers_in": 632670
  },
  "Nikki Budzinski": {
   "candidate_id": "H2IL13153",
@@ -6778,7 +7176,9 @@
   "individual_total": 7065033,
   "pac_total": 3680631,
   "party_total": 25433,
-  "pac_pct": 34
+  "pac_pct": 34,
+  "self_funded": 0,
+  "transfers_in": 332484
  },
  "Lauren Underwood": {
   "candidate_id": "H8IL14174",
@@ -6811,7 +7211,9 @@
   "individual_total": 21092535,
   "pac_total": 3108952,
   "party_total": 34362,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 9825,
+  "transfers_in": 1791491
  },
  "Mary Miller": {
   "candidate_id": "H0IL15129",
@@ -6839,12 +7241,14 @@
   "grassroots_small": 2386128,
   "grassroots_itemized": 2215438,
   "small_dollar_pct": 51.9,
-  "ie_support_total": 2955299,
+  "ie_support_total": 2960731,
   "ie_oppose_total": 3560990,
   "individual_total": 4601566,
   "pac_total": 705961,
   "party_total": 0,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 10100,
+  "transfers_in": 289724
  },
  "Darin LaHood": {
   "candidate_id": "H6IL18088",
@@ -6877,7 +7281,9 @@
   "individual_total": 6212850,
   "pac_total": 10466363,
   "party_total": 8025,
-  "pac_pct": 63
+  "pac_pct": 63,
+  "self_funded": 0,
+  "transfers_in": 2676005
  },
  "Eric Sorensen": {
   "candidate_id": "H2IL17147",
@@ -6910,7 +7316,9 @@
   "individual_total": 7199884,
   "pac_total": 2581892,
   "party_total": 27000,
-  "pac_pct": 26
+  "pac_pct": 26,
+  "self_funded": 0,
+  "transfers_in": 462595
  },
  "Frank Mrvan": {
   "candidate_id": "H0IN01150",
@@ -6943,7 +7351,9 @@
   "individual_total": 4949567,
   "pac_total": 3325211,
   "party_total": 28420,
-  "pac_pct": 40
+  "pac_pct": 40,
+  "self_funded": 15600,
+  "transfers_in": 330718
  },
  "Rudy Yakym": {
   "candidate_id": "H2IN02295",
@@ -6976,7 +7386,9 @@
   "individual_total": 5685938,
   "pac_total": 2249711,
   "party_total": 0,
-  "pac_pct": 28
+  "pac_pct": 28,
+  "self_funded": 0,
+  "transfers_in": 2154548
  },
  "Marlin Stutzman": {
   "candidate_id": "H0IN03198",
@@ -7012,7 +7424,9 @@
   "individual_total": 4433153,
   "pac_total": 2133291,
   "party_total": 7820,
-  "pac_pct": 32
+  "pac_pct": 32,
+  "self_funded": 60015,
+  "transfers_in": 146151
  },
  "Jim Baird": {
   "candidate_id": "H8IN04199",
@@ -7045,7 +7459,9 @@
   "individual_total": 740811,
   "pac_total": 1110404,
   "party_total": 2304,
-  "pac_pct": 60
+  "pac_pct": 60,
+  "self_funded": 451100,
+  "transfers_in": 40984
  },
  "Victoria Spartz": {
   "candidate_id": "H0IN05326",
@@ -7078,7 +7494,9 @@
   "individual_total": 6608988,
   "pac_total": 1472394,
   "party_total": 3300,
-  "pac_pct": 18
+  "pac_pct": 18,
+  "self_funded": 2024600,
+  "transfers_in": 534223
  },
  "Jefferson Shreve": {
   "candidate_id": "H4IN06185",
@@ -7111,7 +7529,9 @@
   "individual_total": 254873,
   "pac_total": 461750,
   "party_total": 0,
-  "pac_pct": 64
+  "pac_pct": 64,
+  "self_funded": 7942000,
+  "transfers_in": 8681
  },
  "Mark Messmer": {
   "candidate_id": "H4IN08249",
@@ -7144,7 +7564,9 @@
   "individual_total": 1265749,
   "pac_total": 782645,
   "party_total": 0,
-  "pac_pct": 38
+  "pac_pct": 38,
+  "self_funded": 32224,
+  "transfers_in": 635472
  },
  "Erin Houchin": {
   "candidate_id": "H6IN09143",
@@ -7178,7 +7600,9 @@
   "individual_total": 1784867,
   "pac_total": 2551073,
   "party_total": 100,
-  "pac_pct": 59
+  "pac_pct": 59,
+  "self_funded": 931,
+  "transfers_in": 1105365
  },
  "Zach Nunn": {
   "candidate_id": "H2IA03119",
@@ -7213,7 +7637,9 @@
   "individual_total": 5637338,
   "pac_total": 4213732,
   "party_total": 25200,
-  "pac_pct": 43
+  "pac_pct": 43,
+  "self_funded": 120000,
+  "transfers_in": 3246199
  },
  "Randy Feenstra": {
   "candidate_id": "H0IA04145",
@@ -7246,7 +7672,9 @@
   "individual_total": 5148933,
   "pac_total": 4330962,
   "party_total": 8250,
-  "pac_pct": 46
+  "pac_pct": 46,
+  "self_funded": 4700,
+  "transfers_in": 483855
  },
  "Mariannette Miller-Meeks": {
   "candidate_id": "H8IA02043",
@@ -7276,12 +7704,14 @@
   "grassroots_small": 2672630,
   "grassroots_itemized": 7920633,
   "small_dollar_pct": 25.2,
-  "ie_support_total": 3980405,
-  "ie_oppose_total": 14360079,
+  "ie_support_total": 4029995,
+  "ie_oppose_total": 14360094,
   "individual_total": 10593263,
   "pac_total": 6940727,
   "party_total": 37587,
-  "pac_pct": 39
+  "pac_pct": 39,
+  "self_funded": 994961,
+  "transfers_in": 3107816
  },
  "Tracey Mann": {
   "candidate_id": "H0KS01123",
@@ -7314,7 +7744,9 @@
   "individual_total": 2984584,
   "pac_total": 2175928,
   "party_total": 5100,
-  "pac_pct": 42
+  "pac_pct": 42,
+  "self_funded": 327717,
+  "transfers_in": 943738
  },
  "Sharice Davids": {
   "candidate_id": "H8KS03155",
@@ -7347,7 +7779,9 @@
   "individual_total": 21120364,
   "pac_total": 5637459,
   "party_total": 40100,
-  "pac_pct": 21
+  "pac_pct": 21,
+  "self_funded": 0,
+  "transfers_in": 1294153
  },
  "Ron Estes": {
   "candidate_id": "H8KS04112",
@@ -7380,7 +7814,9 @@
   "individual_total": 3481787,
   "pac_total": 5255091,
   "party_total": 5000,
-  "pac_pct": 60
+  "pac_pct": 60,
+  "self_funded": 0,
+  "transfers_in": 873022
  },
  "James Comer": {
   "candidate_id": "H6KY01110",
@@ -7413,7 +7849,9 @@
   "individual_total": 10157739,
   "pac_total": 3279391,
   "party_total": 2500,
-  "pac_pct": 24
+  "pac_pct": 24,
+  "self_funded": 108895,
+  "transfers_in": 250765
  },
  "Morgan McGarvey": {
   "candidate_id": "H2KY03206",
@@ -7446,7 +7884,9 @@
   "individual_total": 4638495,
   "pac_total": 1760581,
   "party_total": 0,
-  "pac_pct": 28
+  "pac_pct": 28,
+  "self_funded": 0,
+  "transfers_in": 430935
  },
  "Thomas Massie": {
   "candidate_id": "H2KY04121",
@@ -7479,7 +7919,9 @@
   "individual_total": 13488782,
   "pac_total": 1485500,
   "party_total": 4000,
-  "pac_pct": 10
+  "pac_pct": 10,
+  "self_funded": 105007,
+  "transfers_in": 164568
  },
  "Hal Rogers": {
   "candidate_id": "H0KY05015",
@@ -7512,7 +7954,9 @@
   "individual_total": 6905215,
   "pac_total": 8297245,
   "party_total": 34691,
-  "pac_pct": 54
+  "pac_pct": 54,
+  "self_funded": 0,
+  "transfers_in": 23359
  },
  "Steve Scalise": {
   "candidate_id": "H0LA01087",
@@ -7546,7 +7990,9 @@
   "individual_total": 49415388,
   "pac_total": 4761625,
   "party_total": 500,
-  "pac_pct": 9
+  "pac_pct": 9,
+  "self_funded": 11000,
+  "transfers_in": 52441269
  },
  "Clay Higgins": {
   "candidate_id": "H6LA03148",
@@ -7574,12 +8020,14 @@
   "grassroots_small": 611914,
   "grassroots_itemized": 2167413,
   "small_dollar_pct": 22.0,
-  "ie_support_total": 9673,
+  "ie_support_total": 9848,
   "ie_oppose_total": 58407,
   "individual_total": 2779327,
   "pac_total": 1138300,
   "party_total": 0,
-  "pac_pct": 29
+  "pac_pct": 29,
+  "self_funded": 0,
+  "transfers_in": 1051792
  },
  "Julia Letlow": {
   "candidate_id": "H2LA05126",
@@ -7609,12 +8057,14 @@
   "grassroots_small": 331896,
   "grassroots_itemized": 4549928,
   "small_dollar_pct": 6.8,
-  "ie_support_total": 10654120,
+  "ie_support_total": 11321308,
   "ie_oppose_total": 10863072,
   "individual_total": 4881825,
   "pac_total": 3483000,
   "party_total": 79000,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 0,
+  "transfers_in": 5298120
  },
  "Troy Carter": {
   "candidate_id": "H2LA02149",
@@ -7647,7 +8097,9 @@
   "individual_total": 3833355,
   "pac_total": 3071330,
   "party_total": 0,
-  "pac_pct": 44
+  "pac_pct": 44,
+  "self_funded": 2800,
+  "transfers_in": 43432
  },
  "Chellie Pingree": {
   "candidate_id": "H8ME01120",
@@ -7682,7 +8134,9 @@
   "individual_total": 9543086,
   "pac_total": 2716024,
   "party_total": 31919,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 78246,
+  "transfers_in": 23902
  },
  "Jared Golden": {
   "candidate_id": "H8ME02185",
@@ -7715,7 +8169,9 @@
   "individual_total": 22273009,
   "pac_total": 3135660,
   "party_total": 35248,
-  "pac_pct": 12
+  "pac_pct": 12,
+  "self_funded": 1000,
+  "transfers_in": 2013530
  },
  "Andy Harris": {
   "candidate_id": "H8MD01094",
@@ -7743,12 +8199,14 @@
   "grassroots_small": 2850869,
   "grassroots_itemized": 10301294,
   "small_dollar_pct": 21.7,
-  "ie_support_total": 12768,
+  "ie_support_total": 21675,
   "ie_oppose_total": 39399,
   "individual_total": 13152163,
   "pac_total": 4733745,
   "party_total": 19945,
-  "pac_pct": 26
+  "pac_pct": 26,
+  "self_funded": 172000,
+  "transfers_in": 208932
  },
  "Johnny Olszewski": {
   "candidate_id": "H4MD02232",
@@ -7781,7 +8239,9 @@
   "individual_total": 1941575,
   "pac_total": 644918,
   "party_total": 0,
-  "pac_pct": 25
+  "pac_pct": 25,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "Sarah Elfreth": {
   "candidate_id": "H4MD03156",
@@ -7814,7 +8274,9 @@
   "individual_total": 2660743,
   "pac_total": 745741,
   "party_total": 250,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 649,
+  "transfers_in": 0
  },
  "Glenn Ivey": {
   "candidate_id": "H2MD04315",
@@ -7849,7 +8311,9 @@
   "individual_total": 1466286,
   "pac_total": 415896,
   "party_total": 0,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 20000,
+  "transfers_in": 0
  },
  "April McClain Delaney": {
   "candidate_id": "H4MD06340",
@@ -7877,12 +8341,14 @@
   "grassroots_small": 116962,
   "grassroots_itemized": 2414014,
   "small_dollar_pct": 4.6,
-  "ie_support_total": 50335,
+  "ie_support_total": 566703,
   "ie_oppose_total": 198782,
   "individual_total": 2530976,
   "pac_total": 763679,
   "party_total": 53,
-  "pac_pct": 23
+  "pac_pct": 23,
+  "self_funded": 14873000,
+  "transfers_in": 70600
  },
  "Jamie Raskin": {
   "candidate_id": "H6MD08457",
@@ -7910,12 +8376,14 @@
   "grassroots_small": 7229575,
   "grassroots_itemized": 12253664,
   "small_dollar_pct": 37.1,
-  "ie_support_total": 5827,
+  "ie_support_total": 6000,
   "ie_oppose_total": 0,
   "individual_total": 19483239,
   "pac_total": 2320087,
   "party_total": 1461,
-  "pac_pct": 11
+  "pac_pct": 11,
+  "self_funded": 4930,
+  "transfers_in": 515069
  },
  "Richard Neal": {
   "candidate_id": "H8MA02041",
@@ -7948,7 +8416,9 @@
   "individual_total": 8772626,
   "pac_total": 21325556,
   "party_total": 2175,
-  "pac_pct": 71
+  "pac_pct": 71,
+  "self_funded": 50000,
+  "transfers_in": 663737
  },
  "Jim McGovern": {
   "candidate_id": "H4MA03022",
@@ -7978,10 +8448,12 @@
   "small_dollar_pct": 28.2,
   "ie_support_total": 238,
   "ie_oppose_total": 0,
-  "individual_total": 10510451,
-  "pac_total": 5970998,
+  "individual_total": 10581082,
+  "pac_total": 6005498,
   "party_total": 41521,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 18396,
+  "transfers_in": 6118
  },
  "Lori Trahan": {
   "candidate_id": "H8MA03106",
@@ -8014,7 +8486,9 @@
   "individual_total": 6261204,
   "pac_total": 2748059,
   "party_total": 65,
-  "pac_pct": 31
+  "pac_pct": 31,
+  "self_funded": 382109,
+  "transfers_in": 134815
  },
  "Jake Auchincloss": {
   "candidate_id": "H0MA04192",
@@ -8048,7 +8522,9 @@
   "individual_total": 9122883,
   "pac_total": 1771101,
   "party_total": 2000,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 250000,
+  "transfers_in": 1258100
  },
  "Katherine Clark": {
   "candidate_id": "H4MA05084",
@@ -8076,12 +8552,14 @@
   "grassroots_small": 736989,
   "grassroots_itemized": 7071789,
   "small_dollar_pct": 9.4,
-  "ie_support_total": 1130,
+  "ie_support_total": 2502,
   "ie_oppose_total": 0,
   "individual_total": 7808778,
   "pac_total": 7677319,
   "party_total": 0,
-  "pac_pct": 50
+  "pac_pct": 50,
+  "self_funded": 250000,
+  "transfers_in": 2253506
  },
  "Seth Moulton": {
   "candidate_id": "H4MA06090",
@@ -8115,7 +8593,9 @@
   "individual_total": 15957574,
   "pac_total": 2996474,
   "party_total": 9162,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 0,
+  "transfers_in": 1267765
  },
  "Ayanna Pressley": {
   "candidate_id": "H8MA07032",
@@ -8148,7 +8628,9 @@
   "individual_total": 6520217,
   "pac_total": 598769,
   "party_total": 0,
-  "pac_pct": 8
+  "pac_pct": 8,
+  "self_funded": 0,
+  "transfers_in": 567780
  },
  "Stephen Lynch": {
   "candidate_id": "H2MA09072",
@@ -8184,7 +8666,9 @@
   "individual_total": 10133103,
   "pac_total": 5085200,
   "party_total": 1395,
-  "pac_pct": 33
+  "pac_pct": 33,
+  "self_funded": 0,
+  "transfers_in": 1048274
  },
  "Bill Keating": {
   "candidate_id": "H0MA10082",
@@ -8214,10 +8698,12 @@
   "small_dollar_pct": 15.3,
   "ie_support_total": 124,
   "ie_oppose_total": 0,
-  "individual_total": 4540061,
+  "individual_total": 4548856,
   "pac_total": 4098263,
   "party_total": 7851,
-  "pac_pct": 47
+  "pac_pct": 47,
+  "self_funded": 0,
+  "transfers_in": 1217
  },
  "John Moolenaar": {
   "candidate_id": "H4MI04126",
@@ -8250,7 +8736,9 @@
   "individual_total": 6252282,
   "pac_total": 4390460,
   "party_total": 12215,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 0,
+  "transfers_in": 148266
  },
  "Hillary Scholten": {
   "candidate_id": "H0MI03316",
@@ -8284,7 +8772,9 @@
   "individual_total": 11193717,
   "pac_total": 3190399,
   "party_total": 23384,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 3772,
+  "transfers_in": 731999
  },
  "Bill Huizenga": {
   "candidate_id": "H0MI02094",
@@ -8313,11 +8803,13 @@
   "grassroots_itemized": 6968126,
   "small_dollar_pct": 7.4,
   "ie_support_total": 218615,
-  "ie_oppose_total": 862,
+  "ie_oppose_total": 4948,
   "individual_total": 7523677,
   "pac_total": 9578784,
   "party_total": 0,
-  "pac_pct": 56
+  "pac_pct": 56,
+  "self_funded": 25000,
+  "transfers_in": 1729568
  },
  "Tim Walberg": {
   "candidate_id": "H4MI07103",
@@ -8350,7 +8842,9 @@
   "individual_total": 11254144,
   "pac_total": 8162713,
   "party_total": 79702,
-  "pac_pct": 42
+  "pac_pct": 42,
+  "self_funded": 30000,
+  "transfers_in": 662788
  },
  "Debbie Dingell": {
   "candidate_id": "H4MI12079",
@@ -8383,7 +8877,9 @@
   "individual_total": 4218938,
   "pac_total": 5403213,
   "party_total": 3737,
-  "pac_pct": 56
+  "pac_pct": 56,
+  "self_funded": 0,
+  "transfers_in": 409219
  },
  "Lisa McClain": {
   "candidate_id": "H0MI10287",
@@ -8416,7 +8912,9 @@
   "individual_total": 4842741,
   "pac_total": 3233096,
   "party_total": 0,
-  "pac_pct": 40
+  "pac_pct": 40,
+  "self_funded": 1750000,
+  "transfers_in": 1122594
  },
  "John James": {
   "candidate_id": "H2MI10150",
@@ -8453,7 +8951,9 @@
   "individual_total": 65947145,
   "pac_total": 3217032,
   "party_total": 11228,
-  "pac_pct": 5
+  "pac_pct": 5,
+  "self_funded": 50000,
+  "transfers_in": 8101527
  },
  "Haley Stevens": {
   "candidate_id": "H8MI11254",
@@ -8483,12 +8983,14 @@
   "grassroots_small": 3051811,
   "grassroots_itemized": 19531680,
   "small_dollar_pct": 13.5,
-  "ie_support_total": 11172088,
-  "ie_oppose_total": 4082901,
+  "ie_support_total": 29259387,
+  "ie_oppose_total": 4287078,
   "individual_total": 22583491,
   "pac_total": 6017173,
   "party_total": 24760,
-  "pac_pct": 21
+  "pac_pct": 21,
+  "self_funded": 0,
+  "transfers_in": 2525083
  },
  "Rashida Tlaib": {
   "candidate_id": "H8MI13250",
@@ -8521,7 +9023,9 @@
   "individual_total": 18706401,
   "pac_total": 532548,
   "party_total": 0,
-  "pac_pct": 3
+  "pac_pct": 3,
+  "self_funded": 0,
+  "transfers_in": 933391
  },
  "Shri Thanedar": {
   "candidate_id": "H2MI13204",
@@ -8554,7 +9058,9 @@
   "individual_total": 1736701,
   "pac_total": 439000,
   "party_total": 0,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 16636074,
+  "transfers_in": 0
  },
  "Brad Finstad": {
   "candidate_id": "H2MN01223",
@@ -8583,11 +9089,13 @@
   "grassroots_itemized": 2147835,
   "small_dollar_pct": 16.2,
   "ie_support_total": 2317020,
-  "ie_oppose_total": 124807,
+  "ie_oppose_total": 126008,
   "individual_total": 2562134,
   "pac_total": 2481569,
   "party_total": 10400,
-  "pac_pct": 49
+  "pac_pct": 49,
+  "self_funded": 5800,
+  "transfers_in": 430863
  },
  "Kelly Morrison": {
   "candidate_id": "H4MN03118",
@@ -8620,7 +9128,9 @@
   "individual_total": 3068385,
   "pac_total": 493350,
   "party_total": 33,
-  "pac_pct": 14
+  "pac_pct": 14,
+  "self_funded": 28600,
+  "transfers_in": 23934
  },
  "Betty McCollum": {
   "candidate_id": "H0MN04049",
@@ -8653,7 +9163,9 @@
   "individual_total": 7987070,
   "pac_total": 6601462,
   "party_total": 19398,
-  "pac_pct": 45
+  "pac_pct": 45,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "Ilhan Omar": {
   "candidate_id": "H8MN05239",
@@ -8686,7 +9198,9 @@
   "individual_total": 22560831,
   "pac_total": 895589,
   "party_total": 0,
-  "pac_pct": 4
+  "pac_pct": 4,
+  "self_funded": 0,
+  "transfers_in": 625910
  },
  "Tom Emmer": {
   "candidate_id": "H4MN06087",
@@ -8719,7 +9233,9 @@
   "individual_total": 11324060,
   "pac_total": 10383819,
   "party_total": 200,
-  "pac_pct": 48
+  "pac_pct": 48,
+  "self_funded": 25000,
+  "transfers_in": 9589096
  },
  "Michelle Fischbach": {
   "candidate_id": "H0MN07091",
@@ -8753,7 +9269,9 @@
   "individual_total": 4232117,
   "pac_total": 2630953,
   "party_total": 8500,
-  "pac_pct": 38
+  "pac_pct": 38,
+  "self_funded": 10532,
+  "transfers_in": 719453
  },
  "Pete Stauber": {
   "candidate_id": "H8MN08043",
@@ -8786,7 +9304,9 @@
   "individual_total": 6100952,
   "pac_total": 4293930,
   "party_total": 9500,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 0,
+  "transfers_in": 661861
  },
  "Bennie Thompson": {
   "candidate_id": "H4MS02068",
@@ -8822,7 +9342,9 @@
   "individual_total": 6136495,
   "pac_total": 11725214,
   "party_total": 63489,
-  "pac_pct": 65
+  "pac_pct": 65,
+  "self_funded": 25000,
+  "transfers_in": 46154
  },
  "Michael Guest": {
   "candidate_id": "H8MS03125",
@@ -8855,7 +9377,9 @@
   "individual_total": 2662078,
   "pac_total": 2195961,
   "party_total": 0,
-  "pac_pct": 45
+  "pac_pct": 45,
+  "self_funded": 30000,
+  "transfers_in": 0
  },
  "Jason Smith": {
   "candidate_id": "H4MO08162",
@@ -8888,7 +9412,9 @@
   "individual_total": 7929830,
   "pac_total": 12231241,
   "party_total": 12887,
-  "pac_pct": 61
+  "pac_pct": 61,
+  "self_funded": 0,
+  "transfers_in": 2057679
  },
  "Ann Wagner": {
   "candidate_id": "H2MO02102",
@@ -8921,7 +9447,9 @@
   "individual_total": 16420122,
   "pac_total": 11335615,
   "party_total": 4000,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 5000,
+  "transfers_in": 768091
  },
  "Mark Alford": {
   "candidate_id": "H2MO04207",
@@ -8954,7 +9482,9 @@
   "individual_total": 2203334,
   "pac_total": 1354244,
   "party_total": 0,
-  "pac_pct": 38
+  "pac_pct": 38,
+  "self_funded": 0,
+  "transfers_in": 172468
  },
  "Emanuel Cleaver": {
   "candidate_id": "H4MO05234",
@@ -8987,7 +9517,9 @@
   "individual_total": 4625946,
   "pac_total": 8595350,
   "party_total": 2510,
-  "pac_pct": 65
+  "pac_pct": 65,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "Sam Graves": {
   "candidate_id": "H0MO06073",
@@ -9020,7 +9552,9 @@
   "individual_total": 7260655,
   "pac_total": 15397455,
   "party_total": 56346,
-  "pac_pct": 68
+  "pac_pct": 68,
+  "self_funded": 500,
+  "transfers_in": 603800
  },
  "Eric Burlison": {
   "candidate_id": "H2MO07143",
@@ -9048,12 +9582,14 @@
   "grassroots_small": 914090,
   "grassroots_itemized": 1596468,
   "small_dollar_pct": 36.4,
-  "ie_support_total": 716056,
+  "ie_support_total": 723337,
   "ie_oppose_total": 663016,
   "individual_total": 2510558,
   "pac_total": 795808,
   "party_total": 0,
-  "pac_pct": 24
+  "pac_pct": 24,
+  "self_funded": 0,
+  "transfers_in": 136579
  },
  "Wesley Bell": {
   "candidate_id": "H4MO01134",
@@ -9087,7 +9623,9 @@
   "individual_total": 8011747,
   "pac_total": 835546,
   "party_total": 125,
-  "pac_pct": 9
+  "pac_pct": 9,
+  "self_funded": 100,
+  "transfers_in": 88850
  },
  "Ryan Zinke": {
   "candidate_id": "H4MT01041",
@@ -9121,7 +9659,9 @@
   "individual_total": 22165717,
   "pac_total": 3327286,
   "party_total": 23017,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 42000,
+  "transfers_in": 1492298
  },
  "Mike Flood": {
   "candidate_id": "H2NE01118",
@@ -9154,7 +9694,9 @@
   "individual_total": 3754298,
   "pac_total": 2518138,
   "party_total": 0,
-  "pac_pct": 40
+  "pac_pct": 40,
+  "self_funded": 68000,
+  "transfers_in": 218478
  },
  "Don Bacon": {
   "candidate_id": "H6NE02125",
@@ -9187,7 +9729,9 @@
   "individual_total": 9463090,
   "pac_total": 7571147,
   "party_total": 24250,
-  "pac_pct": 44
+  "pac_pct": 44,
+  "self_funded": 20759,
+  "transfers_in": 2605869
  },
  "Adrian Smith": {
   "candidate_id": "H6NE03115",
@@ -9220,7 +9764,9 @@
   "individual_total": 4453631,
   "pac_total": 9789347,
   "party_total": 17180,
-  "pac_pct": 69
+  "pac_pct": 69,
+  "self_funded": 14145,
+  "transfers_in": 152994
  },
  "Dina Titus": {
   "candidate_id": "H8NV03036",
@@ -9253,7 +9799,9 @@
   "individual_total": 8931902,
   "pac_total": 7107107,
   "party_total": 33980,
-  "pac_pct": 44
+  "pac_pct": 44,
+  "self_funded": 25000,
+  "transfers_in": 463613
  },
  "Mark Amodei": {
   "candidate_id": "H2NV02395",
@@ -9289,7 +9837,9 @@
   "individual_total": 4610977,
   "pac_total": 3542859,
   "party_total": 35500,
-  "pac_pct": 43
+  "pac_pct": 43,
+  "self_funded": 0,
+  "transfers_in": 117209
  },
  "Susie Lee": {
   "candidate_id": "H6NV04020",
@@ -9323,7 +9873,9 @@
   "individual_total": 18671814,
   "pac_total": 6364251,
   "party_total": 42882,
-  "pac_pct": 25
+  "pac_pct": 25,
+  "self_funded": 689536,
+  "transfers_in": 2452937
  },
  "Steven Horsford": {
   "candidate_id": "H2NV04011",
@@ -9352,12 +9904,14 @@
   "grassroots_small": 1071185,
   "grassroots_itemized": 10171431,
   "small_dollar_pct": 9.5,
-  "ie_support_total": 8865560,
+  "ie_support_total": 8865640,
   "ie_oppose_total": 3966079,
   "individual_total": 11242616,
   "pac_total": 11126124,
   "party_total": 28508,
-  "pac_pct": 50
+  "pac_pct": 50,
+  "self_funded": 3355,
+  "transfers_in": 729138
  },
  "Chris Pappas": {
   "candidate_id": "H8NH01210",
@@ -9387,11 +9941,13 @@
   "grassroots_itemized": 16433303,
   "small_dollar_pct": 24.9,
   "ie_support_total": 985258,
-  "ie_oppose_total": 9038675,
+  "ie_oppose_total": 9542841,
   "individual_total": 21895156,
   "pac_total": 4908001,
   "party_total": 38950,
-  "pac_pct": 18
+  "pac_pct": 18,
+  "self_funded": 16759,
+  "transfers_in": 1140213
  },
  "Donald Norcross": {
   "candidate_id": "H4NJ01084",
@@ -9424,7 +9980,9 @@
   "individual_total": 7642456,
   "pac_total": 6741970,
   "party_total": 77,
-  "pac_pct": 47
+  "pac_pct": 47,
+  "self_funded": 399662,
+  "transfers_in": 55890
  },
  "Jefferson Van Drew": {
   "candidate_id": "H8NJ02166",
@@ -9457,7 +10015,9 @@
   "individual_total": 10732339,
   "pac_total": 2948371,
   "party_total": 16046,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 0,
+  "transfers_in": 718137
  },
  "Herb Conaway": {
   "candidate_id": "H4NJ03080",
@@ -9491,7 +10051,9 @@
   "individual_total": 1334725,
   "pac_total": 976225,
   "party_total": 0,
-  "pac_pct": 42
+  "pac_pct": 42,
+  "self_funded": 0,
+  "transfers_in": 23286
  },
  "Chris Smith": {
   "candidate_id": "H8NJ04014",
@@ -9524,7 +10086,9 @@
   "individual_total": 8687741,
   "pac_total": 4549526,
   "party_total": 54277,
-  "pac_pct": 34
+  "pac_pct": 34,
+  "self_funded": 0,
+  "transfers_in": 194687
  },
  "Josh Gottheimer": {
   "candidate_id": "H6NJ05171",
@@ -9557,7 +10121,9 @@
   "individual_total": 30697011,
   "pac_total": 8737254,
   "party_total": 27625,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 361,
+  "transfers_in": 748872
  },
  "Frank Pallone": {
   "candidate_id": "H8NJ03073",
@@ -9594,7 +10160,9 @@
   "individual_total": 15147125,
   "pac_total": 21194269,
   "party_total": 81885,
-  "pac_pct": 58
+  "pac_pct": 58,
+  "self_funded": 69525,
+  "transfers_in": 4788260
  },
  "Rob Menendez": {
   "candidate_id": "H2NJ08232",
@@ -9629,7 +10197,9 @@
   "individual_total": 44001037,
   "pac_total": 10656952,
   "party_total": 6250,
-  "pac_pct": 19
+  "pac_pct": 19,
+  "self_funded": 0,
+  "transfers_in": 3585137
  },
  "Mikie Sherrill": {
   "candidate_id": "H8NJ11142",
@@ -9662,7 +10232,9 @@
   "individual_total": 19443351,
   "pac_total": 4226004,
   "party_total": 27941,
-  "pac_pct": 18
+  "pac_pct": 18,
+  "self_funded": 1800,
+  "transfers_in": 2134500
  },
  "Bonnie Watson Coleman": {
   "candidate_id": "H4NJ12149",
@@ -9695,7 +10267,9 @@
   "individual_total": 3346637,
   "pac_total": 3047097,
   "party_total": 3514,
-  "pac_pct": 48
+  "pac_pct": 48,
+  "self_funded": 2600,
+  "transfers_in": 2100
  },
  "Melanie Stansbury": {
   "candidate_id": "H2NM01144",
@@ -9728,7 +10302,9 @@
   "individual_total": 4974137,
   "pac_total": 1248906,
   "party_total": 5553,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 0,
+  "transfers_in": 84444
  },
  "Teresa Leger Fernandez": {
   "candidate_id": "H0NM03102",
@@ -9761,7 +10337,9 @@
   "individual_total": 7156700,
   "pac_total": 1416925,
   "party_total": 6543,
-  "pac_pct": 17
+  "pac_pct": 17,
+  "self_funded": 0,
+  "transfers_in": 199773
  },
  "Nick LaLota": {
   "candidate_id": "H2NY01190",
@@ -9795,7 +10373,9 @@
   "individual_total": 3217408,
   "pac_total": 2897923,
   "party_total": 20000,
-  "pac_pct": 47
+  "pac_pct": 47,
+  "self_funded": 16200,
+  "transfers_in": 3090563
  },
  "Andrew Garbarino": {
   "candidate_id": "H0NY02234",
@@ -9828,7 +10408,9 @@
   "individual_total": 4356235,
   "pac_total": 6061700,
   "party_total": 11250,
-  "pac_pct": 58
+  "pac_pct": 58,
+  "self_funded": 50000,
+  "transfers_in": 1984365
  },
  "Tom Suozzi": {
   "candidate_id": "H6NY03247",
@@ -9861,7 +10443,9 @@
   "individual_total": 17863993,
   "pac_total": 6409563,
   "party_total": 21436,
-  "pac_pct": 26
+  "pac_pct": 26,
+  "self_funded": 0,
+  "transfers_in": 834006
  },
  "Gregory Meeks": {
   "candidate_id": "H8NY06048",
@@ -9895,7 +10479,9 @@
   "individual_total": 5582726,
   "pac_total": 10269019,
   "party_total": 21535,
-  "pac_pct": 65
+  "pac_pct": 65,
+  "self_funded": 0,
+  "transfers_in": 2526172
  },
  "Grace Meng": {
   "candidate_id": "H2NY06116",
@@ -9928,7 +10514,9 @@
   "individual_total": 8864009,
   "pac_total": 3298184,
   "party_total": 84,
-  "pac_pct": 27
+  "pac_pct": 27,
+  "self_funded": 217125,
+  "transfers_in": 283456
  },
  "Hakeem Jeffries": {
   "candidate_id": "H2NY10092",
@@ -9961,7 +10549,9 @@
   "individual_total": 35580833,
   "pac_total": 10546402,
   "party_total": 534,
-  "pac_pct": 23
+  "pac_pct": 23,
+  "self_funded": 0,
+  "transfers_in": 7334092
  },
  "Yvette Clarke": {
   "candidate_id": "H4NY11138",
@@ -9990,12 +10580,14 @@
   "grassroots_small": 613072,
   "grassroots_itemized": 3279065,
   "small_dollar_pct": 15.8,
-  "ie_support_total": 177,
+  "ie_support_total": 289872,
   "ie_oppose_total": 0,
   "individual_total": 3892137,
   "pac_total": 5384504,
   "party_total": 7105,
-  "pac_pct": 58
+  "pac_pct": 58,
+  "self_funded": 2000,
+  "transfers_in": 4913
  },
  "Dan Goldman": {
   "candidate_id": "H2NY10308",
@@ -10023,12 +10615,14 @@
   "grassroots_small": 854593,
   "grassroots_itemized": 9213070,
   "small_dollar_pct": 8.5,
-  "ie_support_total": 404598,
-  "ie_oppose_total": 1063,
+  "ie_support_total": 406593,
+  "ie_oppose_total": 85063,
   "individual_total": 10067663,
   "pac_total": 872950,
   "party_total": 907,
-  "pac_pct": 8
+  "pac_pct": 8,
+  "self_funded": 7013468,
+  "transfers_in": 1195645
  },
  "Nicole Malliotakis": {
   "candidate_id": "H0NY11078",
@@ -10062,7 +10656,9 @@
   "individual_total": 8653257,
   "pac_total": 3749558,
   "party_total": 30400,
-  "pac_pct": 30
+  "pac_pct": 30,
+  "self_funded": 3270,
+  "transfers_in": 1660619
  },
  "Adriano Espaillat": {
   "candidate_id": "H2NY13096",
@@ -10093,12 +10689,14 @@
   "grassroots_small": 203024,
   "grassroots_itemized": 6585924,
   "small_dollar_pct": 3.0,
-  "ie_support_total": 1863723,
-  "ie_oppose_total": 1024901,
+  "ie_support_total": 5525248,
+  "ie_oppose_total": 1035116,
   "individual_total": 6788948,
   "pac_total": 2223027,
   "party_total": 0,
-  "pac_pct": 25
+  "pac_pct": 25,
+  "self_funded": 0,
+  "transfers_in": 377265
  },
  "Alexandria Ocasio-Cortez": {
   "candidate_id": "H8NY15148",
@@ -10131,7 +10729,9 @@
   "individual_total": 81734794,
   "pac_total": 266175,
   "party_total": 0,
-  "pac_pct": 0
+  "pac_pct": 0,
+  "self_funded": 39,
+  "transfers_in": 442032
  },
  "Ritchie Torres": {
   "candidate_id": "H0NY15160",
@@ -10159,12 +10759,14 @@
   "grassroots_small": 693767,
   "grassroots_itemized": 12976587,
   "small_dollar_pct": 5.1,
-  "ie_support_total": 3124974,
+  "ie_support_total": 4649385,
   "ie_oppose_total": 0,
   "individual_total": 13670354,
   "pac_total": 2316805,
   "party_total": 10000,
-  "pac_pct": 14
+  "pac_pct": 14,
+  "self_funded": 0,
+  "transfers_in": 5240178
  },
  "George Latimer": {
   "candidate_id": "H4NY16087",
@@ -10197,7 +10799,9 @@
   "individual_total": 6782216,
   "pac_total": 399866,
   "party_total": 450,
-  "pac_pct": 6
+  "pac_pct": 6,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "Mike Lawler": {
   "candidate_id": "H2NY17162",
@@ -10227,11 +10831,13 @@
   "grassroots_itemized": 6927720,
   "small_dollar_pct": 13.5,
   "ie_support_total": 3412409,
-  "ie_oppose_total": 12036292,
+  "ie_oppose_total": 12036504,
   "individual_total": 8007232,
   "pac_total": 4590516,
   "party_total": 54072,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 0,
+  "transfers_in": 5229156
  },
  "Pat Ryan": {
   "candidate_id": "H8NY19223",
@@ -10265,7 +10871,9 @@
   "individual_total": 15065990,
   "pac_total": 2557777,
   "party_total": 25792,
-  "pac_pct": 14
+  "pac_pct": 14,
+  "self_funded": 111312,
+  "transfers_in": 1456547
  },
  "Paul Tonko": {
   "candidate_id": "H8NY21203",
@@ -10298,7 +10906,9 @@
   "individual_total": 4802249,
   "pac_total": 7210504,
   "party_total": 1247,
-  "pac_pct": 60
+  "pac_pct": 60,
+  "self_funded": 3000,
+  "transfers_in": 0
  },
  "Nick Langworthy": {
   "candidate_id": "H2NY23228",
@@ -10331,7 +10941,9 @@
   "individual_total": 2354481,
   "pac_total": 2067219,
   "party_total": 22558,
-  "pac_pct": 47
+  "pac_pct": 47,
+  "self_funded": 0,
+  "transfers_in": 500247
  },
  "Joseph Morelle": {
   "candidate_id": "H8NY25105",
@@ -10359,12 +10971,14 @@
   "grassroots_small": 308049,
   "grassroots_itemized": 3289247,
   "small_dollar_pct": 8.6,
-  "ie_support_total": 33122,
+  "ie_support_total": 605054,
   "ie_oppose_total": 33050,
   "individual_total": 3597296,
   "pac_total": 5037470,
   "party_total": 3800,
-  "pac_pct": 58
+  "pac_pct": 58,
+  "self_funded": 1000,
+  "transfers_in": 810373
  },
  "Tim Kennedy": {
   "candidate_id": "H4NY26078",
@@ -10397,7 +11011,9 @@
   "individual_total": 3571833,
   "pac_total": 1318319,
   "party_total": 0,
-  "pac_pct": 27
+  "pac_pct": 27,
+  "self_funded": 0,
+  "transfers_in": 67463
  },
  "Don Davis": {
   "candidate_id": "H2NC02287",
@@ -10430,7 +11046,9 @@
   "individual_total": 7366115,
   "pac_total": 3833153,
   "party_total": 16597,
-  "pac_pct": 34
+  "pac_pct": 34,
+  "self_funded": 21900,
+  "transfers_in": 960265
  },
  "Greg Murphy": {
   "candidate_id": "H0NC03172",
@@ -10460,10 +11078,12 @@
   "small_dollar_pct": 5.9,
   "ie_support_total": 68940,
   "ie_oppose_total": 725839,
-  "individual_total": 4143192,
-  "pac_total": 3081321,
+  "individual_total": 4141692,
+  "pac_total": 3082821,
   "party_total": 12000,
-  "pac_pct": 43
+  "pac_pct": 43,
+  "self_funded": 100000,
+  "transfers_in": 748337
  },
  "Virginia Foxx": {
   "candidate_id": "H4NC05146",
@@ -10496,7 +11116,9 @@
   "individual_total": 11593950,
   "pac_total": 6829751,
   "party_total": 4239,
-  "pac_pct": 37
+  "pac_pct": 37,
+  "self_funded": 177000,
+  "transfers_in": 32178
  },
  "David Rouzer": {
   "candidate_id": "H2NC07096",
@@ -10529,7 +11151,9 @@
   "individual_total": 5911207,
   "pac_total": 6492580,
   "party_total": 19925,
-  "pac_pct": 52
+  "pac_pct": 52,
+  "self_funded": 99978,
+  "transfers_in": 272953
  },
  "Tim Moore": {
   "candidate_id": "H4NC14015",
@@ -10562,7 +11186,9 @@
   "individual_total": 2885629,
   "pac_total": 806200,
   "party_total": 0,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 0,
+  "transfers_in": 242858
  },
  "Mark Harris": {
   "candidate_id": "H4NC08066",
@@ -10595,12 +11221,14 @@
   "grassroots_small": 583032,
   "grassroots_itemized": 4434378,
   "small_dollar_pct": 11.6,
-  "ie_support_total": 223095,
+  "ie_support_total": 231612,
   "ie_oppose_total": 3223298,
   "individual_total": 5017411,
   "pac_total": 961364,
   "party_total": 10800,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 85774,
+  "transfers_in": 71192
  },
  "Richard Hudson": {
   "candidate_id": "H2NC08185",
@@ -10633,7 +11261,9 @@
   "individual_total": 8151510,
   "pac_total": 11798596,
   "party_total": 19800,
-  "pac_pct": 59
+  "pac_pct": 59,
+  "self_funded": 100000,
+  "transfers_in": 1923786
  },
  "Chuck Edwards": {
   "candidate_id": "H2NC14050",
@@ -10662,11 +11292,13 @@
   "grassroots_itemized": 1910181,
   "small_dollar_pct": 4.8,
   "ie_support_total": 331883,
-  "ie_oppose_total": 0,
+  "ie_oppose_total": 4086,
   "individual_total": 2006144,
   "pac_total": 1148600,
   "party_total": 2000,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 250000,
+  "transfers_in": 555520
  },
  "Alma Adams": {
   "candidate_id": "H4NC12100",
@@ -10699,7 +11331,9 @@
   "individual_total": 1704011,
   "pac_total": 3448296,
   "party_total": 8697,
-  "pac_pct": 67
+  "pac_pct": 67,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "Valerie Foushee": {
   "candidate_id": "H2NC06114",
@@ -10732,7 +11366,9 @@
   "individual_total": 1750023,
   "pac_total": 1089188,
   "party_total": 6000,
-  "pac_pct": 38
+  "pac_pct": 38,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "Greg Landsman": {
   "candidate_id": "H2OH01194",
@@ -10765,7 +11401,9 @@
   "individual_total": 7851030,
   "pac_total": 2274625,
   "party_total": 25388,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 11117,
+  "transfers_in": 932771
  },
  "Joyce Beatty": {
   "candidate_id": "H2OH03125",
@@ -10798,7 +11436,9 @@
   "individual_total": 3383056,
   "pac_total": 7972727,
   "party_total": 8300,
-  "pac_pct": 70
+  "pac_pct": 70,
+  "self_funded": 0,
+  "transfers_in": 73253
  },
  "Jim Jordan": {
   "candidate_id": "H6OH04082",
@@ -10826,12 +11466,14 @@
   "grassroots_small": 30133487,
   "grassroots_itemized": 21299401,
   "small_dollar_pct": 58.6,
-  "ie_support_total": 121004,
+  "ie_support_total": 121195,
   "ie_oppose_total": 102069,
   "individual_total": 51432888,
   "pac_total": 4097314,
   "party_total": 25864,
-  "pac_pct": 7
+  "pac_pct": 7,
+  "self_funded": 0,
+  "transfers_in": 431446
  },
  "Bob Latta": {
   "candidate_id": "H8OH05036",
@@ -10865,7 +11507,9 @@
   "pac_pct": 59,
   "grassroots_small": 811715,
   "grassroots_itemized": 4767627,
-  "small_dollar_pct": 14.5
+  "small_dollar_pct": 14.5,
+  "self_funded": 81470,
+  "transfers_in": 150242
  },
  "Mike Carey": {
   "candidate_id": "H2OH15228",
@@ -10898,7 +11542,9 @@
   "individual_total": 3199418,
   "pac_total": 4251720,
   "party_total": 5750,
-  "pac_pct": 57
+  "pac_pct": 57,
+  "self_funded": 0,
+  "transfers_in": 880819
  },
  "Max Miller": {
   "candidate_id": "H2OH16051",
@@ -10931,7 +11577,9 @@
   "individual_total": 3281678,
   "pac_total": 1442767,
   "party_total": 0,
-  "pac_pct": 31
+  "pac_pct": 31,
+  "self_funded": 1055800,
+  "transfers_in": 1378766
  },
  "Warren Davidson": {
   "candidate_id": "H6OH08315",
@@ -10964,7 +11612,9 @@
   "individual_total": 2270268,
   "pac_total": 2597132,
   "party_total": 500,
-  "pac_pct": 53
+  "pac_pct": 53,
+  "self_funded": 259461,
+  "transfers_in": 375494
  },
  "Marcy Kaptur": {
   "candidate_id": "H2OH09031",
@@ -10999,7 +11649,9 @@
   "individual_total": 10665447,
   "pac_total": 10439636,
   "party_total": 20461,
-  "pac_pct": 49
+  "pac_pct": 49,
+  "self_funded": 3869,
+  "transfers_in": 1580129
  },
  "Michael Turner": {
   "candidate_id": "H2OH03067",
@@ -11033,7 +11685,9 @@
   "individual_total": 8165106,
   "pac_total": 6455353,
   "party_total": 16916,
-  "pac_pct": 44
+  "pac_pct": 44,
+  "self_funded": 1079,
+  "transfers_in": 748664
  },
  "Emilia Sykes": {
   "candidate_id": "H2OH13264",
@@ -11066,7 +11720,9 @@
   "individual_total": 7199118,
   "pac_total": 3003078,
   "party_total": 25758,
-  "pac_pct": 29
+  "pac_pct": 29,
+  "self_funded": 0,
+  "transfers_in": 752014
  },
  "Kevin Hern": {
   "candidate_id": "H8OK01157",
@@ -11096,12 +11752,14 @@
   "grassroots_small": 307961,
   "grassroots_itemized": 4565670,
   "small_dollar_pct": 6.3,
-  "ie_support_total": 1145045,
+  "ie_support_total": 2117129,
   "ie_oppose_total": 348486,
   "individual_total": 4873631,
   "pac_total": 5156436,
   "party_total": 62000,
-  "pac_pct": 51
+  "pac_pct": 51,
+  "self_funded": 5952700,
+  "transfers_in": 4414653
  },
  "Josh Brecheen": {
   "candidate_id": "H2OK02315",
@@ -11129,12 +11787,14 @@
   "grassroots_small": 53063,
   "grassroots_itemized": 807045,
   "small_dollar_pct": 6.2,
-  "ie_support_total": 2005007,
+  "ie_support_total": 2005182,
   "ie_oppose_total": 2124686,
   "individual_total": 860108,
   "pac_total": 344780,
   "party_total": 0,
-  "pac_pct": 29
+  "pac_pct": 29,
+  "self_funded": 752,
+  "transfers_in": 0
  },
  "Frank Lucas": {
   "candidate_id": "H4OK06056",
@@ -11168,7 +11828,9 @@
   "individual_total": 5284225,
   "pac_total": 10180130,
   "party_total": 50175,
-  "pac_pct": 66
+  "pac_pct": 66,
+  "self_funded": 0,
+  "transfers_in": 110563
  },
  "Tom Cole": {
   "candidate_id": "H2OK04055",
@@ -11201,7 +11863,9 @@
   "individual_total": 13270712,
   "pac_total": 11130875,
   "party_total": 200,
-  "pac_pct": 46
+  "pac_pct": 46,
+  "self_funded": 120000,
+  "transfers_in": 298676
  },
  "Stephanie Bice": {
   "candidate_id": "H0OK05205",
@@ -11235,7 +11899,9 @@
   "individual_total": 5711519,
   "pac_total": 3110127,
   "party_total": 6400,
-  "pac_pct": 35
+  "pac_pct": 35,
+  "self_funded": 0,
+  "transfers_in": 1406096
  },
  "Suzanne Bonamici": {
   "candidate_id": "H2OR01133",
@@ -11269,7 +11935,9 @@
   "individual_total": 4546050,
   "pac_total": 4412231,
   "party_total": 7331,
-  "pac_pct": 49
+  "pac_pct": 49,
+  "self_funded": 201664,
+  "transfers_in": 38429
  },
  "Cliff Bentz": {
   "candidate_id": "H0OR02127",
@@ -11302,7 +11970,9 @@
   "individual_total": 2824796,
   "pac_total": 1843467,
   "party_total": 0,
-  "pac_pct": 39
+  "pac_pct": 39,
+  "self_funded": 108100,
+  "transfers_in": 0
  },
  "Maxine Dexter": {
   "candidate_id": "H4OR03192",
@@ -11335,7 +12005,9 @@
   "individual_total": 2204559,
   "pac_total": 618603,
   "party_total": 2500,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 6284,
+  "transfers_in": 9155
  },
  "Andrea Salinas": {
   "candidate_id": "H2OR06066",
@@ -11369,7 +12041,9 @@
   "individual_total": 7350026,
   "pac_total": 2737784,
   "party_total": 16060,
-  "pac_pct": 27
+  "pac_pct": 27,
+  "self_funded": 7,
+  "transfers_in": 244439
  },
  "Brian Fitzpatrick": {
   "candidate_id": "H6PA08277",
@@ -11398,11 +12072,13 @@
   "grassroots_itemized": 9879064,
   "small_dollar_pct": 7.1,
   "ie_support_total": 5675766,
-  "ie_oppose_total": 5674247,
+  "ie_oppose_total": 5674294,
   "individual_total": 10639262,
   "pac_total": 11025465,
   "party_total": 33916,
-  "pac_pct": 51
+  "pac_pct": 51,
+  "self_funded": 0,
+  "transfers_in": 5442318
  },
  "Brendan Boyle": {
   "candidate_id": "H4PA13199",
@@ -11435,7 +12111,9 @@
   "individual_total": 3392757,
   "pac_total": 6641208,
   "party_total": 8175,
-  "pac_pct": 66
+  "pac_pct": 66,
+  "self_funded": 133955,
+  "transfers_in": 167065
  },
  "Dwight Evans": {
   "candidate_id": "H6PA02171",
@@ -11468,7 +12146,9 @@
   "individual_total": 2961808,
   "pac_total": 2981422,
   "party_total": 4273,
-  "pac_pct": 50
+  "pac_pct": 50,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "Madeleine Dean": {
   "candidate_id": "H8PA04116",
@@ -11501,7 +12181,9 @@
   "individual_total": 3890188,
   "pac_total": 3906202,
   "party_total": 5000,
-  "pac_pct": 50
+  "pac_pct": 50,
+  "self_funded": 278429,
+  "transfers_in": 31517
  },
  "Mary Gay Scanlon": {
   "candidate_id": "H8PA07200",
@@ -11535,7 +12217,9 @@
   "individual_total": 4632405,
   "pac_total": 2520531,
   "party_total": 6392,
-  "pac_pct": 35
+  "pac_pct": 35,
+  "self_funded": 0,
+  "transfers_in": 40116
  },
  "Chrissy Houlahan": {
   "candidate_id": "H8PA06087",
@@ -11568,7 +12252,9 @@
   "individual_total": 10595306,
   "pac_total": 4488804,
   "party_total": 23518,
-  "pac_pct": 30
+  "pac_pct": 30,
+  "self_funded": 50000,
+  "transfers_in": 1467233
  },
  "Dan Meuser": {
   "candidate_id": "H8PA10147",
@@ -11602,7 +12288,9 @@
   "individual_total": 4078381,
   "pac_total": 2797192,
   "party_total": 5000,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 3332041,
+  "transfers_in": 263459
  },
  "Scott Perry": {
   "candidate_id": "H2PA04135",
@@ -11630,12 +12318,14 @@
   "grassroots_small": 5377193,
   "grassroots_itemized": 8991869,
   "small_dollar_pct": 37.4,
-  "ie_support_total": 3296701,
-  "ie_oppose_total": 11700053,
+  "ie_support_total": 3306676,
+  "ie_oppose_total": 11709053,
   "individual_total": 14369062,
   "pac_total": 3650271,
   "party_total": 13765,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 36051,
+  "transfers_in": 1995069
  },
  "Lloyd Smucker": {
   "candidate_id": "H6PA16320",
@@ -11668,7 +12358,9 @@
   "individual_total": 2478098,
   "pac_total": 4863287,
   "party_total": 12488,
-  "pac_pct": 66
+  "pac_pct": 66,
+  "self_funded": 590000,
+  "transfers_in": 1767039
  },
  "Summer Lee": {
   "candidate_id": "H2PA18200",
@@ -11701,7 +12393,9 @@
   "individual_total": 5117758,
   "pac_total": 886709,
   "party_total": 6500,
-  "pac_pct": 15
+  "pac_pct": 15,
+  "self_funded": 0,
+  "transfers_in": 198901
  },
  "John Joyce": {
   "candidate_id": "H8PA13125",
@@ -11734,7 +12428,9 @@
   "individual_total": 1597296,
   "pac_total": 4610505,
   "party_total": 10990,
-  "pac_pct": 74
+  "pac_pct": 74,
+  "self_funded": 906423,
+  "transfers_in": 1550854
  },
  "Guy Reschenthaler": {
   "candidate_id": "H8PA18199",
@@ -11767,7 +12463,9 @@
   "individual_total": 8419704,
   "pac_total": 4506979,
   "party_total": 5000,
-  "pac_pct": 35
+  "pac_pct": 35,
+  "self_funded": 23000,
+  "transfers_in": 915400
  },
  "Glenn Thompson": {
   "candidate_id": "H8PA05071",
@@ -11800,7 +12498,9 @@
   "individual_total": 8090915,
   "pac_total": 7254569,
   "party_total": 10075,
-  "pac_pct": 47
+  "pac_pct": 47,
+  "self_funded": 11311,
+  "transfers_in": 397487
  },
  "Mike Kelly": {
   "candidate_id": "H0PA03271",
@@ -11834,7 +12534,9 @@
   "individual_total": 5282837,
   "pac_total": 8936803,
   "party_total": 11000,
-  "pac_pct": 63
+  "pac_pct": 63,
+  "self_funded": 451500,
+  "transfers_in": 224046
  },
  "Chris Deluzio": {
   "candidate_id": "H2PA17103",
@@ -11867,7 +12569,9 @@
   "individual_total": 8227875,
   "pac_total": 2038644,
   "party_total": 15054,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 3344,
+  "transfers_in": 807021
  },
  "Seth Magaziner": {
   "candidate_id": "H2RI02184",
@@ -11900,7 +12604,9 @@
   "individual_total": 5055080,
   "pac_total": 1858982,
   "party_total": 0,
-  "pac_pct": 27
+  "pac_pct": 27,
+  "self_funded": 0,
+  "transfers_in": 122184
  },
  "Nancy Mace": {
   "candidate_id": "H0SC01394",
@@ -11937,7 +12643,9 @@
   "individual_total": 10964541,
   "pac_total": 2115880,
   "party_total": 5400,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 2313,
+  "transfers_in": 3325609
  },
  "Joe Wilson": {
   "candidate_id": "H2SC02059",
@@ -11970,7 +12678,9 @@
   "individual_total": 11297817,
   "pac_total": 6058996,
   "party_total": 24590,
-  "pac_pct": 35
+  "pac_pct": 35,
+  "self_funded": 476058,
+  "transfers_in": 99310
  },
  "William Timmons": {
   "candidate_id": "H8SC04250",
@@ -11998,12 +12708,14 @@
   "grassroots_small": 55001,
   "grassroots_itemized": 1610770,
   "small_dollar_pct": 3.3,
-  "ie_support_total": 2292550,
+  "ie_support_total": 2555396,
   "ie_oppose_total": 508889,
   "individual_total": 1665772,
   "pac_total": 3382300,
   "party_total": 0,
-  "pac_pct": 67
+  "pac_pct": 67,
+  "self_funded": 3586676,
+  "transfers_in": 169904
  },
  "Ralph Norman": {
   "candidate_id": "H8SC05158",
@@ -12036,7 +12748,9 @@
   "individual_total": 2986943,
   "pac_total": 1349575,
   "party_total": 5000,
-  "pac_pct": 31
+  "pac_pct": 31,
+  "self_funded": 602000,
+  "transfers_in": 49673
  },
  "James Clyburn": {
   "candidate_id": "H2SC02042",
@@ -12070,7 +12784,9 @@
   "individual_total": 8916334,
   "pac_total": 20421933,
   "party_total": 92543,
-  "pac_pct": 69
+  "pac_pct": 69,
+  "self_funded": 229303,
+  "transfers_in": 152629
  },
  "Russell Fry": {
   "candidate_id": "H2SC07280",
@@ -12103,7 +12819,9 @@
   "individual_total": 2967927,
   "pac_total": 1408159,
   "party_total": 250,
-  "pac_pct": 32
+  "pac_pct": 32,
+  "self_funded": 3048,
+  "transfers_in": 270407
  },
  "Dusty Johnson": {
   "candidate_id": "H8SD01055",
@@ -12136,7 +12854,9 @@
   "individual_total": 7325145,
   "pac_total": 3369237,
   "party_total": 10100,
-  "pac_pct": 31
+  "pac_pct": 31,
+  "self_funded": 42638,
+  "transfers_in": 841448
  },
  "Diana Harshbarger": {
   "candidate_id": "H0TN01118",
@@ -12164,12 +12884,14 @@
   "grassroots_small": 1114255,
   "grassroots_itemized": 1926231,
   "small_dollar_pct": 36.6,
-  "ie_support_total": 5319,
+  "ie_support_total": 13836,
   "ie_oppose_total": 381175,
   "individual_total": 3040486,
   "pac_total": 2366168,
   "party_total": 9350,
-  "pac_pct": 44
+  "pac_pct": 44,
+  "self_funded": 1461293,
+  "transfers_in": 145747
  },
  "Tim Burchett": {
   "candidate_id": "H8TN02119",
@@ -12202,7 +12924,9 @@
   "individual_total": 6629596,
   "pac_total": 830152,
   "party_total": 2275,
-  "pac_pct": 11
+  "pac_pct": 11,
+  "self_funded": 0,
+  "transfers_in": 24542
  },
  "Chuck Fleischmann": {
   "candidate_id": "H0TN03254",
@@ -12235,7 +12959,9 @@
   "individual_total": 7607760,
   "pac_total": 3684257,
   "party_total": 1264200,
-  "pac_pct": 29
+  "pac_pct": 29,
+  "self_funded": 698000,
+  "transfers_in": 2365
  },
  "Scott DesJarlais": {
   "candidate_id": "H0TN04195",
@@ -12263,12 +12989,14 @@
   "grassroots_small": 166015,
   "grassroots_itemized": 3221514,
   "small_dollar_pct": 4.9,
-  "ie_support_total": 16664,
+  "ie_support_total": 16839,
   "ie_oppose_total": 1612,
   "individual_total": 3387529,
   "pac_total": 1920977,
   "party_total": 17100,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 39200,
+  "transfers_in": 26133
  },
  "John Rose": {
   "candidate_id": "H8TN06094",
@@ -12301,7 +13029,9 @@
   "individual_total": 3849621,
   "pac_total": 1285524,
   "party_total": 0,
-  "pac_pct": 25
+  "pac_pct": 25,
+  "self_funded": 1965173,
+  "transfers_in": 206310
  },
  "David Kustoff": {
   "candidate_id": "H2TN07103",
@@ -12335,7 +13065,9 @@
   "individual_total": 6534712,
   "pac_total": 4569915,
   "party_total": 10500,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 539700,
+  "transfers_in": 347649
  },
  "Steve Cohen": {
   "candidate_id": "H6TN09068",
@@ -12369,7 +13101,9 @@
   "individual_total": 3814951,
   "pac_total": 4660217,
   "party_total": 3314,
-  "pac_pct": 55
+  "pac_pct": 55,
+  "self_funded": 2095,
+  "transfers_in": 0
  },
  "Nathaniel Moran": {
   "candidate_id": "H2TX01112",
@@ -12402,7 +13136,9 @@
   "individual_total": 1788637,
   "pac_total": 1339053,
   "party_total": 0,
-  "pac_pct": 43
+  "pac_pct": 43,
+  "self_funded": 22904,
+  "transfers_in": 762126
  },
  "Keith Self": {
   "candidate_id": "H2TX03290",
@@ -12437,7 +13173,9 @@
   "individual_total": 527676,
   "pac_total": 178673,
   "party_total": 0,
-  "pac_pct": 25
+  "pac_pct": 25,
+  "self_funded": 1851,
+  "transfers_in": 0
  },
  "Pat Fallon": {
   "candidate_id": "H0TX04219",
@@ -12470,7 +13208,9 @@
   "individual_total": 922162,
   "pac_total": 1075337,
   "party_total": 8500,
-  "pac_pct": 54
+  "pac_pct": 54,
+  "self_funded": 175000,
+  "transfers_in": 675274
  },
  "Lance Gooden": {
   "candidate_id": "H8TX05144",
@@ -12503,7 +13243,9 @@
   "individual_total": 2601770,
   "pac_total": 2894570,
   "party_total": 2500,
-  "pac_pct": 53
+  "pac_pct": 53,
+  "self_funded": 0,
+  "transfers_in": 610436
  },
  "Jake Ellzey": {
   "candidate_id": "H8TX06266",
@@ -12537,7 +13279,9 @@
   "individual_total": 13538331,
   "pac_total": 2014532,
   "party_total": 0,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 31503,
+  "transfers_in": 3393654
  },
  "Morgan Luttrell": {
   "candidate_id": "H2TX08182",
@@ -12570,7 +13314,9 @@
   "individual_total": 5747053,
   "pac_total": 729901,
   "party_total": 0,
-  "pac_pct": 11
+  "pac_pct": 11,
+  "self_funded": 0,
+  "transfers_in": 465991
  },
  "Michael McCaul": {
   "candidate_id": "H4TX10093",
@@ -12603,7 +13349,9 @@
   "individual_total": 10375645,
   "pac_total": 7437170,
   "party_total": 5936,
-  "pac_pct": 42
+  "pac_pct": 42,
+  "self_funded": 2948007,
+  "transfers_in": 3593230
  },
  "August Pfluger": {
   "candidate_id": "H0TX11230",
@@ -12636,7 +13384,9 @@
   "individual_total": 4903511,
   "pac_total": 1970928,
   "party_total": 0,
-  "pac_pct": 29
+  "pac_pct": 29,
+  "self_funded": 0,
+  "transfers_in": 5378371
  },
  "Ronny Jackson": {
   "candidate_id": "H0TX13228",
@@ -12669,7 +13419,9 @@
   "individual_total": 13991818,
   "pac_total": 1663333,
   "party_total": 0,
-  "pac_pct": 11
+  "pac_pct": 11,
+  "self_funded": 3785,
+  "transfers_in": 2111379
  },
  "Randy Weber": {
   "candidate_id": "H2TX14149",
@@ -12702,7 +13454,9 @@
   "individual_total": 4195662,
   "pac_total": 2829652,
   "party_total": 15000,
-  "pac_pct": 40
+  "pac_pct": 40,
+  "self_funded": 254400,
+  "transfers_in": 250590
  },
  "Monica De La Cruz": {
   "candidate_id": "H0TX15124",
@@ -12738,7 +13492,9 @@
   "individual_total": 12539698,
   "pac_total": 2603670,
   "party_total": 23300,
-  "pac_pct": 17
+  "pac_pct": 17,
+  "self_funded": 131422,
+  "transfers_in": 2982663
  },
  "Veronica Escobar": {
   "candidate_id": "H8TX16109",
@@ -12771,7 +13527,9 @@
   "individual_total": 3297239,
   "pac_total": 2688044,
   "party_total": 8477,
-  "pac_pct": 45
+  "pac_pct": 45,
+  "self_funded": 0,
+  "transfers_in": 68060
  },
  "Pete Sessions": {
   "candidate_id": "H2TX03126",
@@ -12806,7 +13564,9 @@
   "individual_total": 16458012,
   "pac_total": 14401334,
   "party_total": 152575,
-  "pac_pct": 46
+  "pac_pct": 46,
+  "self_funded": 363079,
+  "transfers_in": 309398
  },
  "Jodey Arrington": {
   "candidate_id": "H6TX19099",
@@ -12839,7 +13599,9 @@
   "individual_total": 4613454,
   "pac_total": 5335117,
   "party_total": 0,
-  "pac_pct": 54
+  "pac_pct": 54,
+  "self_funded": 25000,
+  "transfers_in": 2483744
  },
  "Joaquin Castro": {
   "candidate_id": "H2TX35011",
@@ -12872,7 +13634,9 @@
   "individual_total": 4240194,
   "pac_total": 3228496,
   "party_total": 26,
-  "pac_pct": 43
+  "pac_pct": 43,
+  "self_funded": 40000,
+  "transfers_in": 82
  },
  "Chip Roy": {
   "candidate_id": "H8TX21307",
@@ -12905,7 +13669,9 @@
   "individual_total": 10552357,
   "pac_total": 1456679,
   "party_total": 2500,
-  "pac_pct": 12
+  "pac_pct": 12,
+  "self_funded": 1309,
+  "transfers_in": 909663
  },
  "Troy Nehls": {
   "candidate_id": "H0TX22302",
@@ -12939,7 +13705,9 @@
   "individual_total": 2589984,
   "pac_total": 1284515,
   "party_total": 5000,
-  "pac_pct": 33
+  "pac_pct": 33,
+  "self_funded": 0,
+  "transfers_in": 417253
  },
  "Beth Van Duyne": {
   "candidate_id": "H0TX24209",
@@ -12973,7 +13741,9 @@
   "individual_total": 5333044,
   "pac_total": 3969922,
   "party_total": 5000,
-  "pac_pct": 43
+  "pac_pct": 43,
+  "self_funded": 0,
+  "transfers_in": 3384111
  },
  "Roger Williams": {
   "candidate_id": "H2TX33040",
@@ -13008,7 +13778,9 @@
   "individual_total": 7902391,
   "pac_total": 4422053,
   "party_total": 0,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 853000,
+  "transfers_in": 5733689
  },
  "Michael Cloud": {
   "candidate_id": "H8TX27049",
@@ -13036,12 +13808,14 @@
   "grassroots_small": 677801,
   "grassroots_itemized": 2807949,
   "small_dollar_pct": 19.4,
-  "ie_support_total": 562834,
+  "ie_support_total": 563009,
   "ie_oppose_total": 750,
   "individual_total": 3485750,
   "pac_total": 1144737,
   "party_total": 7915,
-  "pac_pct": 25
+  "pac_pct": 25,
+  "self_funded": 1004,
+  "transfers_in": 35888
  },
  "Henry Cuellar": {
   "candidate_id": "H2TX23082",
@@ -13074,7 +13848,9 @@
   "individual_total": 12955329,
   "pac_total": 11123770,
   "party_total": 16067,
-  "pac_pct": 46
+  "pac_pct": 46,
+  "self_funded": 640825,
+  "transfers_in": 263518
  },
  "Sylvia Garcia": {
   "candidate_id": "H8TX29052",
@@ -13108,7 +13884,9 @@
   "individual_total": 1622355,
   "pac_total": 3237363,
   "party_total": 4433,
-  "pac_pct": 67
+  "pac_pct": 67,
+  "self_funded": 3130,
+  "transfers_in": 0
  },
  "Jasmine Crockett": {
   "candidate_id": "H2TX30178",
@@ -13143,7 +13921,9 @@
   "individual_total": 16859952,
   "pac_total": 1174552,
   "party_total": 4800,
-  "pac_pct": 7
+  "pac_pct": 7,
+  "self_funded": 0,
+  "transfers_in": 5053907
  },
  "John Carter": {
   "candidate_id": "H2TX31044",
@@ -13176,7 +13956,9 @@
   "individual_total": 7561758,
   "pac_total": 7112125,
   "party_total": 1077,
-  "pac_pct": 48
+  "pac_pct": 48,
+  "self_funded": 12510,
+  "transfers_in": 912002
  },
  "Marc Veasey": {
   "candidate_id": "H2TX33073",
@@ -13209,7 +13991,9 @@
   "individual_total": 4662424,
   "pac_total": 6975740,
   "party_total": 18460,
-  "pac_pct": 60
+  "pac_pct": 60,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "Vicente Gonzalez": {
   "candidate_id": "H6TX15162",
@@ -13238,11 +14022,13 @@
   "grassroots_itemized": 5882577,
   "small_dollar_pct": 6.8,
   "ie_support_total": 1271009,
-  "ie_oppose_total": 6739681,
+  "ie_oppose_total": 6743620,
   "individual_total": 6313254,
   "pac_total": 6185304,
   "party_total": 28135,
-  "pac_pct": 49
+  "pac_pct": 49,
+  "self_funded": 1850000,
+  "transfers_in": 680465
  },
  "Greg Casar": {
   "candidate_id": "H2TX35144",
@@ -13275,7 +14061,9 @@
   "individual_total": 2925661,
   "pac_total": 1066151,
   "party_total": 0,
-  "pac_pct": 27
+  "pac_pct": 27,
+  "self_funded": 10000,
+  "transfers_in": 33048
  },
  "Brian Babin": {
   "candidate_id": "H6TX02079",
@@ -13309,7 +14097,9 @@
   "individual_total": 4456876,
   "pac_total": 3535251,
   "party_total": 55006,
-  "pac_pct": 44
+  "pac_pct": 44,
+  "self_funded": 142630,
+  "transfers_in": 613562
  },
  "Lloyd Doggett": {
   "candidate_id": "H4TX10028",
@@ -13352,7 +14142,9 @@
   "individual_total": 14555599,
   "pac_total": 5752817,
   "party_total": 24901,
-  "pac_pct": 28
+  "pac_pct": 28,
+  "self_funded": 273672,
+  "transfers_in": 275303
  },
  "Wesley Hunt": {
   "candidate_id": "H0TX07170",
@@ -13388,7 +14180,9 @@
   "individual_total": 13942827,
   "pac_total": 1631135,
   "party_total": 5000,
-  "pac_pct": 10
+  "pac_pct": 10,
+  "self_funded": 0,
+  "transfers_in": 2632569
  },
  "Celeste Maloy": {
   "candidate_id": "H4UT02296",
@@ -13416,12 +14210,14 @@
   "grassroots_small": 47121,
   "grassroots_itemized": 1519590,
   "small_dollar_pct": 3.0,
-  "ie_support_total": 1351437,
+  "ie_support_total": 1421637,
   "ie_oppose_total": 339547,
   "individual_total": 1566711,
   "pac_total": 1594864,
   "party_total": 7250,
-  "pac_pct": 50
+  "pac_pct": 50,
+  "self_funded": 0,
+  "transfers_in": 85695
  },
  "Burgess Owens": {
   "candidate_id": "H0UT04076",
@@ -13455,7 +14251,9 @@
   "individual_total": 8959867,
   "pac_total": 1206190,
   "party_total": 5250,
-  "pac_pct": 12
+  "pac_pct": 12,
+  "self_funded": 210,
+  "transfers_in": 762720
  },
  "Becca Balint": {
   "candidate_id": "H2VT01076",
@@ -13488,7 +14286,9 @@
   "individual_total": 3295078,
   "pac_total": 904817,
   "party_total": 1055,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 0,
+  "transfers_in": 40285
  },
  "Rob Wittman": {
   "candidate_id": "H8VA01147",
@@ -13517,11 +14317,13 @@
   "grassroots_itemized": 7355066,
   "small_dollar_pct": 14.4,
   "ie_support_total": 252,
-  "ie_oppose_total": 1612,
+  "ie_oppose_total": 5698,
   "individual_total": 8589648,
   "pac_total": 6928932,
   "party_total": 16437,
-  "pac_pct": 45
+  "pac_pct": 45,
+  "self_funded": 138,
+  "transfers_in": 2475223
  },
  "Jen Kiggans": {
   "candidate_id": "H2VA02064",
@@ -13550,12 +14352,14 @@
   "grassroots_small": 2360770,
   "grassroots_itemized": 6765247,
   "small_dollar_pct": 25.9,
-  "ie_support_total": 3648453,
+  "ie_support_total": 3739431,
   "ie_oppose_total": 7192914,
   "individual_total": 9126017,
   "pac_total": 3409363,
   "party_total": 21000,
-  "pac_pct": 27
+  "pac_pct": 27,
+  "self_funded": 5839,
+  "transfers_in": 3336982
  },
  "Bob Good": {
   "candidate_id": "H6VA05068",
@@ -13590,7 +14394,9 @@
   "individual_total": 3711155,
   "pac_total": 1983996,
   "party_total": 25638,
-  "pac_pct": 35
+  "pac_pct": 35,
+  "self_funded": 2447,
+  "transfers_in": 3000
  },
  "Ben Cline": {
   "candidate_id": "H8VA06104",
@@ -13618,12 +14424,14 @@
   "grassroots_small": 338043,
   "grassroots_itemized": 2753927,
   "small_dollar_pct": 10.9,
-  "ie_support_total": 18405,
+  "ie_support_total": 22342,
   "ie_oppose_total": 5916,
   "individual_total": 3091969,
   "pac_total": 2111689,
   "party_total": 7500,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 1550,
+  "transfers_in": 117600
  },
  "Don Beyer": {
   "candidate_id": "H4VA08224",
@@ -13656,7 +14464,9 @@
   "individual_total": 9474110,
   "pac_total": 4959935,
   "party_total": 0,
-  "pac_pct": 34
+  "pac_pct": 34,
+  "self_funded": 521888,
+  "transfers_in": 0
  },
  "Suzan DelBene": {
   "candidate_id": "H0WA08046",
@@ -13689,7 +14499,9 @@
   "individual_total": 11249005,
   "pac_total": 9806969,
   "party_total": 28271,
-  "pac_pct": 47
+  "pac_pct": 47,
+  "self_funded": 5085913,
+  "transfers_in": 759271
  },
  "Rick Larsen": {
   "candidate_id": "H0WA02080",
@@ -13722,7 +14534,9 @@
   "individual_total": 9029556,
   "pac_total": 12441598,
   "party_total": 42245,
-  "pac_pct": 58
+  "pac_pct": 58,
+  "self_funded": 50370,
+  "transfers_in": 0
  },
  "Marie Gluesenkamp Perez": {
   "candidate_id": "H2WA03217",
@@ -13755,7 +14569,9 @@
   "individual_total": 15474826,
   "pac_total": 2393066,
   "party_total": 17905,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 0,
+  "transfers_in": 3982647
  },
  "Dan Newhouse": {
   "candidate_id": "H4WA04104",
@@ -13788,7 +14604,9 @@
   "individual_total": 4368066,
   "pac_total": 5412483,
   "party_total": 5664,
-  "pac_pct": 55
+  "pac_pct": 55,
+  "self_funded": 0,
+  "transfers_in": 115097
  },
  "Pramila Jayapal": {
   "candidate_id": "H6WA07458",
@@ -13821,7 +14639,9 @@
   "individual_total": 13707974,
   "pac_total": 2126946,
   "party_total": 5433,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 447,
+  "transfers_in": 80628
  },
  "Kim Schrier": {
   "candidate_id": "H8WA08189",
@@ -13854,7 +14674,9 @@
   "individual_total": 26304429,
   "pac_total": 4851357,
   "party_total": 17569,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 5400,
+  "transfers_in": 1298640
  },
  "Marilyn Strickland": {
   "candidate_id": "H0WA10034",
@@ -13887,7 +14709,9 @@
   "individual_total": 4512709,
   "pac_total": 2720314,
   "party_total": 5048,
-  "pac_pct": 38
+  "pac_pct": 38,
+  "self_funded": 50000,
+  "transfers_in": 3764
  },
  "Carol Miller": {
   "candidate_id": "H8WV03097",
@@ -13920,7 +14744,9 @@
   "individual_total": 2967688,
   "pac_total": 3889926,
   "party_total": 6500,
-  "pac_pct": 57
+  "pac_pct": 57,
+  "self_funded": 520400,
+  "transfers_in": 110998
  },
  "Bryan Steil": {
   "candidate_id": "H8WI01156",
@@ -13953,7 +14779,9 @@
   "individual_total": 9534156,
   "pac_total": 6877913,
   "party_total": 11312,
-  "pac_pct": 42
+  "pac_pct": 42,
+  "self_funded": 796,
+  "transfers_in": 3791221
  },
  "Mark Pocan": {
   "candidate_id": "H2WI02124",
@@ -13986,7 +14814,9 @@
   "individual_total": 4164849,
   "pac_total": 4374586,
   "party_total": 8799,
-  "pac_pct": 51
+  "pac_pct": 51,
+  "self_funded": 15503,
+  "transfers_in": 32418
  },
  "Derrick Van Orden": {
   "candidate_id": "H0WI03175",
@@ -14021,7 +14851,9 @@
   "individual_total": 16852314,
   "pac_total": 2503077,
   "party_total": 75232,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 70,
+  "transfers_in": 4142797
  },
  "Gwen Moore": {
   "candidate_id": "H4WI04183",
@@ -14054,7 +14886,9 @@
   "individual_total": 3780504,
   "pac_total": 7658556,
   "party_total": 653,
-  "pac_pct": 67
+  "pac_pct": 67,
+  "self_funded": 668,
+  "transfers_in": 32531
  },
  "Scott Fitzgerald": {
   "candidate_id": "H0WI05113",
@@ -14087,7 +14921,9 @@
   "individual_total": 2459802,
   "pac_total": 2341263,
   "party_total": 6530,
-  "pac_pct": 49
+  "pac_pct": 49,
+  "self_funded": 250,
+  "transfers_in": 13777
  },
  "Glenn Grothman": {
   "candidate_id": "H4WI06048",
@@ -14120,7 +14956,9 @@
   "individual_total": 6414281,
   "pac_total": 2453044,
   "party_total": 35990,
-  "pac_pct": 28
+  "pac_pct": 28,
+  "self_funded": 190230,
+  "transfers_in": 127085
  },
  "Tom Tiffany": {
   "candidate_id": "H0WI07101",
@@ -14153,7 +14991,9 @@
   "individual_total": 4305618,
   "pac_total": 880211,
   "party_total": 17557,
-  "pac_pct": 17
+  "pac_pct": 17,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "Harriet Hageman": {
   "candidate_id": "H2WY00166",
@@ -14182,12 +15022,14 @@
   "grassroots_small": 4304893,
   "grassroots_itemized": 4638457,
   "small_dollar_pct": 48.1,
-  "ie_support_total": 1661933,
+  "ie_support_total": 1678231,
   "ie_oppose_total": 452501,
-  "individual_total": 8943350,
-  "pac_total": 1087012,
+  "individual_total": 8991237,
+  "pac_total": 1137212,
   "party_total": 62000,
-  "pac_pct": 11
+  "pac_pct": 11,
+  "self_funded": 6750,
+  "transfers_in": 909414
  },
  "Stacey Plaskett": {
   "candidate_id": "H2VI00082",
@@ -14220,7 +15062,9 @@
   "individual_total": 2278265,
   "pac_total": 1581124,
   "party_total": 22,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 0,
+  "transfers_in": 5493
  },
  "Gregorio Sablan": {
   "candidate_id": "H8MP00041",
@@ -14254,7 +15098,9 @@
   "individual_total": 386538,
   "pac_total": 173308,
   "party_total": 1000,
-  "pac_pct": 31
+  "pac_pct": 31,
+  "self_funded": 5839,
+  "transfers_in": 0
  },
  "Abraham Hamadeh": {
   "candidate_id": "H4AZ08108",
@@ -14287,7 +15133,9 @@
   "individual_total": 1896150,
   "pac_total": 421710,
   "party_total": 0,
-  "pac_pct": 18
+  "pac_pct": 18,
+  "self_funded": 399030,
+  "transfers_in": 482839
  },
  "Adam Gray": {
   "candidate_id": "H2CA13115",
@@ -14321,7 +15169,9 @@
   "individual_total": 9502897,
   "pac_total": 2497470,
   "party_total": 25688,
-  "pac_pct": 21
+  "pac_pct": 21,
+  "self_funded": 0,
+  "transfers_in": 481019
  },
  "Lateefah Simon": {
   "candidate_id": "H4CA12154",
@@ -14354,7 +15204,9 @@
   "individual_total": 3041089,
   "pac_total": 531995,
   "party_total": 0,
-  "pac_pct": 15
+  "pac_pct": 15,
+  "self_funded": 0,
+  "transfers_in": 44930
  },
  "Laura Friedman": {
   "candidate_id": "H4CA30149",
@@ -14387,7 +15239,9 @@
   "individual_total": 2056344,
   "pac_total": 595943,
   "party_total": 0,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "Luz Rivas": {
   "candidate_id": "H4CA29141",
@@ -14420,7 +15274,9 @@
   "individual_total": 873944,
   "pac_total": 741347,
   "party_total": 0,
-  "pac_pct": 46
+  "pac_pct": 46,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "Derek Tran": {
   "candidate_id": "H4CA45170",
@@ -14448,12 +15304,14 @@
   "grassroots_small": 1927496,
   "grassroots_itemized": 6423107,
   "small_dollar_pct": 23.1,
-  "ie_support_total": 4357598,
+  "ie_support_total": 4357651,
   "ie_oppose_total": 12299551,
   "individual_total": 8350603,
   "pac_total": 1697247,
   "party_total": 9749,
-  "pac_pct": 17
+  "pac_pct": 17,
+  "self_funded": 1,
+  "transfers_in": 938659
  },
  "Dave Min": {
   "candidate_id": "H4CA47085",
@@ -14486,7 +15344,9 @@
   "individual_total": 8341796,
   "pac_total": 1264156,
   "party_total": 13714,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 6600,
+  "transfers_in": 404296
  },
  "George Whitesides": {
   "candidate_id": "H4CA27111",
@@ -14514,12 +15374,14 @@
   "grassroots_small": 1928716,
   "grassroots_itemized": 8423974,
   "small_dollar_pct": 18.6,
-  "ie_support_total": 4349790,
+  "ie_support_total": 4360710,
   "ie_oppose_total": 11422683,
   "individual_total": 10352689,
   "pac_total": 1321221,
   "party_total": 17086,
-  "pac_pct": 11
+  "pac_pct": 11,
+  "self_funded": 1583628,
+  "transfers_in": 1013016
  },
  "Norma Torres": {
   "candidate_id": "H4CA35031",
@@ -14552,7 +15414,9 @@
   "individual_total": 1352064,
   "pac_total": 3489118,
   "party_total": 110,
-  "pac_pct": 72
+  "pac_pct": 72,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "Pete Aguilar": {
   "candidate_id": "H2CA31125",
@@ -14585,7 +15449,9 @@
   "individual_total": 12670070,
   "pac_total": 10060654,
   "party_total": 17444,
-  "pac_pct": 44
+  "pac_pct": 44,
+  "self_funded": 225,
+  "transfers_in": 1257450
  },
  "Vince Fong": {
   "candidate_id": "H4CA20181",
@@ -14618,7 +15484,9 @@
   "individual_total": 2202121,
   "pac_total": 1766837,
   "party_total": 0,
-  "pac_pct": 45
+  "pac_pct": 45,
+  "self_funded": 0,
+  "transfers_in": 136335
  },
  "Lauren Boebert": {
   "candidate_id": "H0CO03165",
@@ -14646,12 +15514,14 @@
   "grassroots_small": 7512960,
   "grassroots_itemized": 6881061,
   "small_dollar_pct": 52.2,
-  "ie_support_total": 1279391,
+  "ie_support_total": 1279624,
   "ie_oppose_total": 4940365,
   "individual_total": 14394021,
   "pac_total": 654206,
   "party_total": 8000,
-  "pac_pct": 4
+  "pac_pct": 4,
+  "self_funded": 2010,
+  "transfers_in": 1159673
  },
  "Diana DeGette": {
   "candidate_id": "H6CO01141",
@@ -14679,12 +15549,14 @@
   "grassroots_small": 709338,
   "grassroots_itemized": 4668281,
   "small_dollar_pct": 13.2,
-  "ie_support_total": 516818,
+  "ie_support_total": 1784471,
   "ie_oppose_total": 213474,
   "individual_total": 6975137,
   "pac_total": 8641650,
   "party_total": 1962,
-  "pac_pct": 55
+  "pac_pct": 55,
+  "self_funded": 22013,
+  "transfers_in": 72744
  },
  "Randy Fine": {
   "candidate_id": "H6FL06258",
@@ -14712,12 +15584,14 @@
   "grassroots_small": 557337,
   "grassroots_itemized": 1882533,
   "small_dollar_pct": 22.8,
-  "ie_support_total": 3698701,
-  "ie_oppose_total": 51093,
-  "individual_total": 2439870,
-  "pac_total": 463360,
+  "ie_support_total": 3699058,
+  "ie_oppose_total": 61143,
+  "individual_total": 2485005,
+  "pac_total": 468360,
   "party_total": 0,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 950000,
+  "transfers_in": 374599
  },
  "Mike Haridopolos": {
   "candidate_id": "H4FL08168",
@@ -14749,10 +15623,12 @@
   "small_dollar_pct": 1.9,
   "ie_support_total": 396425,
   "ie_oppose_total": 0,
-  "individual_total": 5575213,
-  "pac_total": 1157460,
+  "individual_total": 5605584,
+  "pac_total": 1194460,
   "party_total": 0,
-  "pac_pct": 17
+  "pac_pct": 18,
+  "self_funded": 15000,
+  "transfers_in": 253436
  },
  "Jimmy Patronis": {
   "candidate_id": "H6FL01390",
@@ -14782,10 +15658,12 @@
   "small_dollar_pct": 20.3,
   "ie_support_total": 2091200,
   "ie_oppose_total": 47365,
-  "individual_total": 2927247,
-  "pac_total": 554300,
+  "individual_total": 3084612,
+  "pac_total": 583300,
   "party_total": 5000,
-  "pac_pct": 16
+  "pac_pct": 16,
+  "self_funded": 12000,
+  "transfers_in": 99445
  },
  "Brian Jack": {
   "candidate_id": "H4GA03126",
@@ -14818,7 +15696,9 @@
   "individual_total": 2107812,
   "pac_total": 1465929,
   "party_total": 0,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 7776,
+  "transfers_in": 708045
  },
  "Clay Fuller": {
   "candidate_id": "H0GA14030",
@@ -14852,7 +15732,9 @@
   "individual_total": 1219755,
   "pac_total": 310481,
   "party_total": 0,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 667666,
+  "transfers_in": 10619
  },
  "Derek Schmidt": {
   "candidate_id": "H4KS02164",
@@ -14885,7 +15767,9 @@
   "individual_total": 1715197,
   "pac_total": 921300,
   "party_total": 0,
-  "pac_pct": 35
+  "pac_pct": 35,
+  "self_funded": 8565,
+  "transfers_in": 67801
  },
  "Cleo Fields": {
   "candidate_id": "H4LA06211",
@@ -14918,7 +15802,9 @@
   "pac_pct": 15,
   "grassroots_small": 294370,
   "grassroots_itemized": 1457461,
-  "small_dollar_pct": 16.8
+  "small_dollar_pct": 16.8,
+  "self_funded": 1100,
+  "transfers_in": 0
  },
  "Tom Barrett": {
   "candidate_id": "H2MI07123",
@@ -14952,7 +15838,9 @@
   "individual_total": 8667832,
   "pac_total": 2865836,
   "party_total": 25990,
-  "pac_pct": 25
+  "pac_pct": 25,
+  "self_funded": 0,
+  "transfers_in": 2666579
  },
  "Kristen McDonald Rivet": {
   "candidate_id": "H4MI08218",
@@ -14985,7 +15873,9 @@
   "individual_total": 8563196,
   "pac_total": 2455655,
   "party_total": 17221,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 7657,
+  "transfers_in": 598431
  },
  "Bob Onder": {
   "candidate_id": "H8MO09146",
@@ -15020,7 +15910,9 @@
   "individual_total": 2599252,
   "pac_total": 1213904,
   "party_total": 500,
-  "pac_pct": 32
+  "pac_pct": 32,
+  "self_funded": 2187464,
+  "transfers_in": 124633
  },
  "Troy Downing": {
   "candidate_id": "H4MT02098",
@@ -15055,7 +15947,9 @@
   "individual_total": 3036315,
   "pac_total": 1037713,
   "party_total": 0,
-  "pac_pct": 25
+  "pac_pct": 25,
+  "self_funded": 2207024,
+  "transfers_in": 241227
  },
  "Maggie Goodlander": {
   "candidate_id": "H4NH02399",
@@ -15088,7 +15982,9 @@
   "individual_total": 6698863,
   "pac_total": 704183,
   "party_total": 159,
-  "pac_pct": 10
+  "pac_pct": 10,
+  "self_funded": 3640,
+  "transfers_in": 636449
  },
  "LaMonica McIver": {
   "candidate_id": "H4NJ10176",
@@ -15121,7 +16017,9 @@
   "individual_total": 2003254,
   "pac_total": 779400,
   "party_total": 33,
-  "pac_pct": 28
+  "pac_pct": 28,
+  "self_funded": 1025,
+  "transfers_in": 0
  },
  "Laura Gillen": {
   "candidate_id": "H4NY04158",
@@ -15156,7 +16054,9 @@
   "individual_total": 4200892,
   "pac_total": 1457147,
   "party_total": 10022,
-  "pac_pct": 26
+  "pac_pct": 26,
+  "self_funded": 0,
+  "transfers_in": 1129729
  },
  "Josh Riley": {
   "candidate_id": "H8NY22177",
@@ -15184,12 +16084,14 @@
   "grassroots_small": 3437107,
   "grassroots_itemized": 11853969,
   "small_dollar_pct": 22.5,
-  "ie_support_total": 5822702,
+  "ie_support_total": 5822782,
   "ie_oppose_total": 17811185,
   "individual_total": 15291076,
   "pac_total": 1737079,
   "party_total": 19305,
-  "pac_pct": 10
+  "pac_pct": 10,
+  "self_funded": 12000,
+  "transfers_in": 1721506
  },
  "John Mannion": {
   "candidate_id": "H4NY22085",
@@ -15222,7 +16124,9 @@
   "individual_total": 5074212,
   "pac_total": 1474298,
   "party_total": 10310,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 0,
+  "transfers_in": 243425
  },
  "Claudia Tenney": {
   "candidate_id": "H4NY22051",
@@ -15257,7 +16161,9 @@
   "individual_total": 8413693,
   "pac_total": 5244514,
   "party_total": 19247,
-  "pac_pct": 38
+  "pac_pct": 38,
+  "self_funded": 179000,
+  "transfers_in": 1688441
  },
  "Jerrold Nadler": {
   "candidate_id": "H2NY17071",
@@ -15292,7 +16198,9 @@
   "individual_total": 11815366,
   "pac_total": 6321876,
   "party_total": 19340,
-  "pac_pct": 35
+  "pac_pct": 35,
+  "self_funded": 2000,
+  "transfers_in": 767977
  },
  "Deborah Ross": {
   "candidate_id": "H0NC02125",
@@ -15327,7 +16235,9 @@
   "individual_total": 18543384,
   "pac_total": 3146380,
   "party_total": 50494,
-  "pac_pct": 14
+  "pac_pct": 14,
+  "self_funded": 0,
+  "transfers_in": 672445
  },
  "Addison McDowell": {
   "candidate_id": "H4NC06177",
@@ -15360,7 +16270,9 @@
   "individual_total": 1219001,
   "pac_total": 812346,
   "party_total": 0,
-  "pac_pct": 40
+  "pac_pct": 40,
+  "self_funded": 0,
+  "transfers_in": 88811
  },
  "Pat Harrigan": {
   "candidate_id": "H2NC13243",
@@ -15393,7 +16305,9 @@
   "individual_total": 2268531,
   "pac_total": 862875,
   "party_total": 900,
-  "pac_pct": 28
+  "pac_pct": 28,
+  "self_funded": 553000,
+  "transfers_in": 176047
  },
  "Brad Knott": {
   "candidate_id": "H4NC13116",
@@ -15426,7 +16340,9 @@
   "individual_total": 1805708,
   "pac_total": 1025235,
   "party_total": 1800,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 780000,
+  "transfers_in": 196154
  },
  "Julie Fedorchak": {
   "candidate_id": "H4ND00061",
@@ -15459,7 +16375,9 @@
   "individual_total": 1714196,
   "pac_total": 1517141,
   "party_total": 1500,
-  "pac_pct": 47
+  "pac_pct": 47,
+  "self_funded": 0,
+  "transfers_in": 461247
  },
  "Troy Balderson": {
   "candidate_id": "H8OH12180",
@@ -15492,7 +16410,9 @@
   "individual_total": 4591720,
   "pac_total": 5279581,
   "party_total": 75356,
-  "pac_pct": 53
+  "pac_pct": 53,
+  "self_funded": 0,
+  "transfers_in": 377966
  },
  "David Taylor": {
   "candidate_id": "H4OH02248",
@@ -15525,7 +16445,9 @@
   "individual_total": 971649,
   "pac_total": 643850,
   "party_total": 0,
-  "pac_pct": 40
+  "pac_pct": 40,
+  "self_funded": 1726326,
+  "transfers_in": 50845
  },
  "Michael Rulli": {
   "candidate_id": "H4OH06165",
@@ -15555,10 +16477,12 @@
   "small_dollar_pct": 5.4,
   "ie_support_total": 107950,
   "ie_oppose_total": 153735,
-  "individual_total": 864588,
+  "individual_total": 849588,
   "pac_total": 1150623,
   "party_total": 0,
-  "pac_pct": 57
+  "pac_pct": 58,
+  "self_funded": 30400,
+  "transfers_in": 219773
  },
  "Val Hoyle": {
   "candidate_id": "H2OR04095",
@@ -15591,7 +16515,9 @@
   "individual_total": 3805199,
   "pac_total": 2589457,
   "party_total": 15000,
-  "pac_pct": 40
+  "pac_pct": 40,
+  "self_funded": 0,
+  "transfers_in": 86000
  },
  "Janelle Bynum": {
   "candidate_id": "H4OR05304",
@@ -15624,7 +16550,9 @@
   "individual_total": 8751892,
   "pac_total": 1915266,
   "party_total": 1000,
-  "pac_pct": 18
+  "pac_pct": 18,
+  "self_funded": 0,
+  "transfers_in": 585534
  },
  "Ryan Mackenzie": {
   "candidate_id": "H8PA15195",
@@ -15656,11 +16584,13 @@
   "grassroots_itemized": 1803420,
   "small_dollar_pct": 30.6,
   "ie_support_total": 1333062,
-  "ie_oppose_total": 9975121,
+  "ie_oppose_total": 9975207,
   "individual_total": 2597619,
   "pac_total": 1496441,
   "party_total": 15000,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 15150,
+  "transfers_in": 2281514
  },
  "Robert Bresnahan": {
   "candidate_id": "H4PA08124",
@@ -15693,7 +16623,9 @@
   "individual_total": 3674874,
   "pac_total": 2066202,
   "party_total": 10000,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 1371412,
+  "transfers_in": 2639162
  },
  "Sheri Biggs": {
   "candidate_id": "H4SC01313",
@@ -15721,12 +16653,14 @@
   "grassroots_small": 14578,
   "grassroots_itemized": 478469,
   "small_dollar_pct": 3.0,
-  "ie_support_total": 396750,
+  "ie_support_total": 400632,
   "ie_oppose_total": 0,
   "individual_total": 493047,
   "pac_total": 569776,
   "party_total": 0,
-  "pac_pct": 54
+  "pac_pct": 54,
+  "self_funded": 395000,
+  "transfers_in": 110851
  },
  "Matt Van Epps": {
   "candidate_id": "H6TN07161",
@@ -15759,7 +16693,9 @@
   "individual_total": 1665150,
   "pac_total": 582300,
   "party_total": 7305,
-  "pac_pct": 26
+  "pac_pct": 26,
+  "self_funded": 0,
+  "transfers_in": 41435
  },
  "Brandon Gill": {
   "candidate_id": "H4TX26149",
@@ -15787,12 +16723,14 @@
   "grassroots_small": 2254487,
   "grassroots_itemized": 2029552,
   "small_dollar_pct": 52.6,
-  "ie_support_total": 953016,
+  "ie_support_total": 953192,
   "ie_oppose_total": 2121247,
   "individual_total": 4284039,
   "pac_total": 644839,
   "party_total": 2804,
-  "pac_pct": 13
+  "pac_pct": 13,
+  "self_funded": 505000,
+  "transfers_in": 486522
  },
  "Craig Goldman": {
   "candidate_id": "H4TX12065",
@@ -15825,7 +16763,9 @@
   "individual_total": 2681395,
   "pac_total": 1222720,
   "party_total": 0,
-  "pac_pct": 31
+  "pac_pct": 31,
+  "self_funded": 6600,
+  "transfers_in": 1042607
  },
  "Dan Crenshaw": {
   "candidate_id": "H8TX02166",
@@ -15858,7 +16798,9 @@
   "individual_total": 36844939,
   "pac_total": 3590425,
   "party_total": 500,
-  "pac_pct": 9
+  "pac_pct": 9,
+  "self_funded": 156,
+  "transfers_in": 3249668
  },
  "Julie Johnson": {
   "candidate_id": "H4TX32089",
@@ -15891,7 +16833,9 @@
   "individual_total": 3114549,
   "pac_total": 1209769,
   "party_total": 0,
-  "pac_pct": 28
+  "pac_pct": 28,
+  "self_funded": 63600,
+  "transfers_in": 16854
  },
  "Blake Moore": {
   "candidate_id": "H0UT01205",
@@ -15919,12 +16863,14 @@
   "grassroots_small": 49251,
   "grassroots_itemized": 3242834,
   "small_dollar_pct": 1.5,
-  "ie_support_total": 159848,
+  "ie_support_total": 577051,
   "ie_oppose_total": 498593,
   "individual_total": 3292086,
   "pac_total": 3812790,
   "party_total": 0,
-  "pac_pct": 54
+  "pac_pct": 54,
+  "self_funded": 288191,
+  "transfers_in": 401805
  },
  "Mike Kennedy": {
   "candidate_id": "H4UT03260",
@@ -15959,7 +16905,9 @@
   "individual_total": 1297565,
   "pac_total": 806300,
   "party_total": 5000,
-  "pac_pct": 38
+  "pac_pct": 38,
+  "self_funded": 598543,
+  "transfers_in": 46500
  },
  "Jennifer McClellan": {
   "candidate_id": "H4VA04066",
@@ -15992,7 +16940,9 @@
   "individual_total": 2467715,
   "pac_total": 1373244,
   "party_total": 0,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 0,
+  "transfers_in": 8408
  },
  "Suhas Subramanyam": {
   "candidate_id": "H4VA10279",
@@ -16025,7 +16975,9 @@
   "individual_total": 3128082,
   "pac_total": 685835,
   "party_total": 5820,
-  "pac_pct": 18
+  "pac_pct": 18,
+  "self_funded": 99991,
+  "transfers_in": 167103
  },
  "James Walkinshaw": {
   "candidate_id": "H6VA11066",
@@ -16058,7 +17010,9 @@
   "individual_total": 1802370,
   "pac_total": 922069,
   "party_total": 10000,
-  "pac_pct": 34
+  "pac_pct": 34,
+  "self_funded": 0,
+  "transfers_in": 10000
  },
  "Emily Randall": {
   "candidate_id": "H4WA06117",
@@ -16091,7 +17045,9 @@
   "individual_total": 2424293,
   "pac_total": 733656,
   "party_total": 0,
-  "pac_pct": 23
+  "pac_pct": 23,
+  "self_funded": 1000,
+  "transfers_in": 6419
  },
  "Michael Baumgartner": {
   "candidate_id": "H4WA05234",
@@ -16122,11 +17078,13 @@
   "grassroots_itemized": 2597729,
   "small_dollar_pct": 23.3,
   "ie_support_total": 82772,
-  "ie_oppose_total": 13395,
+  "ie_oppose_total": 207354,
   "individual_total": 3388312,
   "pac_total": 678250,
   "party_total": 0,
-  "pac_pct": 17
+  "pac_pct": 17,
+  "self_funded": 161710,
+  "transfers_in": 41126
  },
  "Riley Moore": {
   "candidate_id": "H4WV02205",
@@ -16159,7 +17117,9 @@
   "individual_total": 1404231,
   "pac_total": 1022650,
   "party_total": 0,
-  "pac_pct": 42
+  "pac_pct": 42,
+  "self_funded": 0,
+  "transfers_in": 478640
  },
  "Tony Wied": {
   "candidate_id": "H4WI08119",
@@ -16192,7 +17152,9 @@
   "individual_total": 825770,
   "pac_total": 929750,
   "party_total": 0,
-  "pac_pct": 53
+  "pac_pct": 53,
+  "self_funded": 645000,
+  "transfers_in": 284304
  },
  "Eleanor Holmes Norton": {
   "candidate_id": "H0DC00058",
@@ -16226,7 +17188,9 @@
   "individual_total": 2349518,
   "pac_total": 2962954,
   "party_total": 4300,
-  "pac_pct": 56
+  "pac_pct": 56,
+  "self_funded": 131000,
+  "transfers_in": 0
  },
  "James Moylan": {
   "candidate_id": "H2GU01031",
@@ -16259,7 +17223,9 @@
   "individual_total": 497319,
   "pac_total": 51431,
   "party_total": 5000,
-  "pac_pct": 9
+  "pac_pct": 9,
+  "self_funded": 1100,
+  "transfers_in": 0
  },
  "Shomari Figures": {
   "candidate_id": "H4AL02170",
@@ -16292,7 +17258,9 @@
   "individual_total": 2366268,
   "pac_total": 1444199,
   "party_total": 5468,
-  "pac_pct": 38
+  "pac_pct": 38,
+  "self_funded": 28485,
+  "transfers_in": 128598
  },
  "Steny Hoyer": {
   "candidate_id": "H2MD05155",
@@ -16325,7 +17293,9 @@
   "individual_total": 14758273,
   "pac_total": 29926860,
   "party_total": 9283,
-  "pac_pct": 67
+  "pac_pct": 67,
+  "self_funded": 1750,
+  "transfers_in": 2698672
  },
  "Kweisi Mfume": {
   "candidate_id": "H6MD07020",
@@ -16362,7 +17332,9 @@
   "individual_total": 2821327,
   "pac_total": 1966277,
   "party_total": 9740,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 6919,
+  "transfers_in": 104458
  },
  "Andy Ogles": {
   "candidate_id": "H2TN05446",
@@ -16391,12 +17363,14 @@
   "grassroots_small": 261887,
   "grassroots_itemized": 1630012,
   "small_dollar_pct": 13.8,
-  "ie_support_total": 1745704,
+  "ie_support_total": 1772236,
   "ie_oppose_total": 887493,
   "individual_total": 1891898,
   "pac_total": 523703,
   "party_total": 0,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 20000,
+  "transfers_in": 146212
  },
  "Brad Sherman": {
   "candidate_id": "H6CA24113",
@@ -16425,11 +17399,13 @@
   "grassroots_itemized": 11247854,
   "small_dollar_pct": 3.0,
   "ie_support_total": 977755,
-  "ie_oppose_total": 383332,
+  "ie_oppose_total": 400832,
   "individual_total": 13371169,
   "pac_total": 9303881,
   "party_total": 21051,
-  "pac_pct": 41
+  "pac_pct": 41,
+  "self_funded": 2800614,
+  "transfers_in": 48283
  },
  "Sam Liccardo": {
   "candidate_id": "H4CA16197",
@@ -16462,7 +17438,9 @@
   "individual_total": 7392288,
   "pac_total": 875199,
   "party_total": 0,
-  "pac_pct": 11
+  "pac_pct": 11,
+  "self_funded": 0,
+  "transfers_in": 1327854
  },
  "Ben Ray Luján": {
   "candidate_id": "S0NM00058",
@@ -16496,7 +17474,9 @@
   "individual_total": 16296471,
   "pac_total": 8598778,
   "party_total": 53031,
-  "pac_pct": 34
+  "pac_pct": 34,
+  "self_funded": 200000,
+  "transfers_in": 1466254
  },
  "Linda Sánchez": {
   "candidate_id": "H2CA39078",
@@ -16530,7 +17510,9 @@
   "individual_total": 4723862,
   "pac_total": 10755341,
   "party_total": 590,
-  "pac_pct": 69
+  "pac_pct": 69,
+  "self_funded": 1900,
+  "transfers_in": 24890
  },
  "Nanette Barragán": {
   "candidate_id": "H6CA44103",
@@ -16563,7 +17545,9 @@
   "individual_total": 4100179,
   "pac_total": 3740958,
   "party_total": 547,
-  "pac_pct": 48
+  "pac_pct": 48,
+  "self_funded": 25168,
+  "transfers_in": 715
  },
  "Mario Díaz-Balart": {
   "candidate_id": "H2FL25018",
@@ -16593,10 +17577,12 @@
   "small_dollar_pct": 0.7,
   "ie_support_total": 1282,
   "ie_oppose_total": 359858,
-  "individual_total": 8373559,
-  "pac_total": 9142193,
+  "individual_total": 8487595,
+  "pac_total": 9186693,
   "party_total": 22893,
-  "pac_pct": 52
+  "pac_pct": 52,
+  "self_funded": 0,
+  "transfers_in": 476502
  },
  "Carlos Giménez": {
   "candidate_id": "H0FL26036",
@@ -16627,10 +17613,12 @@
   "small_dollar_pct": 8.9,
   "ie_support_total": 1055664,
   "ie_oppose_total": 7549640,
-  "individual_total": 3153967,
-  "pac_total": 1730600,
+  "individual_total": 3168239,
+  "pac_total": 1750100,
   "party_total": 10000,
-  "pac_pct": 35
+  "pac_pct": 36,
+  "self_funded": 0,
+  "transfers_in": 1167327
  },
  "Chuy García": {
   "candidate_id": "H8IL04134",
@@ -16663,7 +17651,9 @@
   "individual_total": 1931153,
   "pac_total": 1740927,
   "party_total": 10779,
-  "pac_pct": 47
+  "pac_pct": 47,
+  "self_funded": 0,
+  "transfers_in": 54761
  },
  "Nydia Velázquez": {
   "candidate_id": "H2NY00010",
@@ -16696,7 +17686,9 @@
   "individual_total": 4672090,
   "pac_total": 6457402,
   "party_total": 6010,
-  "pac_pct": 58
+  "pac_pct": 58,
+  "self_funded": 123500,
+  "transfers_in": 12172
  },
  "Pablo Hernández": {
   "candidate_id": "H4PR01010",
@@ -16729,7 +17721,9 @@
   "individual_total": 2261689,
   "pac_total": 132853,
   "party_total": 0,
-  "pac_pct": 6
+  "pac_pct": 6,
+  "self_funded": 1000,
+  "transfers_in": 0
  },
  "Shontel Brown": {
   "candidate_id": "H2OH11169",
@@ -16762,7 +17756,9 @@
   "individual_total": 4533191,
   "pac_total": 2649749,
   "party_total": 2700,
-  "pac_pct": 37
+  "pac_pct": 37,
+  "self_funded": 0,
+  "transfers_in": 156563
  },
  "Elise Stefanik": {
   "candidate_id": "H4NY21079",
@@ -16795,7 +17791,9 @@
   "individual_total": 30071951,
   "pac_total": 7439632,
   "party_total": 28475,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 62667,
+  "transfers_in": 13500323
  },
  "Ted Budd": {
   "candidate_id": "S2NC00505",
@@ -16830,7 +17828,9 @@
   "individual_total": 15790258,
   "pac_total": 4104458,
   "party_total": 57558,
-  "pac_pct": 21
+  "pac_pct": 21,
+  "self_funded": 395266,
+  "transfers_in": 3257738
  },
  "Jack Reed": {
   "candidate_id": "S6RI00163",
@@ -16861,10 +17861,12 @@
   "small_dollar_pct": 4.3,
   "ie_support_total": 78,
   "ie_oppose_total": 0,
-  "individual_total": 13690049,
+  "individual_total": 13690595,
   "pac_total": 10546144,
   "party_total": 32610,
-  "pac_pct": 43
+  "pac_pct": 43,
+  "self_funded": 369280,
+  "transfers_in": 377934
  },
  "Ted Cruz": {
   "candidate_id": "S2TX00312",
@@ -16897,7 +17899,9 @@
   "individual_total": 150077290,
   "pac_total": 4954498,
   "party_total": 13637,
-  "pac_pct": 3
+  "pac_pct": 3,
+  "self_funded": 5290000,
+  "transfers_in": 18708111
  },
  "Bernie Sanders": {
   "candidate_id": "S4VT00033",
@@ -16937,7 +17941,9 @@
   "individual_total": 85747791,
   "pac_total": 2439364,
   "party_total": 38629,
-  "pac_pct": 3
+  "pac_pct": 3,
+  "self_funded": 30022,
+  "transfers_in": 2659035
  },
  "Barry Moore": {
   "candidate_id": "H8AL02171",
@@ -16969,12 +17975,14 @@
   "grassroots_small": 479623,
   "grassroots_itemized": 3796944,
   "small_dollar_pct": 11.2,
-  "ie_support_total": 13964758,
+  "ie_support_total": 17121338,
   "ie_oppose_total": 1555434,
   "individual_total": 4276567,
   "pac_total": 1845016,
   "party_total": 7998,
-  "pac_pct": 30
+  "pac_pct": 30,
+  "self_funded": 336850,
+  "transfers_in": 250322
  },
  "Rick Crawford": {
   "candidate_id": "H0AR01083",
@@ -17007,7 +18015,9 @@
   "individual_total": 4253517,
   "pac_total": 4731042,
   "party_total": 68857,
-  "pac_pct": 52
+  "pac_pct": 52,
+  "self_funded": 140000,
+  "transfers_in": 105914
  },
  "French Hill": {
   "candidate_id": "H4AR02141",
@@ -17040,7 +18050,9 @@
   "individual_total": 11443626,
   "pac_total": 8558315,
   "party_total": 26800,
-  "pac_pct": 43
+  "pac_pct": 43,
+  "self_funded": 0,
+  "transfers_in": 2112047
  },
  "Steve Womack": {
   "candidate_id": "H0AR03055",
@@ -17073,7 +18085,9 @@
   "individual_total": 5540387,
   "pac_total": 5982630,
   "party_total": 10000,
-  "pac_pct": 52
+  "pac_pct": 52,
+  "self_funded": 2400,
+  "transfers_in": 100390
  },
  "Ro Khanna": {
   "candidate_id": "H4CA12055",
@@ -17107,7 +18121,9 @@
   "individual_total": 44093978,
   "pac_total": 5000,
   "party_total": 0,
-  "pac_pct": 0
+  "pac_pct": 0,
+  "self_funded": 80652,
+  "transfers_in": 0
  },
  "María Elvira Salazar": {
   "candidate_id": "H8FL27185",
@@ -17139,10 +18155,12 @@
   "small_dollar_pct": 18.1,
   "ie_support_total": 1443200,
   "ie_oppose_total": 2157692,
-  "individual_total": 10174902,
-  "pac_total": 2867160,
+  "individual_total": 10185348,
+  "pac_total": 2893660,
   "party_total": 313916,
-  "pac_pct": 21
+  "pac_pct": 22,
+  "self_funded": 195114,
+  "transfers_in": 2983389
  },
  "Buddy Carter": {
   "candidate_id": "H4GA01039",
@@ -17176,7 +18194,9 @@
   "individual_total": 7248452,
   "pac_total": 7157688,
   "party_total": 0,
-  "pac_pct": 50
+  "pac_pct": 50,
+  "self_funded": 4000000,
+  "transfers_in": 942542
  },
  "Hank Johnson": {
   "candidate_id": "H6GA04129",
@@ -17209,7 +18229,9 @@
   "individual_total": 1588799,
   "pac_total": 4485376,
   "party_total": 1917,
-  "pac_pct": 74
+  "pac_pct": 74,
+  "self_funded": 0,
+  "transfers_in": 50
  },
  "Austin Scott": {
   "candidate_id": "H0GA08099",
@@ -17242,7 +18264,9 @@
   "individual_total": 3633012,
   "pac_total": 5072198,
   "party_total": 700,
-  "pac_pct": 58
+  "pac_pct": 58,
+  "self_funded": 56080,
+  "transfers_in": 93855
  },
  "Bill Foster": {
   "candidate_id": "H8IL14067",
@@ -17276,7 +18300,9 @@
   "individual_total": 19456064,
   "pac_total": 8845067,
   "party_total": 28342,
-  "pac_pct": 31
+  "pac_pct": 31,
+  "self_funded": 3371488,
+  "transfers_in": 149493
  },
  "André Carson": {
   "candidate_id": "H8IN07184",
@@ -17309,7 +18335,9 @@
   "individual_total": 4819997,
   "pac_total": 5540116,
   "party_total": 78730,
-  "pac_pct": 53
+  "pac_pct": 53,
+  "self_funded": 730,
+  "transfers_in": 223355
  },
  "Ashley Hinson": {
   "candidate_id": "H0IA01174",
@@ -17339,12 +18367,14 @@
   "grassroots_small": 5344268,
   "grassroots_itemized": 12862974,
   "small_dollar_pct": 29.4,
-  "ie_support_total": 3027008,
+  "ie_support_total": 4396200,
   "ie_oppose_total": 4380777,
   "individual_total": 18207242,
   "pac_total": 5758839,
   "party_total": 78750,
-  "pac_pct": 24
+  "pac_pct": 24,
+  "self_funded": 2800,
+  "transfers_in": 4094939
  },
  "Brett Guthrie": {
   "candidate_id": "H8KY02031",
@@ -17377,7 +18407,9 @@
   "individual_total": 6240109,
   "pac_total": 15464985,
   "party_total": 16898,
-  "pac_pct": 71
+  "pac_pct": 71,
+  "self_funded": 6850,
+  "transfers_in": 8109
  },
  "Andy Barr": {
   "candidate_id": "H0KY06104",
@@ -17412,7 +18444,9 @@
   "individual_total": 20819905,
   "pac_total": 12321740,
   "party_total": 74527,
-  "pac_pct": 37
+  "pac_pct": 37,
+  "self_funded": 0,
+  "transfers_in": 4061660
  },
  "Mike Johnson": {
   "candidate_id": "H6LA04138",
@@ -17445,7 +18479,9 @@
   "individual_total": 26007008,
   "pac_total": 5207104,
   "party_total": 0,
-  "pac_pct": 17
+  "pac_pct": 17,
+  "self_funded": 51063,
+  "transfers_in": 13864520
  },
  "Jack Bergman": {
   "candidate_id": "H6MI01226",
@@ -17478,7 +18514,9 @@
   "individual_total": 4024417,
   "pac_total": 3910229,
   "party_total": 10700,
-  "pac_pct": 49
+  "pac_pct": 49,
+  "self_funded": 378196,
+  "transfers_in": 2207616
  },
  "Trent Kelly": {
   "candidate_id": "H6MS01131",
@@ -17511,7 +18549,9 @@
   "individual_total": 3133665,
   "pac_total": 3074999,
   "party_total": 1000,
-  "pac_pct": 50
+  "pac_pct": 50,
+  "self_funded": 50000,
+  "transfers_in": 54540
  },
  "Mike Ezell": {
   "candidate_id": "H2MS04258",
@@ -17544,7 +18584,9 @@
   "individual_total": 1947254,
   "pac_total": 1218342,
   "party_total": 0,
-  "pac_pct": 38
+  "pac_pct": 38,
+  "self_funded": 45000,
+  "transfers_in": 68875
  },
  "Tom Kean Jr.": {
   "candidate_id": "H0NJ07261",
@@ -17585,7 +18627,9 @@
   "individual_total": 17714754,
   "pac_total": 4932293,
   "party_total": 74700,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 708310,
+  "transfers_in": 4290536
  },
  "Gabe Vasquez": {
   "candidate_id": "H2NM02191",
@@ -17613,12 +18657,14 @@
   "grassroots_small": 2193603,
   "grassroots_itemized": 8622870,
   "small_dollar_pct": 20.3,
-  "ie_support_total": 1291720,
+  "ie_support_total": 1291773,
   "ie_oppose_total": 12362417,
   "individual_total": 10816473,
   "pac_total": 2719310,
   "party_total": 24774,
-  "pac_pct": 20
+  "pac_pct": 20,
+  "self_funded": 400,
+  "transfers_in": 932299
  },
  "Dave Joyce": {
   "candidate_id": "H2OH14064",
@@ -17651,7 +18697,9 @@
   "individual_total": 7396360,
   "pac_total": 9320637,
   "party_total": 8975,
-  "pac_pct": 56
+  "pac_pct": 56,
+  "self_funded": 25000,
+  "transfers_in": 371126
  },
  "Gabe Amo": {
   "candidate_id": "H4RI01265",
@@ -17684,7 +18732,9 @@
   "individual_total": 2806060,
   "pac_total": 1253484,
   "party_total": 0,
-  "pac_pct": 31
+  "pac_pct": 31,
+  "self_funded": 0,
+  "transfers_in": 21
  },
  "Lizzie Fletcher": {
   "candidate_id": "H8TX07140",
@@ -17717,7 +18767,9 @@
   "individual_total": 13235196,
   "pac_total": 4515451,
   "party_total": 29804,
-  "pac_pct": 25
+  "pac_pct": 25,
+  "self_funded": 18990,
+  "transfers_in": 2242446
  },
  "Al Green": {
   "candidate_id": "H4TX09095",
@@ -17751,7 +18803,9 @@
   "individual_total": 3962641,
   "pac_total": 2374702,
   "party_total": 5021,
-  "pac_pct": 37
+  "pac_pct": 37,
+  "self_funded": 821400,
+  "transfers_in": 61778
  },
  "Tony Gonzales": {
   "candidate_id": "H0TX35015",
@@ -17785,7 +18839,9 @@
   "individual_total": 6804334,
   "pac_total": 3633920,
   "party_total": 5000,
-  "pac_pct": 35
+  "pac_pct": 35,
+  "self_funded": 66982,
+  "transfers_in": 4607816
  },
  "Morgan Griffith": {
   "candidate_id": "H0VA09055",
@@ -17813,12 +18869,14 @@
   "grassroots_small": 583050,
   "grassroots_itemized": 3511476,
   "small_dollar_pct": 14.2,
-  "ie_support_total": 6731,
+  "ie_support_total": 6908,
   "ie_oppose_total": 1612,
   "individual_total": 4094526,
   "pac_total": 5686343,
   "party_total": 8450,
-  "pac_pct": 58
+  "pac_pct": 58,
+  "self_funded": 3999,
+  "transfers_in": 77484
  },
  "Bobby Scott": {
   "candidate_id": "H6VA01117",
@@ -17852,7 +18910,9 @@
   "individual_total": 3461218,
   "pac_total": 5526475,
   "party_total": 26683,
-  "pac_pct": 61
+  "pac_pct": 61,
+  "self_funded": 81657,
+  "transfers_in": 0
  },
  "Adam Smith": {
   "candidate_id": "H6WA09025",
@@ -17885,7 +18945,9 @@
   "individual_total": 8041035,
   "pac_total": 9032325,
   "party_total": 47749,
-  "pac_pct": 53
+  "pac_pct": 53,
+  "self_funded": 363,
+  "transfers_in": 29725
  },
  "Gabe Evans": {
   "candidate_id": "H4CO08034",
@@ -17915,12 +18977,14 @@
   "grassroots_small": 1128537,
   "grassroots_itemized": 2446549,
   "small_dollar_pct": 31.6,
-  "ie_support_total": 2101773,
+  "ie_support_total": 2142146,
   "ie_oppose_total": 10486327,
   "individual_total": 3575086,
   "pac_total": 2034877,
   "party_total": 11000,
-  "pac_pct": 36
+  "pac_pct": 36,
+  "self_funded": 20273,
+  "transfers_in": 2404132
  },
  "Nellie Pou": {
   "candidate_id": "H4NJ09194",
@@ -17948,12 +19012,14 @@
   "grassroots_small": 242269,
   "grassroots_itemized": 1549965,
   "small_dollar_pct": 13.5,
-  "ie_support_total": 193,
+  "ie_support_total": 246,
   "ie_oppose_total": 0,
   "individual_total": 1792234,
   "pac_total": 1344942,
   "party_total": 5770,
-  "pac_pct": 43
+  "pac_pct": 43,
+  "self_funded": 1000,
+  "transfers_in": 156140
  },
  "Eugene Vindman": {
   "candidate_id": "H4VA07234",
@@ -17986,7 +19052,9 @@
   "individual_total": 28662155,
   "pac_total": 1212478,
   "party_total": 7949,
-  "pac_pct": 4
+  "pac_pct": 4,
+  "self_funded": 716,
+  "transfers_in": 395721
  },
  "Angie Craig": {
   "candidate_id": "H6MN02131",
@@ -18016,12 +19084,14 @@
   "grassroots_small": 6337902,
   "grassroots_itemized": 25558859,
   "small_dollar_pct": 19.9,
-  "ie_support_total": 4275870,
+  "ie_support_total": 8800496,
   "ie_oppose_total": 13427610,
   "individual_total": 31896761,
   "pac_total": 8913654,
   "party_total": 53854,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 2365851,
+  "transfers_in": 2809434
  },
  "John McGuire": {
   "candidate_id": "H0VA07133",
@@ -18055,10 +19125,12 @@
   "small_dollar_pct": 25.6,
   "ie_support_total": 0,
   "ie_oppose_total": 0,
-  "individual_total": 2077203,
-  "pac_total": 422337,
+  "individual_total": 2082289,
+  "pac_total": 417251,
   "party_total": 0,
-  "pac_pct": 17
+  "pac_pct": 17,
+  "self_funded": 0,
+  "transfers_in": 246442
  },
  "Gil Cisneros": {
   "candidate_id": "H8CA39174",
@@ -18093,7 +19165,9 @@
   "individual_total": 4829262,
   "pac_total": 1554898,
   "party_total": 16392,
-  "pac_pct": 24
+  "pac_pct": 24,
+  "self_funded": 9805265,
+  "transfers_in": 793038
  },
  "Kimberlyn King-Hinds": {
   "candidate_id": "H4MP01022",
@@ -18126,7 +19200,9 @@
   "individual_total": 107875,
   "pac_total": 34255,
   "party_total": 0,
-  "pac_pct": 24
+  "pac_pct": 24,
+  "self_funded": 0,
+  "transfers_in": 8338
  },
  "Christian Menefee": {
   "candidate_id": "H6TX18232",
@@ -18159,7 +19235,9 @@
   "individual_total": 3399375,
   "pac_total": 234868,
   "party_total": 0,
-  "pac_pct": 6
+  "pac_pct": 6,
+  "self_funded": 100,
+  "transfers_in": 0
  },
  "Analilia Mejia": {
   "candidate_id": "H6NJ11286",
@@ -18192,7 +19270,9 @@
   "individual_total": 1453169,
   "pac_total": 330906,
   "party_total": 5600,
-  "pac_pct": 18
+  "pac_pct": 18,
+  "self_funded": 7000,
+  "transfers_in": 19000
  },
  "Alan Armstrong": {
   "candidate_id": "",
@@ -18247,7 +19327,9 @@
   "individual_total": 73415017,
   "pac_total": 15391873,
   "party_total": 2726,
-  "pac_pct": 17
+  "pac_pct": 17,
+  "self_funded": 335000,
+  "transfers_in": 5420365
  },
  "Amata Coleman Radewagen": {
   "candidate_id": "H4AS00036",
@@ -18282,7 +19364,9 @@
   "individual_total": 578618,
   "pac_total": 163112,
   "party_total": 47847,
-  "pac_pct": 21
+  "pac_pct": 21,
+  "self_funded": 7100,
+  "transfers_in": 7816
  },
  "Graham Platner": {
   "candidate_id": "S6ME00373",
@@ -18317,7 +19401,9 @@
   "individual_total": 20666360,
   "pac_total": 271559,
   "party_total": 63000,
-  "pac_pct": 1
+  "pac_pct": 1,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "James Talarico": {
   "candidate_id": "S6TX00479",
@@ -18347,12 +19433,14 @@
   "grassroots_small": 36717034,
   "grassroots_itemized": 28868708,
   "small_dollar_pct": 56.0,
-  "ie_support_total": 4143535,
+  "ie_support_total": 4144224,
   "ie_oppose_total": 763010,
   "individual_total": 65585742,
   "pac_total": 343408,
   "party_total": 0,
-  "pac_pct": 1
+  "pac_pct": 1,
+  "self_funded": 0,
+  "transfers_in": 2594220
  },
  "Ken Paxton": {
   "candidate_id": "S6TX00388",
@@ -18383,12 +19471,14 @@
   "grassroots_small": 1764118,
   "grassroots_itemized": 7256060,
   "small_dollar_pct": 19.6,
-  "ie_support_total": 1286991,
+  "ie_support_total": 1297392,
   "ie_oppose_total": 26905075,
   "individual_total": 9020178,
   "pac_total": 157500,
   "party_total": 62000,
-  "pac_pct": 2
+  "pac_pct": 2,
+  "self_funded": 0,
+  "transfers_in": 6633
  },
  "Roy Cooper": {
   "candidate_id": "S6NC00407",
@@ -18418,12 +19508,14 @@
   "grassroots_small": 4748620,
   "grassroots_itemized": 8366778,
   "small_dollar_pct": 36.2,
-  "ie_support_total": 63348,
-  "ie_oppose_total": 1231592,
+  "ie_support_total": 63966,
+  "ie_oppose_total": 1634301,
   "individual_total": 13115398,
   "pac_total": 750034,
   "party_total": 70528,
-  "pac_pct": 5
+  "pac_pct": 5,
+  "self_funded": 0,
+  "transfers_in": 19824119
  },
  "Michael Whatley": {
   "candidate_id": "S6NC00415",
@@ -18454,12 +19546,14 @@
   "grassroots_small": 1775437,
   "grassroots_itemized": 3690044,
   "small_dollar_pct": 32.5,
-  "ie_support_total": 3736593,
+  "ie_support_total": 4150672,
   "ie_oppose_total": 0,
   "individual_total": 5465482,
   "pac_total": 874330,
   "party_total": 62000,
-  "pac_pct": 14
+  "pac_pct": 14,
+  "self_funded": 0,
+  "transfers_in": 4621452
  },
  "Mary Peltola": {
   "candidate_id": "H2AK01158",
@@ -18494,7 +19588,9 @@
   "individual_total": 18013082,
   "pac_total": 2013507,
   "party_total": 19969,
-  "pac_pct": 10
+  "pac_pct": 10,
+  "self_funded": 25,
+  "transfers_in": 1138720
  },
  "Sherrod Brown": {
   "candidate_id": "S6OH00163",
@@ -18524,12 +19620,14 @@
   "grassroots_small": 60788465,
   "grassroots_itemized": 105347190,
   "small_dollar_pct": 36.6,
-  "ie_support_total": 28700221,
+  "ie_support_total": 28700306,
   "ie_oppose_total": 195012983,
   "individual_total": 166135673,
   "pac_total": 13262125,
   "party_total": 139944,
-  "pac_pct": 7
+  "pac_pct": 7,
+  "self_funded": 335,
+  "transfers_in": 22477893
  },
  "Josh Turek": {
   "candidate_id": "",
@@ -18573,10 +19671,12 @@
   "small_dollar_pct": null,
   "ie_support_total": 0,
   "ie_oppose_total": 0,
-  "individual_total": 0,
-  "pac_total": 0,
+  "individual_total": 299783,
+  "pac_total": 47000,
   "party_total": 0,
-  "pac_pct": null
+  "pac_pct": 14,
+  "self_funded": 0,
+  "transfers_in": 0
  },
  "James Gallagher": {
   "candidate_id": "H6CA01285",
@@ -18597,6 +19697,8 @@
   "individual_total": 959754,
   "pac_total": 275863,
   "party_total": 7000,
-  "pac_pct": 22
+  "pac_pct": 22,
+  "self_funded": 0,
+  "transfers_in": 244754
  }
 }

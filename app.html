@@ -4900,7 +4900,7 @@ function drawShareCard(data, photoImg) {
     }
 
     drawPanel(PAD, 'FROM PACS', usdShort(data.pacTotal),
-      (data.pacPct != null ? data.pacPct + '% of contributions' : ''),
+      (data.pacPct != null ? data.pacPct + ' of contributions' : ''),
       'Reported to the FEC');
     if (hasOutside) {
       drawPanel(PAD + panelW + gap, 'OUTSIDE SPENDING', usdShort(data.outsideSupporting),

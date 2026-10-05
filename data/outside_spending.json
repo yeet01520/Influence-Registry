@@ -67,7 +67,7 @@
         "amount": 1370
       }
     ],
-    "fetched_at": "2026-08-28T19:44:18.620202+00:00"
+    "fetched_at": "2026-10-05T06:49:20.711681+00:00"
   },
   "Katie Britt": {
     "candidate_ids_used": [
@@ -136,7 +136,7 @@
         "amount": 1900
       }
     ],
-    "fetched_at": "2026-08-28T19:44:25.091830+00:00"
+    "fetched_at": "2026-10-05T06:49:27.978344+00:00"
   },
   "Lisa Murkowski": {
     "candidate_ids_used": [
@@ -208,14 +208,14 @@
         "amount": 10000
       }
     ],
-    "fetched_at": "2026-08-28T19:44:58.151091+00:00"
+    "fetched_at": "2026-10-05T06:49:50.514714+00:00"
   },
   "Dan Sullivan": {
     "candidate_ids_used": [
       "S4AK00214"
     ],
-    "total_supporting": 4659840,
-    "total_opposing": 29402133,
+    "total_supporting": 5234543,
+    "total_opposing": 31597956,
     "cycles": [
       2014,
       2020,
@@ -227,14 +227,14 @@
     ],
     "top_supporters": [
       {
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 1267602
+      },
+      {
         "committee_id": "C00564765",
         "committee_name": "FREEDOM PARTNERS ACTION FUND INC",
         "amount": 628685
-      },
-      {
-        "committee_id": "C00687103",
-        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
-        "amount": 412578
       },
       {
         "committee_id": "C00571703",
@@ -269,17 +269,17 @@
         "amount": 1462149
       },
       {
-        "committee_id": "C00486845",
-        "committee_name": "LCV VICTORY FUND",
-        "amount": 812184
+        "committee_id": "C00944611",
+        "committee_name": "RIGHT FOR ALASKA",
+        "amount": 1149171
       },
       {
-        "committee_id": "C00564047",
-        "committee_name": "ALASKA SALMONPAC",
-        "amount": 505109
+        "committee_id": "C00492140",
+        "committee_name": "AB PAC",
+        "amount": 1046651
       }
     ],
-    "fetched_at": "2026-08-28T19:45:14.090216+00:00"
+    "fetched_at": "2026-10-05T06:50:35.001044+00:00"
   },
   "Mark Kelly": {
     "candidate_ids_used": [
@@ -349,7 +349,7 @@
         "amount": 4303
       }
     ],
-    "fetched_at": "2026-08-28T19:46:34.774126+00:00"
+    "fetched_at": "2026-10-05T06:52:03.514880+00:00"
   },
   "Ruben Gallego": {
     "candidate_ids_used": [
@@ -424,7 +424,7 @@
         "amount": 497
       }
     ],
-    "fetched_at": "2026-08-28T19:47:24.755482+00:00"
+    "fetched_at": "2026-10-05T06:52:37.206520+00:00"
   },
   "John Boozman": {
     "candidate_ids_used": [
@@ -477,7 +477,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T19:48:12.381396+00:00"
+    "fetched_at": "2026-10-05T06:53:14.286467+00:00"
   },
   "Tom Cotton": {
     "candidate_ids_used": [
@@ -550,7 +550,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T19:48:40.910060+00:00"
+    "fetched_at": "2026-10-05T06:53:45.995667+00:00"
   },
   "Alex Padilla": {
     "candidate_ids_used": [
@@ -593,7 +593,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T19:48:46.228038+00:00"
+    "fetched_at": "2026-10-05T06:53:51.762139+00:00"
   },
   "Adam Schiff": {
     "candidate_ids_used": [
@@ -654,7 +654,7 @@
         "amount": 1326
       }
     ],
-    "fetched_at": "2026-08-28T19:49:27.392825+00:00"
+    "fetched_at": "2026-10-05T06:54:32.325273+00:00"
   },
   "Michael Bennet": {
     "candidate_ids_used": [
@@ -725,7 +725,7 @@
         "amount": 14662
       }
     ],
-    "fetched_at": "2026-08-28T19:50:08.493548+00:00"
+    "fetched_at": "2026-10-05T06:55:17.513437+00:00"
   },
   "John Hickenlooper": {
     "candidate_ids_used": [
@@ -790,7 +790,7 @@
         "amount": 5154
       }
     ],
-    "fetched_at": "2026-08-28T19:50:20.043855+00:00"
+    "fetched_at": "2026-10-05T06:55:29.998472+00:00"
   },
   "Richard Blumenthal": {
     "candidate_ids_used": [
@@ -809,7 +809,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T19:50:34.340882+00:00"
+    "fetched_at": "2026-10-05T06:55:45.667167+00:00"
   },
   "Chris Murphy": {
     "candidate_ids_used": [
@@ -884,13 +884,13 @@
         "amount": 3220
       }
     ],
-    "fetched_at": "2026-08-28T19:51:06.590756+00:00"
+    "fetched_at": "2026-10-05T06:56:19.644352+00:00"
   },
   "Chris Coons": {
     "candidate_ids_used": [
       "S0DE00092"
     ],
-    "total_supporting": 64522,
+    "total_supporting": 76081,
     "total_opposing": 196038,
     "cycles": [
       2010,
@@ -909,6 +909,11 @@
         "amount": 26000
       },
       {
+        "committee_id": "C00030718",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+        "amount": 11559
+      },
+      {
         "committee_id": "C00488759",
         "committee_name": "AMERICAN WORKER INC, THE",
         "amount": 3770
@@ -922,11 +927,6 @@
         "committee_id": "C90017989",
         "committee_name": "CARE ACTION",
         "amount": 1000
-      },
-      {
-        "committee_id": "C90012626",
-        "committee_name": "HUMAN RIGHTS CAMPAIGN",
-        "amount": 980
       }
     ],
     "top_opposers": [
@@ -951,7 +951,7 @@
         "amount": 650
       }
     ],
-    "fetched_at": "2026-08-28T19:51:20.861657+00:00"
+    "fetched_at": "2026-10-05T06:56:35.125660+00:00"
   },
   "Rick Scott": {
     "candidate_ids_used": [
@@ -971,7 +971,7 @@
       {
         "committee_id": "C00448696",
         "committee_name": "SENATE CONSERVATIVES FUND",
-        "amount": 185391
+        "amount": 178700
       },
       {
         "committee_id": "C00030718",
@@ -981,7 +981,7 @@
       {
         "committee_id": "C00524181",
         "committee_name": "SENATE CONSERVATIVES ACTION",
-        "amount": 76887
+        "amount": 72257
       },
       {
         "committee_id": "C00509893",
@@ -1021,15 +1021,15 @@
         "amount": 511279
       }
     ],
-    "fetched_at": "2026-08-28T19:51:39.668000+00:00"
+    "fetched_at": "2026-10-05T06:56:58.250805+00:00"
   },
   "Jon Ossoff": {
     "candidate_ids_used": [
       "S8GA00180",
       "H8GA06195"
     ],
-    "total_supporting": 17305740,
-    "total_opposing": 122876833,
+    "total_supporting": 17310669,
+    "total_opposing": 122894771,
     "cycles": [
       2020,
       2026
@@ -1092,7 +1092,7 @@
         "amount": 73029
       }
     ],
-    "fetched_at": "2026-08-28T19:53:09.689589+00:00"
+    "fetched_at": "2026-10-05T06:58:37.110704+00:00"
   },
   "Raphael Warnock": {
     "candidate_ids_used": [
@@ -1162,7 +1162,7 @@
         "amount": 7352
       }
     ],
-    "fetched_at": "2026-08-28T19:54:46.003125+00:00"
+    "fetched_at": "2026-10-05T07:00:26.003765+00:00"
   },
   "Brian Schatz": {
     "candidate_ids_used": [
@@ -1208,7 +1208,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T19:55:14.266657+00:00"
+    "fetched_at": "2026-10-05T07:01:13.041075+00:00"
   },
   "Mazie Hirono": {
     "candidate_ids_used": [
@@ -1268,7 +1268,7 @@
         "amount": 250000
       }
     ],
-    "fetched_at": "2026-08-28T19:55:58.933028+00:00"
+    "fetched_at": "2026-10-05T07:01:47.547080+00:00"
   },
   "Mike Crapo": {
     "candidate_ids_used": [
@@ -1323,7 +1323,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T19:56:59.578933+00:00"
+    "fetched_at": "2026-10-05T07:02:52.790914+00:00"
   },
   "James Risch": {
     "candidate_ids_used": [
@@ -1379,7 +1379,7 @@
         "amount": 760
       }
     ],
-    "fetched_at": "2026-08-28T19:57:15.685151+00:00"
+    "fetched_at": "2026-10-05T07:03:11.480003+00:00"
   },
   "Dick Durbin": {
     "candidate_ids_used": [
@@ -1458,7 +1458,7 @@
         "amount": 8231
       }
     ],
-    "fetched_at": "2026-08-28T19:58:16.341075+00:00"
+    "fetched_at": "2026-10-05T07:04:31.667814+00:00"
   },
   "Tammy Duckworth": {
     "candidate_ids_used": [
@@ -1534,7 +1534,7 @@
         "amount": 120190
       }
     ],
-    "fetched_at": "2026-08-28T19:59:22.892346+00:00"
+    "fetched_at": "2026-10-05T07:05:26.836054+00:00"
   },
   "Todd Young": {
     "candidate_ids_used": [
@@ -1608,7 +1608,7 @@
         "amount": 177655
       }
     ],
-    "fetched_at": "2026-08-28T20:00:12.398757+00:00"
+    "fetched_at": "2026-10-05T07:05:59.771813+00:00"
   },
   "Jim Banks": {
     "candidate_ids_used": [
@@ -1667,7 +1667,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T20:00:27.719948+00:00"
+    "fetched_at": "2026-10-05T07:06:16.167747+00:00"
   },
   "Chuck Grassley": {
     "candidate_ids_used": [
@@ -1744,7 +1744,7 @@
         "amount": 1706
       }
     ],
-    "fetched_at": "2026-08-28T20:01:54.217888+00:00"
+    "fetched_at": "2026-10-05T07:07:51.424350+00:00"
   },
   "Joni Ernst": {
     "candidate_ids_used": [
@@ -1815,7 +1815,7 @@
         "amount": 300493
       }
     ],
-    "fetched_at": "2026-08-28T20:02:34.134891+00:00"
+    "fetched_at": "2026-10-05T07:08:34.882284+00:00"
   },
   "Jerry Moran": {
     "candidate_ids_used": [
@@ -1872,14 +1872,14 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T20:03:13.599099+00:00"
+    "fetched_at": "2026-10-05T07:09:17.252448+00:00"
   },
   "Roger Marshall": {
     "candidate_ids_used": [
       "H6KS01179",
       "S0KS00315"
     ],
-    "total_supporting": 6320632,
+    "total_supporting": 6355971,
     "total_opposing": 16347575,
     "cycles": [
       2016,
@@ -1905,7 +1905,7 @@
       {
         "committee_id": "C00448696",
         "committee_name": "SENATE CONSERVATIVES FUND",
-        "amount": 151080
+        "amount": 148482
       },
       {
         "committee_id": "C00492116",
@@ -1945,7 +1945,7 @@
         "amount": 135842
       }
     ],
-    "fetched_at": "2026-08-28T20:03:52.698614+00:00"
+    "fetched_at": "2026-10-05T07:09:40.126254+00:00"
   },
   "Mitch McConnell": {
     "candidate_ids_used": [
@@ -2021,7 +2021,7 @@
         "amount": 27141
       }
     ],
-    "fetched_at": "2026-08-28T20:06:00.888059+00:00"
+    "fetched_at": "2026-10-05T07:12:43.516573+00:00"
   },
   "Rand Paul": {
     "candidate_ids_used": [
@@ -2047,7 +2047,7 @@
       {
         "committee_id": "C00448696",
         "committee_name": "SENATE CONSERVATIVES FUND",
-        "amount": 198466
+        "amount": 198470
       },
       {
         "committee_id": "C00111278",
@@ -2092,7 +2092,7 @@
         "amount": 157296
       }
     ],
-    "fetched_at": "2026-08-28T20:06:19.412131+00:00"
+    "fetched_at": "2026-10-05T07:13:08.724146+00:00"
   },
   "Bill Cassidy": {
     "candidate_ids_used": [
@@ -2167,7 +2167,7 @@
         "amount": 8333
       }
     ],
-    "fetched_at": "2026-08-28T20:07:00.159073+00:00"
+    "fetched_at": "2026-10-05T07:13:42.182649+00:00"
   },
   "John Kennedy": {
     "candidate_ids_used": [
@@ -2238,14 +2238,14 @@
         "amount": 4322
       }
     ],
-    "fetched_at": "2026-08-28T20:07:19.108408+00:00"
+    "fetched_at": "2026-10-05T07:14:33.467520+00:00"
   },
   "Susan Collins": {
     "candidate_ids_used": [
       "S6ME00159"
     ],
-    "total_supporting": 12916940,
-    "total_opposing": 53820727,
+    "total_supporting": 13094940,
+    "total_opposing": 55188783,
     "cycles": [
       1996,
       2002,
@@ -2262,7 +2262,12 @@
       {
         "committee_id": "C00946921",
         "committee_name": "LEAD MAINE COMMITTEE, INC.",
-        "amount": 638223
+        "amount": 392120
+      },
+      {
+        "committee_id": "C00608943",
+        "committee_name": "CLEARPATH ACTION FUND, INC.",
+        "amount": 315950
       },
       {
         "committee_id": "C00540443",
@@ -2278,11 +2283,6 @@
         "committee_id": "C00922294",
         "committee_name": "STRONGER MAINE",
         "amount": 284309
-      },
-      {
-        "committee_id": "C90014838",
-        "committee_name": "CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.",
-        "amount": 267650
       }
     ],
     "top_opposers": [
@@ -2297,22 +2297,22 @@
         "amount": 2708166
       },
       {
+        "committee_id": "C00489799",
+        "committee_name": "PLANNED PARENTHOOD VOTES",
+        "amount": 1012938
+      },
+      {
         "committee_id": "C00495861",
         "committee_name": "PRIORITIES USA ACTION",
         "amount": 413505
       },
       {
-        "committee_id": "C00489799",
-        "committee_name": "PLANNED PARENTHOOD VOTES",
-        "amount": 260064
-      },
-      {
-        "committee_id": "C00760538",
-        "committee_name": "PROTECTING OUR VALUES",
-        "amount": 105105
+        "committee_id": "C00915595",
+        "committee_name": "GOVERNMENT THAT WORKS PAC",
+        "amount": 350958
       }
     ],
-    "fetched_at": "2026-08-28T20:08:10.147299+00:00"
+    "fetched_at": "2026-10-05T07:15:30.605304+00:00"
   },
   "Angus King": {
     "candidate_ids_used": [
@@ -2383,7 +2383,7 @@
         "amount": 179500
       }
     ],
-    "fetched_at": "2026-08-28T20:08:23.063830+00:00"
+    "fetched_at": "2026-10-05T07:15:44.605273+00:00"
   },
   "Angela Alsobrooks": {
     "candidate_ids_used": [
@@ -2437,7 +2437,7 @@
         "amount": 17032
       }
     ],
-    "fetched_at": "2026-08-28T20:08:51.715867+00:00"
+    "fetched_at": "2026-10-05T07:15:54.710980+00:00"
   },
   "Elizabeth Warren": {
     "candidate_ids_used": [
@@ -2508,14 +2508,14 @@
         "amount": 31728
       }
     ],
-    "fetched_at": "2026-08-28T20:10:09.849285+00:00"
+    "fetched_at": "2026-10-05T07:17:03.080993+00:00"
   },
   "Ed Markey": {
     "candidate_ids_used": [
       "S4MA00028",
       "H6MA07101"
     ],
-    "total_supporting": 6225938,
+    "total_supporting": 6243855,
     "total_opposing": 1873573,
     "cycles": [
       1980,
@@ -2566,8 +2566,34 @@
         "amount": 189993
       }
     ],
-    "top_opposers": [],
-    "fetched_at": "2026-08-28T20:12:06.999173+00:00"
+    "top_opposers": [
+      {
+        "committee_id": "C00751503",
+        "committee_name": "NEW LEADERSHIP PAC",
+        "amount": 1148980
+      },
+      {
+        "committee_id": "C00545590",
+        "committee_name": "AMERICANS FOR PROGRESSIVE ACTION",
+        "amount": 624824
+      },
+      {
+        "committee_id": "C00523589",
+        "committee_name": "AMERICAN UNITY PAC INC",
+        "amount": 51957
+      },
+      {
+        "committee_id": "C90013624",
+        "committee_name": "HISPANIC LEADERSHIP FUND",
+        "amount": 48145
+      },
+      {
+        "committee_id": "C00542779",
+        "committee_name": "CE ACTION COMMITTEE",
+        "amount": 951
+      }
+    ],
+    "fetched_at": "2026-10-05T07:18:27.262295+00:00"
   },
   "Gary Peters": {
     "candidate_ids_used": [
@@ -2642,7 +2668,7 @@
         "amount": 125246
       }
     ],
-    "fetched_at": "2026-08-28T20:14:06.008483+00:00"
+    "fetched_at": "2026-10-05T07:20:10.491480+00:00"
   },
   "Elissa Slotkin": {
     "candidate_ids_used": [
@@ -2715,7 +2741,7 @@
         "amount": 181173
       }
     ],
-    "fetched_at": "2026-08-28T20:14:30.162746+00:00"
+    "fetched_at": "2026-10-05T07:20:36.884352+00:00"
   },
   "Amy Klobuchar": {
     "candidate_ids_used": [
@@ -2767,7 +2793,7 @@
         "amount": 2
       }
     ],
-    "fetched_at": "2026-08-28T20:14:50.904783+00:00"
+    "fetched_at": "2026-10-05T07:21:00.954066+00:00"
   },
   "Tina Smith": {
     "candidate_ids_used": [
@@ -2838,7 +2864,7 @@
         "amount": 201
       }
     ],
-    "fetched_at": "2026-08-28T20:15:00.526870+00:00"
+    "fetched_at": "2026-10-05T07:21:12.210821+00:00"
   },
   "Roger Wicker": {
     "candidate_ids_used": [
@@ -2913,14 +2939,14 @@
         "amount": 187
       }
     ],
-    "fetched_at": "2026-08-28T20:15:43.559039+00:00"
+    "fetched_at": "2026-10-05T07:22:00.646657+00:00"
   },
   "Cindy Hyde-Smith": {
     "candidate_ids_used": [
       "S8MS00261"
     ],
     "total_supporting": 4862759,
-    "total_opposing": 2730632,
+    "total_opposing": 4152634,
     "cycles": [
       2018,
       2020,
@@ -2959,6 +2985,11 @@
     ],
     "top_opposers": [
       {
+        "committee_id": "C00492140",
+        "committee_name": "AB PAC",
+        "amount": 1422001
+      },
+      {
         "committee_id": "C00484642",
         "committee_name": "SMP",
         "amount": 873656
@@ -2977,14 +3008,9 @@
         "committee_id": "C00814202",
         "committee_name": "NEW SOUTHERN MAJORITY IE PAC",
         "amount": 79202
-      },
-      {
-        "committee_id": "C00760538",
-        "committee_name": "PROTECTING OUR VALUES",
-        "amount": 65000
       }
     ],
-    "fetched_at": "2026-08-28T20:15:52.169127+00:00"
+    "fetched_at": "2026-10-05T07:22:11.534426+00:00"
   },
   "Josh Hawley": {
     "candidate_ids_used": [
@@ -3004,7 +3030,7 @@
       {
         "committee_id": "C00448696",
         "committee_name": "SENATE CONSERVATIVES FUND",
-        "amount": 1097184
+        "amount": 1082701
       },
       {
         "committee_id": "C00053553",
@@ -3014,7 +3040,7 @@
       {
         "committee_id": "C00524181",
         "committee_name": "SENATE CONSERVATIVES ACTION",
-        "amount": 125032
+        "amount": 120402
       },
       {
         "committee_id": "C00530766",
@@ -3054,7 +3080,7 @@
         "amount": 20013
       }
     ],
-    "fetched_at": "2026-08-28T20:16:54.281530+00:00"
+    "fetched_at": "2026-10-05T07:22:59.190335+00:00"
   },
   "Eric Schmitt": {
     "candidate_ids_used": [
@@ -3093,7 +3119,7 @@
       {
         "committee_id": "C00448696",
         "committee_name": "SENATE CONSERVATIVES FUND",
-        "amount": 149258
+        "amount": 138284
       }
     ],
     "top_opposers": [
@@ -3108,7 +3134,7 @@
         "amount": 46392
       }
     ],
-    "fetched_at": "2026-08-28T20:17:03.190504+00:00"
+    "fetched_at": "2026-10-05T07:23:09.616172+00:00"
   },
   "Steve Daines": {
     "candidate_ids_used": [
@@ -3181,7 +3207,7 @@
         "amount": 48461
       }
     ],
-    "fetched_at": "2026-08-28T20:17:36.561229+00:00"
+    "fetched_at": "2026-10-05T07:23:46.529624+00:00"
   },
   "Tim Sheehy": {
     "candidate_ids_used": [
@@ -3210,7 +3236,7 @@
       {
         "committee_id": "C00448696",
         "committee_name": "SENATE CONSERVATIVES FUND",
-        "amount": 29124
+        "amount": 29129
       },
       {
         "committee_id": "C00747121",
@@ -3250,7 +3276,7 @@
         "amount": 8500
       }
     ],
-    "fetched_at": "2026-08-28T20:17:51.202517+00:00"
+    "fetched_at": "2026-10-05T07:24:03.343722+00:00"
   },
   "Deb Fischer": {
     "candidate_ids_used": [
@@ -3321,13 +3347,13 @@
         "amount": 101728
       }
     ],
-    "fetched_at": "2026-08-28T20:18:05.838100+00:00"
+    "fetched_at": "2026-10-05T07:24:19.014372+00:00"
   },
   "Pete Ricketts": {
     "candidate_ids_used": [
       "S6NE00129"
     ],
-    "total_supporting": 845806,
+    "total_supporting": 850443,
     "total_opposing": 431,
     "cycles": [
       2006,
@@ -3347,7 +3373,7 @@
         "amount": 431
       }
     ],
-    "fetched_at": "2026-08-28T20:18:22.943976+00:00"
+    "fetched_at": "2026-10-05T07:24:37.533510+00:00"
   },
   "Jacky Rosen": {
     "candidate_ids_used": [
@@ -3419,7 +3445,7 @@
         "amount": 15449
       }
     ],
-    "fetched_at": "2026-08-28T20:19:02.458531+00:00"
+    "fetched_at": "2026-10-05T07:25:21.876980+00:00"
   },
   "Catherine Cortez Masto": {
     "candidate_ids_used": [
@@ -3489,7 +3515,7 @@
         "amount": 27382
       }
     ],
-    "fetched_at": "2026-08-28T20:19:36.153006+00:00"
+    "fetched_at": "2026-10-05T07:25:55.452375+00:00"
   },
   "Jeanne Shaheen": {
     "candidate_ids_used": [
@@ -3562,7 +3588,7 @@
         "amount": 250000
       }
     ],
-    "fetched_at": "2026-08-28T20:20:12.794592+00:00"
+    "fetched_at": "2026-10-05T07:26:21.247512+00:00"
   },
   "Maggie Hassan": {
     "candidate_ids_used": [
@@ -3632,7 +3658,7 @@
         "amount": 47737
       }
     ],
-    "fetched_at": "2026-08-28T20:20:32.691835+00:00"
+    "fetched_at": "2026-10-05T07:26:42.344391+00:00"
   },
   "Cory Booker": {
     "candidate_ids_used": [
@@ -3703,7 +3729,7 @@
         "amount": 1221
       }
     ],
-    "fetched_at": "2026-08-28T20:20:44.296753+00:00"
+    "fetched_at": "2026-10-05T07:26:54.912961+00:00"
   },
   "Andy Kim": {
     "candidate_ids_used": [
@@ -3776,7 +3802,7 @@
         "amount": 13966
       }
     ],
-    "fetched_at": "2026-08-28T20:21:08.147129+00:00"
+    "fetched_at": "2026-10-05T07:27:10.220103+00:00"
   },
   "Martin Heinrich": {
     "candidate_ids_used": [
@@ -3850,7 +3876,7 @@
         "amount": 41818
       }
     ],
-    "fetched_at": "2026-08-28T20:22:07.538298+00:00"
+    "fetched_at": "2026-10-05T07:28:15.471781+00:00"
   },
   "Chuck Schumer": {
     "candidate_ids_used": [
@@ -3902,7 +3928,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:23:19.878963+00:00"
+    "fetched_at": "2026-10-05T07:29:17.839148+00:00"
   },
   "Kirsten Gillibrand": {
     "candidate_ids_used": [
@@ -3951,7 +3977,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:24:09.004234+00:00"
+    "fetched_at": "2026-10-05T07:29:52.362598+00:00"
   },
   "Thom Tillis": {
     "candidate_ids_used": [
@@ -4022,7 +4048,7 @@
         "amount": 146647
       }
     ],
-    "fetched_at": "2026-08-28T20:25:12.003462+00:00"
+    "fetched_at": "2026-10-05T07:31:05.100410+00:00"
   },
   "John Hoeven": {
     "candidate_ids_used": [
@@ -4073,7 +4099,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T20:25:47.663123+00:00"
+    "fetched_at": "2026-10-05T07:31:20.636712+00:00"
   },
   "Kevin Cramer": {
     "candidate_ids_used": [
@@ -4149,7 +4175,7 @@
         "amount": 100611
       }
     ],
-    "fetched_at": "2026-08-28T20:26:55.387401+00:00"
+    "fetched_at": "2026-10-05T07:32:15.993080+00:00"
   },
   "Bernie Moreno": {
     "candidate_ids_used": [
@@ -4213,7 +4239,7 @@
         "amount": 2497
       }
     ],
-    "fetched_at": "2026-08-28T20:27:21.425496+00:00"
+    "fetched_at": "2026-10-05T07:32:32.772720+00:00"
   },
   "James Lankford": {
     "candidate_ids_used": [
@@ -4285,7 +4311,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T20:27:46.660598+00:00"
+    "fetched_at": "2026-10-05T07:33:00.318470+00:00"
   },
   "Ron Wyden": {
     "candidate_ids_used": [
@@ -4327,7 +4353,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:29:31.623353+00:00"
+    "fetched_at": "2026-10-05T07:34:07.284362+00:00"
   },
   "Jeff Merkley": {
     "candidate_ids_used": [
@@ -4399,7 +4425,7 @@
         "amount": 125000
       }
     ],
-    "fetched_at": "2026-08-28T20:29:58.316473+00:00"
+    "fetched_at": "2026-10-05T07:34:26.075393+00:00"
   },
   "Dave McCormick": {
     "candidate_ids_used": [
@@ -4469,7 +4495,7 @@
         "amount": 128900
       }
     ],
-    "fetched_at": "2026-08-28T20:30:10.565040+00:00"
+    "fetched_at": "2026-10-05T07:34:39.214930+00:00"
   },
   "Sheldon Whitehouse": {
     "candidate_ids_used": [
@@ -4536,7 +4562,7 @@
         "amount": 82830
       }
     ],
-    "fetched_at": "2026-08-28T20:30:40.904692+00:00"
+    "fetched_at": "2026-10-05T07:34:57.691492+00:00"
   },
   "Lindsey Graham": {
     "candidate_ids_used": [
@@ -4612,7 +4638,7 @@
         "amount": 163802
       }
     ],
-    "fetched_at": "2026-08-28T20:32:26.707896+00:00"
+    "fetched_at": "2026-10-05T07:35:51.978317+00:00"
   },
   "Tim Scott": {
     "candidate_ids_used": [
@@ -4671,7 +4697,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T20:33:28.694373+00:00"
+    "fetched_at": "2026-10-05T07:36:26.862608+00:00"
   },
   "John Thune": {
     "candidate_ids_used": [
@@ -4727,7 +4753,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T20:34:33.683413+00:00"
+    "fetched_at": "2026-10-05T07:37:45.558088+00:00"
   },
   "Mike Rounds": {
     "candidate_ids_used": [
@@ -4798,13 +4824,13 @@
         "amount": 12496
       }
     ],
-    "fetched_at": "2026-08-28T20:34:45.206613+00:00"
+    "fetched_at": "2026-10-05T07:37:57.837624+00:00"
   },
   "Bill Hagerty": {
     "candidate_ids_used": [
       "S0TN00169"
     ],
-    "total_supporting": 1849182,
+    "total_supporting": 1884001,
     "total_opposing": 1006805,
     "cycles": [
       2020,
@@ -4832,7 +4858,7 @@
         "amount": 3805
       }
     ],
-    "fetched_at": "2026-08-28T20:34:53.511638+00:00"
+    "fetched_at": "2026-10-05T07:38:07.177525+00:00"
   },
   "Marsha Blackburn": {
     "candidate_ids_used": [
@@ -4910,13 +4936,13 @@
         "amount": 264
       }
     ],
-    "fetched_at": "2026-08-28T20:36:06.942161+00:00"
+    "fetched_at": "2026-10-05T07:38:59.658598+00:00"
   },
   "John Cornyn": {
     "candidate_ids_used": [
       "S2TX00106"
     ],
-    "total_supporting": 11243397,
+    "total_supporting": 11222163,
     "total_opposing": 19683943,
     "cycles": [
       2002,
@@ -4983,7 +5009,7 @@
         "amount": 700000
       }
     ],
-    "fetched_at": "2026-08-28T20:36:47.496661+00:00"
+    "fetched_at": "2026-10-05T07:39:27.420679+00:00"
   },
   "Mike Lee": {
     "candidate_ids_used": [
@@ -5019,7 +5045,7 @@
       {
         "committee_id": "C00448696",
         "committee_name": "SENATE CONSERVATIVES FUND",
-        "amount": 230320
+        "amount": 219586
       },
       {
         "committee_id": "C00816892",
@@ -5039,7 +5065,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T20:37:09.649119+00:00"
+    "fetched_at": "2026-10-05T07:39:51.582075+00:00"
   },
   "John Curtis": {
     "candidate_ids_used": [
@@ -5086,7 +5112,7 @@
         "amount": 10732
       }
     ],
-    "fetched_at": "2026-08-28T20:37:22.088861+00:00"
+    "fetched_at": "2026-10-05T07:40:04.829168+00:00"
   },
   "Peter Welch": {
     "candidate_ids_used": [
@@ -5145,13 +5171,13 @@
         "amount": 8914
       }
     ],
-    "fetched_at": "2026-08-28T20:38:15.417990+00:00"
+    "fetched_at": "2026-10-05T07:41:03.212089+00:00"
   },
   "Mark Warner": {
     "candidate_ids_used": [
       "S6VA00093"
     ],
-    "total_supporting": 100314,
+    "total_supporting": 250314,
     "total_opposing": 462450,
     "cycles": [
       1996,
@@ -5165,6 +5191,11 @@
       2026
     ],
     "top_supporters": [
+      {
+        "committee_id": "C00915181",
+        "committee_name": "FELLOWSHIP PAC",
+        "amount": 150000
+      },
       {
         "committee_id": "C00343459",
         "committee_name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE",
@@ -5184,15 +5215,10 @@
         "committee_id": "C00004036",
         "committee_name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
         "amount": 1000
-      },
-      {
-        "committee_id": "C00400713",
-        "committee_name": "DEMOCRACY PREVAILS",
-        "amount": 725
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:38:40.042888+00:00"
+    "fetched_at": "2026-10-05T07:41:32.141809+00:00"
   },
   "Tim Kaine": {
     "candidate_ids_used": [
@@ -5263,7 +5289,7 @@
         "amount": 4250
       }
     ],
-    "fetched_at": "2026-08-28T20:39:16.396420+00:00"
+    "fetched_at": "2026-10-05T07:42:11.884581+00:00"
   },
   "Patty Murray": {
     "candidate_ids_used": [
@@ -5337,7 +5363,7 @@
         "amount": 865789
       }
     ],
-    "fetched_at": "2026-08-28T20:39:46.542342+00:00"
+    "fetched_at": "2026-10-05T07:42:45.097874+00:00"
   },
   "Maria Cantwell": {
     "candidate_ids_used": [
@@ -5397,7 +5423,7 @@
         "amount": 4309
       }
     ],
-    "fetched_at": "2026-08-28T20:41:31.192038+00:00"
+    "fetched_at": "2026-10-05T07:43:38.614671+00:00"
   },
   "Shelley Moore Capito": {
     "candidate_ids_used": [
@@ -5449,7 +5475,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:42:54.471541+00:00"
+    "fetched_at": "2026-10-05T07:44:15.527085+00:00"
   },
   "Jim Justice": {
     "candidate_ids_used": [
@@ -5498,7 +5524,7 @@
         "amount": 329490
       }
     ],
-    "fetched_at": "2026-08-28T20:42:59.508051+00:00"
+    "fetched_at": "2026-10-05T07:44:21.175303+00:00"
   },
   "Tammy Baldwin": {
     "candidate_ids_used": [
@@ -5574,7 +5600,7 @@
         "amount": 10950
       }
     ],
-    "fetched_at": "2026-08-28T20:44:55.072081+00:00"
+    "fetched_at": "2026-10-05T07:45:54.200531+00:00"
   },
   "Ron Johnson": {
     "candidate_ids_used": [
@@ -5608,14 +5634,14 @@
         "amount": 134236
       },
       {
-        "committee_id": "C00448696",
-        "committee_name": "SENATE CONSERVATIVES FUND",
-        "amount": 101588
-      },
-      {
         "committee_id": "C90014697",
         "committee_name": "ENDING SPENDING INC.",
         "amount": 97472
+      },
+      {
+        "committee_id": "C00111278",
+        "committee_name": "NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE",
+        "amount": 95428
       }
     ],
     "top_opposers": [
@@ -5645,7 +5671,7 @@
         "amount": 44444
       }
     ],
-    "fetched_at": "2026-08-28T20:45:34.539403+00:00"
+    "fetched_at": "2026-10-05T07:46:43.824421+00:00"
   },
   "John Barrasso": {
     "candidate_ids_used": [
@@ -5676,7 +5702,7 @@
         "amount": 187
       }
     ],
-    "fetched_at": "2026-08-28T20:46:35.926447+00:00"
+    "fetched_at": "2026-10-05T07:47:10.212430+00:00"
   },
   "Cynthia Lummis": {
     "candidate_ids_used": [
@@ -5731,7 +5757,7 @@
         "amount": 612
       }
     ],
-    "fetched_at": "2026-08-28T20:47:09.024000+00:00"
+    "fetched_at": "2026-10-05T07:47:53.661486+00:00"
   },
   "Lisa Blunt Rochester": {
     "candidate_ids_used": [
@@ -5779,13 +5805,13 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:47:32.154343+00:00"
+    "fetched_at": "2026-10-05T07:48:08.291294+00:00"
   },
   "Ashley Moody": {
     "candidate_ids_used": [
       "S6FL00640"
     ],
-    "total_supporting": 536308,
+    "total_supporting": 596527,
     "total_opposing": 36025,
     "cycles": [
       2026
@@ -5803,12 +5829,12 @@
       {
         "committee_id": "C00448696",
         "committee_name": "SENATE CONSERVATIVES FUND",
-        "amount": 130370
+        "amount": 134011
       },
       {
         "committee_id": "C00524181",
         "committee_name": "SENATE CONSERVATIVES ACTION",
-        "amount": 44008
+        "amount": 77292
       },
       {
         "committee_id": "C00891473",
@@ -5823,14 +5849,14 @@
         "amount": 36025
       }
     ],
-    "fetched_at": "2026-08-28T20:47:35.837101+00:00"
+    "fetched_at": "2026-10-05T07:48:12.325930+00:00"
   },
   "Jon Husted": {
     "candidate_ids_used": [
       "S6OH00304"
     ],
-    "total_supporting": 2898278,
-    "total_opposing": 23808,
+    "total_supporting": 4593041,
+    "total_opposing": 1029433,
     "cycles": [
       2026
     ],
@@ -5842,7 +5868,7 @@
       {
         "committee_id": "C00687103",
         "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
-        "amount": 1955696
+        "amount": 3632209
       },
       {
         "committee_id": "C00571703",
@@ -5857,7 +5883,7 @@
       {
         "committee_id": "C00608943",
         "committee_name": "CLEARPATH ACTION FUND, INC.",
-        "amount": 92660
+        "amount": 110910
       },
       {
         "committee_id": "C00640300",
@@ -5865,8 +5891,34 @@
         "amount": 54
       }
     ],
-    "top_opposers": [],
-    "fetched_at": "2026-08-28T20:47:38.227480+00:00"
+    "top_opposers": [
+      {
+        "committee_id": "C90011172",
+        "committee_name": "AFSCME WORKING FAMILIES FUND",
+        "amount": 1000000
+      },
+      {
+        "committee_id": "C00678839",
+        "committee_name": "INDIVISIBLE ACTION",
+        "amount": 15475
+      },
+      {
+        "committee_id": "C00640300",
+        "committee_name": "ACTIVATE AMERICA",
+        "amount": 7226
+      },
+      {
+        "committee_id": "C00865444",
+        "committee_name": "WINSENATE",
+        "amount": 5625
+      },
+      {
+        "committee_id": "C90011156",
+        "committee_name": "WORKING AMERICA",
+        "amount": 1000
+      }
+    ],
+    "fetched_at": "2026-10-05T07:48:14.956563+00:00"
   },
   "Chris Van Hollen": {
     "candidate_ids_used": [
@@ -5918,7 +5970,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:48:20.072888+00:00"
+    "fetched_at": "2026-10-05T07:48:49.387337+00:00"
   },
   "John Fetterman": {
     "candidate_ids_used": [
@@ -5978,7 +6030,7 @@
         "amount": 226
       }
     ],
-    "fetched_at": "2026-08-28T20:48:54.425598+00:00"
+    "fetched_at": "2026-10-05T07:49:22.378283+00:00"
   },
   "Mike Rogers": {
     "candidate_ids_used": [
@@ -6031,7 +6083,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T20:49:21.900940+00:00"
+    "fetched_at": "2026-10-05T07:49:44.012455+00:00"
   },
   "Robert Aderholt": {
     "candidate_ids_used": [
@@ -6076,7 +6128,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T20:49:46.625853+00:00"
+    "fetched_at": "2026-10-05T07:50:10.692316+00:00"
   },
   "Dale Strong": {
     "candidate_ids_used": [
@@ -6115,7 +6167,7 @@
         "amount": 57564
       }
     ],
-    "fetched_at": "2026-08-28T20:49:51.875385+00:00"
+    "fetched_at": "2026-10-05T07:50:16.344856+00:00"
   },
   "Gary Palmer": {
     "candidate_ids_used": [
@@ -6173,7 +6225,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T20:50:03.141985+00:00"
+    "fetched_at": "2026-10-05T07:50:28.780916+00:00"
   },
   "Terri Sewell": {
     "candidate_ids_used": [
@@ -6220,14 +6272,14 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:50:23.253105+00:00"
+    "fetched_at": "2026-10-05T07:50:50.746347+00:00"
   },
   "Nick Begich": {
     "candidate_ids_used": [
       "H2AK01083"
     ],
-    "total_supporting": 4600003,
-    "total_opposing": 9950585,
+    "total_supporting": 5112305,
+    "total_opposing": 10075585,
     "cycles": [
       2022,
       2024,
@@ -6249,6 +6301,11 @@
         "amount": 1057682
       },
       {
+        "committee_id": "C00836221",
+        "committee_name": "DEFEND AMERICAN JOBS",
+        "amount": 508142
+      },
+      {
         "committee_id": "C00879510",
         "committee_name": "AMERICA PAC",
         "amount": 265370
@@ -6257,11 +6314,6 @@
         "committee_id": "C00827220",
         "committee_name": "ALASKA POLICY PARTNERS IE GROUP",
         "amount": 52500
-      },
-      {
-        "committee_id": "C00817122",
-        "committee_name": "GOA VICTORY FUND",
-        "amount": 22243
       }
     ],
     "top_opposers": [
@@ -6281,17 +6333,17 @@
         "amount": 182571
       },
       {
+        "committee_id": "C00948653",
+        "committee_name": "CORNERSTONE FOUNDERS PAC",
+        "amount": 125000
+      },
+      {
         "committee_id": "C00687103",
         "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "amount": 85168
-      },
-      {
-        "committee_id": "C00191247",
-        "committee_name": "ALASKA DEMOCRATIC PARTY",
-        "amount": 34250
       }
     ],
-    "fetched_at": "2026-08-28T20:50:31.367300+00:00"
+    "fetched_at": "2026-10-05T07:50:59.810556+00:00"
   },
   "David Schweikert": {
     "candidate_ids_used": [
@@ -6299,7 +6351,7 @@
       "H8AZ05097"
     ],
     "total_supporting": 3151067,
-    "total_opposing": 20843474,
+    "total_opposing": 20843875,
     "cycles": [
       2008,
       2010,
@@ -6370,14 +6422,14 @@
         "amount": 636382
       }
     ],
-    "fetched_at": "2026-08-28T20:51:20.326257+00:00"
+    "fetched_at": "2026-10-05T07:51:54.875077+00:00"
   },
   "Eli Crane": {
     "candidate_ids_used": [
       "H2AZ01354"
     ],
-    "total_supporting": 2254811,
-    "total_opposing": 789672,
+    "total_supporting": 2259180,
+    "total_opposing": 1669558,
     "cycles": [
       2022,
       2024,
@@ -6411,7 +6463,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 68057
+        "amount": 67377
       }
     ],
     "top_opposers": [
@@ -6419,6 +6471,16 @@
         "committee_id": "C00495028",
         "committee_name": "HOUSE MAJORITY PAC",
         "amount": 531952
+      },
+      {
+        "committee_id": "C00486845",
+        "committee_name": "LCV VICTORY FUND",
+        "amount": 526460
+      },
+      {
+        "committee_id": "C00724203",
+        "committee_name": "SOMOS PAC",
+        "amount": 382430
       },
       {
         "committee_id": "C00568444",
@@ -6429,19 +6491,9 @@
         "committee_id": "C00523621",
         "committee_name": "UNITED WE CAN",
         "amount": 9156
-      },
-      {
-        "committee_id": "C00869057",
-        "committee_name": "ARIZONA EAGLE PAC",
-        "amount": 4104
-      },
-      {
-        "committee_id": "C00486845",
-        "committee_name": "LCV VICTORY FUND",
-        "amount": 4086
       }
     ],
-    "fetched_at": "2026-08-28T20:51:56.591124+00:00"
+    "fetched_at": "2026-10-05T07:52:06.424165+00:00"
   },
   "Yassamin Ansari": {
     "candidate_ids_used": [
@@ -6459,13 +6511,13 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:52:00.435266+00:00"
+    "fetched_at": "2026-10-05T07:52:10.642894+00:00"
   },
   "Greg Stanton": {
     "candidate_ids_used": [
       "H8AZ09040"
     ],
-    "total_supporting": 318614,
+    "total_supporting": 741330,
     "total_opposing": 218157,
     "cycles": [
       2018,
@@ -6478,7 +6530,33 @@
       2018,
       2026
     ],
-    "top_supporters": [],
+    "top_supporters": [
+      {
+        "committee_id": "C00923417",
+        "committee_name": "THINK BIG",
+        "amount": 265156
+      },
+      {
+        "committee_id": "C00495028",
+        "committee_name": "HOUSE MAJORITY PAC",
+        "amount": 162000
+      },
+      {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 157560
+      },
+      {
+        "committee_id": "C00523621",
+        "committee_name": "UNITED WE CAN",
+        "amount": 98081
+      },
+      {
+        "committee_id": "C00004036",
+        "committee_name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+        "amount": 49440
+      }
+    ],
     "top_opposers": [
       {
         "committee_id": "C00677120",
@@ -6496,7 +6574,7 @@
         "amount": 3510
       }
     ],
-    "fetched_at": "2026-08-28T20:52:10.240958+00:00"
+    "fetched_at": "2026-10-05T07:52:25.562704+00:00"
   },
   "Andy Biggs": {
     "candidate_ids_used": [
@@ -6565,14 +6643,14 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T20:52:20.827879+00:00"
+    "fetched_at": "2026-10-05T07:52:36.879733+00:00"
   },
   "Juan Ciscomani": {
     "candidate_ids_used": [
       "H2AZ02360"
     ],
-    "total_supporting": 5367502,
-    "total_opposing": 8233406,
+    "total_supporting": 5387502,
+    "total_opposing": 8233997,
     "cycles": [
       2022,
       2024,
@@ -6631,18 +6709,18 @@
         "amount": 67877
       },
       {
-        "committee_id": "C00004036",
-        "committee_name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
-        "amount": 12367
+        "committee_id": "C00489799",
+        "committee_name": "PLANNED PARENTHOOD VOTES",
+        "amount": 56147
       }
     ],
-    "fetched_at": "2026-08-28T20:52:32.199759+00:00"
+    "fetched_at": "2026-10-05T07:52:48.034402+00:00"
   },
   "Paul Gosar": {
     "candidate_ids_used": [
       "H0AZ01259"
     ],
-    "total_supporting": 846458,
+    "total_supporting": 846459,
     "total_opposing": 2042140,
     "cycles": [
       2010,
@@ -6712,7 +6790,7 @@
         "amount": 18683
       }
     ],
-    "fetched_at": "2026-08-28T20:52:49.294620+00:00"
+    "fetched_at": "2026-10-05T07:53:06.582627+00:00"
   },
   "Bruce Westerman": {
     "candidate_ids_used": [
@@ -6770,7 +6848,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T20:53:04.858484+00:00"
+    "fetched_at": "2026-10-05T07:53:23.733087+00:00"
   },
   "Doug LaMalfa": {
     "candidate_ids_used": [
@@ -6812,7 +6890,7 @@
         "amount": 773
       }
     ],
-    "fetched_at": "2026-08-28T20:53:18.819698+00:00"
+    "fetched_at": "2026-10-05T07:53:39.325542+00:00"
   },
   "Jared Huffman": {
     "candidate_ids_used": [
@@ -6862,14 +6940,14 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:53:31.967964+00:00"
+    "fetched_at": "2026-10-05T07:53:53.813042+00:00"
   },
   "Kevin Kiley": {
     "candidate_ids_used": [
       "H2CA03157"
     ],
     "total_supporting": 629566,
-    "total_opposing": 36034,
+    "total_opposing": 72429,
     "cycles": [
       2022,
       2024,
@@ -6908,6 +6986,11 @@
     ],
     "top_opposers": [
       {
+        "committee_id": "C90011172",
+        "committee_name": "AFSCME WORKING FAMILIES FUND",
+        "amount": 36395
+      },
+      {
         "committee_id": "C90022245",
         "committee_name": "REPRODUCTIVE FREEDOM FOR ALL",
         "amount": 20000
@@ -6926,14 +7009,9 @@
         "committee_id": "C00556860",
         "committee_name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA VOTES PAC",
         "amount": 5002
-      },
-      {
-        "committee_id": "C00640300",
-        "committee_name": "ACTIVATE AMERICA",
-        "amount": 461
       }
     ],
-    "fetched_at": "2026-08-28T20:53:37.365993+00:00"
+    "fetched_at": "2026-10-05T07:53:59.867800+00:00"
   },
   "Mike Thompson": {
     "candidate_ids_used": [
@@ -6988,7 +7066,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:54:01.229109+00:00"
+    "fetched_at": "2026-10-05T07:54:27.455269+00:00"
   },
   "Tom McClintock": {
     "candidate_ids_used": [
@@ -7040,7 +7118,7 @@
         "amount": 111260
       }
     ],
-    "fetched_at": "2026-08-28T20:54:50.798404+00:00"
+    "fetched_at": "2026-10-05T07:55:23.047900+00:00"
   },
   "Ami Bera": {
     "candidate_ids_used": [
@@ -7117,7 +7195,7 @@
         "amount": 35100
       }
     ],
-    "fetched_at": "2026-08-28T20:55:09.724518+00:00"
+    "fetched_at": "2026-10-05T07:55:43.626367+00:00"
   },
   "Doris Matsui": {
     "candidate_ids_used": [
@@ -7155,7 +7233,7 @@
         "amount": 20000
       }
     ],
-    "fetched_at": "2026-08-28T20:55:27.432986+00:00"
+    "fetched_at": "2026-10-05T07:56:02.875396+00:00"
   },
   "Adelita Grijalva": {
     "candidate_ids_used": [
@@ -7198,7 +7276,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:55:29.955746+00:00"
+    "fetched_at": "2026-10-05T07:56:05.418586+00:00"
   },
   "John Garamendi": {
     "candidate_ids_used": [
@@ -7265,7 +7343,7 @@
         "amount": 302
       }
     ],
-    "fetched_at": "2026-08-28T20:55:44.694622+00:00"
+    "fetched_at": "2026-10-05T07:56:22.180712+00:00"
   },
   "Josh Harder": {
     "candidate_ids_used": [
@@ -7338,7 +7416,7 @@
         "amount": 15375
       }
     ],
-    "fetched_at": "2026-08-28T20:55:58.358837+00:00"
+    "fetched_at": "2026-10-05T07:56:37.340460+00:00"
   },
   "Mark DeSaulnier": {
     "candidate_ids_used": [
@@ -7388,7 +7466,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:56:17.033307+00:00"
+    "fetched_at": "2026-10-05T07:57:00.822391+00:00"
   },
   "Kevin Mullin": {
     "candidate_ids_used": [
@@ -7433,7 +7511,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:56:22.757083+00:00"
+    "fetched_at": "2026-10-05T07:57:06.830423+00:00"
   },
   "Zoe Lofgren": {
     "candidate_ids_used": [
@@ -7490,7 +7568,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:56:49.351324+00:00"
+    "fetched_at": "2026-10-05T07:57:35.877414+00:00"
   },
   "Jimmy Panetta": {
     "candidate_ids_used": [
@@ -7538,7 +7616,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T20:56:59.636038+00:00"
+    "fetched_at": "2026-10-05T07:57:46.920095+00:00"
   },
   "Jim Costa": {
     "candidate_ids_used": [
@@ -7615,14 +7693,14 @@
         "amount": 9335
       }
     ],
-    "fetched_at": "2026-08-28T20:57:18.678076+00:00"
+    "fetched_at": "2026-10-05T07:58:07.654613+00:00"
   },
   "David Valadao": {
     "candidate_ids_used": [
       "H2CA20094"
     ],
-    "total_supporting": 7594489,
-    "total_opposing": 23326787,
+    "total_supporting": 7620004,
+    "total_opposing": 23326737,
     "cycles": [
       2012,
       2014,
@@ -7691,7 +7769,7 @@
         "amount": 231319
       }
     ],
-    "fetched_at": "2026-08-28T20:58:04.761101+00:00"
+    "fetched_at": "2026-10-05T07:58:36.455547+00:00"
   },
   "Jay Obernolte": {
     "candidate_ids_used": [
@@ -7753,7 +7831,7 @@
         "amount": 123
       }
     ],
-    "fetched_at": "2026-08-28T20:58:11.545232+00:00"
+    "fetched_at": "2026-10-05T07:58:44.313205+00:00"
   },
   "Salud Carbajal": {
     "candidate_ids_used": [
@@ -7817,7 +7895,7 @@
         "amount": 72588
       }
     ],
-    "fetched_at": "2026-08-28T20:58:32.698766+00:00"
+    "fetched_at": "2026-10-05T07:59:09.025408+00:00"
   },
   "Raul Ruiz": {
     "candidate_ids_used": [
@@ -7893,7 +7971,7 @@
         "amount": 4551
       }
     ],
-    "fetched_at": "2026-08-28T20:58:46.074021+00:00"
+    "fetched_at": "2026-10-05T07:59:23.459820+00:00"
   },
   "Julia Brownley": {
     "candidate_ids_used": [
@@ -7968,7 +8046,7 @@
         "amount": 142150
       }
     ],
-    "fetched_at": "2026-08-28T20:59:28.993821+00:00"
+    "fetched_at": "2026-10-05T08:00:02.118587+00:00"
   },
   "Judy Chu": {
     "candidate_ids_used": [
@@ -8019,7 +8097,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:00:02.210151+00:00"
+    "fetched_at": "2026-10-05T08:00:24.042379+00:00"
   },
   "Jimmy Gomez": {
     "candidate_ids_used": [
@@ -8066,7 +8144,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:00:13.645791+00:00"
+    "fetched_at": "2026-10-05T08:00:36.078353+00:00"
   },
   "Ted Lieu": {
     "candidate_ids_used": [
@@ -8121,7 +8199,7 @@
         "amount": 107050
       }
     ],
-    "fetched_at": "2026-08-28T21:00:25.460061+00:00"
+    "fetched_at": "2026-10-05T08:00:51.292773+00:00"
   },
   "Sydney Kamlager-Dove": {
     "candidate_ids_used": [
@@ -8140,7 +8218,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:00:34.542575+00:00"
+    "fetched_at": "2026-10-05T08:00:57.786071+00:00"
   },
   "Mark Takano": {
     "candidate_ids_used": [
@@ -8198,7 +8276,7 @@
         "amount": 220000
       }
     ],
-    "fetched_at": "2026-08-28T21:01:10.145434+00:00"
+    "fetched_at": "2026-10-05T08:01:33.749127+00:00"
   },
   "Young Kim": {
     "candidate_ids_used": [
@@ -8235,7 +8313,7 @@
       },
       {
         "committee_id": "C00007880",
-        "committee_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+        "committee_name": "AMERICA'S CREDIT UNIONS PAC",
         "amount": 500000
       },
       {
@@ -8271,7 +8349,7 @@
         "amount": 436376
       }
     ],
-    "fetched_at": "2026-08-28T21:01:20.579629+00:00"
+    "fetched_at": "2026-10-05T08:01:46.381405+00:00"
   },
   "Ken Calvert": {
     "candidate_ids_used": [
@@ -8350,13 +8428,13 @@
         "amount": 409619
       }
     ],
-    "fetched_at": "2026-08-28T21:01:58.444319+00:00"
+    "fetched_at": "2026-10-05T08:02:43.600738+00:00"
   },
   "Robert Garcia": {
     "candidate_ids_used": [
       "H2CA47188"
     ],
-    "total_supporting": 1304998,
+    "total_supporting": 1304986,
     "total_opposing": 0,
     "cycles": [
       2022,
@@ -8395,7 +8473,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:02:04.106340+00:00"
+    "fetched_at": "2026-10-05T08:02:52.977717+00:00"
   },
   "Maxine Waters": {
     "candidate_ids_used": [
@@ -8428,13 +8506,13 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:02:39.907073+00:00"
+    "fetched_at": "2026-10-05T08:03:37.984344+00:00"
   },
   "Lou Correa": {
     "candidate_ids_used": [
       "H6CA46116"
     ],
-    "total_supporting": 657904,
+    "total_supporting": 657892,
     "total_opposing": 9630,
     "cycles": [
       2016,
@@ -8476,7 +8554,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:02:51.735112+00:00"
+    "fetched_at": "2026-10-05T08:03:51.826417+00:00"
   },
   "Darrell Issa": {
     "candidate_ids_used": [
@@ -8556,7 +8634,7 @@
         "amount": 139000
       }
     ],
-    "fetched_at": "2026-08-28T21:03:58.046452+00:00"
+    "fetched_at": "2026-10-05T08:04:49.539867+00:00"
   },
   "Mike Levin": {
     "candidate_ids_used": [
@@ -8629,7 +8707,7 @@
         "amount": 4551
       }
     ],
-    "fetched_at": "2026-08-28T21:04:25.647296+00:00"
+    "fetched_at": "2026-10-05T08:05:05.745334+00:00"
   },
   "Scott Peters": {
     "candidate_ids_used": [
@@ -8705,7 +8783,7 @@
         "amount": 68555
       }
     ],
-    "fetched_at": "2026-08-28T21:04:45.183505+00:00"
+    "fetched_at": "2026-10-05T08:05:33.778834+00:00"
   },
   "Sara Jacobs": {
     "candidate_ids_used": [
@@ -8773,7 +8851,7 @@
         "amount": 795
       }
     ],
-    "fetched_at": "2026-08-28T21:04:53.922460+00:00"
+    "fetched_at": "2026-10-05T08:05:43.271973+00:00"
   },
   "Juan Vargas": {
     "candidate_ids_used": [
@@ -8829,18 +8907,19 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T21:05:51.415817+00:00"
+    "fetched_at": "2026-10-05T08:06:21.464634+00:00"
   },
   "Jeff Crank": {
     "candidate_ids_used": [
       "H6CO05142"
     ],
     "total_supporting": 701980,
-    "total_opposing": 49069,
+    "total_opposing": 308774,
     "cycles": [
       2006,
       2008,
-      2024
+      2024,
+      2026
     ],
     "cycles_searched": [
       2006,
@@ -8875,6 +8954,11 @@
     ],
     "top_opposers": [
       {
+        "committee_id": "C00492140",
+        "committee_name": "AB PAC",
+        "amount": 259705
+      },
+      {
         "committee_id": "C00346536",
         "committee_name": "CLUB FOR GROWTH INC PAC",
         "amount": 43020
@@ -8885,7 +8969,7 @@
         "amount": 6048
       }
     ],
-    "fetched_at": "2026-08-28T21:06:12.851333+00:00"
+    "fetched_at": "2026-10-05T08:06:40.461116+00:00"
   },
   "Joe Neguse": {
     "candidate_ids_used": [
@@ -8931,7 +9015,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:06:21.147716+00:00"
+    "fetched_at": "2026-10-05T08:06:50.447100+00:00"
   },
   "Jeff Hurd": {
     "candidate_ids_used": [
@@ -8975,7 +9059,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:06:26.420062+00:00"
+    "fetched_at": "2026-10-05T08:06:55.996206+00:00"
   },
   "Jason Crow": {
     "candidate_ids_used": [
@@ -9027,7 +9111,7 @@
         "amount": 23500
       }
     ],
-    "fetched_at": "2026-08-28T21:06:37.112774+00:00"
+    "fetched_at": "2026-10-05T08:07:07.906766+00:00"
   },
   "Brittany Pettersen": {
     "candidate_ids_used": [
@@ -9077,14 +9161,14 @@
         "amount": 15510
       }
     ],
-    "fetched_at": "2026-08-28T21:06:45.420233+00:00"
+    "fetched_at": "2026-10-05T08:07:18.318119+00:00"
   },
   "John Larson": {
     "candidate_ids_used": [
       "H8CT01046"
     ],
-    "total_supporting": 14471,
-    "total_opposing": 0,
+    "total_supporting": 54471,
+    "total_opposing": 148547,
     "cycles": [
       2000,
       2002,
@@ -9105,8 +9189,14 @@
       2026
     ],
     "top_supporters": [],
-    "top_opposers": [],
-    "fetched_at": "2026-08-28T21:07:24.915356+00:00"
+    "top_opposers": [
+      {
+        "committee_id": "C00915199",
+        "committee_name": "TIME TO LEAD PAC",
+        "amount": 148546
+      }
+    ],
+    "fetched_at": "2026-10-05T08:07:42.216499+00:00"
   },
   "Joe Courtney": {
     "candidate_ids_used": [
@@ -9171,7 +9261,7 @@
         "amount": 136
       }
     ],
-    "fetched_at": "2026-08-28T21:07:45.437283+00:00"
+    "fetched_at": "2026-10-05T08:08:07.329875+00:00"
   },
   "Rosa DeLauro": {
     "candidate_ids_used": [
@@ -9230,7 +9320,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:08:15.498790+00:00"
+    "fetched_at": "2026-10-05T08:08:44.984506+00:00"
   },
   "Jim Himes": {
     "candidate_ids_used": [
@@ -9308,7 +9398,7 @@
         "amount": 803
       }
     ],
-    "fetched_at": "2026-08-28T21:08:44.426025+00:00"
+    "fetched_at": "2026-10-05T08:09:02.547286+00:00"
   },
   "Jahana Hayes": {
     "candidate_ids_used": [
@@ -9381,7 +9471,7 @@
         "amount": 5000
       }
     ],
-    "fetched_at": "2026-08-28T21:09:01.030660+00:00"
+    "fetched_at": "2026-10-05T08:09:13.341378+00:00"
   },
   "Sarah McBride": {
     "candidate_ids_used": [
@@ -9425,7 +9515,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:09:04.854086+00:00"
+    "fetched_at": "2026-10-05T08:09:17.510887+00:00"
   },
   "Neal Dunn": {
     "candidate_ids_used": [
@@ -9492,7 +9582,7 @@
         "amount": 540
       }
     ],
-    "fetched_at": "2026-08-28T21:09:14.713501+00:00"
+    "fetched_at": "2026-10-05T08:09:28.168049+00:00"
   },
   "Kat Cammack": {
     "candidate_ids_used": [
@@ -9537,7 +9627,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:09:21.600474+00:00"
+    "fetched_at": "2026-10-05T08:09:35.812813+00:00"
   },
   "Aaron Bean": {
     "candidate_ids_used": [
@@ -9565,7 +9655,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:09:26.845318+00:00"
+    "fetched_at": "2026-10-05T08:09:41.476142+00:00"
   },
   "John Rutherford": {
     "candidate_ids_used": [
@@ -9624,14 +9714,14 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T21:09:51.008171+00:00"
+    "fetched_at": "2026-10-05T08:10:08.264559+00:00"
   },
   "Cory Mills": {
     "candidate_ids_used": [
       "H2FL07156"
     ],
     "total_supporting": 28209,
-    "total_opposing": 4086,
+    "total_opposing": 305559,
     "cycles": [
       2022,
       2026
@@ -9667,14 +9757,8 @@
         "amount": 2044
       }
     ],
-    "top_opposers": [
-      {
-        "committee_id": "C00486845",
-        "committee_name": "LCV VICTORY FUND",
-        "amount": 4086
-      }
-    ],
-    "fetched_at": "2026-08-28T21:09:56.249037+00:00"
+    "top_opposers": [],
+    "fetched_at": "2026-10-05T08:10:13.984617+00:00"
   },
   "Darren Soto": {
     "candidate_ids_used": [
@@ -9738,7 +9822,7 @@
         "amount": 35195
       }
     ],
-    "fetched_at": "2026-08-28T21:10:08.690211+00:00"
+    "fetched_at": "2026-10-05T08:10:26.256817+00:00"
   },
   "Maxwell Frost": {
     "candidate_ids_used": [
@@ -9783,7 +9867,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:10:14.032308+00:00"
+    "fetched_at": "2026-10-05T08:10:34.200362+00:00"
   },
   "Daniel Webster": {
     "candidate_ids_used": [
@@ -9859,7 +9943,7 @@
         "amount": 168362
       }
     ],
-    "fetched_at": "2026-08-28T21:10:55.145611+00:00"
+    "fetched_at": "2026-10-05T08:11:13.001778+00:00"
   },
   "Gus Bilirakis": {
     "candidate_ids_used": [
@@ -9914,13 +9998,13 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T21:11:43.686472+00:00"
+    "fetched_at": "2026-10-05T08:11:55.338843+00:00"
   },
   "Anna Paulina Luna": {
     "candidate_ids_used": [
       "H0FL13158"
     ],
-    "total_supporting": 2055587,
+    "total_supporting": 2059005,
     "total_opposing": 6361745,
     "cycles": [
       2020,
@@ -9986,14 +10070,14 @@
         "amount": 189
       }
     ],
-    "fetched_at": "2026-08-28T21:12:16.256829+00:00"
+    "fetched_at": "2026-10-05T08:12:07.612936+00:00"
   },
   "Kathy Castor": {
     "candidate_ids_used": [
       "H6FL11126",
       "H6FL11134"
     ],
-    "total_supporting": 27778,
+    "total_supporting": 27857,
     "total_opposing": 0,
     "cycles": [
       2006,
@@ -10039,7 +10123,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:13:43.802462+00:00"
+    "fetched_at": "2026-10-05T08:12:46.481309+00:00"
   },
   "Laurel Lee": {
     "candidate_ids_used": [
@@ -10094,7 +10178,7 @@
         "amount": 7391
       }
     ],
-    "fetched_at": "2026-08-28T21:13:49.236380+00:00"
+    "fetched_at": "2026-10-05T08:12:52.399850+00:00"
   },
   "Vern Buchanan": {
     "candidate_ids_used": [
@@ -10172,7 +10256,7 @@
         "amount": 13450
       }
     ],
-    "fetched_at": "2026-08-28T21:14:16.569939+00:00"
+    "fetched_at": "2026-10-05T08:13:14.787845+00:00"
   },
   "Greg Steube": {
     "candidate_ids_used": [
@@ -10217,7 +10301,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:14:26.289018+00:00"
+    "fetched_at": "2026-10-05T08:13:25.395135+00:00"
   },
   "Scott Franklin": {
     "candidate_ids_used": [
@@ -10251,7 +10335,7 @@
         "amount": 6000
       }
     ],
-    "fetched_at": "2026-08-28T21:14:41.876025+00:00"
+    "fetched_at": "2026-10-05T08:13:32.990041+00:00"
   },
   "Byron Donalds": {
     "candidate_ids_used": [
@@ -10276,7 +10360,7 @@
         "amount": 21000
       }
     ],
-    "fetched_at": "2026-08-28T21:14:56.091565+00:00"
+    "fetched_at": "2026-10-05T08:13:48.720194+00:00"
   },
   "Sheila Cherfilus-McCormick": {
     "candidate_ids_used": [
@@ -10315,13 +10399,13 @@
         "amount": 88517
       }
     ],
-    "fetched_at": "2026-08-28T21:15:27.259710+00:00"
+    "fetched_at": "2026-10-05T08:13:57.699171+00:00"
   },
   "Brian Mast": {
     "candidate_ids_used": [
       "H6FL18097"
     ],
-    "total_supporting": 2543549,
+    "total_supporting": 2540649,
     "total_opposing": 1316373,
     "cycles": [
       2016,
@@ -10389,14 +10473,14 @@
         "amount": 87722
       }
     ],
-    "fetched_at": "2026-08-28T21:15:55.322282+00:00"
+    "fetched_at": "2026-10-05T08:14:20.873727+00:00"
   },
   "Lois Frankel": {
     "candidate_ids_used": [
       "H2FL14053",
       "H2FL22080"
     ],
-    "total_supporting": 153571,
+    "total_supporting": 305284,
     "total_opposing": 536457,
     "cycles": [
       2012,
@@ -10413,6 +10497,11 @@
       2026
     ],
     "top_supporters": [
+      {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 151713
+      },
       {
         "committee_id": "C00685982",
         "committee_name": "UNITED VETERANS ALLIANCE OF AMERICA PAC INC",
@@ -10432,11 +10521,6 @@
         "committee_id": "C00004036",
         "committee_name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
         "amount": 2274
-      },
-      {
-        "committee_id": "C00521013",
-        "committee_name": "FLORIDA FREEDOM PAC",
-        "amount": 599
       }
     ],
     "top_opposers": [
@@ -10466,23 +10550,29 @@
         "amount": 15000
       }
     ],
-    "fetched_at": "2026-08-28T21:16:41.599692+00:00"
+    "fetched_at": "2026-10-05T08:15:11.403765+00:00"
   },
   "Jared Moskowitz": {
     "candidate_ids_used": [
       "H2FL22171"
     ],
-    "total_supporting": 677896,
+    "total_supporting": 1237470,
     "total_opposing": 0,
     "cycles": [
       2022,
-      2024
+      2024,
+      2026
     ],
     "cycles_searched": [
       2022,
       2026
     ],
     "top_supporters": [
+      {
+        "committee_id": "C00923417",
+        "committee_name": "THINK BIG",
+        "amount": 309573
+      },
       {
         "committee_id": "C00801514",
         "committee_name": "PROTECT OUR FUTURE PAC",
@@ -10494,23 +10584,18 @@
         "amount": 255296
       },
       {
+        "committee_id": "C00859660",
+        "committee_name": "NEW DEMOCRAT MAJORITY",
+        "amount": 250000
+      },
+      {
         "committee_id": "C00804187",
         "committee_name": "WEB3 FORWARD",
         "amount": 159556
-      },
-      {
-        "committee_id": "C00521013",
-        "committee_name": "FLORIDA FREEDOM PAC",
-        "amount": 541
-      },
-      {
-        "committee_id": "C00802389",
-        "committee_name": "GIVEGREEN UNITED ACTION",
-        "amount": 55
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:16:47.060326+00:00"
+    "fetched_at": "2026-10-05T08:15:17.364117+00:00"
   },
   "Frederica Wilson": {
     "candidate_ids_used": [
@@ -10534,13 +10619,13 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:17:07.771851+00:00"
+    "fetched_at": "2026-10-05T08:15:34.366815+00:00"
   },
   "Debbie Wasserman Schultz": {
     "candidate_ids_used": [
       "H4FL20023"
     ],
-    "total_supporting": 693348,
+    "total_supporting": 1032548,
     "total_opposing": 114756,
     "cycles": [
       2006,
@@ -10565,9 +10650,14 @@
         "amount": 596056
       },
       {
+        "committee_id": "C00949248",
+        "committee_name": "PRO-CHOICE MAJORITY ACTION",
+        "amount": 250000
+      },
+      {
         "committee_id": "C00343459",
         "committee_name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC",
-        "amount": 72885
+        "amount": 162085
       },
       {
         "committee_id": "C00004036",
@@ -10578,11 +10668,6 @@
         "committee_id": "C00509463",
         "committee_name": "PROTECTING OUR VOTE PAC",
         "amount": 8870
-      },
-      {
-        "committee_id": "C00489799",
-        "committee_name": "PLANNED PARENTHOOD VOTES",
-        "amount": 2421
       }
     ],
     "top_opposers": [
@@ -10612,7 +10697,7 @@
         "amount": 5000
       }
     ],
-    "fetched_at": "2026-08-28T21:17:26.886084+00:00"
+    "fetched_at": "2026-10-05T08:15:55.007676+00:00"
   },
   "Sanford Bishop": {
     "candidate_ids_used": [
@@ -10688,7 +10773,7 @@
         "amount": 12002
       }
     ],
-    "fetched_at": "2026-08-28T21:17:54.711081+00:00"
+    "fetched_at": "2026-10-05T08:16:24.975486+00:00"
   },
   "Nikema Williams": {
     "candidate_ids_used": [
@@ -10733,7 +10818,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:18:01.533762+00:00"
+    "fetched_at": "2026-10-05T08:16:32.393200+00:00"
   },
   "Rich McCormick": {
     "candidate_ids_used": [
@@ -10804,7 +10889,7 @@
         "amount": 90000
       }
     ],
-    "fetched_at": "2026-08-28T21:18:11.204107+00:00"
+    "fetched_at": "2026-10-05T08:16:42.784964+00:00"
   },
   "Lucy McBath": {
     "candidate_ids_used": [
@@ -10871,13 +10956,13 @@
         "amount": 4988
       }
     ],
-    "fetched_at": "2026-08-28T21:18:22.179290+00:00"
+    "fetched_at": "2026-10-05T08:16:55.343097+00:00"
   },
   "Andrew Clyde": {
     "candidate_ids_used": [
       "H0GA09246"
     ],
-    "total_supporting": 120093,
+    "total_supporting": 120099,
     "total_opposing": 1073807,
     "cycles": [
       2020,
@@ -10898,7 +10983,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 44342
+        "amount": 44348
       },
       {
         "committee_id": "C00053553",
@@ -10917,7 +11002,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:18:36.103006+00:00"
+    "fetched_at": "2026-10-05T08:17:03.281511+00:00"
   },
   "Mike Collins": {
     "candidate_ids_used": [
@@ -10961,7 +11046,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:18:51.409730+00:00"
+    "fetched_at": "2026-10-05T08:17:15.291884+00:00"
   },
   "Barry Loudermilk": {
     "candidate_ids_used": [
@@ -11008,7 +11093,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:19:02.911443+00:00"
+    "fetched_at": "2026-10-05T08:17:27.711717+00:00"
   },
   "Rick Allen": {
     "candidate_ids_used": [
@@ -11082,7 +11167,7 @@
         "amount": 130272
       }
     ],
-    "fetched_at": "2026-08-28T21:19:33.153459+00:00"
+    "fetched_at": "2026-10-05T08:17:57.726661+00:00"
   },
   "David Scott": {
     "candidate_ids_used": [
@@ -11141,7 +11226,7 @@
         "amount": 56045
       }
     ],
-    "fetched_at": "2026-08-28T21:20:49.603100+00:00"
+    "fetched_at": "2026-10-05T08:18:19.675277+00:00"
   },
   "Ed Case": {
     "candidate_ids_used": [
@@ -11196,7 +11281,7 @@
         "amount": 33887
       }
     ],
-    "fetched_at": "2026-08-28T21:21:37.459674+00:00"
+    "fetched_at": "2026-10-05T08:19:00.105386+00:00"
   },
   "Jill Tokuda": {
     "candidate_ids_used": [
@@ -11252,13 +11337,13 @@
         "amount": 178488
       }
     ],
-    "fetched_at": "2026-08-28T21:21:42.719234+00:00"
+    "fetched_at": "2026-10-05T08:19:05.838531+00:00"
   },
   "Russ Fulcher": {
     "candidate_ids_used": [
       "H8ID01124"
     ],
-    "total_supporting": 601792,
+    "total_supporting": 601793,
     "total_opposing": 750,
     "cycles": [
       2018,
@@ -11305,7 +11390,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T21:21:51.673386+00:00"
+    "fetched_at": "2026-10-05T08:19:15.387848+00:00"
   },
   "Mike Simpson": {
     "candidate_ids_used": [
@@ -11384,7 +11469,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T21:22:40.929671+00:00"
+    "fetched_at": "2026-10-05T08:19:42.586323+00:00"
   },
   "Jonathan Jackson": {
     "candidate_ids_used": [
@@ -11422,7 +11507,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:22:46.134969+00:00"
+    "fetched_at": "2026-10-05T08:19:48.222544+00:00"
   },
   "Robin Kelly": {
     "candidate_ids_used": [
@@ -11472,7 +11557,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:23:02.321654+00:00"
+    "fetched_at": "2026-10-05T08:20:05.804680+00:00"
   },
   "Delia Ramirez": {
     "candidate_ids_used": [
@@ -11537,7 +11622,7 @@
         "amount": 29190
       }
     ],
-    "fetched_at": "2026-08-28T21:23:08.243015+00:00"
+    "fetched_at": "2026-10-05T08:20:11.737103+00:00"
   },
   "Mike Quigley": {
     "candidate_ids_used": [
@@ -11561,7 +11646,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:23:22.406421+00:00"
+    "fetched_at": "2026-10-05T08:20:35.010261+00:00"
   },
   "Sean Casten": {
     "candidate_ids_used": [
@@ -11634,7 +11719,7 @@
         "amount": 10000
       }
     ],
-    "fetched_at": "2026-08-28T21:23:33.203099+00:00"
+    "fetched_at": "2026-10-05T08:20:46.991944+00:00"
   },
   "Danny Davis": {
     "candidate_ids_used": [
@@ -11687,7 +11772,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:24:07.918320+00:00"
+    "fetched_at": "2026-10-05T08:21:24.490027+00:00"
   },
   "Raja Krishnamoorthi": {
     "candidate_ids_used": [
@@ -11757,7 +11842,7 @@
         "amount": 3750
       }
     ],
-    "fetched_at": "2026-08-28T21:24:20.013687+00:00"
+    "fetched_at": "2026-10-05T08:21:37.627055+00:00"
   },
   "Jan Schakowsky": {
     "candidate_ids_used": [
@@ -11824,7 +11909,7 @@
         "amount": 1032
       }
     ],
-    "fetched_at": "2026-08-28T21:25:19.980113+00:00"
+    "fetched_at": "2026-10-05T08:22:03.100104+00:00"
   },
   "Brad Schneider": {
     "candidate_ids_used": [
@@ -11900,7 +11985,7 @@
         "amount": 155725
       }
     ],
-    "fetched_at": "2026-08-28T21:25:50.432795+00:00"
+    "fetched_at": "2026-10-05T08:22:20.603649+00:00"
   },
   "Mike Bost": {
     "candidate_ids_used": [
@@ -11948,7 +12033,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:26:13.911150+00:00"
+    "fetched_at": "2026-10-05T08:22:44.356684+00:00"
   },
   "Nikki Budzinski": {
     "candidate_ids_used": [
@@ -11993,7 +12078,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:26:19.302440+00:00"
+    "fetched_at": "2026-10-05T08:22:50.107843+00:00"
   },
   "Lauren Underwood": {
     "candidate_ids_used": [
@@ -12066,13 +12151,13 @@
         "amount": 4999
       }
     ],
-    "fetched_at": "2026-08-28T21:26:29.093052+00:00"
+    "fetched_at": "2026-10-05T08:23:00.842139+00:00"
   },
   "Mary Miller": {
     "candidate_ids_used": [
       "H0IL15129"
     ],
-    "total_supporting": 2960731,
+    "total_supporting": 2960742,
     "total_opposing": 3560990,
     "cycles": [
       2020,
@@ -12103,7 +12188,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 50771
+        "amount": 50782
       },
       {
         "committee_id": "C00193441",
@@ -12138,7 +12223,7 @@
         "amount": 350793
       }
     ],
-    "fetched_at": "2026-08-28T21:26:37.648127+00:00"
+    "fetched_at": "2026-10-05T08:23:10.264703+00:00"
   },
   "Darin LaHood": {
     "candidate_ids_used": [
@@ -12160,7 +12245,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:26:47.525856+00:00"
+    "fetched_at": "2026-10-05T08:23:20.888705+00:00"
   },
   "Eric Sorensen": {
     "candidate_ids_used": [
@@ -12221,7 +12306,7 @@
         "amount": 86790
       }
     ],
-    "fetched_at": "2026-08-28T21:26:53.396727+00:00"
+    "fetched_at": "2026-10-05T08:23:26.975395+00:00"
   },
   "Frank Mrvan": {
     "candidate_ids_used": [
@@ -12293,7 +12378,7 @@
         "amount": 71410
       }
     ],
-    "fetched_at": "2026-08-28T21:27:00.575167+00:00"
+    "fetched_at": "2026-10-05T08:23:34.987743+00:00"
   },
   "Rudy Yakym": {
     "candidate_ids_used": [
@@ -12316,7 +12401,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:27:05.760251+00:00"
+    "fetched_at": "2026-10-05T08:23:40.742911+00:00"
   },
   "Marlin Stutzman": {
     "candidate_ids_used": [
@@ -12381,7 +12466,7 @@
         "amount": 392422
       }
     ],
-    "fetched_at": "2026-08-28T21:27:36.920684+00:00"
+    "fetched_at": "2026-10-05T08:24:14.497017+00:00"
   },
   "Jim Baird": {
     "candidate_ids_used": [
@@ -12438,7 +12523,7 @@
         "amount": 18678
       }
     ],
-    "fetched_at": "2026-08-28T21:27:45.166258+00:00"
+    "fetched_at": "2026-10-05T08:24:23.574789+00:00"
   },
   "Victoria Spartz": {
     "candidate_ids_used": [
@@ -12483,7 +12568,7 @@
         "amount": 20821
       }
     ],
-    "fetched_at": "2026-08-28T21:27:53.348106+00:00"
+    "fetched_at": "2026-10-05T08:24:32.326493+00:00"
   },
   "Jefferson Shreve": {
     "candidate_ids_used": [
@@ -12500,7 +12585,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:27:57.119902+00:00"
+    "fetched_at": "2026-10-05T08:24:36.375264+00:00"
   },
   "Mark Messmer": {
     "candidate_ids_used": [
@@ -12523,7 +12608,7 @@
         "amount": 77685
       }
     ],
-    "fetched_at": "2026-08-28T21:28:01.012099+00:00"
+    "fetched_at": "2026-10-05T08:24:40.777699+00:00"
   },
   "Erin Houchin": {
     "candidate_ids_used": [
@@ -12568,7 +12653,7 @@
         "amount": 38525
       }
     ],
-    "fetched_at": "2026-08-28T21:28:10.734036+00:00"
+    "fetched_at": "2026-10-05T08:24:51.249737+00:00"
   },
   "Zach Nunn": {
     "candidate_ids_used": [
@@ -12639,7 +12724,7 @@
         "amount": 68280
       }
     ],
-    "fetched_at": "2026-08-28T21:28:18.860256+00:00"
+    "fetched_at": "2026-10-05T08:25:00.241404+00:00"
   },
   "Randy Feenstra": {
     "candidate_ids_used": [
@@ -12684,14 +12769,14 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:28:25.910536+00:00"
+    "fetched_at": "2026-10-05T08:25:07.703470+00:00"
   },
   "Mariannette Miller-Meeks": {
     "candidate_ids_used": [
       "H8IA02043"
     ],
-    "total_supporting": 4183379,
-    "total_opposing": 15455233,
+    "total_supporting": 4371897,
+    "total_opposing": 15920876,
     "cycles": [
       2008,
       2010,
@@ -12709,7 +12794,7 @@
       {
         "committee_id": "C00687103",
         "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
-        "amount": 879248
+        "amount": 1049515
       },
       {
         "committee_id": "C00831404",
@@ -12744,6 +12829,11 @@
         "amount": 6364825
       },
       {
+        "committee_id": "C00492140",
+        "committee_name": "AB PAC",
+        "amount": 658890
+      },
+      {
         "committee_id": "C00011114",
         "committee_name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
         "amount": 469377
@@ -12752,14 +12842,9 @@
         "committee_id": "C00840702",
         "committee_name": "PRO-CHOICE WOMEN",
         "amount": 325000
-      },
-      {
-        "committee_id": "C00473918",
-        "committee_name": "WOMEN VOTE!",
-        "amount": 234599
       }
     ],
-    "fetched_at": "2026-08-28T21:28:43.976336+00:00"
+    "fetched_at": "2026-10-05T08:25:27.227483+00:00"
   },
   "Tracey Mann": {
     "candidate_ids_used": [
@@ -12816,7 +12901,7 @@
         "amount": 141
       }
     ],
-    "fetched_at": "2026-08-28T21:28:58.470794+00:00"
+    "fetched_at": "2026-10-05T08:25:43.093716+00:00"
   },
   "Sharice Davids": {
     "candidate_ids_used": [
@@ -12888,7 +12973,7 @@
         "amount": 302
       }
     ],
-    "fetched_at": "2026-08-28T21:29:09.370769+00:00"
+    "fetched_at": "2026-10-05T08:25:55.215681+00:00"
   },
   "Ron Estes": {
     "candidate_ids_used": [
@@ -12945,7 +13030,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T21:29:17.724302+00:00"
+    "fetched_at": "2026-10-05T08:26:04.256147+00:00"
   },
   "James Comer": {
     "candidate_ids_used": [
@@ -12996,7 +13081,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T21:29:27.378529+00:00"
+    "fetched_at": "2026-10-05T08:26:14.630724+00:00"
   },
   "Morgan McGarvey": {
     "candidate_ids_used": [
@@ -13040,7 +13125,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:29:32.641517+00:00"
+    "fetched_at": "2026-10-05T08:26:20.351497+00:00"
   },
   "Thomas Massie": {
     "candidate_ids_used": [
@@ -13116,7 +13201,7 @@
         "amount": 50000
       }
     ],
-    "fetched_at": "2026-08-28T21:29:53.828390+00:00"
+    "fetched_at": "2026-10-05T08:26:35.940424+00:00"
   },
   "Hal Rogers": {
     "candidate_ids_used": [
@@ -13183,7 +13268,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T21:30:30.727005+00:00"
+    "fetched_at": "2026-10-05T08:27:15.411364+00:00"
   },
   "Steve Scalise": {
     "candidate_ids_used": [
@@ -13233,13 +13318,13 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T21:30:52.370966+00:00"
+    "fetched_at": "2026-10-05T08:27:38.864518+00:00"
   },
   "Clay Higgins": {
     "candidate_ids_used": [
       "H6LA03148"
     ],
-    "total_supporting": 44508,
+    "total_supporting": 44509,
     "total_opposing": 378968,
     "cycles": [
       2016,
@@ -13272,7 +13357,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 2723
+        "amount": 2724
       },
       {
         "committee_id": "C00493221",
@@ -13307,7 +13392,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T21:31:02.524280+00:00"
+    "fetched_at": "2026-10-05T08:27:49.724268+00:00"
   },
   "Julia Letlow": {
     "candidate_ids_used": [
@@ -13349,7 +13434,7 @@
       {
         "committee_id": "C00821439",
         "committee_name": "MAHA PAC",
-        "amount": 209747
+        "amount": 164000
       }
     ],
     "top_opposers": [
@@ -13369,7 +13454,7 @@
         "amount": 1306
       }
     ],
-    "fetched_at": "2026-08-28T21:31:10.259178+00:00"
+    "fetched_at": "2026-10-05T08:27:58.068578+00:00"
   },
   "Troy Carter": {
     "candidate_ids_used": [
@@ -13398,7 +13483,7 @@
         "amount": 87950
       }
     ],
-    "fetched_at": "2026-08-28T21:31:15.584409+00:00"
+    "fetched_at": "2026-10-05T08:28:03.871823+00:00"
   },
   "Chellie Pingree": {
     "candidate_ids_used": [
@@ -13468,7 +13553,7 @@
         "amount": 832
       }
     ],
-    "fetched_at": "2026-08-28T21:31:55.705566+00:00"
+    "fetched_at": "2026-10-05T08:28:45.812145+00:00"
   },
   "Jared Golden": {
     "candidate_ids_used": [
@@ -13540,13 +13625,13 @@
         "amount": 473545
       }
     ],
-    "fetched_at": "2026-08-28T21:32:14.312956+00:00"
+    "fetched_at": "2026-10-05T08:29:06.207536+00:00"
   },
   "Andy Harris": {
     "candidate_ids_used": [
       "H8MD01094"
     ],
-    "total_supporting": 634022,
+    "total_supporting": 634068,
     "total_opposing": 3019491,
     "cycles": [
       2008,
@@ -13587,7 +13672,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 20675
+        "amount": 20720
       }
     ],
     "top_opposers": [
@@ -13617,7 +13702,7 @@
         "amount": 23629
       }
     ],
-    "fetched_at": "2026-08-28T21:32:38.417254+00:00"
+    "fetched_at": "2026-10-05T08:30:07.150230+00:00"
   },
   "Johnny Olszewski": {
     "candidate_ids_used": [
@@ -13657,7 +13742,7 @@
         "amount": 9
       }
     ],
-    "fetched_at": "2026-08-28T21:32:42.129600+00:00"
+    "fetched_at": "2026-10-05T08:30:11.162895+00:00"
   },
   "Sarah Elfreth": {
     "candidate_ids_used": [
@@ -13702,7 +13787,7 @@
         "amount": 9
       }
     ],
-    "fetched_at": "2026-08-28T21:32:54.226959+00:00"
+    "fetched_at": "2026-10-05T08:30:15.381959+00:00"
   },
   "Glenn Ivey": {
     "candidate_ids_used": [
@@ -13718,7 +13803,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:33:22.122912+00:00"
+    "fetched_at": "2026-10-05T08:30:34.622258+00:00"
   },
   "April McClain Delaney": {
     "candidate_ids_used": [
@@ -13762,7 +13847,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:33:25.983634+00:00"
+    "fetched_at": "2026-10-05T08:30:38.825398+00:00"
   },
   "Jamie Raskin": {
     "candidate_ids_used": [
@@ -13784,7 +13869,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:33:52.669528+00:00"
+    "fetched_at": "2026-10-05T08:30:49.481341+00:00"
   },
   "Richard Neal": {
     "candidate_ids_used": [
@@ -13856,7 +13941,7 @@
         "amount": 4104
       }
     ],
-    "fetched_at": "2026-08-28T21:34:23.603363+00:00"
+    "fetched_at": "2026-10-05T08:31:22.434838+00:00"
   },
   "Jim McGovern": {
     "candidate_ids_used": [
@@ -13917,7 +14002,7 @@
         "amount": 11310
       }
     ],
-    "fetched_at": "2026-08-28T21:34:50.259196+00:00"
+    "fetched_at": "2026-10-05T08:31:50.575495+00:00"
   },
   "Lori Trahan": {
     "candidate_ids_used": [
@@ -13935,23 +14020,50 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:35:08.321047+00:00"
+    "fetched_at": "2026-10-05T08:32:25.534375+00:00"
   },
   "Jake Auchincloss": {
     "candidate_ids_used": [
       "H0MA04192"
     ],
-    "total_supporting": 566272,
+    "total_supporting": 755800,
     "total_opposing": 443327,
     "cycles": [
       2020,
-      2024
+      2024,
+      2026
     ],
     "cycles_searched": [
       2020,
       2026
     ],
-    "top_supporters": [],
+    "top_supporters": [
+      {
+        "committee_id": "C00746792",
+        "committee_name": "EXPERIENCED LEADERSHIP MATTERS PAC",
+        "amount": 532621
+      },
+      {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 189527
+      },
+      {
+        "committee_id": "C00418897",
+        "committee_name": "VOTEVETS",
+        "amount": 14327
+      },
+      {
+        "committee_id": "C00831404",
+        "committee_name": "WITH HONOR FUND II, INC.",
+        "amount": 14279
+      },
+      {
+        "committee_id": "C00659011",
+        "committee_name": "WITH HONOR FUND, INC.",
+        "amount": 12000
+      }
+    ],
     "top_opposers": [
       {
         "committee_id": "C00473918",
@@ -13959,13 +14071,13 @@
         "amount": 443327
       }
     ],
-    "fetched_at": "2026-08-28T21:35:15.296140+00:00"
+    "fetched_at": "2026-10-05T08:32:32.922983+00:00"
   },
   "Katherine Clark": {
     "candidate_ids_used": [
       "H4MA05084"
     ],
-    "total_supporting": 143027,
+    "total_supporting": 141656,
     "total_opposing": 0,
     "cycles": [
       2014,
@@ -13981,11 +14093,6 @@
       2026
     ],
     "top_supporters": [
-      {
-        "committee_id": "C00678839",
-        "committee_name": "INDIVISIBLE ACTION",
-        "amount": 1371
-      },
       {
         "committee_id": "C90015140",
         "committee_name": "AFT SOLIDARITY",
@@ -14005,10 +14112,15 @@
         "committee_id": "C00135368",
         "committee_name": "SIERRA CLUB POLITICAL COMMITTEE",
         "amount": 40
+      },
+      {
+        "committee_id": "C00483693",
+        "committee_name": "SIERRA CLUB INDEPENDENT ACTION",
+        "amount": 40
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:35:29.869397+00:00"
+    "fetched_at": "2026-10-05T08:32:45.049257+00:00"
   },
   "Seth Moulton": {
     "candidate_ids_used": [
@@ -14016,7 +14128,7 @@
       "S6MA00296"
     ],
     "total_supporting": 1461386,
-    "total_opposing": 1165071,
+    "total_opposing": 2195951,
     "cycles": [
       2014,
       2016,
@@ -14061,7 +14173,7 @@
       {
         "committee_id": "C00933564",
         "committee_name": "COMMONWEALTH TOGETHER PAC",
-        "amount": 630000
+        "amount": 1660880
       },
       {
         "committee_id": "C00504530",
@@ -14079,7 +14191,7 @@
         "amount": 679
       }
     ],
-    "fetched_at": "2026-08-28T21:35:56.938078+00:00"
+    "fetched_at": "2026-10-05T08:33:02.229368+00:00"
   },
   "Ayanna Pressley": {
     "candidate_ids_used": [
@@ -14147,7 +14259,7 @@
         "amount": 4388
       }
     ],
-    "fetched_at": "2026-08-28T21:36:06.519829+00:00"
+    "fetched_at": "2026-10-05T08:33:11.655887+00:00"
   },
   "Stephen Lynch": {
     "candidate_ids_used": [
@@ -14155,11 +14267,12 @@
       "S0MA00083"
     ],
     "total_supporting": 4919,
-    "total_opposing": 35335,
+    "total_opposing": 249067,
     "cycles": [
       2002,
       2010,
-      2020
+      2020,
+      2026
     ],
     "cycles_searched": [
       2002,
@@ -14173,7 +14286,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:37:11.364598+00:00"
+    "fetched_at": "2026-10-05T08:33:51.167862+00:00"
   },
   "Bill Keating": {
     "candidate_ids_used": [
@@ -14237,7 +14350,7 @@
         "amount": 7396
       }
     ],
-    "fetched_at": "2026-08-28T21:37:25.508249+00:00"
+    "fetched_at": "2026-10-05T08:34:06.426860+00:00"
   },
   "John Moolenaar": {
     "candidate_ids_used": [
@@ -14266,7 +14379,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T21:37:37.177072+00:00"
+    "fetched_at": "2026-10-05T08:34:19.074676+00:00"
   },
   "Hillary Scholten": {
     "candidate_ids_used": [
@@ -14312,14 +14425,14 @@
         "amount": 108119
       }
     ],
-    "fetched_at": "2026-08-28T21:37:44.518811+00:00"
+    "fetched_at": "2026-10-05T08:34:27.417622+00:00"
   },
   "Bill Huizenga": {
     "candidate_ids_used": [
       "H0MI02094"
     ],
-    "total_supporting": 225349,
-    "total_opposing": 4948,
+    "total_supporting": 737346,
+    "total_opposing": 1139989,
     "cycles": [
       2010,
       2012,
@@ -14339,7 +14452,7 @@
       {
         "committee_id": "C00836221",
         "committee_name": "DEFEND AMERICAN JOBS",
-        "amount": 107352
+        "amount": 619349
       },
       {
         "committee_id": "C00806760",
@@ -14362,19 +14475,8 @@
         "amount": 7492
       }
     ],
-    "top_opposers": [
-      {
-        "committee_id": "C00486845",
-        "committee_name": "LCV VICTORY FUND",
-        "amount": 4086
-      },
-      {
-        "committee_id": "C90015025",
-        "committee_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
-        "amount": 861
-      }
-    ],
-    "fetched_at": "2026-08-28T21:37:59.213496+00:00"
+    "top_opposers": [],
+    "fetched_at": "2026-10-05T08:34:43.357558+00:00"
   },
   "Tim Walberg": {
     "candidate_ids_used": [
@@ -14453,7 +14555,7 @@
         "amount": 4005
       }
     ],
-    "fetched_at": "2026-08-28T21:38:26.526380+00:00"
+    "fetched_at": "2026-10-05T08:35:14.192404+00:00"
   },
   "Debbie Dingell": {
     "candidate_ids_used": [
@@ -14502,7 +14604,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:38:37.915349+00:00"
+    "fetched_at": "2026-10-05T08:35:26.531301+00:00"
   },
   "Lisa McClain": {
     "candidate_ids_used": [
@@ -14549,7 +14651,7 @@
         "amount": 801100
       }
     ],
-    "fetched_at": "2026-08-28T21:38:44.933288+00:00"
+    "fetched_at": "2026-10-05T08:35:34.080110+00:00"
   },
   "John James": {
     "candidate_ids_used": [
@@ -14622,15 +14724,15 @@
         "amount": 97453
       }
     ],
-    "fetched_at": "2026-08-28T21:39:11.973522+00:00"
+    "fetched_at": "2026-10-05T08:36:04.381864+00:00"
   },
   "Haley Stevens": {
     "candidate_ids_used": [
       "H8MI11254",
       "S6MI00426"
     ],
-    "total_supporting": 29268330,
-    "total_opposing": 4287078,
+    "total_supporting": 38924897,
+    "total_opposing": 4980089,
     "cycles": [
       2018,
       2020,
@@ -14644,14 +14746,14 @@
     ],
     "top_supporters": [
       {
-        "committee_id": "C00799031",
-        "committee_name": "UNITED DEMOCRACY PROJECT (UDP)",
-        "amount": 12341548
-      },
-      {
         "committee_id": "C00952259",
         "committee_name": "A STRONGER MICHIGAN",
-        "amount": 9649849
+        "amount": 17194928
+      },
+      {
+        "committee_id": "C00799031",
+        "committee_name": "UNITED DEMOCRACY PROJECT (UDP)",
+        "amount": 14421921
       },
       {
         "committee_id": "C00473918",
@@ -14681,6 +14783,11 @@
         "amount": 708340
       },
       {
+        "committee_id": "C00919373",
+        "committee_name": "FIGHTING FOR MICHIGAN PAC",
+        "amount": 693011
+      },
+      {
         "committee_id": "C00932723",
         "committee_name": "AMERICAN PRIORITIES (AP)",
         "amount": 204177
@@ -14689,14 +14796,9 @@
         "committee_id": "C00637512",
         "committee_name": "AMERICA FIRST ACTION, INC.",
         "amount": 118867
-      },
-      {
-        "committee_id": "C00606962",
-        "committee_name": "WFP NATIONAL PAC",
-        "amount": 108524
       }
     ],
-    "fetched_at": "2026-08-28T21:39:25.459740+00:00"
+    "fetched_at": "2026-10-05T08:36:20.865020+00:00"
   },
   "Rashida Tlaib": {
     "candidate_ids_used": [
@@ -14769,13 +14871,13 @@
         "amount": 11768
       }
     ],
-    "fetched_at": "2026-08-28T21:39:34.169697+00:00"
+    "fetched_at": "2026-10-05T08:36:30.544799+00:00"
   },
   "Shri Thanedar": {
     "candidate_ids_used": [
       "H2MI13204"
     ],
-    "total_supporting": 1024122,
+    "total_supporting": 2785777,
     "total_opposing": 2375729,
     "cycles": [
       2022,
@@ -14790,7 +14892,7 @@
       {
         "committee_id": "C00848440",
         "committee_name": "PROTECT PROGRESS",
-        "amount": 1010142
+        "amount": 2771797
       },
       {
         "committee_id": "C00030718",
@@ -14835,7 +14937,7 @@
         "amount": 14277
       }
     ],
-    "fetched_at": "2026-08-28T21:39:39.447555+00:00"
+    "fetched_at": "2026-10-05T08:36:36.291863+00:00"
   },
   "Brad Finstad": {
     "candidate_ids_used": [
@@ -14885,7 +14987,7 @@
         "amount": 1201
       }
     ],
-    "fetched_at": "2026-08-28T21:39:45.866456+00:00"
+    "fetched_at": "2026-10-05T08:36:43.353426+00:00"
   },
   "Kelly Morrison": {
     "candidate_ids_used": [
@@ -14923,7 +15025,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:39:49.632036+00:00"
+    "fetched_at": "2026-10-05T08:36:47.423583+00:00"
   },
   "Betty McCollum": {
     "candidate_ids_used": [
@@ -14978,7 +15080,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:40:11.785578+00:00"
+    "fetched_at": "2026-10-05T08:37:22.626796+00:00"
   },
   "Ilhan Omar": {
     "candidate_ids_used": [
@@ -15051,7 +15153,7 @@
         "amount": 16450
       }
     ],
-    "fetched_at": "2026-08-28T21:40:23.076719+00:00"
+    "fetched_at": "2026-10-05T08:37:35.183245+00:00"
   },
   "Tom Emmer": {
     "candidate_ids_used": [
@@ -15100,7 +15202,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:40:34.382177+00:00"
+    "fetched_at": "2026-10-05T08:37:47.474441+00:00"
   },
   "Michelle Fischbach": {
     "candidate_ids_used": [
@@ -15172,7 +15274,7 @@
         "amount": 342
       }
     ],
-    "fetched_at": "2026-08-28T21:40:42.612628+00:00"
+    "fetched_at": "2026-10-05T08:37:56.173184+00:00"
   },
   "Pete Stauber": {
     "candidate_ids_used": [
@@ -15244,7 +15346,7 @@
         "amount": 3375
       }
     ],
-    "fetched_at": "2026-08-28T21:40:51.017995+00:00"
+    "fetched_at": "2026-10-05T08:38:05.296539+00:00"
   },
   "Bennie Thompson": {
     "candidate_ids_used": [
@@ -15302,7 +15404,7 @@
         "amount": 183
       }
     ],
-    "fetched_at": "2026-08-28T21:41:18.870261+00:00"
+    "fetched_at": "2026-10-05T08:38:33.573941+00:00"
   },
   "Michael Guest": {
     "candidate_ids_used": [
@@ -15335,7 +15437,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:41:26.997600+00:00"
+    "fetched_at": "2026-10-05T08:38:42.342868+00:00"
   },
   "Jason Smith": {
     "candidate_ids_used": [
@@ -15362,7 +15464,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T21:41:38.651113+00:00"
+    "fetched_at": "2026-10-05T08:38:54.501877+00:00"
   },
   "Ann Wagner": {
     "candidate_ids_used": [
@@ -15411,7 +15513,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T21:41:52.054800+00:00"
+    "fetched_at": "2026-10-05T08:39:09.106965+00:00"
   },
   "Mark Alford": {
     "candidate_ids_used": [
@@ -15450,13 +15552,13 @@
         "amount": 692829
       }
     ],
-    "fetched_at": "2026-08-28T21:41:57.287376+00:00"
+    "fetched_at": "2026-10-05T08:39:14.768928+00:00"
   },
   "Emanuel Cleaver": {
     "candidate_ids_used": [
       "H4MO05234"
     ],
-    "total_supporting": 36564,
+    "total_supporting": 36574,
     "total_opposing": 163248,
     "cycles": [
       2004,
@@ -15467,7 +15569,8 @@
       2018,
       2020,
       2022,
-      2024
+      2024,
+      2026
     ],
     "cycles_searched": [
       2004,
@@ -15507,7 +15610,7 @@
         "amount": 163247
       }
     ],
-    "fetched_at": "2026-08-28T21:42:16.074986+00:00"
+    "fetched_at": "2026-10-05T08:39:35.213986+00:00"
   },
   "Sam Graves": {
     "candidate_ids_used": [
@@ -15577,13 +15680,13 @@
         "amount": 134
       }
     ],
-    "fetched_at": "2026-08-28T21:42:38.101034+00:00"
+    "fetched_at": "2026-10-05T08:39:59.107094+00:00"
   },
   "Eric Burlison": {
     "candidate_ids_used": [
       "H2MO07143"
     ],
-    "total_supporting": 723337,
+    "total_supporting": 723339,
     "total_opposing": 663016,
     "cycles": [
       2022,
@@ -15608,7 +15711,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 81367
+        "amount": 81369
       },
       {
         "committee_id": "C00820308",
@@ -15628,15 +15731,15 @@
         "amount": 663015
       }
     ],
-    "fetched_at": "2026-08-28T21:42:45.052382+00:00"
+    "fetched_at": "2026-10-05T08:40:06.468236+00:00"
   },
   "Wesley Bell": {
     "candidate_ids_used": [
       "H4MO01134",
       "S4MO00250"
     ],
-    "total_supporting": 4632158,
-    "total_opposing": 1075162,
+    "total_supporting": 5567784,
+    "total_opposing": 1102522,
     "cycles": [
       2024,
       2026
@@ -15649,7 +15752,7 @@
       {
         "committee_id": "C00799031",
         "committee_name": "UNITED DEMOCRACY PROJECT ('UDP')",
-        "amount": 3356279
+        "amount": 4041905
       },
       {
         "committee_id": "C00710848",
@@ -15662,34 +15765,18 @@
         "amount": 401744
       },
       {
+        "committee_id": "C00871368",
+        "committee_name": "PROJECT 218",
+        "amount": 250000
+      },
+      {
         "committee_id": "C00882431",
         "committee_name": "EMPOWERING BLACK AMERICANS PAC",
         "amount": 184259
-      },
-      {
-        "committee_id": "C00859611",
-        "committee_name": "RING THE BELL",
-        "amount": 114349
       }
     ],
-    "top_opposers": [
-      {
-        "committee_id": "C00630665",
-        "committee_name": "JUSTICE DEMOCRATS PAC",
-        "amount": 655005
-      },
-      {
-        "committee_id": "C00606962",
-        "committee_name": "WORKING FAMILIES PARTY PAC",
-        "amount": 410625
-      },
-      {
-        "committee_id": "C00489799",
-        "committee_name": "PLANNED PARENTHOOD VOTES",
-        "amount": 19064
-      }
-    ],
-    "fetched_at": "2026-08-28T21:42:52.860978+00:00"
+    "top_opposers": [],
+    "fetched_at": "2026-10-05T08:40:14.859057+00:00"
   },
   "Ryan Zinke": {
     "candidate_ids_used": [
@@ -15761,7 +15848,7 @@
         "amount": 9624
       }
     ],
-    "fetched_at": "2026-08-28T21:43:09.362648+00:00"
+    "fetched_at": "2026-10-05T08:40:31.011714+00:00"
   },
   "Mike Flood": {
     "candidate_ids_used": [
@@ -15805,7 +15892,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:43:14.653062+00:00"
+    "fetched_at": "2026-10-05T08:40:36.736525+00:00"
   },
   "Don Bacon": {
     "candidate_ids_used": [
@@ -15879,7 +15966,7 @@
         "amount": 310988
       }
     ],
-    "fetched_at": "2026-08-28T21:43:45.144970+00:00"
+    "fetched_at": "2026-10-05T08:41:29.576370+00:00"
   },
   "Adrian Smith": {
     "candidate_ids_used": [
@@ -15945,7 +16032,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T21:44:19.817560+00:00"
+    "fetched_at": "2026-10-05T08:41:48.250501+00:00"
   },
   "Dina Titus": {
     "candidate_ids_used": [
@@ -16023,7 +16110,7 @@
         "amount": 1970
       }
     ],
-    "fetched_at": "2026-08-28T21:44:56.499584+00:00"
+    "fetched_at": "2026-10-05T08:42:29.707190+00:00"
   },
   "Mark Amodei": {
     "candidate_ids_used": [
@@ -16099,7 +16186,7 @@
         "amount": 141
       }
     ],
-    "fetched_at": "2026-08-28T21:46:04.426661+00:00"
+    "fetched_at": "2026-10-05T08:43:22.687743+00:00"
   },
   "Susie Lee": {
     "candidate_ids_used": [
@@ -16172,13 +16259,13 @@
         "amount": 1552
       }
     ],
-    "fetched_at": "2026-08-28T21:46:20.709087+00:00"
+    "fetched_at": "2026-10-05T08:43:40.804808+00:00"
   },
   "Steven Horsford": {
     "candidate_ids_used": [
       "H2NV04011"
     ],
-    "total_supporting": 9101684,
+    "total_supporting": 9101694,
     "total_opposing": 7811958,
     "cycles": [
       2012,
@@ -16247,7 +16334,7 @@
         "amount": 12500
       }
     ],
-    "fetched_at": "2026-08-28T21:46:45.861471+00:00"
+    "fetched_at": "2026-10-05T08:44:03.290034+00:00"
   },
   "Chris Pappas": {
     "candidate_ids_used": [
@@ -16255,7 +16342,7 @@
       "S6NH00141"
     ],
     "total_supporting": 985258,
-    "total_opposing": 9542841,
+    "total_opposing": 10266765,
     "cycles": [
       2018,
       2020,
@@ -16308,7 +16395,7 @@
       {
         "committee_id": "C00687103",
         "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
-        "amount": 504166
+        "amount": 1228089
       },
       {
         "committee_id": "C90021742",
@@ -16321,7 +16408,7 @@
         "amount": 69749
       }
     ],
-    "fetched_at": "2026-08-28T21:47:00.912972+00:00"
+    "fetched_at": "2026-10-05T08:44:19.362986+00:00"
   },
   "Donald Norcross": {
     "candidate_ids_used": [
@@ -16370,7 +16457,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:47:20.113652+00:00"
+    "fetched_at": "2026-10-05T08:44:31.851366+00:00"
   },
   "Jefferson Van Drew": {
     "candidate_ids_used": [
@@ -16441,7 +16528,7 @@
         "amount": 74301
       }
     ],
-    "fetched_at": "2026-08-28T21:47:28.560454+00:00"
+    "fetched_at": "2026-10-05T08:44:41.052315+00:00"
   },
   "Herb Conaway": {
     "candidate_ids_used": [
@@ -16485,7 +16572,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:47:47.119018+00:00"
+    "fetched_at": "2026-10-05T08:45:01.723199+00:00"
   },
   "Chris Smith": {
     "candidate_ids_used": [
@@ -16564,7 +16651,7 @@
         "amount": 27
       }
     ],
-    "fetched_at": "2026-08-28T21:48:34.222190+00:00"
+    "fetched_at": "2026-10-05T08:45:57.463909+00:00"
   },
   "Josh Gottheimer": {
     "candidate_ids_used": [
@@ -16627,7 +16714,7 @@
         "amount": 302
       }
     ],
-    "fetched_at": "2026-08-28T21:48:44.196476+00:00"
+    "fetched_at": "2026-10-05T08:46:08.503012+00:00"
   },
   "Frank Pallone": {
     "candidate_ids_used": [
@@ -16687,7 +16774,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:49:39.721022+00:00"
+    "fetched_at": "2026-10-05T08:47:00.123175+00:00"
   },
   "Rob Menendez": {
     "candidate_ids_used": [
@@ -16762,7 +16849,7 @@
         "amount": 49868
       }
     ],
-    "fetched_at": "2026-08-28T21:50:02.563466+00:00"
+    "fetched_at": "2026-10-05T08:47:24.913688+00:00"
   },
   "Mikie Sherrill": {
     "candidate_ids_used": [
@@ -16814,7 +16901,7 @@
         "amount": 16818
       }
     ],
-    "fetched_at": "2026-08-28T21:50:13.109600+00:00"
+    "fetched_at": "2026-10-05T08:47:36.579626+00:00"
   },
   "Bonnie Watson Coleman": {
     "candidate_ids_used": [
@@ -16836,7 +16923,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:50:24.481491+00:00"
+    "fetched_at": "2026-10-05T08:47:48.854098+00:00"
   },
   "Melanie Stansbury": {
     "candidate_ids_used": [
@@ -16866,7 +16953,7 @@
         "amount": 3700
       }
     ],
-    "fetched_at": "2026-08-28T21:50:29.899605+00:00"
+    "fetched_at": "2026-10-05T08:47:54.723151+00:00"
   },
   "Teresa Leger Fernandez": {
     "candidate_ids_used": [
@@ -16918,7 +17005,7 @@
         "amount": 9099
       }
     ],
-    "fetched_at": "2026-08-28T21:50:44.504569+00:00"
+    "fetched_at": "2026-10-05T08:48:18.399293+00:00"
   },
   "Nick LaLota": {
     "candidate_ids_used": [
@@ -16988,7 +17075,7 @@
         "amount": 4016
       }
     ],
-    "fetched_at": "2026-08-28T21:50:49.909719+00:00"
+    "fetched_at": "2026-10-05T08:48:24.424460+00:00"
   },
   "Andrew Garbarino": {
     "candidate_ids_used": [
@@ -17059,7 +17146,7 @@
         "amount": 238388
       }
     ],
-    "fetched_at": "2026-08-28T21:51:04.889568+00:00"
+    "fetched_at": "2026-10-05T08:48:32.416991+00:00"
   },
   "Tom Suozzi": {
     "candidate_ids_used": [
@@ -17133,7 +17220,7 @@
         "amount": 220
       }
     ],
-    "fetched_at": "2026-08-28T21:51:31.522266+00:00"
+    "fetched_at": "2026-10-05T08:48:47.205334+00:00"
   },
   "Gregory Meeks": {
     "candidate_ids_used": [
@@ -17185,7 +17272,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:51:54.584842+00:00"
+    "fetched_at": "2026-10-05T08:49:11.979358+00:00"
   },
   "Grace Meng": {
     "candidate_ids_used": [
@@ -17235,7 +17322,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:52:07.475393+00:00"
+    "fetched_at": "2026-10-05T08:49:25.744878+00:00"
   },
   "Hakeem Jeffries": {
     "candidate_ids_used": [
@@ -17285,7 +17372,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:52:24.299037+00:00"
+    "fetched_at": "2026-10-05T08:49:39.774470+00:00"
   },
   "Yvette Clarke": {
     "candidate_ids_used": [
@@ -17336,7 +17423,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:52:43.266542+00:00"
+    "fetched_at": "2026-10-05T08:49:59.866051+00:00"
   },
   "Dan Goldman": {
     "candidate_ids_used": [
@@ -17366,7 +17453,7 @@
         "amount": 1063
       }
     ],
-    "fetched_at": "2026-08-28T21:52:48.531049+00:00"
+    "fetched_at": "2026-10-05T08:50:06.130595+00:00"
   },
   "Nicole Malliotakis": {
     "candidate_ids_used": [
@@ -17438,14 +17525,14 @@
         "amount": 235636
       }
     ],
-    "fetched_at": "2026-08-28T21:52:56.146045+00:00"
+    "fetched_at": "2026-10-05T08:50:13.668833+00:00"
   },
   "Adriano Espaillat": {
     "candidate_ids_used": [
       "H2NY13096"
     ],
     "total_supporting": 5672907,
-    "total_opposing": 1035116,
+    "total_opposing": 1038521,
     "cycles": [
       2016,
       2018,
@@ -17499,10 +17586,10 @@
       {
         "committee_id": "C00678839",
         "committee_name": "INDIVISIBLE ACTION",
-        "amount": 13620
+        "amount": 17025
       }
     ],
-    "fetched_at": "2026-08-28T21:53:09.039218+00:00"
+    "fetched_at": "2026-10-05T08:50:27.599371+00:00"
   },
   "Alexandria Ocasio-Cortez": {
     "candidate_ids_used": [
@@ -17575,13 +17662,13 @@
         "amount": 40723
       }
     ],
-    "fetched_at": "2026-08-28T21:53:20.210392+00:00"
+    "fetched_at": "2026-10-05T08:50:37.329989+00:00"
   },
   "Ritchie Torres": {
     "candidate_ids_used": [
       "H0NY15160"
     ],
-    "total_supporting": 4649385,
+    "total_supporting": 4679385,
     "total_opposing": 0,
     "cycles": [
       2020,
@@ -17607,7 +17694,7 @@
       {
         "committee_id": "C00550970",
         "committee_name": "EQUALITY PAC",
-        "amount": 603353
+        "amount": 633353
       },
       {
         "committee_id": "C90023326",
@@ -17621,7 +17708,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:53:39.222495+00:00"
+    "fetched_at": "2026-10-05T08:50:45.047852+00:00"
   },
   "George Latimer": {
     "candidate_ids_used": [
@@ -17680,14 +17767,14 @@
         "amount": 84325
       }
     ],
-    "fetched_at": "2026-08-28T21:53:43.094746+00:00"
+    "fetched_at": "2026-10-05T08:50:49.237567+00:00"
   },
   "Mike Lawler": {
     "candidate_ids_used": [
       "H2NY17162"
     ],
     "total_supporting": 3412409,
-    "total_opposing": 12043104,
+    "total_opposing": 12045524,
     "cycles": [
       2022,
       2024,
@@ -17751,7 +17838,7 @@
         "amount": 378485
       }
     ],
-    "fetched_at": "2026-08-28T21:53:49.937053+00:00"
+    "fetched_at": "2026-10-05T08:50:56.671828+00:00"
   },
   "Pat Ryan": {
     "candidate_ids_used": [
@@ -17823,7 +17910,7 @@
         "amount": 32690
       }
     ],
-    "fetched_at": "2026-08-28T21:54:00.266648+00:00"
+    "fetched_at": "2026-10-05T08:51:07.270615+00:00"
   },
   "Paul Tonko": {
     "candidate_ids_used": [
@@ -17874,7 +17961,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:54:16.130632+00:00"
+    "fetched_at": "2026-10-05T08:51:24.372486+00:00"
   },
   "Nick Langworthy": {
     "candidate_ids_used": [
@@ -17897,7 +17984,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:54:21.333526+00:00"
+    "fetched_at": "2026-10-05T08:51:31.044595+00:00"
   },
   "Joseph Morelle": {
     "candidate_ids_used": [
@@ -17949,7 +18036,7 @@
         "amount": 33050
       }
     ],
-    "fetched_at": "2026-08-28T21:54:36.233701+00:00"
+    "fetched_at": "2026-10-05T08:51:40.206229+00:00"
   },
   "Tim Kennedy": {
     "candidate_ids_used": [
@@ -17972,13 +18059,13 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:54:39.933465+00:00"
+    "fetched_at": "2026-10-05T08:51:47.676495+00:00"
   },
   "Don Davis": {
     "candidate_ids_used": [
       "H2NC02287"
     ],
-    "total_supporting": 4609774,
+    "total_supporting": 4637633,
     "total_opposing": 16919,
     "cycles": [
       2022,
@@ -18028,17 +18115,18 @@
         "amount": 619
       }
     ],
-    "fetched_at": "2026-08-28T21:54:45.353115+00:00"
+    "fetched_at": "2026-10-05T08:51:57.531790+00:00"
   },
   "Greg Murphy": {
     "candidate_ids_used": [
       "H0NC03172"
     ],
     "total_supporting": 68940,
-    "total_opposing": 725839,
+    "total_opposing": 1052400,
     "cycles": [
       2020,
-      2022
+      2022,
+      2026
     ],
     "cycles_searched": [
       2020,
@@ -18078,6 +18166,11 @@
         "amount": 558838
       },
       {
+        "committee_id": "C00492140",
+        "committee_name": "AB PAC",
+        "amount": 326560
+      },
+      {
         "committee_id": "C00530766",
         "committee_name": "WOMEN SPEAK OUT PAC",
         "amount": 163750
@@ -18093,14 +18186,14 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T21:54:52.259351+00:00"
+    "fetched_at": "2026-10-05T08:52:05.544252+00:00"
   },
   "Virginia Foxx": {
     "candidate_ids_used": [
       "H4NC05146"
     ],
     "total_supporting": 20775,
-    "total_opposing": 91734,
+    "total_opposing": 431692,
     "cycles": [
       2006,
       2008,
@@ -18110,7 +18203,8 @@
       2016,
       2018,
       2020,
-      2022
+      2022,
+      2026
     ],
     "cycles_searched": [
       2004,
@@ -18145,6 +18239,11 @@
     ],
     "top_opposers": [
       {
+        "committee_id": "C00492140",
+        "committee_name": "AB PAC",
+        "amount": 339958
+      },
+      {
         "committee_id": "C90021593",
         "committee_name": "REBUILD USA",
         "amount": 90865
@@ -18160,7 +18259,7 @@
         "amount": 7
       }
     ],
-    "fetched_at": "2026-08-28T21:55:15.556072+00:00"
+    "fetched_at": "2026-10-05T08:52:25.813024+00:00"
   },
   "David Rouzer": {
     "candidate_ids_used": [
@@ -18209,7 +18308,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:55:28.467829+00:00"
+    "fetched_at": "2026-10-05T08:52:41.403768+00:00"
   },
   "Tim Moore": {
     "candidate_ids_used": [
@@ -18238,7 +18337,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:55:32.214570+00:00"
+    "fetched_at": "2026-10-05T08:52:45.461857+00:00"
   },
   "Mark Harris": {
     "candidate_ids_used": [
@@ -18246,7 +18345,7 @@
       "S4NC00154",
       "H6NC09200"
     ],
-    "total_supporting": 231612,
+    "total_supporting": 231613,
     "total_opposing": 3224376,
     "cycles": [
       2014,
@@ -18262,7 +18361,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 75002
+        "amount": 75003
       },
       {
         "committee_id": "C00499020",
@@ -18312,20 +18411,21 @@
         "amount": 97575
       }
     ],
-    "fetched_at": "2026-08-28T21:55:58.934991+00:00"
+    "fetched_at": "2026-10-05T08:53:18.823261+00:00"
   },
   "Richard Hudson": {
     "candidate_ids_used": [
       "H2NC08185"
     ],
     "total_supporting": 378152,
-    "total_opposing": 2348182,
+    "total_opposing": 2714128,
     "cycles": [
       2012,
       2016,
       2018,
       2020,
-      2022
+      2022,
+      2026
     ],
     "cycles_searched": [
       2012,
@@ -18375,24 +18475,24 @@
         "amount": 402665
       },
       {
+        "committee_id": "C00492140",
+        "committee_name": "AB PAC",
+        "amount": 365945
+      },
+      {
         "committee_id": "C00486845",
         "committee_name": "LCV VICTORY FUND",
         "amount": 318370
-      },
-      {
-        "committee_id": "C00487470",
-        "committee_name": "CLUB FOR GROWTH ACTION",
-        "amount": 199913
       }
     ],
-    "fetched_at": "2026-08-28T21:56:12.109606+00:00"
+    "fetched_at": "2026-10-05T08:53:33.403961+00:00"
   },
   "Chuck Edwards": {
     "candidate_ids_used": [
       "H2NC14050"
     ],
     "total_supporting": 331883,
-    "total_opposing": 4086,
+    "total_opposing": 692976,
     "cycles": [
       2022,
       2024,
@@ -18429,14 +18529,8 @@
         "amount": 1405
       }
     ],
-    "top_opposers": [
-      {
-        "committee_id": "C00486845",
-        "committee_name": "LCV VICTORY FUND",
-        "amount": 4086
-      }
-    ],
-    "fetched_at": "2026-08-28T21:56:17.380748+00:00"
+    "top_opposers": [],
+    "fetched_at": "2026-10-05T08:53:39.291313+00:00"
   },
   "Alma Adams": {
     "candidate_ids_used": [
@@ -18491,7 +18585,7 @@
         "amount": 50000
       }
     ],
-    "fetched_at": "2026-08-28T21:56:28.910440+00:00"
+    "fetched_at": "2026-10-05T08:53:51.580491+00:00"
   },
   "Valerie Foushee": {
     "candidate_ids_used": [
@@ -18547,7 +18641,7 @@
         "amount": 23500
       }
     ],
-    "fetched_at": "2026-08-28T21:56:34.343489+00:00"
+    "fetched_at": "2026-10-05T08:53:57.431874+00:00"
   },
   "Greg Landsman": {
     "candidate_ids_used": [
@@ -18613,7 +18707,7 @@
         "amount": 46568
       }
     ],
-    "fetched_at": "2026-08-28T21:56:41.060713+00:00"
+    "fetched_at": "2026-10-05T08:54:05.031507+00:00"
   },
   "Joyce Beatty": {
     "candidate_ids_used": [
@@ -18663,13 +18757,13 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T21:56:53.756417+00:00"
+    "fetched_at": "2026-10-05T08:54:18.755447+00:00"
   },
   "Jim Jordan": {
     "candidate_ids_used": [
       "H6OH04082"
     ],
-    "total_supporting": 235099,
+    "total_supporting": 235733,
     "total_opposing": 102069,
     "cycles": [
       2006,
@@ -18692,7 +18786,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 106443
+        "amount": 106456
       },
       {
         "committee_id": "C00346536",
@@ -18742,7 +18836,7 @@
         "amount": 9166
       }
     ],
-    "fetched_at": "2026-08-28T21:57:13.361119+00:00"
+    "fetched_at": "2026-10-05T08:54:40.787651+00:00"
   },
   "Bob Latta": {
     "candidate_ids_used": [
@@ -18793,7 +18887,7 @@
         "amount": 413
       }
     ],
-    "fetched_at": "2026-08-28T21:57:46.381574+00:00"
+    "fetched_at": "2026-10-05T08:55:14.010075+00:00"
   },
   "Mike Carey": {
     "candidate_ids_used": [
@@ -18858,17 +18952,18 @@
         "amount": 14864
       }
     ],
-    "fetched_at": "2026-08-28T21:57:51.732313+00:00"
+    "fetched_at": "2026-10-05T08:55:19.758313+00:00"
   },
   "Max Miller": {
     "candidate_ids_used": [
       "H2OH16051"
     ],
     "total_supporting": 469169,
-    "total_opposing": 30149,
+    "total_opposing": 375566,
     "cycles": [
       2022,
-      2024
+      2024,
+      2026
     ],
     "cycles_searched": [
       2022,
@@ -18903,6 +18998,11 @@
     ],
     "top_opposers": [
       {
+        "committee_id": "C00492140",
+        "committee_name": "AB PAC",
+        "amount": 345417
+      },
+      {
         "committee_id": "C00888172",
         "committee_name": "MAHA ALLIANCE",
         "amount": 19250
@@ -18918,7 +19018,7 @@
         "amount": 1275
       }
     ],
-    "fetched_at": "2026-08-28T21:57:57.368749+00:00"
+    "fetched_at": "2026-10-05T08:55:25.803680+00:00"
   },
   "Warren Davidson": {
     "candidate_ids_used": [
@@ -18986,7 +19086,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T21:58:23.006410+00:00"
+    "fetched_at": "2026-10-05T08:55:38.273564+00:00"
   },
   "Marcy Kaptur": {
     "candidate_ids_used": [
@@ -19067,7 +19167,7 @@
         "amount": 161375
       }
     ],
-    "fetched_at": "2026-08-28T21:59:06.376021+00:00"
+    "fetched_at": "2026-10-05T08:56:19.430487+00:00"
   },
   "Michael Turner": {
     "candidate_ids_used": [
@@ -19137,7 +19237,7 @@
         "amount": 123
       }
     ],
-    "fetched_at": "2026-08-28T22:00:05.580326+00:00"
+    "fetched_at": "2026-10-05T08:57:03.278360+00:00"
   },
   "Emilia Sykes": {
     "candidate_ids_used": [
@@ -19208,14 +19308,14 @@
         "amount": 35250
       }
     ],
-    "fetched_at": "2026-08-28T22:00:13.501658+00:00"
+    "fetched_at": "2026-10-05T08:57:11.986747+00:00"
   },
   "Kevin Hern": {
     "candidate_ids_used": [
       "H8OK01157",
       "S6OK04247"
     ],
-    "total_supporting": 2117129,
+    "total_supporting": 2421160,
     "total_opposing": 348486,
     "cycles": [
       2018,
@@ -19238,19 +19338,19 @@
         "amount": 735613
       },
       {
+        "committee_id": "C00916692",
+        "committee_name": "AMERICAN MISSION",
+        "amount": 473518
+      },
+      {
         "committee_id": "C00915181",
         "committee_name": "FELLOWSHIP PAC",
         "amount": 300000
       },
       {
-        "committee_id": "C00916692",
-        "committee_name": "AMERICAN MISSION",
-        "amount": 220616
-      },
-      {
         "committee_id": "C00448696",
         "committee_name": "SENATE CONSERVATIVES FUND",
-        "amount": 52558
+        "amount": 78902
       }
     ],
     "top_opposers": [
@@ -19270,13 +19370,13 @@
         "amount": 19
       }
     ],
-    "fetched_at": "2026-08-28T22:00:24.347573+00:00"
+    "fetched_at": "2026-10-05T08:57:23.649761+00:00"
   },
   "Josh Brecheen": {
     "candidate_ids_used": [
       "H2OK02315"
     ],
-    "total_supporting": 2005182,
+    "total_supporting": 2005184,
     "total_opposing": 2124686,
     "cycles": [
       2022,
@@ -19321,7 +19421,7 @@
         "amount": 2124685
       }
     ],
-    "fetched_at": "2026-08-28T22:00:40.951519+00:00"
+    "fetched_at": "2026-10-05T08:57:30.094623+00:00"
   },
   "Frank Lucas": {
     "candidate_ids_used": [
@@ -19378,7 +19478,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T22:01:23.564958+00:00"
+    "fetched_at": "2026-10-05T08:58:05.224720+00:00"
   },
   "Tom Cole": {
     "candidate_ids_used": [
@@ -19431,7 +19531,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T22:01:47.665825+00:00"
+    "fetched_at": "2026-10-05T08:58:26.944856+00:00"
   },
   "Stephanie Bice": {
     "candidate_ids_used": [
@@ -19501,7 +19601,7 @@
         "amount": 8333
       }
     ],
-    "fetched_at": "2026-08-28T22:02:15.392699+00:00"
+    "fetched_at": "2026-10-05T08:58:35.843334+00:00"
   },
   "Suzanne Bonamici": {
     "candidate_ids_used": [
@@ -19550,7 +19650,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:02:28.419886+00:00"
+    "fetched_at": "2026-10-05T08:58:49.870009+00:00"
   },
   "Cliff Bentz": {
     "candidate_ids_used": [
@@ -19601,7 +19701,7 @@
         "amount": 1100
       }
     ],
-    "fetched_at": "2026-08-28T22:02:50.792802+00:00"
+    "fetched_at": "2026-10-05T08:58:57.145147+00:00"
   },
   "Maxine Dexter": {
     "candidate_ids_used": [
@@ -19624,7 +19724,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:02:54.513247+00:00"
+    "fetched_at": "2026-10-05T08:59:01.185768+00:00"
   },
   "Andrea Salinas": {
     "candidate_ids_used": [
@@ -19664,14 +19764,14 @@
         "amount": 100783
       }
     ],
-    "fetched_at": "2026-08-28T22:03:00.095457+00:00"
+    "fetched_at": "2026-10-05T08:59:07.250267+00:00"
   },
   "Brian Fitzpatrick": {
     "candidate_ids_used": [
       "H6PA08277"
     ],
     "total_supporting": 6204868,
-    "total_opposing": 11098304,
+    "total_opposing": 11098714,
     "cycles": [
       2016,
       2018,
@@ -19725,7 +19825,7 @@
       {
         "committee_id": "C00489799",
         "committee_name": "PLANNED PARENTHOOD VOTES",
-        "amount": 2058633
+        "amount": 2059042
       },
       {
         "committee_id": "C00875328",
@@ -19738,7 +19838,7 @@
         "amount": 78921
       }
     ],
-    "fetched_at": "2026-08-28T22:03:13.541651+00:00"
+    "fetched_at": "2026-10-05T08:59:20.351381+00:00"
   },
   "Brendan Boyle": {
     "candidate_ids_used": [
@@ -19803,7 +19903,7 @@
         "amount": 689
       }
     ],
-    "fetched_at": "2026-08-28T22:03:25.189680+00:00"
+    "fetched_at": "2026-10-05T08:59:33.206741+00:00"
   },
   "Dwight Evans": {
     "candidate_ids_used": [
@@ -19857,7 +19957,7 @@
         "amount": 705
       }
     ],
-    "fetched_at": "2026-08-28T22:03:35.118658+00:00"
+    "fetched_at": "2026-10-05T08:59:44.268483+00:00"
   },
   "Madeleine Dean": {
     "candidate_ids_used": [
@@ -19915,7 +20015,7 @@
         "amount": 705
       }
     ],
-    "fetched_at": "2026-08-28T22:03:43.815066+00:00"
+    "fetched_at": "2026-10-05T08:59:53.763434+00:00"
   },
   "Mary Gay Scanlon": {
     "candidate_ids_used": [
@@ -19968,7 +20068,7 @@
         "amount": 705
       }
     ],
-    "fetched_at": "2026-08-28T22:03:54.451481+00:00"
+    "fetched_at": "2026-10-05T09:00:03.364370+00:00"
   },
   "Chrissy Houlahan": {
     "candidate_ids_used": [
@@ -20021,7 +20121,7 @@
         "amount": 705
       }
     ],
-    "fetched_at": "2026-08-28T22:04:04.323152+00:00"
+    "fetched_at": "2026-10-05T09:00:14.389413+00:00"
   },
   "Dan Meuser": {
     "candidate_ids_used": [
@@ -20075,13 +20175,13 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:04:20.034234+00:00"
+    "fetched_at": "2026-10-05T09:00:31.801828+00:00"
   },
   "Scott Perry": {
     "candidate_ids_used": [
       "H2PA04135"
     ],
-    "total_supporting": 3307252,
+    "total_supporting": 3316445,
     "total_opposing": 11709053,
     "cycles": [
       2012,
@@ -20099,7 +20199,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 448353
+        "amount": 448298
       },
       {
         "committee_id": "C00662221",
@@ -20149,7 +20249,7 @@
         "amount": 112160
       }
     ],
-    "fetched_at": "2026-08-28T22:04:46.456589+00:00"
+    "fetched_at": "2026-10-05T09:01:03.338470+00:00"
   },
   "Lloyd Smucker": {
     "candidate_ids_used": [
@@ -20207,7 +20307,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:04:56.423414+00:00"
+    "fetched_at": "2026-10-05T09:01:19.614430+00:00"
   },
   "Summer Lee": {
     "candidate_ids_used": [
@@ -20268,7 +20368,7 @@
         "amount": 210
       }
     ],
-    "fetched_at": "2026-08-28T22:05:05.494164+00:00"
+    "fetched_at": "2026-10-05T09:01:30.888441+00:00"
   },
   "John Joyce": {
     "candidate_ids_used": [
@@ -20320,7 +20420,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:05:13.878497+00:00"
+    "fetched_at": "2026-10-05T09:01:40.077014+00:00"
   },
   "Guy Reschenthaler": {
     "candidate_ids_used": [
@@ -20378,7 +20478,7 @@
         "amount": 598
       }
     ],
-    "fetched_at": "2026-08-28T22:05:23.113436+00:00"
+    "fetched_at": "2026-10-05T09:01:49.542776+00:00"
   },
   "Glenn Thompson": {
     "candidate_ids_used": [
@@ -20423,7 +20523,7 @@
         "amount": 633
       }
     ],
-    "fetched_at": "2026-08-28T22:05:38.845680+00:00"
+    "fetched_at": "2026-10-05T09:02:08.178734+00:00"
   },
   "Mike Kelly": {
     "candidate_ids_used": [
@@ -20498,7 +20598,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T22:06:03.349484+00:00"
+    "fetched_at": "2026-10-05T09:03:18.014864+00:00"
   },
   "Chris Deluzio": {
     "candidate_ids_used": [
@@ -20569,7 +20669,7 @@
         "amount": 4
       }
     ],
-    "fetched_at": "2026-08-28T22:06:13.292140+00:00"
+    "fetched_at": "2026-10-05T09:03:29.133943+00:00"
   },
   "Seth Magaziner": {
     "candidate_ids_used": [
@@ -20608,7 +20708,7 @@
         "amount": 18470
       }
     ],
-    "fetched_at": "2026-08-28T22:06:18.914042+00:00"
+    "fetched_at": "2026-10-05T09:03:36.183524+00:00"
   },
   "Nancy Mace": {
     "candidate_ids_used": [
@@ -20681,7 +20781,7 @@
         "amount": 346145
       }
     ],
-    "fetched_at": "2026-08-28T22:06:44.925845+00:00"
+    "fetched_at": "2026-10-05T09:04:00.815172+00:00"
   },
   "Joe Wilson": {
     "candidate_ids_used": [
@@ -20741,7 +20841,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:07:12.736927+00:00"
+    "fetched_at": "2026-10-05T09:04:25.669808+00:00"
   },
   "William Timmons": {
     "candidate_ids_used": [
@@ -20788,7 +20888,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:07:21.040467+00:00"
+    "fetched_at": "2026-10-05T09:04:35.583009+00:00"
   },
   "Ralph Norman": {
     "candidate_ids_used": [
@@ -20851,7 +20951,7 @@
         "amount": 123
       }
     ],
-    "fetched_at": "2026-08-28T22:07:29.654097+00:00"
+    "fetched_at": "2026-10-05T09:04:45.533724+00:00"
   },
   "James Clyburn": {
     "candidate_ids_used": [
@@ -20875,7 +20975,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:07:57.067475+00:00"
+    "fetched_at": "2026-10-05T09:05:15.087119+00:00"
   },
   "Russell Fry": {
     "candidate_ids_used": [
@@ -20914,7 +21014,7 @@
         "amount": 345200
       }
     ],
-    "fetched_at": "2026-08-28T22:08:02.258913+00:00"
+    "fetched_at": "2026-10-05T09:05:20.705366+00:00"
   },
   "Dusty Johnson": {
     "candidate_ids_used": [
@@ -20981,13 +21081,13 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:08:10.519197+00:00"
+    "fetched_at": "2026-10-05T09:05:32.086148+00:00"
   },
   "Diana Harshbarger": {
     "candidate_ids_used": [
       "H0TN01118"
     ],
-    "total_supporting": 13836,
+    "total_supporting": 13837,
     "total_opposing": 381175,
     "cycles": [
       2020,
@@ -21002,7 +21102,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 13835
+        "amount": 13836
       }
     ],
     "top_opposers": [
@@ -21017,7 +21117,7 @@
         "amount": 15000
       }
     ],
-    "fetched_at": "2026-08-28T22:08:28.416430+00:00"
+    "fetched_at": "2026-10-05T09:05:39.605027+00:00"
   },
   "Tim Burchett": {
     "candidate_ids_used": [
@@ -21068,7 +21168,7 @@
         "amount": 123
       }
     ],
-    "fetched_at": "2026-08-28T22:08:36.617415+00:00"
+    "fetched_at": "2026-10-05T09:05:48.916742+00:00"
   },
   "Chuck Fleischmann": {
     "candidate_ids_used": [
@@ -21132,7 +21232,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:08:50.772276+00:00"
+    "fetched_at": "2026-10-05T09:06:04.181718+00:00"
   },
   "Scott DesJarlais": {
     "candidate_ids_used": [
@@ -21173,7 +21273,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 7420
+        "amount": 7421
       },
       {
         "committee_id": "C90011669",
@@ -21208,7 +21308,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:09:05.366798+00:00"
+    "fetched_at": "2026-10-05T09:06:20.091273+00:00"
   },
   "John Rose": {
     "candidate_ids_used": [
@@ -21253,7 +21353,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:09:13.703778+00:00"
+    "fetched_at": "2026-10-05T09:06:29.091725+00:00"
   },
   "David Kustoff": {
     "candidate_ids_used": [
@@ -21304,7 +21404,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:09:33.734229+00:00"
+    "fetched_at": "2026-10-05T09:06:52.463086+00:00"
   },
   "Steve Cohen": {
     "candidate_ids_used": [
@@ -21367,7 +21467,7 @@
         "amount": 15685
       }
     ],
-    "fetched_at": "2026-08-28T22:09:59.892788+00:00"
+    "fetched_at": "2026-10-05T09:07:25.488963+00:00"
   },
   "Nathaniel Moran": {
     "candidate_ids_used": [
@@ -21397,7 +21497,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:10:05.264320+00:00"
+    "fetched_at": "2026-10-05T09:07:31.247757+00:00"
   },
   "Keith Self": {
     "candidate_ids_used": [
@@ -21415,7 +21515,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:10:30.872756+00:00"
+    "fetched_at": "2026-10-05T09:07:58.838093+00:00"
   },
   "Pat Fallon": {
     "candidate_ids_used": [
@@ -21462,7 +21562,7 @@
         "amount": 18
       }
     ],
-    "fetched_at": "2026-08-28T22:10:38.773653+00:00"
+    "fetched_at": "2026-10-05T09:08:06.353970+00:00"
   },
   "Lance Gooden": {
     "candidate_ids_used": [
@@ -21530,7 +21630,7 @@
         "amount": 12
       }
     ],
-    "fetched_at": "2026-08-28T22:10:47.244733+00:00"
+    "fetched_at": "2026-10-05T09:08:15.575738+00:00"
   },
   "Jake Ellzey": {
     "candidate_ids_used": [
@@ -21587,7 +21687,7 @@
         "amount": 4687
       }
     ],
-    "fetched_at": "2026-08-28T22:10:55.691339+00:00"
+    "fetched_at": "2026-10-05T09:08:24.947837+00:00"
   },
   "Morgan Luttrell": {
     "candidate_ids_used": [
@@ -21647,7 +21747,7 @@
         "amount": 935
       }
     ],
-    "fetched_at": "2026-08-28T22:11:01.064031+00:00"
+    "fetched_at": "2026-10-05T09:08:30.794800+00:00"
   },
   "Michael McCaul": {
     "candidate_ids_used": [
@@ -21725,7 +21825,7 @@
         "amount": 10727
       }
     ],
-    "fetched_at": "2026-08-28T22:11:32.286396+00:00"
+    "fetched_at": "2026-10-05T09:09:02.746526+00:00"
   },
   "August Pfluger": {
     "candidate_ids_used": [
@@ -21771,7 +21871,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:11:39.101284+00:00"
+    "fetched_at": "2026-10-05T09:09:10.183736+00:00"
   },
   "Ronny Jackson": {
     "candidate_ids_used": [
@@ -21833,7 +21933,7 @@
         "amount": 4389
       }
     ],
-    "fetched_at": "2026-08-28T22:11:47.259691+00:00"
+    "fetched_at": "2026-10-05T09:09:19.035165+00:00"
   },
   "Randy Weber": {
     "candidate_ids_used": [
@@ -21883,18 +21983,19 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:12:00.316561+00:00"
+    "fetched_at": "2026-10-05T09:09:33.410400+00:00"
   },
   "Monica De La Cruz": {
     "candidate_ids_used": [
       "H0TX15124"
     ],
     "total_supporting": 2130803,
-    "total_opposing": 1606238,
+    "total_opposing": 1821238,
     "cycles": [
       2020,
       2022,
-      2024
+      2024,
+      2026
     ],
     "cycles_searched": [
       2020,
@@ -21939,6 +22040,11 @@
         "amount": 250000
       },
       {
+        "committee_id": "C00492140",
+        "committee_name": "AB PAC",
+        "amount": 215000
+      },
+      {
         "committee_id": "C90016973",
         "committee_name": "GREENPEACE, INC.",
         "amount": 19242
@@ -21947,14 +22053,9 @@
         "committee_id": "C90018045",
         "committee_name": "UNITED WE DREAM ACTION",
         "amount": 188
-      },
-      {
-        "committee_id": "C00489799",
-        "committee_name": "PLANNED PARENTHOOD VOTES",
-        "amount": 115
       }
     ],
-    "fetched_at": "2026-08-28T22:12:08.568139+00:00"
+    "fetched_at": "2026-10-05T09:09:43.317009+00:00"
   },
   "Veronica Escobar": {
     "candidate_ids_used": [
@@ -22005,7 +22106,7 @@
         "amount": 195606
       }
     ],
-    "fetched_at": "2026-08-28T22:12:33.533653+00:00"
+    "fetched_at": "2026-10-05T09:09:52.669628+00:00"
   },
   "Pete Sessions": {
     "candidate_ids_used": [
@@ -22089,7 +22190,7 @@
         "amount": 408276
       }
     ],
-    "fetched_at": "2026-08-28T22:13:03.604615+00:00"
+    "fetched_at": "2026-10-05T09:10:26.923137+00:00"
   },
   "Jodey Arrington": {
     "candidate_ids_used": [
@@ -22147,7 +22248,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:13:13.362294+00:00"
+    "fetched_at": "2026-10-05T09:10:37.558902+00:00"
   },
   "Joaquin Castro": {
     "candidate_ids_used": [
@@ -22169,7 +22270,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:13:26.158496+00:00"
+    "fetched_at": "2026-10-05T09:10:51.707178+00:00"
   },
   "Chip Roy": {
     "candidate_ids_used": [
@@ -22242,7 +22343,7 @@
         "amount": 25261
       }
     ],
-    "fetched_at": "2026-08-28T22:13:42.674488+00:00"
+    "fetched_at": "2026-10-05T09:11:15.324407+00:00"
   },
   "Troy Nehls": {
     "candidate_ids_used": [
@@ -22309,7 +22410,7 @@
         "amount": 110
       }
     ],
-    "fetched_at": "2026-08-28T22:13:50.709833+00:00"
+    "fetched_at": "2026-10-05T09:11:30.790634+00:00"
   },
   "Beth Van Duyne": {
     "candidate_ids_used": [
@@ -22381,7 +22482,7 @@
         "amount": 186614
       }
     ],
-    "fetched_at": "2026-08-28T22:13:59.511630+00:00"
+    "fetched_at": "2026-10-05T09:11:39.859872+00:00"
   },
   "Roger Williams": {
     "candidate_ids_used": [
@@ -22447,13 +22548,13 @@
         "amount": 123
       }
     ],
-    "fetched_at": "2026-08-28T22:14:24.907680+00:00"
+    "fetched_at": "2026-10-05T09:12:09.598341+00:00"
   },
   "Michael Cloud": {
     "candidate_ids_used": [
       "H8TX27049"
     ],
-    "total_supporting": 563009,
+    "total_supporting": 563010,
     "total_opposing": 750,
     "cycles": [
       2018,
@@ -22480,7 +22581,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 16458
+        "amount": 16459
       },
       {
         "committee_id": "C00540898",
@@ -22500,7 +22601,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:14:34.411772+00:00"
+    "fetched_at": "2026-10-05T09:12:19.298979+00:00"
   },
   "Henry Cuellar": {
     "candidate_ids_used": [
@@ -22577,7 +22678,7 @@
         "amount": 55624
       }
     ],
-    "fetched_at": "2026-08-28T22:15:02.279268+00:00"
+    "fetched_at": "2026-10-05T09:13:08.999305+00:00"
   },
   "Sylvia Garcia": {
     "candidate_ids_used": [
@@ -22624,7 +22725,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:15:10.826028+00:00"
+    "fetched_at": "2026-10-05T09:13:18.607037+00:00"
   },
   "Jasmine Crockett": {
     "candidate_ids_used": [
@@ -22686,7 +22787,7 @@
         "amount": 1935
       }
     ],
-    "fetched_at": "2026-08-28T22:15:18.833267+00:00"
+    "fetched_at": "2026-10-05T09:13:32.785334+00:00"
   },
   "John Carter": {
     "candidate_ids_used": [
@@ -22766,7 +22867,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:15:39.487970+00:00"
+    "fetched_at": "2026-10-05T09:13:55.619115+00:00"
   },
   "Marc Veasey": {
     "candidate_ids_used": [
@@ -22814,14 +22915,14 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:15:52.406141+00:00"
+    "fetched_at": "2026-10-05T09:14:09.642651+00:00"
   },
   "Vicente Gonzalez": {
     "candidate_ids_used": [
       "H6TX15162"
     ],
     "total_supporting": 1271009,
-    "total_opposing": 6743620,
+    "total_opposing": 6788670,
     "cycles": [
       2018,
       2020,
@@ -22882,12 +22983,12 @@
         "amount": 58410
       },
       {
-        "committee_id": "C00680314",
-        "committee_name": "C3 PAC",
-        "amount": 10000
+        "committee_id": "C00687103",
+        "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "amount": 48988
       }
     ],
-    "fetched_at": "2026-08-28T22:16:08.893734+00:00"
+    "fetched_at": "2026-10-05T09:14:21.000475+00:00"
   },
   "Greg Casar": {
     "candidate_ids_used": [
@@ -22932,7 +23033,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:16:15.377060+00:00"
+    "fetched_at": "2026-10-05T09:14:28.550337+00:00"
   },
   "Brian Babin": {
     "candidate_ids_used": [
@@ -22998,7 +23099,7 @@
         "amount": 500
       }
     ],
-    "fetched_at": "2026-08-28T22:16:42.235284+00:00"
+    "fetched_at": "2026-10-05T09:14:55.539849+00:00"
   },
   "Lloyd Doggett": {
     "candidate_ids_used": [
@@ -23054,7 +23155,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:18:01.354757+00:00"
+    "fetched_at": "2026-10-05T09:15:59.799724+00:00"
   },
   "Wesley Hunt": {
     "candidate_ids_used": [
@@ -23127,7 +23228,7 @@
         "amount": 267212
       }
     ],
-    "fetched_at": "2026-08-28T22:18:18.348523+00:00"
+    "fetched_at": "2026-10-05T09:16:12.134174+00:00"
   },
   "Celeste Maloy": {
     "candidate_ids_used": [
@@ -23192,7 +23293,7 @@
         "amount": 8000
       }
     ],
-    "fetched_at": "2026-08-28T22:18:22.238941+00:00"
+    "fetched_at": "2026-10-05T09:16:16.514265+00:00"
   },
   "Burgess Owens": {
     "candidate_ids_used": [
@@ -23257,7 +23358,7 @@
         "amount": 8000
       }
     ],
-    "fetched_at": "2026-08-28T22:18:30.410495+00:00"
+    "fetched_at": "2026-10-05T09:16:27.227244+00:00"
   },
   "Becca Balint": {
     "candidate_ids_used": [
@@ -23302,14 +23403,14 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:18:35.740387+00:00"
+    "fetched_at": "2026-10-05T09:16:33.031082+00:00"
   },
   "Rob Wittman": {
     "candidate_ids_used": [
       "H8VA01147"
     ],
     "total_supporting": 66008,
-    "total_opposing": 5698,
+    "total_opposing": 829850,
     "cycles": [
       2008,
       2012,
@@ -23327,11 +23428,6 @@
     "top_supporters": [],
     "top_opposers": [
       {
-        "committee_id": "C00486845",
-        "committee_name": "LCV VICTORY FUND",
-        "amount": 4086
-      },
-      {
         "committee_id": "C90015025",
         "committee_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
         "amount": 861
@@ -23342,13 +23438,13 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:18:51.456540+00:00"
+    "fetched_at": "2026-10-05T09:16:52.821811+00:00"
   },
   "Jen Kiggans": {
     "candidate_ids_used": [
       "H2VA02064"
     ],
-    "total_supporting": 3739431,
+    "total_supporting": 3759431,
     "total_opposing": 7192914,
     "cycles": [
       2022,
@@ -23413,7 +23509,7 @@
         "amount": 150000
       }
     ],
-    "fetched_at": "2026-08-28T22:18:59.144357+00:00"
+    "fetched_at": "2026-10-05T09:17:02.375077+00:00"
   },
   "Bob Good": {
     "candidate_ids_used": [
@@ -23451,13 +23547,13 @@
         "amount": 25
       }
     ],
-    "fetched_at": "2026-08-28T22:19:35.002478+00:00"
+    "fetched_at": "2026-10-05T09:17:40.146694+00:00"
   },
   "Ben Cline": {
     "candidate_ids_used": [
       "H8VA06104"
     ],
-    "total_supporting": 22342,
+    "total_supporting": 22368,
     "total_opposing": 5916,
     "cycles": [
       2018,
@@ -23474,7 +23570,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 14460
+        "amount": 14486
       },
       {
         "committee_id": "C90011891",
@@ -23483,7 +23579,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:19:50.855222+00:00"
+    "fetched_at": "2026-10-05T09:17:49.868765+00:00"
   },
   "Don Beyer": {
     "candidate_ids_used": [
@@ -23531,13 +23627,13 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:20:02.086132+00:00"
+    "fetched_at": "2026-10-05T09:18:02.544934+00:00"
   },
   "Suzan DelBene": {
     "candidate_ids_used": [
       "H0WA08046"
     ],
-    "total_supporting": 50198,
+    "total_supporting": 163318,
     "total_opposing": 196606,
     "cycles": [
       2010,
@@ -23555,6 +23651,11 @@
       2026
     ],
     "top_supporters": [
+      {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 113120
+      },
       {
         "committee_id": "C90014119",
         "committee_name": "PLANNED PARENTHOOD VOTES NORTHWEST",
@@ -23574,11 +23675,6 @@
         "committee_id": "C90005471",
         "committee_name": "PLANNED PARENTHOOD ACTION FUND INC",
         "amount": 5529
-      },
-      {
-        "committee_id": "C90013764",
-        "committee_name": "WORKING WAHINGTON PAC",
-        "amount": 4575
       }
     ],
     "top_opposers": [
@@ -23588,7 +23684,7 @@
         "amount": 196606
       }
     ],
-    "fetched_at": "2026-08-28T22:20:30.770379+00:00"
+    "fetched_at": "2026-10-05T09:18:18.841106+00:00"
   },
   "Rick Larsen": {
     "candidate_ids_used": [
@@ -23667,17 +23763,18 @@
         "amount": 1155
       }
     ],
-    "fetched_at": "2026-08-28T22:20:53.113646+00:00"
+    "fetched_at": "2026-10-05T09:18:42.769473+00:00"
   },
   "Marie Gluesenkamp Perez": {
     "candidate_ids_used": [
       "H2WA03217"
     ],
-    "total_supporting": 2204882,
+    "total_supporting": 2218150,
     "total_opposing": 4466668,
     "cycles": [
       2022,
-      2024
+      2024,
+      2026
     ],
     "cycles_searched": [
       2022,
@@ -23692,7 +23789,7 @@
       {
         "committee_id": "C00786830",
         "committee_name": "WELCOMEPAC",
-        "amount": 386949
+        "amount": 400216
       },
       {
         "committee_id": "C00873679",
@@ -23732,7 +23829,7 @@
         "amount": 1000
       }
     ],
-    "fetched_at": "2026-08-28T22:20:58.615851+00:00"
+    "fetched_at": "2026-10-05T09:18:48.861553+00:00"
   },
   "Dan Newhouse": {
     "candidate_ids_used": [
@@ -23806,7 +23903,7 @@
         "amount": 12500
       }
     ],
-    "fetched_at": "2026-08-28T22:21:10.557942+00:00"
+    "fetched_at": "2026-10-05T09:19:23.878609+00:00"
   },
   "Pramila Jayapal": {
     "candidate_ids_used": [
@@ -23828,13 +23925,13 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:21:20.808892+00:00"
+    "fetched_at": "2026-10-05T09:19:35.064912+00:00"
   },
   "Kim Schrier": {
     "candidate_ids_used": [
       "H8WA08189"
     ],
-    "total_supporting": 4914159,
+    "total_supporting": 5019199,
     "total_opposing": 12029280,
     "cycles": [
       2018,
@@ -23859,6 +23956,11 @@
         "amount": 397491
       },
       {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 105040
+      },
+      {
         "committee_id": "C90009358",
         "committee_name": "HUMANE SOCIETY LEGISLATIVE FUND",
         "amount": 76895
@@ -23867,11 +23969,6 @@
         "committee_id": "C00742080",
         "committee_name": "PLANNED PARENTHOOD ALLIANCE PAC , SERVING WA, AK, ID, HI, IN, KY",
         "amount": 50801
-      },
-      {
-        "committee_id": "C00140061",
-        "committee_name": "NATIONAL EMERGENCY MEDICINE POLITICAL ACTION COMMITTEE / AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
-        "amount": 48423
       }
     ],
     "top_opposers": [
@@ -23891,13 +23988,13 @@
         "amount": 15000
       }
     ],
-    "fetched_at": "2026-08-28T22:21:33.676106+00:00"
+    "fetched_at": "2026-10-05T09:19:52.151653+00:00"
   },
   "Marilyn Strickland": {
     "candidate_ids_used": [
       "H0WA10034"
     ],
-    "total_supporting": 154911,
+    "total_supporting": 546045,
     "total_opposing": 310749,
     "cycles": [
       2020,
@@ -23909,16 +24006,42 @@
       2020,
       2026
     ],
-    "top_supporters": [],
+    "top_supporters": [
+      {
+        "committee_id": "C00923417",
+        "committee_name": "THINK BIG",
+        "amount": 288113
+      },
+      {
+        "committee_id": "C00848440",
+        "committee_name": "PROTECT PROGRESS",
+        "amount": 103020
+      },
+      {
+        "committee_id": "C00592808",
+        "committee_name": "THE COLLECTIVE SUPER PAC",
+        "amount": 70333
+      },
+      {
+        "committee_id": "C00147512",
+        "committee_name": "CONGRESSIONAL BLACK CAUCUS PAC",
+        "amount": 46800
+      },
+      {
+        "committee_id": "C00030718",
+        "committee_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+        "amount": 34629
+      }
+    ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:21:40.502310+00:00"
+    "fetched_at": "2026-10-05T09:19:59.805712+00:00"
   },
   "Carol Miller": {
     "candidate_ids_used": [
       "H8WV03097"
     ],
-    "total_supporting": 92909,
-    "total_opposing": 1966879,
+    "total_supporting": 118424,
+    "total_opposing": 1965801,
     "cycles": [
       2018,
       2020,
@@ -23942,6 +24065,11 @@
         "amount": 26351
       },
       {
+        "committee_id": "C00608943",
+        "committee_name": "CLEARPATH ACTION FUND, INC.",
+        "amount": 25515
+      },
+      {
         "committee_id": "C00053553",
         "committee_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
         "amount": 7544
@@ -23950,11 +24078,6 @@
         "committee_id": "C90011313",
         "committee_name": "SUSAN B ANTHONY LIST INC",
         "amount": 4153
-      },
-      {
-        "committee_id": "C00157537",
-        "committee_name": "WEST VIRGINIANS FOR LIFE INC POLITICAL ACTION COMMITTEE",
-        "amount": 2924
       }
     ],
     "top_opposers": [
@@ -23976,10 +24099,10 @@
       {
         "committee_id": "C00839894",
         "committee_name": "TURN LEFT PAC",
-        "amount": 2154
+        "amount": 1077
       }
     ],
-    "fetched_at": "2026-08-28T22:21:49.431139+00:00"
+    "fetched_at": "2026-10-05T09:20:10.000022+00:00"
   },
   "Bryan Steil": {
     "candidate_ids_used": [
@@ -24036,7 +24159,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:21:57.763044+00:00"
+    "fetched_at": "2026-10-05T09:20:19.045949+00:00"
   },
   "Mark Pocan": {
     "candidate_ids_used": [
@@ -24092,13 +24215,13 @@
         "amount": 1754
       }
     ],
-    "fetched_at": "2026-08-28T22:22:10.757761+00:00"
+    "fetched_at": "2026-10-05T09:20:33.293932+00:00"
   },
   "Derrick Van Orden": {
     "candidate_ids_used": [
       "H0WI03175"
     ],
-    "total_supporting": 1507115,
+    "total_supporting": 1527115,
     "total_opposing": 7841214,
     "cycles": [
       2020,
@@ -24164,7 +24287,7 @@
         "amount": 556013
       }
     ],
-    "fetched_at": "2026-08-28T22:22:19.392177+00:00"
+    "fetched_at": "2026-10-05T09:20:43.347412+00:00"
   },
   "Gwen Moore": {
     "candidate_ids_used": [
@@ -24218,7 +24341,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:23:01.221348+00:00"
+    "fetched_at": "2026-10-05T09:21:06.048822+00:00"
   },
   "Scott Fitzgerald": {
     "candidate_ids_used": [
@@ -24263,7 +24386,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:23:14.672361+00:00"
+    "fetched_at": "2026-10-05T09:21:22.205688+00:00"
   },
   "Glenn Grothman": {
     "candidate_ids_used": [
@@ -24331,7 +24454,7 @@
         "amount": 369
       }
     ],
-    "fetched_at": "2026-08-28T22:23:25.880167+00:00"
+    "fetched_at": "2026-10-05T09:21:57.290352+00:00"
   },
   "Tom Tiffany": {
     "candidate_ids_used": [
@@ -24388,14 +24511,14 @@
         "amount": 123
       }
     ],
-    "fetched_at": "2026-08-28T22:23:34.040512+00:00"
+    "fetched_at": "2026-10-05T09:22:06.836738+00:00"
   },
   "Harriet Hageman": {
     "candidate_ids_used": [
       "H2WY00166",
       "S6WY00209"
     ],
-    "total_supporting": 1678231,
+    "total_supporting": 2578517,
     "total_opposing": 452501,
     "cycles": [
       2022,
@@ -24413,6 +24536,16 @@
         "amount": 803539
       },
       {
+        "committee_id": "C00836221",
+        "committee_name": "DEFEND AMERICAN JOBS",
+        "amount": 515838
+      },
+      {
+        "committee_id": "C00916692",
+        "committee_name": "AMERICAN MISSION",
+        "amount": 333254
+      },
+      {
         "committee_id": "C00487470",
         "committee_name": "CLUB FOR GROWTH ACTION",
         "amount": 313844
@@ -24421,16 +24554,6 @@
         "committee_id": "C00662221",
         "committee_name": "HOUSE FREEDOM ACTION",
         "amount": 230206
-      },
-      {
-        "committee_id": "C00448696",
-        "committee_name": "SENATE CONSERVATIVES FUND",
-        "amount": 77796
-      },
-      {
-        "committee_id": "C00816876",
-        "committee_name": "OUTRIDER PAC",
-        "amount": 44501
       }
     ],
     "top_opposers": [
@@ -24450,7 +24573,7 @@
         "amount": 16052
       }
     ],
-    "fetched_at": "2026-08-28T22:23:42.824287+00:00"
+    "fetched_at": "2026-10-05T09:22:17.131796+00:00"
   },
   "Stacey Plaskett": {
     "candidate_ids_used": [
@@ -24465,7 +24588,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:23:55.424098+00:00"
+    "fetched_at": "2026-10-05T09:22:30.784407+00:00"
   },
   "Gregorio Sablan": {
     "candidate_ids_used": [
@@ -24480,7 +24603,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:24:10.879237+00:00"
+    "fetched_at": "2026-10-05T09:22:47.405248+00:00"
   },
   "Abraham Hamadeh": {
     "candidate_ids_used": [
@@ -24524,7 +24647,7 @@
         "amount": 264600
       }
     ],
-    "fetched_at": "2026-08-28T22:24:14.687974+00:00"
+    "fetched_at": "2026-10-05T09:22:51.931641+00:00"
   },
   "Adam Gray": {
     "candidate_ids_used": [
@@ -24585,7 +24708,7 @@
         "amount": 9986
       }
     ],
-    "fetched_at": "2026-08-28T22:24:37.417755+00:00"
+    "fetched_at": "2026-10-05T09:23:19.611518+00:00"
   },
   "Lateefah Simon": {
     "candidate_ids_used": [
@@ -24629,7 +24752,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:24:41.260722+00:00"
+    "fetched_at": "2026-10-05T09:23:24.470419+00:00"
   },
   "Laura Friedman": {
     "candidate_ids_used": [
@@ -24684,7 +24807,7 @@
         "amount": 7004
       }
     ],
-    "fetched_at": "2026-08-28T22:24:45.158769+00:00"
+    "fetched_at": "2026-10-05T09:23:28.749010+00:00"
   },
   "Luz Rivas": {
     "candidate_ids_used": [
@@ -24728,13 +24851,13 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:24:48.957033+00:00"
+    "fetched_at": "2026-10-05T09:23:32.963398+00:00"
   },
   "Derek Tran": {
     "candidate_ids_used": [
       "H4CA45170"
     ],
-    "total_supporting": 4357651,
+    "total_supporting": 4357693,
     "total_opposing": 12299551,
     "cycles": [
       2024,
@@ -24783,13 +24906,13 @@
         "amount": 4551
       }
     ],
-    "fetched_at": "2026-08-28T22:24:58.604452+00:00"
+    "fetched_at": "2026-10-05T09:23:44.927834+00:00"
   },
   "Dave Min": {
     "candidate_ids_used": [
       "H4CA47085"
     ],
-    "total_supporting": 4543289,
+    "total_supporting": 4545779,
     "total_opposing": 8559226,
     "cycles": [
       2024,
@@ -24853,7 +24976,7 @@
         "amount": 15099
       }
     ],
-    "fetched_at": "2026-08-28T22:25:20.180306+00:00"
+    "fetched_at": "2026-10-05T09:23:52.328112+00:00"
   },
   "George Whitesides": {
     "candidate_ids_used": [
@@ -24903,13 +25026,13 @@
         "amount": 4551
       }
     ],
-    "fetched_at": "2026-08-28T22:25:50.309586+00:00"
+    "fetched_at": "2026-10-05T09:24:12.128935+00:00"
   },
   "Norma Torres": {
     "candidate_ids_used": [
       "H4CA35031"
     ],
-    "total_supporting": 8190,
+    "total_supporting": 8178,
     "total_opposing": 0,
     "cycles": [
       2016,
@@ -24925,13 +25048,13 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:26:01.830744+00:00"
+    "fetched_at": "2026-10-05T09:24:25.157098+00:00"
   },
   "Pete Aguilar": {
     "candidate_ids_used": [
       "H2CA31125"
     ],
-    "total_supporting": 773045,
+    "total_supporting": 773034,
     "total_opposing": 44363,
     "cycles": [
       2012,
@@ -24986,7 +25109,7 @@
         "amount": 157
       }
     ],
-    "fetched_at": "2026-08-28T22:26:17.439496+00:00"
+    "fetched_at": "2026-10-05T09:24:43.362170+00:00"
   },
   "Vince Fong": {
     "candidate_ids_used": [
@@ -25029,13 +25152,13 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:26:21.222794+00:00"
+    "fetched_at": "2026-10-05T09:24:47.522532+00:00"
   },
   "Lauren Boebert": {
     "candidate_ids_used": [
       "H0CO03165"
     ],
-    "total_supporting": 1279624,
+    "total_supporting": 1279750,
     "total_opposing": 4940365,
     "cycles": [
       2020,
@@ -25051,7 +25174,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 395960
+        "amount": 396086
       },
       {
         "committee_id": "C00718841",
@@ -25101,7 +25224,7 @@
         "amount": 224453
       }
     ],
-    "fetched_at": "2026-08-28T22:26:34.907708+00:00"
+    "fetched_at": "2026-10-05T09:25:06.117090+00:00"
   },
   "Diana DeGette": {
     "candidate_ids_used": [
@@ -25156,13 +25279,13 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:27:00.717976+00:00"
+    "fetched_at": "2026-10-05T09:25:33.647281+00:00"
   },
   "Randy Fine": {
     "candidate_ids_used": [
       "H6FL06258"
     ],
-    "total_supporting": 3699058,
+    "total_supporting": 3724228,
     "total_opposing": 61143,
     "cycles": [
       2026
@@ -25175,12 +25298,12 @@
       {
         "committee_id": "C00893198",
         "committee_name": "CONSERVATIVE FIGHTER PAC",
-        "amount": 1332827
+        "amount": 1253431
       },
       {
         "committee_id": "C00836221",
         "committee_name": "DEFEND AMERICAN JOBS",
-        "amount": 1173735
+        "amount": 1161801
       },
       {
         "committee_id": "C00879510",
@@ -25225,7 +25348,7 @@
         "amount": 48
       }
     ],
-    "fetched_at": "2026-08-28T22:27:04.190204+00:00"
+    "fetched_at": "2026-10-05T09:25:37.870495+00:00"
   },
   "Mike Haridopolos": {
     "candidate_ids_used": [
@@ -25254,7 +25377,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:27:20.462156+00:00"
+    "fetched_at": "2026-10-05T09:25:55.380197+00:00"
   },
   "Jimmy Patronis": {
     "candidate_ids_used": [
@@ -25308,7 +25431,7 @@
         "amount": 5136
       }
     ],
-    "fetched_at": "2026-08-28T22:27:22.897270+00:00"
+    "fetched_at": "2026-10-05T09:25:58.032548+00:00"
   },
   "Brian Jack": {
     "candidate_ids_used": [
@@ -25362,7 +25485,7 @@
         "amount": 5300
       }
     ],
-    "fetched_at": "2026-08-28T22:27:26.753320+00:00"
+    "fetched_at": "2026-10-05T09:26:02.248530+00:00"
   },
   "Clay Fuller": {
     "candidate_ids_used": [
@@ -25412,7 +25535,7 @@
         "amount": 26500
       }
     ],
-    "fetched_at": "2026-08-28T22:27:34.856573+00:00"
+    "fetched_at": "2026-10-05T09:26:09.873287+00:00"
   },
   "Derek Schmidt": {
     "candidate_ids_used": [
@@ -25461,7 +25584,7 @@
         "amount": 39270
       }
     ],
-    "fetched_at": "2026-08-28T22:27:38.691579+00:00"
+    "fetched_at": "2026-10-05T09:26:14.020181+00:00"
   },
   "Cleo Fields": {
     "candidate_ids_used": [
@@ -25489,13 +25612,13 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:27:42.388008+00:00"
+    "fetched_at": "2026-10-05T09:26:18.025072+00:00"
   },
   "Tom Barrett": {
     "candidate_ids_used": [
       "H2MI07123"
     ],
-    "total_supporting": 4094377,
+    "total_supporting": 4268772,
     "total_opposing": 22596999,
     "cycles": [
       2022,
@@ -25510,7 +25633,7 @@
       {
         "committee_id": "C00687103",
         "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
-        "amount": 941118
+        "amount": 1110918
       },
       {
         "committee_id": "C00879510",
@@ -25560,13 +25683,13 @@
         "amount": 553646
       }
     ],
-    "fetched_at": "2026-08-28T22:27:51.547824+00:00"
+    "fetched_at": "2026-10-05T09:26:28.941322+00:00"
   },
   "Kristen McDonald Rivet": {
     "candidate_ids_used": [
       "H4MI08218"
     ],
-    "total_supporting": 913746,
+    "total_supporting": 927223,
     "total_opposing": 6057230,
     "cycles": [
       2024,
@@ -25598,9 +25721,9 @@
         "amount": 13715
       },
       {
-        "committee_id": "C00738674",
-        "committee_name": "REPRODUCTIVE FREEDOM FOR ALL FREEDOM FUND",
-        "amount": 5818
+        "committee_id": "C00786830",
+        "committee_name": "WELCOMEPAC",
+        "amount": 13397
       }
     ],
     "top_opposers": [
@@ -25625,7 +25748,7 @@
         "amount": 94389
       }
     ],
-    "fetched_at": "2026-08-28T22:27:56.514474+00:00"
+    "fetched_at": "2026-10-05T09:26:35.342363+00:00"
   },
   "Bob Onder": {
     "candidate_ids_used": [
@@ -25671,7 +25794,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:28:17.289125+00:00"
+    "fetched_at": "2026-10-05T09:26:59.566754+00:00"
   },
   "Troy Downing": {
     "candidate_ids_used": [
@@ -25710,16 +25833,17 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:29:11.278064+00:00"
+    "fetched_at": "2026-10-05T09:27:12.335675+00:00"
   },
   "Maggie Goodlander": {
     "candidate_ids_used": [
       "H4NH02399"
     ],
-    "total_supporting": 1065092,
+    "total_supporting": 1215092,
     "total_opposing": 101436,
     "cycles": [
-      2024
+      2024,
+      2026
     ],
     "cycles_searched": [
       2024,
@@ -25742,6 +25866,11 @@
         "amount": 214297
       },
       {
+        "committee_id": "C00915181",
+        "committee_name": "FELLOWSHIP PAC",
+        "amount": 150000
+      },
+      {
         "committee_id": "C90018367",
         "committee_name": "MOMSRISING TOGETHER",
         "amount": 384
@@ -25759,7 +25888,7 @@
         "amount": 19410
       }
     ],
-    "fetched_at": "2026-08-28T22:29:15.082807+00:00"
+    "fetched_at": "2026-10-05T09:27:16.531493+00:00"
   },
   "LaMonica McIver": {
     "candidate_ids_used": [
@@ -25788,7 +25917,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:29:18.799975+00:00"
+    "fetched_at": "2026-10-05T09:27:20.536523+00:00"
   },
   "Laura Gillen": {
     "candidate_ids_used": [
@@ -25829,7 +25958,7 @@
         "amount": 17978
       }
     ],
-    "fetched_at": "2026-08-28T22:29:30.333415+00:00"
+    "fetched_at": "2026-10-05T09:27:33.853696+00:00"
   },
   "Josh Riley": {
     "candidate_ids_used": [
@@ -25900,7 +26029,7 @@
         "amount": 113512
       }
     ],
-    "fetched_at": "2026-08-28T22:29:39.687541+00:00"
+    "fetched_at": "2026-10-05T09:27:44.299533+00:00"
   },
   "John Mannion": {
     "candidate_ids_used": [
@@ -25960,7 +26089,7 @@
         "amount": 20000
       }
     ],
-    "fetched_at": "2026-08-28T22:29:45.667515+00:00"
+    "fetched_at": "2026-10-05T09:27:51.650091+00:00"
   },
   "Claudia Tenney": {
     "candidate_ids_used": [
@@ -26035,7 +26164,7 @@
         "amount": 519869
       }
     ],
-    "fetched_at": "2026-08-28T22:30:00.891529+00:00"
+    "fetched_at": "2026-10-05T09:28:10.699199+00:00"
   },
   "Jerrold Nadler": {
     "candidate_ids_used": [
@@ -26088,7 +26217,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:31:03.690834+00:00"
+    "fetched_at": "2026-10-05T09:28:40.958991+00:00"
   },
   "Deborah Ross": {
     "candidate_ids_used": [
@@ -26142,7 +26271,7 @@
         "amount": 14203
       }
     ],
-    "fetched_at": "2026-08-28T22:34:11.456368+00:00"
+    "fetched_at": "2026-10-05T09:32:42.061318+00:00"
   },
   "Addison McDowell": {
     "candidate_ids_used": [
@@ -26159,7 +26288,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:34:15.248178+00:00"
+    "fetched_at": "2026-10-05T09:32:46.209306+00:00"
   },
   "Pat Harrigan": {
     "candidate_ids_used": [
@@ -26183,7 +26312,7 @@
         "amount": 1182596
       }
     ],
-    "fetched_at": "2026-08-28T22:34:21.194655+00:00"
+    "fetched_at": "2026-10-05T09:32:52.151926+00:00"
   },
   "Brad Knott": {
     "candidate_ids_used": [
@@ -26232,7 +26361,7 @@
         "amount": 365380
       }
     ],
-    "fetched_at": "2026-08-28T22:34:25.040949+00:00"
+    "fetched_at": "2026-10-05T09:32:56.375317+00:00"
   },
   "Julie Fedorchak": {
     "candidate_ids_used": [
@@ -26291,7 +26420,7 @@
         "amount": 36965
       }
     ],
-    "fetched_at": "2026-08-28T22:34:29.817618+00:00"
+    "fetched_at": "2026-10-05T09:33:00.585894+00:00"
   },
   "Troy Balderson": {
     "candidate_ids_used": [
@@ -26358,7 +26487,7 @@
         "amount": 408
       }
     ],
-    "fetched_at": "2026-08-28T22:34:40.291041+00:00"
+    "fetched_at": "2026-10-05T09:33:12.761705+00:00"
   },
   "David Taylor": {
     "candidate_ids_used": [
@@ -26392,7 +26521,7 @@
         "amount": 1383
       }
     ],
-    "fetched_at": "2026-08-28T22:34:44.020487+00:00"
+    "fetched_at": "2026-10-05T09:33:16.805901+00:00"
   },
   "Michael Rulli": {
     "candidate_ids_used": [
@@ -26431,7 +26560,7 @@
         "amount": 153734
       }
     ],
-    "fetched_at": "2026-08-28T22:34:47.802333+00:00"
+    "fetched_at": "2026-10-05T09:33:20.932357+00:00"
   },
   "Val Hoyle": {
     "candidate_ids_used": [
@@ -26497,7 +26626,7 @@
         "amount": 21350
       }
     ],
-    "fetched_at": "2026-08-28T22:34:53.223354+00:00"
+    "fetched_at": "2026-10-05T09:33:27.095110+00:00"
   },
   "Janelle Bynum": {
     "candidate_ids_used": [
@@ -26567,14 +26696,14 @@
         "amount": 180720
       }
     ],
-    "fetched_at": "2026-08-28T22:34:58.555609+00:00"
+    "fetched_at": "2026-10-05T09:33:33.536713+00:00"
   },
   "Ryan Mackenzie": {
     "candidate_ids_used": [
       "H8PA15195"
     ],
     "total_supporting": 1333062,
-    "total_opposing": 9975207,
+    "total_opposing": 9975247,
     "cycles": [
       2024,
       2026
@@ -26637,14 +26766,14 @@
         "amount": 186829
       }
     ],
-    "fetched_at": "2026-08-28T22:35:08.051578+00:00"
+    "fetched_at": "2026-10-05T09:33:45.227701+00:00"
   },
   "Robert Bresnahan": {
     "candidate_ids_used": [
       "H4PA08124"
     ],
     "total_supporting": 1218014,
-    "total_opposing": 9823898,
+    "total_opposing": 10442011,
     "cycles": [
       2024,
       2026
@@ -26687,33 +26816,33 @@
         "amount": 4929068
       },
       {
+        "committee_id": "C00740225",
+        "committee_name": "NRDC ACTION VOTES",
+        "amount": 500000
+      },
+      {
         "committee_id": "C00692319",
         "committee_name": "VPP",
         "amount": 389737
       },
       {
-        "committee_id": "C00740225",
-        "committee_name": "NRDC ACTION VOTES",
-        "amount": 250000
+        "committee_id": "C00492140",
+        "committee_name": "AB PAC",
+        "amount": 368113
       },
       {
         "committee_id": "C00000935",
         "committee_name": "DCCC",
         "amount": 115946
-      },
-      {
-        "committee_id": "C00891135",
-        "committee_name": "SAVE WESTERN CULTURE",
-        "amount": 33674
       }
     ],
-    "fetched_at": "2026-08-28T22:35:28.958578+00:00"
+    "fetched_at": "2026-10-05T09:33:51.328137+00:00"
   },
   "Sheri Biggs": {
     "candidate_ids_used": [
       "H4SC01313"
     ],
-    "total_supporting": 400632,
+    "total_supporting": 400633,
     "total_opposing": 0,
     "cycles": [
       2024,
@@ -26746,7 +26875,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:35:33.009768+00:00"
+    "fetched_at": "2026-10-05T09:33:55.712476+00:00"
   },
   "Matt Van Epps": {
     "candidate_ids_used": [
@@ -26815,13 +26944,13 @@
         "amount": 5000
       }
     ],
-    "fetched_at": "2026-08-28T22:35:36.476321+00:00"
+    "fetched_at": "2026-10-05T09:34:00.357653+00:00"
   },
   "Brandon Gill": {
     "candidate_ids_used": [
       "H4TX26149"
     ],
-    "total_supporting": 953192,
+    "total_supporting": 953847,
     "total_opposing": 2121247,
     "cycles": [
       2024,
@@ -26850,7 +26979,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 10924
+        "amount": 10932
       },
       {
         "committee_id": "C00536540",
@@ -26875,7 +27004,7 @@
         "amount": 97
       }
     ],
-    "fetched_at": "2026-08-28T22:35:40.546617+00:00"
+    "fetched_at": "2026-10-05T09:34:05.090475+00:00"
   },
   "Craig Goldman": {
     "candidate_ids_used": [
@@ -26925,7 +27054,7 @@
         "amount": 44388
       }
     ],
-    "fetched_at": "2026-08-28T22:35:44.560647+00:00"
+    "fetched_at": "2026-10-05T09:34:09.431494+00:00"
   },
   "Dan Crenshaw": {
     "candidate_ids_used": [
@@ -26998,7 +27127,7 @@
         "amount": 17993
       }
     ],
-    "fetched_at": "2026-08-28T22:36:04.728493+00:00"
+    "fetched_at": "2026-10-05T09:34:29.179097+00:00"
   },
   "Julie Johnson": {
     "candidate_ids_used": [
@@ -27022,7 +27151,7 @@
         "amount": 165855
       }
     ],
-    "fetched_at": "2026-08-28T22:36:08.936804+00:00"
+    "fetched_at": "2026-10-05T09:34:34.025524+00:00"
   },
   "Blake Moore": {
     "candidate_ids_used": [
@@ -27052,7 +27181,7 @@
         "amount": 13380
       }
     ],
-    "fetched_at": "2026-08-28T22:36:31.844514+00:00"
+    "fetched_at": "2026-10-05T09:34:41.443252+00:00"
   },
   "Mike Kennedy": {
     "candidate_ids_used": [
@@ -27071,7 +27200,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:36:52.685246+00:00"
+    "fetched_at": "2026-10-05T09:34:54.227126+00:00"
   },
   "Jennifer McClellan": {
     "candidate_ids_used": [
@@ -27088,7 +27217,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:36:56.452095+00:00"
+    "fetched_at": "2026-10-05T09:34:58.379201+00:00"
   },
   "Suhas Subramanyam": {
     "candidate_ids_used": [
@@ -27132,7 +27261,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:37:00.272690+00:00"
+    "fetched_at": "2026-10-05T09:35:02.572403+00:00"
   },
   "James Walkinshaw": {
     "candidate_ids_used": [
@@ -27166,7 +27295,7 @@
         "amount": 2790
       }
     ],
-    "fetched_at": "2026-08-28T22:37:02.602451+00:00"
+    "fetched_at": "2026-10-05T09:35:05.274798+00:00"
   },
   "Emily Randall": {
     "candidate_ids_used": [
@@ -27210,7 +27339,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:37:06.674830+00:00"
+    "fetched_at": "2026-10-05T09:35:09.445717+00:00"
   },
   "Michael Baumgartner": {
     "candidate_ids_used": [
@@ -27246,7 +27375,7 @@
         "amount": 60454
       }
     ],
-    "fetched_at": "2026-08-28T22:37:22.996006+00:00"
+    "fetched_at": "2026-10-05T09:35:27.092202+00:00"
   },
   "Riley Moore": {
     "candidate_ids_used": [
@@ -27290,7 +27419,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:37:26.983771+00:00"
+    "fetched_at": "2026-10-05T09:35:32.821028+00:00"
   },
   "Tony Wied": {
     "candidate_ids_used": [
@@ -27324,7 +27453,7 @@
         "amount": 693192
       }
     ],
-    "fetched_at": "2026-08-28T22:37:30.694186+00:00"
+    "fetched_at": "2026-10-05T09:35:36.887286+00:00"
   },
   "Eleanor Holmes Norton": {
     "candidate_ids_used": [
@@ -27346,7 +27475,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:37:59.469716+00:00"
+    "fetched_at": "2026-10-05T09:36:32.228593+00:00"
   },
   "James Moylan": {
     "candidate_ids_used": [
@@ -27361,7 +27490,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:38:04.629208+00:00"
+    "fetched_at": "2026-10-05T09:36:37.795185+00:00"
   },
   "Shomari Figures": {
     "candidate_ids_used": [
@@ -27416,7 +27545,7 @@
         "amount": 39875
       }
     ],
-    "fetched_at": "2026-08-28T22:38:08.677335+00:00"
+    "fetched_at": "2026-10-05T09:36:42.825113+00:00"
   },
   "Steny Hoyer": {
     "candidate_ids_used": [
@@ -27480,7 +27609,7 @@
         "amount": 9
       }
     ],
-    "fetched_at": "2026-08-28T22:38:48.325273+00:00"
+    "fetched_at": "2026-10-05T09:37:20.847108+00:00"
   },
   "Kweisi Mfume": {
     "candidate_ids_used": [
@@ -27527,13 +27656,13 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:40:30.649296+00:00"
+    "fetched_at": "2026-10-05T09:38:48.162983+00:00"
   },
   "Andy Ogles": {
     "candidate_ids_used": [
       "H2TN05446"
     ],
-    "total_supporting": 1772236,
+    "total_supporting": 2237961,
     "total_opposing": 887493,
     "cycles": [
       2022,
@@ -27556,6 +27685,11 @@
         "amount": 547948
       },
       {
+        "committee_id": "C00552851",
+        "committee_name": "HOUSE FREEDOM FUND",
+        "amount": 527093
+      },
+      {
         "committee_id": "C00794396",
         "committee_name": "SCHOOL FREEDOM FUND",
         "amount": 164397
@@ -27564,11 +27698,6 @@
         "committee_id": "C00816843",
         "committee_name": "VOLUNTEERS FOR FREEDOM PAC",
         "amount": 84675
-      },
-      {
-        "committee_id": "C00552851",
-        "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 61368
       }
     ],
     "top_opposers": [
@@ -27593,7 +27722,7 @@
         "amount": 65
       }
     ],
-    "fetched_at": "2026-08-28T22:40:36.612312+00:00"
+    "fetched_at": "2026-10-05T09:38:55.214626+00:00"
   },
   "Brad Sherman": {
     "candidate_ids_used": [
@@ -27650,7 +27779,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:41:02.059448+00:00"
+    "fetched_at": "2026-10-05T09:39:39.473020+00:00"
   },
   "Sam Liccardo": {
     "candidate_ids_used": [
@@ -27668,7 +27797,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:41:06.001897+00:00"
+    "fetched_at": "2026-10-05T09:39:44.634002+00:00"
   },
   "Ben Ray Luj\u00e1n": {
     "candidate_ids_used": [
@@ -27719,7 +27848,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:41:46.791181+00:00"
+    "fetched_at": "2026-10-05T09:40:12.732079+00:00"
   },
   "Linda S\u00e1nchez": {
     "candidate_ids_used": [
@@ -27779,7 +27908,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:42:07.753864+00:00"
+    "fetched_at": "2026-10-05T09:40:36.012259+00:00"
   },
   "Nanette Barrag\u00e1n": {
     "candidate_ids_used": [
@@ -27833,7 +27962,7 @@
         "amount": 27411
       }
     ],
-    "fetched_at": "2026-08-28T22:42:37.147065+00:00"
+    "fetched_at": "2026-10-05T09:40:48.111846+00:00"
   },
   "Mario D\u00edaz-Balart": {
     "candidate_ids_used": [
@@ -27855,7 +27984,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:42:57.520015+00:00"
+    "fetched_at": "2026-10-05T09:41:10.468858+00:00"
   },
   "Carlos Gim\u00e9nez": {
     "candidate_ids_used": [
@@ -27925,7 +28054,7 @@
         "amount": 120000
       }
     ],
-    "fetched_at": "2026-08-28T22:43:04.447605+00:00"
+    "fetched_at": "2026-10-05T09:41:18.086389+00:00"
   },
   "Chuy Garc\u00eda": {
     "candidate_ids_used": [
@@ -27971,7 +28100,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:43:12.760530+00:00"
+    "fetched_at": "2026-10-05T09:41:27.214249+00:00"
   },
   "Nydia Vel\u00e1zquez": {
     "candidate_ids_used": [
@@ -28035,7 +28164,7 @@
         "amount": 100
       }
     ],
-    "fetched_at": "2026-08-28T22:43:40.933286+00:00"
+    "fetched_at": "2026-10-05T09:41:57.617325+00:00"
   },
   "Pablo Hern\u00e1ndez": {
     "candidate_ids_used": [
@@ -28050,7 +28179,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:43:44.619724+00:00"
+    "fetched_at": "2026-10-05T09:42:01.745546+00:00"
   },
   "Shontel Brown": {
     "candidate_ids_used": [
@@ -28106,7 +28235,7 @@
         "amount": 25000
       }
     ],
-    "fetched_at": "2026-08-28T22:43:52.197156+00:00"
+    "fetched_at": "2026-10-05T09:42:10.659315+00:00"
   },
   "Elise Stefanik": {
     "candidate_ids_used": [
@@ -28153,7 +28282,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:44:03.729082+00:00"
+    "fetched_at": "2026-10-05T09:43:05.808752+00:00"
   },
   "Ted Budd": {
     "candidate_ids_used": [
@@ -28226,7 +28355,7 @@
         "amount": 115427
       }
     ],
-    "fetched_at": "2026-08-28T22:44:38.932948+00:00"
+    "fetched_at": "2026-10-05T09:43:37.937726+00:00"
   },
   "Jack Reed": {
     "candidate_ids_used": [
@@ -28277,7 +28406,7 @@
         "amount": 65
       }
     ],
-    "fetched_at": "2026-08-28T22:45:41.506514+00:00"
+    "fetched_at": "2026-10-05T09:44:35.545955+00:00"
   },
   "Ted Cruz": {
     "candidate_ids_used": [
@@ -28298,7 +28427,7 @@
       {
         "committee_id": "C00448696",
         "committee_name": "SENATE CONSERVATIVES FUND",
-        "amount": 363005
+        "amount": 351801
       },
       {
         "committee_id": "C00796045",
@@ -28348,7 +28477,7 @@
         "amount": 340000
       }
     ],
-    "fetched_at": "2026-08-28T22:46:13.582029+00:00"
+    "fetched_at": "2026-10-05T09:46:00.717676+00:00"
   },
   "Bernie Sanders": {
     "candidate_ids_used": [
@@ -28416,14 +28545,14 @@
         "amount": 305
       }
     ],
-    "fetched_at": "2026-08-28T22:47:01.546502+00:00"
+    "fetched_at": "2026-10-05T09:46:53.447462+00:00"
   },
   "Barry Moore": {
     "candidate_ids_used": [
       "H8AL02171",
       "S6AL00476"
     ],
-    "total_supporting": 17121338,
+    "total_supporting": 17172234,
     "total_opposing": 1555434,
     "cycles": [
       2020,
@@ -28444,12 +28573,7 @@
       {
         "committee_id": "C00930438",
         "committee_name": "ALABAMA FREEDOM FUND",
-        "amount": 1753483
-      },
-      {
-        "committee_id": "C00915181",
-        "committee_name": "FELLOWSHIP PAC",
-        "amount": 350000
+        "amount": 1274909
       },
       {
         "committee_id": "C00916692",
@@ -28460,10 +28584,15 @@
         "committee_id": "C00487470",
         "committee_name": "CLUB FOR GROWTH ACTION",
         "amount": 229449
+      },
+      {
+        "committee_id": "C00794396",
+        "committee_name": "SCHOOL FREEDOM FUND",
+        "amount": 180168
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:47:14.147007+00:00"
+    "fetched_at": "2026-10-05T09:47:11.917527+00:00"
   },
   "Rick Crawford": {
     "candidate_ids_used": [
@@ -28505,7 +28634,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T22:47:28.436872+00:00"
+    "fetched_at": "2026-10-05T09:47:27.555362+00:00"
   },
   "French Hill": {
     "candidate_ids_used": [
@@ -28580,7 +28709,7 @@
         "amount": 75828
       }
     ],
-    "fetched_at": "2026-08-28T22:47:40.237601+00:00"
+    "fetched_at": "2026-10-05T09:48:08.171582+00:00"
   },
   "Steve Womack": {
     "candidate_ids_used": [
@@ -28629,7 +28758,7 @@
         "amount": 123
       }
     ],
-    "fetched_at": "2026-08-28T22:47:54.449136+00:00"
+    "fetched_at": "2026-10-05T09:48:23.749575+00:00"
   },
   "Ro Khanna": {
     "candidate_ids_used": [
@@ -28652,7 +28781,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:48:13.485349+00:00"
+    "fetched_at": "2026-10-05T09:48:58.099403+00:00"
   },
   "Mar\u00eda Elvira Salazar": {
     "candidate_ids_used": [
@@ -28724,7 +28853,7 @@
         "amount": 98912
       }
     ],
-    "fetched_at": "2026-08-28T22:48:23.215167+00:00"
+    "fetched_at": "2026-10-05T09:49:16.697324+00:00"
   },
   "Buddy Carter": {
     "candidate_ids_used": [
@@ -28773,7 +28902,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:48:36.971648+00:00"
+    "fetched_at": "2026-10-05T09:49:31.411328+00:00"
   },
   "Hank Johnson": {
     "candidate_ids_used": [
@@ -28798,7 +28927,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:48:54.369891+00:00"
+    "fetched_at": "2026-10-05T09:49:50.059385+00:00"
   },
   "Austin Scott": {
     "candidate_ids_used": [
@@ -28841,7 +28970,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:49:23.321341+00:00"
+    "fetched_at": "2026-10-05T09:50:05.539753+00:00"
   },
   "Bill Foster": {
     "candidate_ids_used": [
@@ -28920,7 +29049,7 @@
         "amount": 193453
       }
     ],
-    "fetched_at": "2026-08-28T22:49:55.155044+00:00"
+    "fetched_at": "2026-10-05T09:50:40.497733+00:00"
   },
   "Andr\u00e9 Carson": {
     "candidate_ids_used": [
@@ -28949,15 +29078,15 @@
         "amount": 16951
       }
     ],
-    "fetched_at": "2026-08-28T22:50:10.944631+00:00"
+    "fetched_at": "2026-10-05T09:50:57.541282+00:00"
   },
   "Ashley Hinson": {
     "candidate_ids_used": [
       "H0IA01174",
       "S6IA00314"
     ],
-    "total_supporting": 4396200,
-    "total_opposing": 4380777,
+    "total_supporting": 6181576,
+    "total_opposing": 7683830,
     "cycles": [
       2020,
       2022,
@@ -28972,7 +29101,7 @@
       {
         "committee_id": "C00687103",
         "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION)",
-        "amount": 2214954
+        "amount": 4175329
       },
       {
         "committee_id": "C00571703",
@@ -28997,6 +29126,16 @@
     ],
     "top_opposers": [
       {
+        "committee_id": "C00492140",
+        "committee_name": "AB PAC",
+        "amount": 2053497
+      },
+      {
+        "committee_id": "C00865444",
+        "committee_name": "WINSENATE",
+        "amount": 1786416
+      },
+      {
         "committee_id": "C00495028",
         "committee_name": "HOUSE MAJORITY PAC",
         "amount": 1548774
@@ -29007,22 +29146,12 @@
         "amount": 756369
       },
       {
-        "committee_id": "C00492140",
-        "committee_name": "AB PAC",
-        "amount": 536861
-      },
-      {
         "committee_id": "C00473918",
         "committee_name": "WOMEN VOTE!",
         "amount": 170746
-      },
-      {
-        "committee_id": "C90011172",
-        "committee_name": "AMERICAN FEDERATION OF STATE COUNTY AND MUNICIPAL EMPLOYEES AFL-CIO",
-        "amount": 117714
       }
     ],
-    "fetched_at": "2026-08-28T22:50:30.503185+00:00"
+    "fetched_at": "2026-10-05T09:51:11.231469+00:00"
   },
   "Brett Guthrie": {
     "candidate_ids_used": [
@@ -29082,7 +29211,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:51:00.648456+00:00"
+    "fetched_at": "2026-10-05T09:51:32.497907+00:00"
   },
   "Andy Barr": {
     "candidate_ids_used": [
@@ -29160,7 +29289,7 @@
         "amount": 507418
       }
     ],
-    "fetched_at": "2026-08-28T22:51:19.179996+00:00"
+    "fetched_at": "2026-10-05T09:51:54.955729+00:00"
   },
   "Mike Johnson": {
     "candidate_ids_used": [
@@ -29234,7 +29363,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T22:51:30.228236+00:00"
+    "fetched_at": "2026-10-05T09:52:06.147807+00:00"
   },
   "Jack Bergman": {
     "candidate_ids_used": [
@@ -29308,7 +29437,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T22:51:40.724766+00:00"
+    "fetched_at": "2026-10-05T09:52:17.513897+00:00"
   },
   "Trent Kelly": {
     "candidate_ids_used": [
@@ -29349,7 +29478,7 @@
         "amount": 861
       }
     ],
-    "fetched_at": "2026-08-28T22:51:50.357361+00:00"
+    "fetched_at": "2026-10-05T09:52:27.922727+00:00"
   },
   "Mike Ezell": {
     "candidate_ids_used": [
@@ -29389,7 +29518,7 @@
         "amount": 37400
       }
     ],
-    "fetched_at": "2026-08-28T22:51:55.563696+00:00"
+    "fetched_at": "2026-10-05T09:52:33.569760+00:00"
   },
   "Tom Kean Jr.": {
     "candidate_ids_used": [
@@ -29439,13 +29568,13 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:52:41.304004+00:00"
+    "fetched_at": "2026-10-05T09:53:46.277868+00:00"
   },
   "Gabe Vasquez": {
     "candidate_ids_used": [
       "H2NM02191"
     ],
-    "total_supporting": 1291773,
+    "total_supporting": 1295078,
     "total_opposing": 12362417,
     "cycles": [
       2022,
@@ -29470,7 +29599,7 @@
       {
         "committee_id": "C00797340",
         "committee_name": "BLUE CD2 NEW MEXICO USA",
-        "amount": 51852
+        "amount": 68114
       },
       {
         "committee_id": "C00887042",
@@ -29510,7 +29639,7 @@
         "amount": 29432
       }
     ],
-    "fetched_at": "2026-08-28T22:52:53.831988+00:00"
+    "fetched_at": "2026-10-05T09:54:01.976249+00:00"
   },
   "Dave Joyce": {
     "candidate_ids_used": [
@@ -29534,7 +29663,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:53:06.877412+00:00"
+    "fetched_at": "2026-10-05T09:54:16.912277+00:00"
   },
   "Gabe Amo": {
     "candidate_ids_used": [
@@ -29577,7 +29706,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:53:10.619255+00:00"
+    "fetched_at": "2026-10-05T09:54:20.996447+00:00"
   },
   "Lizzie Fletcher": {
     "candidate_ids_used": [
@@ -29649,7 +29778,7 @@
         "amount": 4165
       }
     ],
-    "fetched_at": "2026-08-28T22:53:22.774084+00:00"
+    "fetched_at": "2026-10-05T09:54:35.068012+00:00"
   },
   "Al Green": {
     "candidate_ids_used": [
@@ -29684,7 +29813,7 @@
         "amount": 362
       }
     ],
-    "fetched_at": "2026-08-28T22:53:41.341415+00:00"
+    "fetched_at": "2026-10-05T09:54:55.817510+00:00"
   },
   "Tony Gonzales": {
     "candidate_ids_used": [
@@ -29756,13 +29885,13 @@
         "amount": 114467
       }
     ],
-    "fetched_at": "2026-08-28T22:53:55.454561+00:00"
+    "fetched_at": "2026-10-05T09:55:13.866325+00:00"
   },
   "Morgan Griffith": {
     "candidate_ids_used": [
       "H0VA09055"
     ],
-    "total_supporting": 130531,
+    "total_supporting": 130532,
     "total_opposing": 1612,
     "cycles": [
       2010,
@@ -29793,7 +29922,7 @@
       {
         "committee_id": "C00552851",
         "committee_name": "HOUSE FREEDOM FUND",
-        "amount": 6907
+        "amount": 6909
       },
       {
         "committee_id": "C90011669",
@@ -29818,7 +29947,7 @@
         "amount": 750
       }
     ],
-    "fetched_at": "2026-08-28T22:54:10.080173+00:00"
+    "fetched_at": "2026-10-05T09:55:29.937095+00:00"
   },
   "Bobby Scott": {
     "candidate_ids_used": [
@@ -29875,7 +30004,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:54:43.700336+00:00"
+    "fetched_at": "2026-10-05T09:56:07.008966+00:00"
   },
   "Adam Smith": {
     "candidate_ids_used": [
@@ -29952,13 +30081,13 @@
         "amount": 850
       }
     ],
-    "fetched_at": "2026-08-28T22:55:12.720779+00:00"
+    "fetched_at": "2026-10-05T09:56:34.228307+00:00"
   },
   "Gabe Evans": {
     "candidate_ids_used": [
       "H4CO08034"
     ],
-    "total_supporting": 2142146,
+    "total_supporting": 2423387,
     "total_opposing": 10486327,
     "cycles": [
       2024,
@@ -29972,7 +30101,7 @@
       {
         "committee_id": "C00687103",
         "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
-        "amount": 417540
+        "amount": 726766
       },
       {
         "committee_id": "C00879510",
@@ -29982,7 +30111,7 @@
       {
         "committee_id": "C00608943",
         "committee_name": "CLEARPATH ACTION FUND, INC.",
-        "amount": 64000
+        "amount": 118015
       },
       {
         "committee_id": "C00523241",
@@ -30022,7 +30151,7 @@
         "amount": 189000
       }
     ],
-    "fetched_at": "2026-08-28T22:55:21.051429+00:00"
+    "fetched_at": "2026-10-05T09:56:45.406772+00:00"
   },
   "Nellie Pou": {
     "candidate_ids_used": [
@@ -30050,13 +30179,13 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:55:24.762986+00:00"
+    "fetched_at": "2026-10-05T09:56:49.446130+00:00"
   },
   "Eugene Vindman": {
     "candidate_ids_used": [
       "H4VA07234"
     ],
-    "total_supporting": 2278126,
+    "total_supporting": 2278206,
     "total_opposing": 3895345,
     "cycles": [
       2024,
@@ -30089,14 +30218,14 @@
         "amount": 22900
       }
     ],
-    "fetched_at": "2026-08-28T22:55:28.781961+00:00"
+    "fetched_at": "2026-10-05T09:56:54.114162+00:00"
   },
   "Angie Craig": {
     "candidate_ids_used": [
       "H6MN02131",
       "S6MN00499"
     ],
-    "total_supporting": 8868491,
+    "total_supporting": 12225786,
     "total_opposing": 15839443,
     "cycles": [
       2016,
@@ -30114,7 +30243,7 @@
       {
         "committee_id": "C00935973",
         "committee_name": "NORTH STAR DAWN PAC",
-        "amount": 4205875
+        "amount": 7556334
       },
       {
         "committee_id": "C00568444",
@@ -30164,7 +30293,7 @@
         "amount": 121000
       }
     ],
-    "fetched_at": "2026-08-28T22:55:46.310177+00:00"
+    "fetched_at": "2026-10-05T09:57:57.015431+00:00"
   },
   "John McGuire": {
     "candidate_ids_used": [
@@ -30180,7 +30309,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:55:59.606957+00:00"
+    "fetched_at": "2026-10-05T09:58:12.134380+00:00"
   },
   "Gil Cisneros": {
     "candidate_ids_used": [
@@ -30248,7 +30377,7 @@
         "amount": 1373
       }
     ],
-    "fetched_at": "2026-08-28T22:56:22.857066+00:00"
+    "fetched_at": "2026-10-05T09:58:39.118491+00:00"
   },
   "Kimberlyn King-Hinds": {
     "candidate_ids_used": [
@@ -30263,7 +30392,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:56:26.539207+00:00"
+    "fetched_at": "2026-10-05T09:58:43.069650+00:00"
   },
   "Christian Menefee": {
     "candidate_ids_used": [
@@ -30306,13 +30435,13 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:56:28.940559+00:00"
+    "fetched_at": "2026-10-05T09:58:45.705332+00:00"
   },
   "Analilia Mejia": {
     "candidate_ids_used": [
       "H6NJ11286"
     ],
-    "total_supporting": 476619,
+    "total_supporting": 482819,
     "total_opposing": 0,
     "cycles": [
       2026
@@ -30349,7 +30478,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:56:31.374134+00:00"
+    "fetched_at": "2026-10-05T09:58:48.569364+00:00"
   },
   "Alan Armstrong": {
     "candidate_ids_used": [],
@@ -30359,7 +30488,7 @@
     "top_supporters": [],
     "top_opposers": [],
     "note": "no candidate_id available",
-    "fetched_at": "2026-08-28T22:56:31.374206+00:00"
+    "fetched_at": "2026-10-05T09:58:48.569448+00:00"
   },
   "Nancy Pelosi": {
     "candidate_ids_used": [
@@ -30393,7 +30522,7 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:57:06.926064+00:00"
+    "fetched_at": "2026-10-05T09:59:56.720898+00:00"
   },
   "Amata Coleman Radewagen": {
     "candidate_ids_used": [
@@ -30416,7 +30545,7 @@
       }
     ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T22:57:44.338784+00:00"
+    "fetched_at": "2026-10-05T10:00:28.595813+00:00"
   },
   "Graham Platner": {
     "candidate_ids_used": [
@@ -30485,13 +30614,13 @@
         "amount": 1000
       }
     ],
-    "fetched_at": "2026-08-28T22:57:46.886851+00:00"
+    "fetched_at": "2026-10-05T10:00:31.178526+00:00"
   },
   "James Talarico": {
     "candidate_ids_used": [
       "S6TX00479"
     ],
-    "total_supporting": 4156477,
+    "total_supporting": 4162046,
     "total_opposing": 763010,
     "cycles": [
       2026
@@ -30517,14 +30646,14 @@
         "amount": 60559
       },
       {
+        "committee_id": "C00640300",
+        "committee_name": "ACTIVATE AMERICA",
+        "amount": 17702
+      },
+      {
         "committee_id": "C00909994",
         "committee_name": "FIELD TEAM 6, INC.",
         "amount": 13250
-      },
-      {
-        "committee_id": "C00640300",
-        "committee_name": "ACTIVATE AMERICA",
-        "amount": 12769
       }
     ],
     "top_opposers": [
@@ -30549,13 +30678,13 @@
         "amount": 15000
       }
     ],
-    "fetched_at": "2026-08-28T22:57:49.301318+00:00"
+    "fetched_at": "2026-10-05T10:00:34.122188+00:00"
   },
   "Ken Paxton": {
     "candidate_ids_used": [
       "S6TX00388"
     ],
-    "total_supporting": 1297392,
+    "total_supporting": 1391225,
     "total_opposing": 26905075,
     "cycles": [
       2026
@@ -30571,36 +30700,36 @@
         "amount": 770070
       },
       {
-        "committee_id": "C00915181",
-        "committee_name": "FELLOWSHIP PAC",
-        "amount": 500000
+        "committee_id": "C00524181",
+        "committee_name": "SENATE CONSERVATIVES ACTION",
+        "amount": 48305
       },
       {
         "committee_id": "C00448696",
         "committee_name": "SENATE CONSERVATIVES FUND",
-        "amount": 10651
+        "amount": 44648
+      },
+      {
+        "committee_id": "C00432260",
+        "committee_name": "CLUB FOR GROWTH PAC",
+        "amount": 15545
       },
       {
         "committee_id": "C00747121",
         "committee_name": "RED SENATE",
         "amount": 7614
-      },
-      {
-        "committee_id": "C00432260",
-        "committee_name": "CLUB FOR GROWTH PAC",
-        "amount": 4016
       }
     ],
     "top_opposers": [
       {
-        "committee_id": "C00542217",
-        "committee_name": "TEXANS FOR A CONSERVATIVE MAJORITY",
-        "amount": 11571880
-      },
-      {
         "committee_id": "C00948695",
         "committee_name": "TEXANS DEMANDING ACCOUNTABILITY",
         "amount": 1853480
+      },
+      {
+        "committee_id": "C00542217",
+        "committee_name": "TEXANS FOR A CONSERVATIVE MAJORITY",
+        "amount": 1596083
       },
       {
         "committee_id": "C00918268",
@@ -30613,14 +30742,14 @@
         "amount": 969
       }
     ],
-    "fetched_at": "2026-08-28T22:57:52.946790+00:00"
+    "fetched_at": "2026-10-05T10:00:38.964299+00:00"
   },
   "Roy Cooper": {
     "candidate_ids_used": [
       "S6NC00407"
     ],
-    "total_supporting": 68520,
-    "total_opposing": 1634301,
+    "total_supporting": 301185,
+    "total_opposing": 2353436,
     "cycles": [
       2026
     ],
@@ -30628,17 +30757,48 @@
       2026,
       2026
     ],
-    "top_supporters": [],
+    "top_supporters": [
+      {
+        "committee_id": "C00754051",
+        "committee_name": "WORKERS VOTE",
+        "amount": 166248
+      },
+      {
+        "committee_id": "C00580068",
+        "committee_name": "PROGRESSIVE TURNOUT PROJECT",
+        "amount": 35940
+      },
+      {
+        "committee_id": "C00835041",
+        "committee_name": "FORWARD BLUE",
+        "amount": 35689
+      },
+      {
+        "committee_id": "C00887182",
+        "committee_name": "PLANNED PARENTHOOD VOTES NORTH CAROLINA",
+        "amount": 29847
+      },
+      {
+        "committee_id": "C00909994",
+        "committee_name": "FIELD TEAM 6, INC.",
+        "amount": 13059
+      }
+    ],
     "top_opposers": [
       {
         "committee_id": "C00687103",
         "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
-        "amount": 1065349
+        "amount": 1766544
       },
       {
         "committee_id": "C00571703",
         "committee_name": "SLF PAC",
-        "amount": 560551
+        "amount": 367875
+      },
+      {
+        "committee_id": "C90011800",
+        "committee_name": "CATHOLICVOTE.ORG",
+        "amount": 17938
       },
       {
         "committee_id": "C00747121",
@@ -30646,14 +30806,14 @@
         "amount": 9400
       }
     ],
-    "fetched_at": "2026-08-28T22:57:55.547422+00:00"
+    "fetched_at": "2026-10-05T10:01:08.235166+00:00"
   },
   "Michael Whatley": {
     "candidate_ids_used": [
       "S6NC00415"
     ],
-    "total_supporting": 4150672,
-    "total_opposing": 22,
+    "total_supporting": 5026973,
+    "total_opposing": 8776174,
     "cycles": [
       2026
     ],
@@ -30665,27 +30825,37 @@
       {
         "committee_id": "C00687103",
         "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
-        "amount": 3522747
+        "amount": 2289358
       },
       {
         "committee_id": "C00571703",
         "committee_name": "SLF PAC",
-        "amount": 365822
+        "amount": 305059
       },
       {
         "committee_id": "C00747121",
         "committee_name": "RED SENATE",
-        "amount": 1651
+        "amount": 1441
+      },
+      {
+        "committee_id": "C00448696",
+        "committee_name": "SENATE CONSERVATIVES FUND",
+        "amount": 5
       }
     ],
     "top_opposers": [
+      {
+        "committee_id": "C00865444",
+        "committee_name": "WINSENATE",
+        "amount": 8776152
+      },
       {
         "committee_id": "C00135368",
         "committee_name": "SIERRA CLUB POLITICAL COMMITTEE",
         "amount": 21
       }
     ],
-    "fetched_at": "2026-08-28T22:57:59.039798+00:00"
+    "fetched_at": "2026-10-05T10:01:12.741944+00:00"
   },
   "Mary Peltola": {
     "candidate_ids_used": [
@@ -30755,14 +30925,14 @@
         "amount": 76798
       }
     ],
-    "fetched_at": "2026-08-28T22:58:08.433078+00:00"
+    "fetched_at": "2026-10-05T10:01:29.096343+00:00"
   },
   "Sherrod Brown": {
     "candidate_ids_used": [
       "S6OH00163"
     ],
-    "total_supporting": 55393989,
-    "total_opposing": 256284195,
+    "total_supporting": 55394329,
+    "total_opposing": 256842158,
     "cycles": [
       2006,
       2012,
@@ -30810,7 +30980,7 @@
       {
         "committee_id": "C00687103",
         "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
-        "amount": 2595059
+        "amount": 3153023
       },
       {
         "committee_id": "C00027466",
@@ -30828,7 +30998,7 @@
         "amount": 1650000
       }
     ],
-    "fetched_at": "2026-08-28T23:00:25.872524+00:00"
+    "fetched_at": "2026-10-05T10:04:23.854755+00:00"
   },
   "Josh Turek": {
     "candidate_ids_used": [],
@@ -30838,22 +31008,45 @@
     "top_supporters": [],
     "top_opposers": [],
     "note": "no candidate_id available",
-    "fetched_at": "2026-08-28T23:00:25.872618+00:00"
+    "fetched_at": "2026-10-05T10:04:23.854860+00:00"
   },
   "Darline Graham": {
     "candidate_ids_used": [
       "S6SC04437"
     ],
-    "total_supporting": 0,
-    "total_opposing": 0,
-    "cycles": [],
+    "total_supporting": 2639122,
+    "total_opposing": 45576,
+    "cycles": [
+      2026
+    ],
     "cycles_searched": [
       2026,
       2026
     ],
-    "top_supporters": [],
+    "top_supporters": [
+      {
+        "committee_id": "C00573733",
+        "committee_name": "SECURITY IS STRENGTH PAC",
+        "amount": 1020591
+      },
+      {
+        "committee_id": "C00892471",
+        "committee_name": "MAGA INC.",
+        "amount": 827711
+      },
+      {
+        "committee_id": "C00916692",
+        "committee_name": "AMERICAN MISSION",
+        "amount": 690819
+      },
+      {
+        "committee_id": "C00698936",
+        "committee_name": "WFW ACTION FUND INC",
+        "amount": 100000
+      }
+    ],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T23:00:28.091155+00:00"
+    "fetched_at": "2026-10-05T10:04:26.355769+00:00"
   },
   "James Gallagher": {
     "candidate_ids_used": [
@@ -30868,6 +31061,6 @@
     ],
     "top_supporters": [],
     "top_opposers": [],
-    "fetched_at": "2026-08-28T23:00:30.446123+00:00"
+    "fetched_at": "2026-10-05T10:04:28.988314+00:00"
   }
 }
